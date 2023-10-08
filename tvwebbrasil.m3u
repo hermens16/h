@@ -1,9 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
 ## 📺 TV Meu Tédio
-## 👩🏽‍💻 Editora: Helen Fernanda - Brasília - Brasil 🇧🇷
-## 🔗 Dicas de EPG e apps: www.meutedio.com.br/iptv
-## 📧 Contato e 💰 Pix: pix@meutedio.com 
-### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade 
+## 👩🏽‍💻 Editor: HeRmEnS - Bahia - Brasil 🇧🇷
 #EXTINF:-1 tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="A novidade",Xite Classic Country | Música
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
