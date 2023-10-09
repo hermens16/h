@@ -194,6 +194,8 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="RELIGIOSOS",TV Fátima | Portugal
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="RELIGIOSOS",TV Imaculada | Brasil
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS",TV Gideões | Brasil
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSOS",TV Mão Amiga | Brasil
