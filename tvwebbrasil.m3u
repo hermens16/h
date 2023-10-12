@@ -1,6 +1,33 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS 
+##### CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ######
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",Globo BA
+https://live-as-09-09.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMDkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3MTI2NzIyLCJpYXQiOjE2OTcwNDAzMjIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTJjNjY1YTMtZjU4Ny00NTAwLWE4M2ItMzAxNGU1YTczYzUxIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdmRjL3BsYXlsaXN0Lm0zdTgifQ.KkPNT1ZKbu1J_GXqefChGcvFDoJAdQ3IMr8cp4PRL9UcwxmNrMov0L8_Op4CHIGy2PyXi8K7qY8xBBYr5nTHtm_dkf6tkmc3ULQTE17vNcOMiQR-ik501BhnbY6LoEsUyUM-l51ueYTcltb-vwa1OGlQGObSqN4MVsvd462lyTr2EE9bOhAAaKlqKYG7-nDJ5g7EW4ic6bRVRidP74acfdshU1uRKT2qHWsSbLbCKof_3vgCVL0KQ3RXECwrvx_0Ei05Bh-8HbIb5VPT9UCioMJbIPI4L0r3mBq5IBuJ5dhZjEOXGHebpHuiP-Y4GKTed82PcOT00JEy58vwq1maPA/nu/f(i=2)/globo-vdc/globo-vdc-audio_1=96000-video=2262976.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",Globo SP
+https://live-as-08-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3MTI3NjQyLCJpYXQiOjE2OTcwNDEyNDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTJjNjY1YTMtZjU4Ny00NTAwLWE4M2ItMzAxNGU1YTczYzUxIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.qCyow8FqJuRVzrUe_whdGU4dASUxLtX-IT2QYoPw500dM9tzWoKiE3LSE3M_KPlszQwKyaZR8j6TungEKMawWIpNIrydqab_vkYOS_DlNlZE3PLSyqNCk9TFufI9-RSPagf3NdXD06WVidoCRiKiwn0icgGQ97B77Bz_XUu_0USJaq7VDOZgtnE-f7N0zUy1b3csZR2TQMq51bW8Nc4C-HFSHPxBhnwmObVcDGzASBXUws5bDhppuGqJYqyUUAC1p2ch6QAi-UubktfwZjM5lVdBXQxlNFgF7wAh0nmvxMj7EQ0UwVQB3lylX7MaRWCFzGPFUAHlvXARXdTs21nS_Q/nu/f(dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT SP
+https://www.youtube.com/live/ABVQXgr2LW4?si=arwr3MekuCvB9Tbr
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | Bem TV - Tangará da Serra - MT
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | interior de SP 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | Rede Massa - PR
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Cidade Verde - Piauí
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Floresta - Tucuruí - PA
+https://live-par-2-cdn.livepush.io/live_cdn/emVqPK2sSrR_sJM/tracks-v1a1/mono.m3u8?session_id=5927848725970302
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Guajará - Tailândia - PA
+https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
+#EXTINF:-1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Jornal - Pernambuco
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Paraense - Castanhal - PA 
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Serra Dourada | Goiânia
+https://ythls.onrender.com/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",Band
+https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-cSEtypP8pT5ZvcqSwfoYve_964VyemaKfJdIzrQNIgt)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 ##### HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="HUMOR - NOVELAS - SÉRIES",Adrenalina Freezone 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -963,10 +990,6 @@ https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="VARIEDADES",Demand Africa  
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="VARIEDADES",Globo BA
-https://live-as-09-09.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDktMDkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3MTI2NzIyLCJpYXQiOjE2OTcwNDAzMjIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTJjNjY1YTMtZjU4Ny00NTAwLWE4M2ItMzAxNGU1YTczYzUxIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdmRjL3BsYXlsaXN0Lm0zdTgifQ.KkPNT1ZKbu1J_GXqefChGcvFDoJAdQ3IMr8cp4PRL9UcwxmNrMov0L8_Op4CHIGy2PyXi8K7qY8xBBYr5nTHtm_dkf6tkmc3ULQTE17vNcOMiQR-ik501BhnbY6LoEsUyUM-l51ueYTcltb-vwa1OGlQGObSqN4MVsvd462lyTr2EE9bOhAAaKlqKYG7-nDJ5g7EW4ic6bRVRidP74acfdshU1uRKT2qHWsSbLbCKof_3vgCVL0KQ3RXECwrvx_0Ei05Bh-8HbIb5VPT9UCioMJbIPI4L0r3mBq5IBuJ5dhZjEOXGHebpHuiP-Y4GKTed82PcOT00JEy58vwq1maPA/nu/f(i=2)/globo-vdc/globo-vdc-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="VARIEDADES",Globo SP
-https://live-as-08-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3MTI3NjQyLCJpYXQiOjE2OTcwNDEyNDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTJjNjY1YTMtZjU4Ny00NTAwLWE4M2ItMzAxNGU1YTczYzUxIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.qCyow8FqJuRVzrUe_whdGU4dASUxLtX-IT2QYoPw500dM9tzWoKiE3LSE3M_KPlszQwKyaZR8j6TungEKMawWIpNIrydqab_vkYOS_DlNlZE3PLSyqNCk9TFufI9-RSPagf3NdXD06WVidoCRiKiwn0icgGQ97B77Bz_XUu_0USJaq7VDOZgtnE-f7N0zUy1b3csZR2TQMq51bW8Nc4C-HFSHPxBhnwmObVcDGzASBXUws5bDhppuGqJYqyUUAC1p2ch6QAi-UubktfwZjM5lVdBXQxlNFgF7wAh0nmvxMj7EQ0UwVQB3lylX7MaRWCFzGPFUAHlvXARXdTs21nS_Q/nu/f(dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 #EXTINF:-1 tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="VARIEDADES",Guia de Canais 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="VARIEDADES",ISTV | Soul TV Brasil
@@ -1023,24 +1046,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GKM7X9G.png" group-title="VARIEDADES",Sagres TV - não é 24h | Goiânia
 https://ythls.onrender.com/channel/UCf4Ez6ZNWZXFhgH-3eSZCjQ.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | Bem TV - Tangará da Serra - MT
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | interior de SP 
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | Rede Massa - PR
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | TV Cidade Verde - Piauí
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | TV Floresta - Tucuruí - PA
-https://live-par-2-cdn.livepush.io/live_cdn/emVqPK2sSrR_sJM/tracks-v1a1/mono.m3u8?session_id=5927848725970302
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | TV Guajará - Tailândia - PA
-https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | TV Jornal - Pernambuco
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | TV Paraense - Castanhal - PA 
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="VARIEDADES",SBT | TV Serra Dourada | Goiânia
-https://ythls.onrender.com/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="VARIEDADES",SIC | Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="VARIEDADES",Teledifusão de Macau | China
