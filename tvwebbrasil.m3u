@@ -7,8 +7,8 @@ https://live-cm-ah-11-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",Globo SP
 https://live-as-10-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMDUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3Mjg3ODQ5LCJpYXQiOjE2OTcyMDE0NDksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTJjNjY1YTMtZjU4Ny00NTAwLWE4M2ItMzAxNGU1YTczYzUxIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.fCgtWx2GoYb-DO5fRc5pC6QWkH_zAQWGxEBf4k0q43eTHpUINtXvugmEqRU02XTR4ammDYk2zxs9_U8aqGf8uemLu54edRQ2rbKVD_YwYnxoUM7YPL_4pNRGxCe5v4MfjbEfemtNPZxUIyY_ij6IOG_2rlIhYaiTFmPdydTLKPovZCWsYbFcz_EYZm-_glt033iD9WQEBSU2hWHhgQin79eWIK0P0Uhd2SLO7ttD3N2wm0x7g1mJCin-ckNEqXRE4AUq-P04lULkaAfA1nAMkPGlcQV68WHbqjotUalY8itgVUzEMw4vHgY5V2xJeblAzhRY0OOwp1NUGqITEy2z2Q/nu/f(dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT SP
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ABVQXgr2LW4
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | Bem TV - Tangará da Serra - MT
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eY3mkprr1uIYaFOX
+EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | Bem TV - Tangará da Serra - MT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | interior de SP 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
