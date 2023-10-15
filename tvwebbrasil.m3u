@@ -2,32 +2,14 @@
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS 
 ##### CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ######
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",Globo BA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",GLOBO BA
 https://live-cm-ah-11-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTEtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3MjM4MjYwLCJpYXQiOjE2OTcxNTE4NjAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTJjNjY1YTMtZjU4Ny00NTAwLWE4M2ItMzAxNGU1YTczYzUxIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdmRjL3BsYXlsaXN0Lm0zdTgifQ.vUXdvRKKMukqIN2Ynv53ANu9dZeV4VhpifDZR_VVzHXzfgPuccUZWiUVyE1oifPpUs-KZ8uGeQAHkuC4ZuRroqffInP_iAuG7Y-sml_hvwngb2wOf3RPEh13wAEcNmSXz69Fp0TVYTOJ6LW-mwbm3uDOxJBuVYeowUi5cNyYny9tBNbwed_9RRiEsbC4OezvYr6ZdQCtufQ7Cgvw9eJ2MVjW-kZHYJwXVyTRpIP9eyX4YbiiHwUIxm4sleVXUHn-SgY3WXFV92scDS-YkmoK1Ae8a_4hJ2B3UBCi3-rrH_O-H13w2WI5c5ZxdGAo7u6bLyACSXI9i9NimaxM3ego1w/nu/f(i=2)/globo-vdc/globo-vdc-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",Globo SP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",GLOBO SP
 https://live-as-10-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMDUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3Mjg3ODQ5LCJpYXQiOjE2OTcyMDE0NDksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTJjNjY1YTMtZjU4Ny00NTAwLWE4M2ItMzAxNGU1YTczYzUxIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.fCgtWx2GoYb-DO5fRc5pC6QWkH_zAQWGxEBf4k0q43eTHpUINtXvugmEqRU02XTR4ammDYk2zxs9_U8aqGf8uemLu54edRQ2rbKVD_YwYnxoUM7YPL_4pNRGxCe5v4MfjbEfemtNPZxUIyY_ij6IOG_2rlIhYaiTFmPdydTLKPovZCWsYbFcz_EYZm-_glt033iD9WQEBSU2hWHhgQin79eWIK0P0Uhd2SLO7ttD3N2wm0x7g1mJCin-ckNEqXRE4AUq-P04lULkaAfA1nAMkPGlcQV68WHbqjotUalY8itgVUzEMw4vHgY5V2xJeblAzhRY0OOwp1NUGqITEy2z2Q/nu/f(dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT SP
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eY3mkprr1uIYaFOX
-EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | Bem TV - Tangará da Serra - MT
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | interior de SP 
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | Rede Massa - PR
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Cidade Verde - Piauí
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Floresta - Tucuruí - PA
-https://live-par-2-cdn.livepush.io/live_cdn/emVqPK2sSrR_sJM/tracks-v1a1/mono.m3u8?session_id=5927848725970302
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Guajará - Tailândia - PA
-https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Jornal - Pernambuco
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Paraense - Castanhal - PA 
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT | TV Serra Dourada | Goiânia
-https://ythls.onrender.com/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",Band
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-cSEtypP8pT5ZvcqSwfoYve_964VyemaKfJdIzrQNIgt)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+https://www.youtube.com/embed/ABVQXgr2LW4?si=JnDroGaIW0zNCNmA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND
+https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-SyG7IFLRG3gucBMtaAc9W-Vc7npl2w_oQ-EjjVVWbHN)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 ##### HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="HUMOR - NOVELAS - SÉRIES",Adrenalina Freezone 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
