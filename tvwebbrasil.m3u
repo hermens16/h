@@ -11,7 +11,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698448073/ei/a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
 https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-ZpJDCceUalQ1npmY_xok7X-kVdU3D7US1b0XGP4XWQU)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-d9ZR2VwutGXZf1a2y4-eAesed5E4-pRwwPSZVjc-M4s)/cloud/3/x83vbd6/s/live-4.m3u8
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_1.m3u8
 ##### HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="HUMOR - NOVELAS - SÉRIES",Adrenalina Freezone 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
