@@ -11,7 +11,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700327420/ei/n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
 https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-SAQSWC1l_exQjowxkId4jwpZJgX-M0GJ3bVlZYBNV3Y)/cloud/3/x83vbd6/s/live-4.m3u8
 #EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",Record TV
-https://r7live06.akamaized.net/hls/live/2037980/loveschool/master_1080.m3u8
+https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1700348122~acl=/*~hmac=8f76efda37481d17330a4c69c10271f7391d83d73f2d991ecc14da57aa7004fd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIARIO DO SERTÃO 
