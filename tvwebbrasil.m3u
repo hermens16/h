@@ -9,7 +9,7 @@ https://live-cm-ah-11-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0e
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT SP
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700372210/ei/kkpZZaHoJYr51sQPns206Ao/ip/2804%3A14d%3Ab222%3A849c%3Ad95d%3Ad757%3A729%3A362a/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/hightc/yes/siu/1/spc/UWF9f4wAvUpJ-jKrcouHo3eTgBzuL26zMo_GwDwiWCJaO1k2o4UuNco/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgdtO8lFs1Bd2bqFu5ls9fSrX64CyFMa54Pc9D0dMoHfkCIDECivDfBu1nv6WyHaCV1v1mE3HEiPGBtaeN2rGRRZEV/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
-https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-SAQSWC1l_exQjowxkId4jwpZJgX-M0GJ3bVlZYBNV3Y)/cloud/3/x83vbd6/s/live-4.m3u8
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
 #EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",Record TV
 https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1700350346~acl=/*~hmac=476736337d2125491b41899334778b667040f72051a90d180f825b9150c10647
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
