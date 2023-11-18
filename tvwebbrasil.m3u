@@ -15,7 +15,7 @@ https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1700350346
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
 https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bF3ZryxKV0I9-xocABSsq-vbuUWKTEEh5YAg2cXA-y8)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIARIO DO SERTÃO 
-https://stream-04.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYShggevVJ3-Vqu3ITf410dIyMsunay6IclYSVE2i1F-O)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYfaVHuUTtMqX_0_3Qib6sQ84mcVnGkjYQ1CX7zgEWELl)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
 ##### HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ############# HUMOR - NOVELAS - SÉRIES ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="HUMOR - NOVELAS - SÉRIES",Adrenalina Freezone 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
