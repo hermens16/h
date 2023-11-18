@@ -11,7 +11,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700327420/ei/n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
 https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-SAQSWC1l_exQjowxkId4jwpZJgX-M0GJ3bVlZYBNV3Y)/cloud/3/x83vbd6/s/live-4.m3u8
 #EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",Record TV
-https://rr8---sn-xhcg5uxa-nn5e.googlevideo.com/videoplayback?expire=1700376698&ei=-j9ZZZfLLMmxxtYP7Kau-Ac&ip=2804:14d:b222:849c:d95d:d757:729:362a&id=c608d219de5e3bed&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&mh=2y&mm=31&mn=sn-xhcg5uxa-nn5e&ms=au&mv=m&mvi=8&pl=50&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=15.069&lmt=1691227368899686&mt=1700347512&cpn=nNhwS9LggIveH6_W&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,dur,lmt&sig=ANLwegAwRQIgHgAck9r6tzDn_-IHabN7FZc33lXpXodhcEKPIeDieIsCIQCJoZ_3GxmLCSNrT003ImKqaBEPdluP6laRRhai_-w8KA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIhAKpHYvz4qnJ5m0Zszjb9r1pYGFZKSDq5ktkB4qCvaezKAiA3q55mq00NcMfkLfOYGeoiMscTO2SjNMApkBijG9OLTw==
+https://spo4.akamaized.net/hls/live/2029736/spo4/index_1080.m3u8?hdntl=exp=1700435736~acl=%2f*~data=hdntl~hmac=32eb42d6fda7021ac97d660149b1fc1935fa3198d195ddd4c7e7afe70021abdc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIARIO DO SERTÃO 
