@@ -169,8 +169,8 @@ http://195.22.22.66:1935/kktv_ang_apps/kktv_ang_pt1/playlist.m3u8
 http://c2.manasat.com:1935/kcine/kcine1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="RELIGIOSOS",Kuriakos Music | Portugal
 http://c2.manasat.com:1935/kmusic/kmusic1/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="RELIGIOSOS",Kuriakos TV | Portugal 
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="RELIGIOSOS",KURIAKOS TV 
+https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1820360697_b3048000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="RELIGIOSOS",Maná 1 | Portugal
 http://195.22.11.11:1935/tvmana/tvmana2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHAlM0ElMkYlMkZ0dm1hbmEyLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjA0JTJGTE9HT19UVl9NQU5BMi5wbmcmY2FjaGVNYXJrZXI9MTU4NzIyMjU3NS05OTgxJnRva2VuPWJjY2I4OTg4ZmE3OTAxY2Y.q.png" group-title="RELIGIOSOS",Maná 2 | Portugal
