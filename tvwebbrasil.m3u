@@ -241,8 +241,18 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://stmv1.srvif.com/2022/2022/chunklist_w914191631.m3u8
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/feemissao.com.br/images/summer/user_384186856.jpg" group-title="RELIGIOSOS",TV NOVA ESPERANÇA
 https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/chunklist_w1558071811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",WEB TV BOA NOVA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z23IUgpqg_4/hqdefault.jpg" group-title="RELIGIOSOS",WEB TV BOA NOVA
 https://stmv.video.expressolider.com.br/tvboanova/tvboanova/chunklist_w432395728.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/familia-tv-logo-1652F563F9-seeklogo.com.png" group-title="RELIGIOSOS",TV FAMÍLIA
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg " group-title="RELIGIOSOS",TELEVISION
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
+#EXTINF:-1 tvg-logo="https://www.comunidaderestauracao.org/wp-content/uploads/sites/67/2017/10/nova-logo.png" group-title="RELIGIOSOS",TV COMUNIDADE RESTAURAÇÃO
+https://video01.kshost.com.br/associacao9573/associacao9573/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.vianney.org.br/wp-content/uploads/2017/05/logo_novo.png" group-title="RELIGIOSOS",TV VIANNEY
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w1701216078.m3u8
+#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS",ESNE TV
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1705161401~acl=%2f*~data=hdntl~hmac=69a2e905515611d05665aca1abad9fc04666a5f61cd5920d538780e9f5a0be38/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=65a16134b0bda9000187bac8&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1705161396%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Dab17dff27a2673ed142f3ef2174d7ac0d7fb6465e354ae58f75907871e781e60
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS",TV Terceiro Anjo 
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
