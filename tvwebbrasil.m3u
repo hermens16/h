@@ -253,6 +253,16 @@ https://video01.kshost.com.br/associacao9573/associacao9573/playlist.m3u8
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w1701216078.m3u8
 #EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS",ESNE TV
 
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="RELIGIOSOS",CATHOLIC TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/61d88063cc559.png" group-title="RELIGIOSOS",TV GOSPA MIRA
+https://gospamira.brasilstream.com.br/hls/gospamira/index.m3u8
+#EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="RELIGIOSOS",TELE VID
+https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN ESPANHOL
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/483/824/png-clipart-ewtn-internet-radio-broadcasting-television-lenten-purple-television.png" group-title="RELIGIOSOS",EWTN EUA
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/xsvmsp9q/720/chunklist.m3u8 
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS",TV Terceiro Anjo 
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
