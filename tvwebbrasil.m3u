@@ -222,11 +222,13 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w288325311.m3u8
 #EXTINF:-1 tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="RELIGIOSOS",TV HORIZONTE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704921922/ei/4raeZbSsCZOlobIP2N6kgAQ/ip/2804%3A14d%3Ab222%3A84b0%3A200b%3Ac6d3%3A7d8b%3Aa430/id/KVpRLgN7u4s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9f2URhQdkVjW5EDLZdsvgpd3KoE8uLRPt_uxZVjiAGHBpCtkS5uSj1aWZ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOYX3TQejWP-PE78Kua0seRQNS1ylTvCZlcgr7geqHZLAiANAu3x2l0CmXcnuk37j8Fvzg3PV0gRwuge-ZJqg4ECgw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.centesimusannus.org/wp-content/uploads/2022/01/vatican-news-1140x600.jpg" group-title="RELIGIOSOS",VATICANO NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704925537/ei/AcWeZdzICbXi-LAP7f2rgAw/ip/2804%3A14d%3Ab222%3A84b0%3Abcb9%3A8938%3Ac45e%3A671/id/97xo6rX7rgM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM5ESshK4jVaQBAJ4yjb7n0LXiubkVUXtX41cgiS9klTAiAVnSQOu-uqBiD4VReowfmN8fFNF5WpdMHkkCQGXfyynQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705166577/ei/kXKiZbCcEfDf-LAPz-WfsA8/ip/181.217.118.230/id/XBqHnl-WRpI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbRLxEc-znTiTQp41BlLFnmn6FmmB3Qs0njKqqj2c4rQCIQC_NXtypBQg4fJmi4Iu6_up_nPAsox85mhbteWsrxOwiQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIOSOS",TV PADRE PIO
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1771150499.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="RELIGIOSOS",TV GRANDE NATAL
 https://canalteste.duckdns.org:443/app/tvgrandenatalhdtv/llhls.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="RELIGIOSOS",TV GRANDE NATAL
+https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_RCJiu4U1_llhls.m3u8?session=24_86UJAod7
 #EXTINF:-1 tvg-logo="https://www.tvaguaboa.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",WEB TV ÁGUA BOA
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w279367786.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-bfcdi.nitrocdn.com/EigTJDFelgEHSfQJBwMExYqAYVGcYUcb/assets/static/optimized/wp-content/uploads/2022/06/5524e2d317318033e30d6726b100e711.tv.png" group-title="RELIGIOSOS",SANTA CRUZ WEB TV
@@ -267,6 +269,8 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_3.m3u8
 https://gospamira.brasilstream.com.br/hls/gospamira/index.m3u8
 #EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="RELIGIOSOS",TELE VID
 https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="RELIGIOSOS",TELE VID
+https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-900/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN ESPANHOL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/483/824/png-clipart-ewtn-internet-radio-broadcasting-television-lenten-purple-television.png" group-title="RELIGIOSOS",EWTN EUA
