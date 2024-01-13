@@ -253,6 +253,10 @@ https://video01.kshost.com.br/associacao9573/associacao9573/playlist.m3u8
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w1701216078.m3u8
 #EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS",ESNE TV
 
+#EXTINF:-1 tvg-logo="https://tvsanta.com.br/ws/media-library/16388ae8ccb74c9a8db8856520d646e4/logo-tv-santa-120-x-120.png" group-title="RELIGIOSOS",TV SANTA
+https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1760586997.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/9cb298376f242f143ceeb33a31ec443a.jpg" group-title="RELIGIOSOS",TV JAMPA JOVENS
+https://srv1.zcast.com.br/anderson7754/anderson7754/chunklist_w1052739511.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="RELIGIOSOS",CANAL ORBE 21 - ARGENTINA
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b2211840.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="RELIGIOSOS",CANAL DIOCESANO DE TOLEDO
