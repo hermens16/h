@@ -226,9 +226,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705166577/ei/k
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIOSOS",TV PADRE PIO
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1771150499.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="RELIGIOSOS",TV GRANDE NATAL
-https://canalteste.duckdns.org:443/app/tvgrandenatalhdtv/llhls.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="RELIGIOSOS",TV GRANDE NATAL
-https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_RCJiu4U1_llhls.m3u8?session=24_86UJAod7
+http://tvgrandenatalhd.duckdns.org/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvaguaboa.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",WEB TV ÁGUA BOA
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w279367786.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-bfcdi.nitrocdn.com/EigTJDFelgEHSfQJBwMExYqAYVGcYUcb/assets/static/optimized/wp-content/uploads/2022/06/5524e2d317318033e30d6726b100e711.tv.png" group-title="RELIGIOSOS",SANTA CRUZ WEB TV
@@ -269,8 +267,6 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_3.m3u8
 https://gospamira.brasilstream.com.br/hls/gospamira/index.m3u8
 #EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="RELIGIOSOS",TELE VID
 https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="RELIGIOSOS",TELE VID
-https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-900/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN ESPANHOL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/483/824/png-clipart-ewtn-internet-radio-broadcasting-television-lenten-purple-television.png" group-title="RELIGIOSOS",EWTN EUA
