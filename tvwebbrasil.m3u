@@ -150,16 +150,14 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CATÓLICOS",TV APARECIDA 
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://pbs.twimg.com/profile_images/1285539252995072000/MftGCZSY_400x400.jpg" group-title="CATÓLICOS",APARECIDA AO VIVO
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://pbs.twimg.com/profile_images/1285539252995072000/MftGCZSY_400x400.jpg" group-title="CATÓLICOS",SANTUÁRIO DE APARECIDA
 https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="CATÓLICOS",SANTUÁRIO DE FATIMA | PORTUGAL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705366671/ei/L4ClZff8Gvjg-LAPxJqs8A8/ip/181.217.118.230/id/N2Alqn9btNY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEqb6RDZmPQI9WEsUsij8-lfXSxszWagN0alhvrURLM8CIQD_3VI5z3Fcs6I4mbU5RCHvB0bv6dWZ1_5dsf74fW5bdQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="CATÓLICOS",TV FÁTIMA | PORTUGAL
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="CATÓLICOS",TV IMACULADA 
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICOS",TV PAI ETERNO - GOIÁS
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICOS",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1582217926.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-u9WLxSDqGqkmyjLa-aJKqbw-t240x240.jpg" group-title="CATÓLICOS",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w288325311.m3u8
 #EXTINF:-1 tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="CATÓLICOS",TV HORIZONTE
