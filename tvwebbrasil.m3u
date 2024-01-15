@@ -131,7 +131,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #### CATÓLICOS ######## CATÓLICOS ######## CATÓLICOS ######## CATÓLICOS ######## CATÓLICOS ######## CATÓLICOS ######## CATÓLICOS ######## CATÓLICOS ####
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="CATÓLICOS",CANÇÃO NOVA - YT 
-https://ythls.onrender.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705353054/ei/_kqlZYLZDJqJ1sQP5pGp2A0/ip/181.217.118.230/id/IFO93eb9FwI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANp2_wZEsnQX7_sjn91d2GsaVOwM0ju4qGb4il2_nzEZAiEA27RI9r8bkWKjVD3X9Y_RI8Kbg2l33njzJpgE03ZILQU%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="CATÓLICOS",CANÇÃO NOVA | PORTUGAL
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="CATÓLICOS",EVANGELIZAR TV
