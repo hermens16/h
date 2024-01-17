@@ -965,6 +965,8 @@ https://ythls.onrender.com/channel/UCVFbXI6Gu8U2f9Gjtxw4A-Q.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaR4UsnlNEkxYTiJCSNhR-95u89KYa_lv3ANM18O7A=s400-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS",Veja.com - não é 24h | YouTube
 https://ythls.onrender.com/channel/UCV6Ue4o5UIeKQ3IEkjnXRlg.m3u8
 ################### RÁDIOS #######################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIOS",89.7 FM | JEQUIÉ
+https://jequiefm.streams.com.br/stream?1705506586806
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIOS",98 FM | BH MG
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS",Alpha FM | Goiânia
