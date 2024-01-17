@@ -1,20 +1,20 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS 
-##### CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ############# CANAIS ABERTOS ######
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",GLOBO SP
+##### CANAIS | ABERTOS ############# CANAIS | ABERTOS ############# CANAIS | ABERTOS ############# CANAIS | ABERTOS ############# CANAIS | ABERTOS ############# CANAIS | ABERTOS ############# CANAIS | ABERTOS ############# CANAIS | ABERTOS ############# CANAIS | ABERTOS ######
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS | ABERTOS",GLOBO SP
 https://s.m3u9.top/a2/hls1/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=wexk59EnXoossaJ6xuWDCw&3U1G7qaTxrPbalZnEx=1705520240
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS ABERTOS",GLOBO BA
-https://live-tvg-pe-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcwNTI0Njk2OSwiaWF0IjoxNzA1MTYwNTY5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjUyYzY2NWEzLWY1ODctNDUwMC1hODNiLTMwMTRlNWE3M2M1MSIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXZkYy9wbGF5bGlzdC5tM3U4In0.jJJ55pmfKsQO-x4ls18cYe2u9w1CI6wn6si_dzFeUhJ6gBlUO6EZf_6k3Scwh3XWjQQ6YVUMAGYhl_-Qq3TbGlFkC4cFZN69dpWHSO-hZbOLv8hjm_nSu-j3W6TdCnPH5__k91vpQhTEk21-Kv8xgRvssoFUeMaRO6HMqkOkVmPFzqyy6_IC3Wgw9vtHuBf1OP0yvs7QcO-B57AHGN1EKJvjz0Z6W8dOkkvcwzn2T7YXH47Vmr2okt0s0y4Ra3lbyLw57ZSenzFWLTNwfzTGVi5mYFUJLH03t4WJTRuDUR7npmKdpQABicovQrKVmWHuCjtGeUi8XlrT2b6ZHVjPoA/nu/f(i=2)/globo-vdc/globo-vdc-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT SP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS | ABERTOS",GLOBO BA
+https://tvembed.net/globo-ba/tracks-v1a1/mono.m3u8?remote=181.217.118.230&token=f5fabbce72066d991d977f3bb53c93fca0990ad7-e8802608bbd76af6aa4be2c1567d3fd3-1705498783-1705491583
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS | ABERTOS",SBT SP
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705180815/ei/L6qiZfewJICW-LAPnNq34AU/ip/181.217.118.230/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPT5H6Tgq2wx8_QXDUuWik9JKl3p7aruAu-SSLH5m9ssAiAujWy6G-qhfOAFhZWzRGvgC65yOAjexA3Cdf66UA-MpA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS",SBT DF
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS | ABERTOS",SBT DF
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS | ABERTOS",BAND SP
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
-#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS ABERTOS",RECORD TV
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="CANAIS | ABERTOS",RECORD TV
 https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1700350346~acl=/*~hmac=476736337d2125491b41899334778b667040f72051a90d180f825b9150c10647
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS ABERTOS",BAND SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="CANAIS | ABERTOS",BAND SP
 https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bF3ZryxKV0I9-xocABSsq-vbuUWKTEEh5YAg2cXA-y8)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIARIO DO SERTÃO 
 https://stream-03.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYfaVHuUTtMqX_0_3Qib6sQ84mcVnGkjYQ1CX7zgEWELl)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
