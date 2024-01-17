@@ -965,8 +965,24 @@ https://ythls.onrender.com/channel/UCVFbXI6Gu8U2f9Gjtxw4A-Q.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaR4UsnlNEkxYTiJCSNhR-95u89KYa_lv3ANM18O7A=s400-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS",Veja.com - não é 24h | YouTube
 https://ythls.onrender.com/channel/UCV6Ue4o5UIeKQ3IEkjnXRlg.m3u8
 ################### RÁDIOS #######################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIOS",89.7 FM | JEQUIÉ
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="RÁDIOS",93 FM | JEQUIÉ - BA
+http://stm3.streaminghd.net.br:7056/stream?1705507034790
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="RÁDIOS",95 FM | JEQUIÉ - BA
+https://stream01.ouveai.com.br:1040/stream?1705515578252
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="RÁDIOS",POVO 96,3 FM | JEQUIÉ - BA
+http://s02.transmissaodigital.com:7320/stream?1705515824537
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="RÁDIOS",CIDADE 104.9 FM | JEQUIÉ - BA
+http://stm19.oficinadoradio.com.br:8532/stream?1705516706077
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="RÁDIOS",UESB 106.1 FM | JEQUIÉ - BA
+http://200.128.67.125:8001/stream?1705516960157
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="RÁDIOS",APARECIDA 104.3 FM | SP
+https://aparecida.jmvstream.com/stream?1705520098895
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RÁDIOS",CANÇÃO NOVA 89.1 FM | SP
+https://cloud1.cdnseguro.com:20038/stream?1705519584684
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
+https://cast.radiu.live:9300/stream?1705523628515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIOS",98 FM | BH MG
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS",Alpha FM | Goiânia
