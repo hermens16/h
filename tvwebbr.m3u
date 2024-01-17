@@ -11,14 +11,17 @@ https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/globorj_bc15c774_082094994d48ae
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO BA
 https://tvembed.net/globo-ba/tracks-v1a1/mono.m3u8?remote=181.217.118.230&token=f5fabbce72066d991d977f3bb53c93fca0990ad7-e8802608bbd76af6aa4be2c1567d3fd3-1705498783-1705491583
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705180815/ei/L6qiZfewJICW-LAPnNq34AU/ip/181.217.118.230/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPT5H6Tgq2wx8_QXDUuWik9JKl3p7aruAu-SSLH5m9ssAiAujWy6G-qhfOAFhZWzRGvgC65yOAjexA3Cdf66UA-MpA%3D%3D/file/index.m3u8
+https://s.m3u9.top/a2/hls1/sbt/__index.m3u8?mu3zAQc9HC3GbwJq=ZcUy7oFZyDrMn4ld39T0Gw&3U1G7qaTxrPbalZnEx=1705533144
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT DF
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="TV ABERTA",BAND SP
-https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
 #EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="TV ABERTA",RECORD TV
 https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1700350346~acl=/*~hmac=476736337d2125491b41899334778b667040f72051a90d180f825b9150c10647
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="TV ABERTA",BAND SP
+https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=7-Fbgku0UdaYFIeeWUkGjg&3U1G7qaTxrPbalZnEx=1705533476
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RedeTV-Logotipo.svg/2560px-RedeTV-Logotipo.svg.png" group-title="TV ABERTA",REDE TV
+https://s.m3u9.top/a2/hls1/redetv/__index.m3u8?mu3zAQc9HC3GbwJq=y9BMEoAs6xKbwVrlu74KHA&3U1G7qaTxrPbalZnEx=1705534006
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",TV CULTURA
+https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/chunklist_w632925675.m3u8
 https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bF3ZryxKV0I9-xocABSsq-vbuUWKTEEh5YAg2cXA-y8)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIARIO DO SERTÃO 
 https://stream-03.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYfaVHuUTtMqX_0_3Qib6sQ84mcVnGkjYQ1CX7zgEWELl)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
@@ -357,8 +360,6 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniSantos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/qYlBrxw.png" group-title="DOCUMENTÁRIOS",TV Brasil | TV UniSantos
 http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="DOCUMENTÁRIOS",TV Cultura | São Paulo
-https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="DOCUMENTÁRIOS",TV Cultura | Catve - PR
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="DOCUMENTÁRIOS",TV Cultura | Catve - PR 2
