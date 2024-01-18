@@ -9,7 +9,7 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90059.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO RJ
 http://metv.fun:80/Hr43RT/N3hJ6U/91431.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO BA
-http://metv.fun:80/Hr43RT/N3hJ6U/91446.m3u8
+http://metv.fun:80/Hr43RT/N3hJ6U/90064.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT 4K SP
 http://metv.fun:80/Hr43RT/N3hJ6U/95666.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT DF
@@ -22,8 +22,50 @@ http://metv.fun:80/Hr43RT/N3hJ6U/95649.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/95665.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",TV CULTURA
 http://metv.fun:80/Hr43RT/N3hJ6U/89900.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIARIO DO SERTÃO 
-https://stream-03.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYfaVHuUTtMqX_0_3Qib6sQ84mcVnGkjYQ1CX7zgEWELl)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20RA%20TIM%20BUM.png" group-title="TV ABERTA",TV RA-TIM-BUM
+http://metv.fun:80/Hr43RT/N3hJ6U/90425.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="TV ABERTA",TV DIARIO DO SERTÃO 
+https://stream-01.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYVxmxJhBLN6_HDd9iezM9ODWaHn4X2BfzUL-OxaUqBEO)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20BRASIL.png" group-title="TV ABERTA",CANAL BRASIL [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/89840.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20BRASIL.png" group-title="TV ABERTA",CANAL BRASIL [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/89839.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/CANAL%20DO%20BOI.png" group-title="TV ABERTA",CANAL DO BOI [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/89843.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="CANAL FUTURA [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/CANAL%20FUTURA.png" group-title="TV ABERTA",CANAL FUTURA [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/89846.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA (FHD) H265 [P]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20CULTURA.png" group-title="TV ABERTA",CULTURA (FHD) H265 [P]
+http://metv.fun:80/Hr43RT/N3hJ6U/89899.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20CULTURA.png" group-title="TV ABERTA",CULTURA [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/89900.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20GAZETA.png" group-title="TV ABERTA",GAZETA [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/90010.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20GAZETA.png" group-title="TV ABERTA",GAZETA [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/90009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOADING [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/CANAL%20LOADING.png" group-title="TV ABERTA",LOADING [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/90149.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="LOADING [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/CANAL%20LOADING.png" group-title="TV ABERTA",LOADING [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/90148.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/REDE%20TV!.png" group-title="TV ABERTA",REDE TV [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/95470.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/REDE%20VIDA.png" group-title="TV ABERTA",REDE VIDA [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/90277.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/REDE%20VIDA.png" group-title="TV ABERTA",REDE VIDA [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/90276.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/REDE%20TV!.png" group-title="TV ABERTA",REDETV [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/90281.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/REDE%20TV!.png" group-title="TV ABERTA",REDETV [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/90280.m3u8
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20BRASIL.png" group-title="TV ABERTA",TV BRASIL [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/90409.m3u8
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20BRASIL.png" group-title="TV ABERTA",TV BRASIL [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/96433.m3u8
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20CAMARA.png" group-title="TV ABERTA",TV CAMARA [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/90412.m3u8
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO [FHD] (H265)" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20DIARIO.png" group-title="TV ABERTA",TV DIARIO [FHD] (H265)
+http://metv.fun:80/Hr43RT/N3hJ6U/95476.m3u8
+#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE [FHD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TVE.png" group-title="TV ABERTA",TVE [FHD]
+http://metv.fun:80/Hr43RT/N3hJ6U/100042.m3u8
 ##### FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="FILMES",ADRENALINA FREEZONE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
