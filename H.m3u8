@@ -2,27 +2,26 @@
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS 
 ##### TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ######
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO 4K SP
+http://metv.fun:80/Hr43RT/N3hJ6U/95657.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO SP
-https://s.m3u9.top/a2/hls1/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=wexk59EnXoossaJ6xuWDCw&3U1G7qaTxrPbalZnEx=1705520240
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO SP
-https://tvembed.net/globo-sp/tracks-v1a1/mono.m3u8?remote=181.217.118.230&token=5ca19c3d5caaa6cb2349db06a4c0276f6750a031-917d4afdf927d396e6b6044b1e3be40c-1705509850-1705502650
+http://metv.fun:80/Hr43RT/N3hJ6U/90059.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO RJ
-https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/globorj_bc15c774_082094994d48ae935117e7470c2160b093639b7d/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTgxLjIxNy4xMTguMjMwIjtpOjE7czoxMTE6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTcwNTUwMDA3Njt9
+http://metv.fun:80/Hr43RT/N3hJ6U/91431.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="TV ABERTA",GLOBO BA
-https://tvembed.net/globo-ba/tracks-v1a1/mono.m3u8?remote=181.217.118.230&token=f5fabbce72066d991d977f3bb53c93fca0990ad7-e8802608bbd76af6aa4be2c1567d3fd3-1705498783-1705491583
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
-https://s.m3u9.top/a2/hls1/sbt/__index.m3u8?mu3zAQc9HC3GbwJq=ZcUy7oFZyDrMn4ld39T0Gw&3U1G7qaTxrPbalZnEx=1705533144
+http://metv.fun:80/Hr43RT/N3hJ6U/91446.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT 4K SP
+http://metv.fun:80/Hr43RT/N3hJ6U/95666.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT DF
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="TV ABERTA",RECORD TV
-https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1700350346~acl=/*~hmac=476736337d2125491b41899334778b667040f72051a90d180f825b9150c10647
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="TV ABERTA",BAND SP
-https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=7-Fbgku0UdaYFIeeWUkGjg&3U1G7qaTxrPbalZnEx=1705533476
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="TV ABERTA",RECORD TV 4K SP
+http://metv.fun:80/Hr43RT/N3hJ6U/95664.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="TV ABERTA",BAND 4K SP
+http://metv.fun:80/Hr43RT/N3hJ6U/95649.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RedeTV-Logotipo.svg/2560px-RedeTV-Logotipo.svg.png" group-title="TV ABERTA",REDE TV
-https://s.m3u9.top/a2/hls1/redetv/__index.m3u8?mu3zAQc9HC3GbwJq=y9BMEoAs6xKbwVrlu74KHA&3U1G7qaTxrPbalZnEx=1705534006
+http://metv.fun:80/Hr43RT/N3hJ6U/95665.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",TV CULTURA
-https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/chunklist_w632925675.m3u8
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bF3ZryxKV0I9-xocABSsq-vbuUWKTEEh5YAg2cXA-y8)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+http://metv.fun:80/Hr43RT/N3hJ6U/89900.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIARIO DO SERTÃO 
 https://stream-03.nyc.dailymotion.com/sec(8n3dFtIrLt9ZFz_R6RsRYfaVHuUTtMqX_0_3Qib6sQ84mcVnGkjYQ1CX7zgEWELl)/dm/3/x58lnlq/s/live-4.m3u8#cell=lnyc
 ##### FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ######
