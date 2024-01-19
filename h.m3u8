@@ -483,6 +483,8 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="DOCUMENTÁRIOS",XR Health Brasil
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 ############## ESPORTES ############## ############## Brasil esportes ############## ESPORTES ############## ############## Brasil esportes ############## Brasil: s-ports ############## ############## Brasil esportes ############## Brasil: sports ############## ############## Brasil esportes
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="ESPORTES",BAND SPORTS
+http://metv.fun:80/Hr43RT/N3hJ6U/89828.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CANAL%20OFF.png" group-title="ESPORTES",CANAL OFF 
 http://metv.fun:80/Hr43RT/N3hJ6U/89850.m3u8
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/COMBATE.png" group-title="ESPORTES",COMBATE 
