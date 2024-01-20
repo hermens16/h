@@ -332,6 +332,8 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6ttyVE.png" group-title="DOCUMENTÁRIOS",AlfaCon Concursos - não é 24h | YouTube
 https://ythls.onrender.com/channel/UCoihrBTsIlpFnTkJFU-kdtQ.m3u8
+#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="SÉRIES",ASSOMBRAÇÕES 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="DOCUMENTÁRIOS",Canal Educação 
 https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="CanalEmpreender.br" tvg-logo="https://i.imgur.com/Lrx8nl8.png" group-title="DOCUMENTÁRIOS",Canal Empreender - Sebrae - não é 24h 
@@ -709,8 +711,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 #EXTINF:-1 tvg-id="animetv.br" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="SÉRIES",ANIME TV  
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="SÉRIES",ASSOMBRAÇÕES 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES",BET  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="SÉRIES",CANAL 29 - SÉRIES ANTIGAS 
