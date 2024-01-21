@@ -224,8 +224,6 @@ https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w11164285
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b2652000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="CATÓLICOS",VISIÓN TV | GUATEMALA
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616006826369187842/Y-SqSrwl_400x400.jpg" group-title="CATÓLICOS",TV RECANTO DA FÉ
-https://stmv1.srvif.com/2022/2022/chunklist_w914191631.m3u8
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/feemissao.com.br/images/summer/user_384186856.jpg" group-title="CATÓLICOS",TV NOVA ESPERANÇA
 https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/chunklist_w1558071811.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z23IUgpqg_4/hqdefault.jpg" group-title="CATÓLICOS",WEB TV BOA NOVA
@@ -1195,6 +1193,8 @@ https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w279367
 https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_1_audio_RCJiu4U1_llhls.m3u8?session=35_9MK1DamT
 #EXTINF:-1 tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="VARIEDADES",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616006826369187842/Y-SqSrwl_400x400.jpg" group-title="VARIEDADES",TV RECANTO DA FÉ
+https://stmv1.srvif.com/2022/2022/chunklist_w914191631.m3u8
 #EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV Londres | Soul TV Brasil
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="VARIEDADES",TV Luzilândia | Piauí
