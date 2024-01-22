@@ -328,6 +328,34 @@ http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="EVANGÉLICOS",TV Terceiro Anjo 
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 
+http://metv.fun:80/Hr43RT/N3hJ6U/89913.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20HOME%20&%20HEALTH.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H 
+http://metv.fun:80/Hr43RT/N3hJ6U/89917.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID  " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
+http://metv.fun:80/Hr43RT/N3hJ6U/95427.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE 
+http://metv.fun:80/Hr43RT/N3hJ6U/89925.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER 
+http://metv.fun:80/Hr43RT/N3hJ6U/89929.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO 
+http://metv.fun:80/Hr43RT/N3hJ6U/89933.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD 
+http://metv.fun:80/Hr43RT/N3hJ6U/89937.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET 
+http://metv.fun:80/Hr43RT/N3hJ6U/89803.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/HGTV%20HOME%20&%20GARDEN.png" group-title="DOCUMENTÁRIOS",HGTV 
+http://metv.fun:80/Hr43RT/N3hJ6U/90127.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 
+http://metv.fun:80/Hr43RT/N3hJ6U/90088.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL 
+http://metv.fun:80/Hr43RT/N3hJ6U/90131.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="DOCUMENTÁRIOS",NATGEO 
+http://metv.fun:80/Hr43RT/N3hJ6U/90180.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TLC%20DISCOVERY.png" group-title="DOCUMENTÁRIOS",TLC 
+http://metv.fun:80/Hr43RT/N3hJ6U/90388.m3u8
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TRUTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
+http://metv.fun:80/Hr43RT/N3hJ6U/90404.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6ttyVE.png" group-title="DOCUMENTÁRIOS",AlfaCon Concursos - não é 24h | YouTube
 https://ythls.onrender.com/channel/UCoihrBTsIlpFnTkJFU-kdtQ.m3u8
 #EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="SÉRIES",ASSOMBRAÇÕES 
@@ -483,6 +511,14 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90328.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90320.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 
 http://metv.fun:80/Hr43RT/N3hJ6U/90324.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 01 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 01 [M]
+http://metv.fun:80/Hr43RT/N3hJ6U/101483.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 02 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 02 [M]
+http://metv.fun:80/Hr43RT/N3hJ6U/101484.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 03 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 03 [M]
+http://metv.fun:80/Hr43RT/N3hJ6U/101485.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 04 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 04 [M]
+http://metv.fun:80/Hr43RT/N3hJ6U/101486.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="ESPORTES",PREMIERE CLUBES 
 http://metv.fun:80/Hr43RT/N3hJ6U/90236.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="ESPORTES",PREMIERE 2 
@@ -497,6 +533,24 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90224.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90228.m3u8
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="ESPORTES",PREMIERE 7
 http://metv.fun:80/Hr43RT/N3hJ6U/90232.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 1 
+http://metv.fun:80/Hr43RT/N3hJ6U/89885.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 2 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 2 
+http://metv.fun:80/Hr43RT/N3hJ6U/89888.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 3 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 3 
+http://metv.fun:80/Hr43RT/N3hJ6U/89891.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 4 
+http://metv.fun:80/Hr43RT/N3hJ6U/89894.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="ESPORTES",PRIME VIDEO 1 
+http://metv.fun:80/Hr43RT/N3hJ6U/97045.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 2 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="ESPORTES",PRIME VIDEO 2 
+http://metv.fun:80/Hr43RT/N3hJ6U/97048.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 3 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="ESPORTES",PRIME VIDEO 3 
+http://metv.fun:80/Hr43RT/N3hJ6U/97050.m3u8
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 [M]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/F1_TV.png" group-title="ESPORTES",F1 TV PRO
+http://metv.fun:80/Hr43RT/N3hJ6U/102402.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 [M]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/NSPORTS.png" group-title="ESPORTES",NSPORTS
+http://metv.fun:80/Hr43RT/N3hJ6U/102171.m3u8
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="ESPORTES",All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/n8O1sgs.png" group-title="ESPORTES",Canal 11 - futebol | Portugal
@@ -564,6 +618,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="ESPORTES",Yeeaah 
 https://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV  " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BABY%20TV.png" group-title="INFANTIS",BABYTV  
+http://metv.fun:80/Hr43RT/N3hJ6U/95420.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BOOMERANG.png" group-title="INFANTIS",BOOMERANG 
+http://metv.fun:80/Hr43RT/N3hJ6U/89836.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/CARTOOM%20NETWORK.png" group-title="INFANTIS",CARTOON NETWORK 
+http://metv.fun:80/Hr43RT/N3hJ6U/89865.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CARTOONITO " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/CARTOONITO.png" group-title="INFANTIS",CARTOONITO 
+http://metv.fun:80/Hr43RT/N3hJ6U/91357.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/DISCOVERY%20KIDS.png" group-title="INFANTIS",DISCOVERY KIDS 
+http://metv.fun:80/Hr43RT/N3hJ6U/89921.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL 
+http://metv.fun:80/Hr43RT/N3hJ6U/89941.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/GLOOB.png" group-title="INFANTIS",GLOOB 
+http://metv.fun:80/Hr43RT/N3hJ6U/90076.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/GLOOBINHO.png" group-title="INFANTIS",GLOOBINHO 
+http://metv.fun:80/Hr43RT/N3hJ6U/90080.m3u8
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/NICK%20JR.png" group-title="INFANTIS",NICK JR 
+http://metv.fun:80/Hr43RT/N3hJ6U/90194.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/NICKELODEON.png" group-title="INFANTIS",NICKELODEON 
+http://metv.fun:80/Hr43RT/N3hJ6U/90198.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/TOONCAST.png" group-title="INFANTIS",TOONCAST 
+http://metv.fun:80/Hr43RT/N3hJ6U/95503.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20RA%20TIM%20BUM.png" group-title="INFANTIS",TV RA-TIM-BUM 
+http://metv.fun:80/Hr43RT/N3hJ6U/90425.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/ZOOMOO.png" group-title="INFANTIS",ZOOMOO 
+http://metv.fun:80/Hr43RT/N3hJ6U/90448.m3u8
 #EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://i.imgur.com/iu4Xbjd.png" group-title="INFANTIS",A vida moderna de Rocko  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://i.imgur.com/iu4Xbjd.png" group-title="INFANTIS",A vida moderna de Rocko | link 2 
@@ -703,6 +783,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSJv0sy.png" group-title="INFANTIS",Xilam
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TNT NOVELAS (FHD)" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20FILM.png" group-title="SÉRIES",TNT NOVELAS (FHD)
+http://metv.fun:80/Hr43RT/N3hJ6U/115422.m3u8
 #EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="SÉRIES",A CULPA É DO CABRAL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="SÉRIES",ANITV
@@ -933,6 +1015,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",Younger | link 2 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ##############
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/AGROCANAL.png" group-title="NOTÍCIAS",AGRO MAIS 
+http://metv.fun:80/Hr43RT/N3hJ6U/89795.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="NOTÍCIAS",BAND NEWS 
+http://metv.fun:80/Hr43RT/N3hJ6U/89820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BLOOMBERG.png" group-title="NOTÍCIAS",BLOOMBERG 
+http://metv.fun:80/Hr43RT/N3hJ6U/97746.m3u8
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL " tvg-logo="http://storage.newbp.xyz/lives/NOTICIAS/CNN%20BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL 
+http://metv.fun:80/Hr43RT/N3hJ6U/89873.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="FOX NEWS  " tvg-logo="http://storage.newbp.xyz/lives/NOTICIAS/FOX%20NEWS.png" group-title="NOTÍCIAS",FOX NEWS  
+http://metv.fun:80/Hr43RT/N3hJ6U/95430.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="NOTÍCIAS",GLOBO NEWS 
+http://metv.fun:80/Hr43RT/N3hJ6U/90039.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN NEWS  " tvg-logo="http://storage.newbp.xyz/lives/NOTICIAS/JOVEM%20PAN%20NEWS.png" group-title="NOTÍCIAS",JOVEM PAN NEWS  
+http://metv.fun:80/Hr43RT/N3hJ6U/90139.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/REDE%20RECORD%20TV.png" group-title="NOTÍCIAS",RECORD NEWS 
+http://metv.fun:80/Hr43RT/N3hJ6U/90259.m3u8
 #EXTINF:-1 tvg-id="ARTVCanalParlamento.pt" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="NOTÍCIAS",ARTV Canal Parlamento | Portugal
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="NOTÍCIAS",Band Jornalismo - não é 24h | YT Brasil
@@ -1077,6 +1175,48 @@ http://radioaovivo.ufrgs.br:8000/stream.mp3
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cBF0WmI.png" group-title="RÁDIOS",Stereo Vale FM | BandPlay
 https://evpp.mm.uol.com.br/band/stereovale/master.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### antes: BRASIL TV ABERTA ############################### VARIEDADES ############################### BRASIL TV ABERTA ############################### VARIEDADES ############################### antes: BRASIL TV ABERTA ############################### 
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/ARTE%201.png" group-title="VARIEDADES",ARTE1 
+http://metv.fun:80/Hr43RT/N3hJ6U/89808.m3u8
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CANAL_RURAL.png" group-title="VARIEDADES",CANAL RURAL 
+http://metv.fun:80/Hr43RT/N3hJ6U/100034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CHEF_TV.png" group-title="VARIEDADES",CHEF TV  
+http://metv.fun:80/Hr43RT/N3hJ6U/95490.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL 
+http://metv.fun:80/Hr43RT/N3hJ6U/89881.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CURTA!.png" group-title="VARIEDADES",CURTA! 
+http://metv.fun:80/Hr43RT/N3hJ6U/89904.m3u8
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/DOG%20TV%202.png" group-title="VARIEDADES",DOGTV 
+http://metv.fun:80/Hr43RT/N3hJ6U/89951.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/E!.png" group-title="VARIEDADES",E! 
+http://metv.fun:80/Hr43RT/N3hJ6U/89958.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="EUROCHANNEL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/EUROCHANNEL.png" group-title="VARIEDADES",EUROCHANNEL 
+http://metv.fun:80/Hr43RT/N3hJ6U/91362.m3u8
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FASHIONTV.png" group-title="VARIEDADES",FASHION TV 
+http://metv.fun:80/Hr43RT/N3hJ6U/89982.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FISH%20TV.png" group-title="VARIEDADES",FISH TV 
+http://metv.fun:80/Hr43RT/N3hJ6U/89990.m3u8
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK 
+http://metv.fun:80/Hr43RT/N3hJ6U/89994.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/GNT.png" group-title="VARIEDADES",GNT 
+http://metv.fun:80/Hr43RT/N3hJ6U/90084.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/LIFETIME.png" group-title="VARIEDADES",LIFETIME 
+http://metv.fun:80/Hr43RT/N3hJ6U/90143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT  
+http://metv.fun:80/Hr43RT/N3hJ6U/95456.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20NA%20TELA.png" group-title="VARIEDADES",MAIS NA TELA 
+http://metv.fun:80/Hr43RT/N3hJ6U/90153.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MODO VIAGEM " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM 
+http://metv.fun:80/Hr43RT/N3hJ6U/91369.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/PLAY_TV.png" group-title="VARIEDADES",PLAY TV  
+http://metv.fun:80/Hr43RT/N3hJ6U/95462.m3u8
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME%20BOX%20BRASIL.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
+http://metv.fun:80/Hr43RT/N3hJ6U/90239.m3u8
+#EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/SABOR%20E%20ARTE.png" group-title="VARIEDADES",SABOR & ARTE 
+http://metv.fun:80/Hr43RT/N3hJ6U/91388.m3u8
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL 
+http://metv.fun:80/Hr43RT/N3hJ6U/90401.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/VIVA.png" group-title="VARIEDADES",VIVA 
+http://metv.fun:80/Hr43RT/N3hJ6U/90440.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 Noites | PR 
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC Brasil
