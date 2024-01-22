@@ -235,53 +235,54 @@ https://gospamira.brasilstream.com.br/hls/gospamira/index.m3u8
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICOS",TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1582217926.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="CATÓLICOS",SANTUÁRIO DE FATIMA | PORTUGAL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705366671/ei/L4ClZff8Gvjg-LAPxJqs8A8/ip/181.217.118.230/id/N2Alqn9btNY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEqb6RDZmPQI9WEsUsij8-lfXSxszWagN0alhvrURLM8CIQD_3VI5z3Fcs6I4mbU5RCHvB0bv6dWZ1_5dsf74fW5bdQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.centesimusannus.org/wp-content/uploads/2022/01/vatican-news-1140x600.jpg" group-title="CATÓLICOS",VATICANO NEWS | PORTUGUÊS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705166577/ei/kXKiZbCcEfDf-LAPz-WfsA8/ip/181.217.118.230/id/XBqHnl-WRpI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbRLxEc-znTiTQp41BlLFnmn6FmmB3Qs0njKqqj2c4rQCIQC_NXtypBQg4fJmi4Iu6_up_nPAsox85mhbteWsrxOwiQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="CATÓLICOS",TV HORIZONTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705453567/ei/n9OmZbWJA62Q-LAP-sejkAw/ip/181.217.118.230/id/0z3q335TiCY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/900/manifest_duration/900/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP1pUuV6XDy7RHJeM7WzxnaWCzpFUO2kAWUBABu7mSmOAiEApvIqL74u1WRTlbuc3VpPI92nOZjzSGSLjpY9I-hjZt4%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="CATÓLICOS",TV PADRE PIO | ITÁLIA
-#EXTINF:-1 tvg-logo="https://cdn-bfcdi.nitrocdn.com/EigTJDFelgEHSfQJBwMExYqAYVGcYUcb/assets/static/optimized/wp-content/uploads/2022/06/5524e2d317318033e30d6726b100e711.tv.png" group-title="CATÓLICOS",SANTA CRUZ WEB TV
-https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/chunklist_w583040319.m3u8
-#EXTINF:-1 tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="CATÓLICOS",TV NOVO MILÊNIO
-https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_TV_Lux.svg/1200px-Logo_TV_Lux.svg.png" group-title="CATÓLICOS",LUX TELEVISIA | ESLOVÁQUIA
-https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b2652000.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="CATÓLICOS",VISIÓN TV | GUATEMALA
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/feemissao.com.br/images/summer/user_384186856.jpg" group-title="CATÓLICOS",TV NOVA ESPERANÇA
-https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/chunklist_w1558071811.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z23IUgpqg_4/hqdefault.jpg" group-title="CATÓLICOS",WEB TV BOA NOVA
-https://stmv.video.expressolider.com.br/tvboanova/tvboanova/chunklist_w432395728.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/familia-tv-logo-1652F563F9-seeklogo.com.png" group-title="CATÓLICOS",TV FAMÍLIA | COLÔMBIA
-https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
-#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg " group-title="CATÓLICOS",TELEVISION | EL SALVADOR
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
 #EXTINF:-1 tvg-logo="https://www.comunidaderestauracao.org/wp-content/uploads/sites/67/2017/10/nova-logo.png" group-title="CATÓLICOS",TV COMUNIDADE RESTAURAÇÃO
 https://video01.kshost.com.br/associacao9573/associacao9573/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv.vianney.org.br/wp-content/uploads/2017/05/logo_novo.png" group-title="CATÓLICOS",TV VIANNEY
-https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w1701216078.m3u8
-#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="CATÓLICOS",ESNE TV | EUA
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_288/hdntl=exp=1705525597~acl=%2f*~data=hdntl~hmac=edccf242e0002ebe6d767aa5d1edb062294ba8cc7b4cd4331150377968169678/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=65a6efd7df94ad000150f98d&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1705525591%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Db320b78395b792211edafff0f38b8da7e8d73caf9b13cef65364d841ef1b6810
-#EXTINF:-1 tvg-logo="https://tvsanta.com.br/ws/media-library/16388ae8ccb74c9a8db8856520d646e4/logo-tv-santa-120-x-120.png" group-title="CATÓLICOS",TV SANTA
-https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1760586997.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/9cb298376f242f143ceeb33a31ec443a.jpg" group-title="CATÓLICOS",TV JAMPA JOVENS
 https://srv1.zcast.com.br/anderson7754/anderson7754/chunklist_w1052739511.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="CATÓLICOS",CANAL ORBE 21 - ARGENTINA
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b2211840.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="CATÓLICOS",CANAL DIOCESANO DE TOLEDO | ESPANHA
-https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="CATÓLICOS",CATHOLIC TV | EUA
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="CATÓLICOS",TV HORIZONTE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705979365/ei/hdmuZZSZGsmz4dUPtcuSoAI/ip/181.217.118.230/id/3bES_rvu6BA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/900/manifest_duration/900/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXp3-oxko6YWRl4OYqvnYSery1CabJWSWjrhIivf8P4wCIDRKUo7GWGGzdl8dxbNhJnX-dtuM7bSG3OczlHUFO3rw/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://spaceks.net/sites/feemissao.com.br/images/summer/user_384186856.jpg" group-title="CATÓLICOS",TV NOVA ESPERANÇA
+https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/chunklist_w1558071811.m3u8
+#EXTINF:-1 tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="CATÓLICOS",TV NOVO MILÊNIO
+https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
+#EXTINF:-1 tvg-logo="https://tvsanta.com.br/ws/media-library/16388ae8ccb74c9a8db8856520d646e4/logo-tv-santa-120-x-120.png" group-title="CATÓLICOS",TV SANTA
+https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1760586997.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Sudoeste_%28Pato_Branco%29.png?20220121230612" group-title="CATÓLICOS",TV SUDOESTE
 https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/Cr8FhOw238yM2IYZDyfvHY9Sg2Ce0xNfPF2kw6SdvXDWVi0JNgp7vamVKndUbyNOTjiGJes5wz41JPpyHZiUBx3WpS82nfiknGI2U-m2vEFJ5CDdP_0ZDZ0GpbXtRxoZyRDskI-bf6pJpk9rjlvDhLLxBCv3hdl0j2SYdRA5BJkEyWHr-esD7vGpoR6Xkf9j3v0U7sKi76jIssc6aSeBL-9-wX1HF-tDPjmTNLweeWAjxbF2v2jOUHiDkYKKckS-8Kwa3qmwcMNxKn1wpuGOJyzQH2fzZ2xFQNZrH4vyeQ0mtI4wVWAgz9MTcEcNUYhsJh8O0jb_lIPqJDXH5-Fh9vGoBxM9piz6HsMqgBqamS-a94YI2QtUWhmXx6Sy0xU8ExjIQ_p87ZZxmrtwzUNgZAGVQRCRszG3EclESZH_IeaEcf7QTbOWOBZ1v5NWj7e9M9LHpo_nO4gz_NSwpDRR1MRsIThIHFzf0E8Hz7YzI5SdIzPWwTWw9-Wu8SY_zew543rAGY5M3bc0dPtdCXtxWz1rELAHcmLOkMGY4TADDhaBN5Tt1AS_OxiZMNWXScHxXmd7xzMamgO9Fw8YI-tWvO2QRTWXq95pKcUJi6abNSdpBOITNq9anlJo-gt09j0cgOrFD89m5dGD7xJaLr6poLeeR1urtkF8Dc7PCVpYBIPmIXyf1pd2YjjOoRVH4xTYTFVwrkKnDuBXaAiyHLumSSUr6o4fucuBIWh2waS-RM0oR8NVXVk2LqJmJpN92Dt0bPGpeBC1e9NSVjQsx49VsWctMb5qRqyhQRxckUBB-U7psBxd8Li3TBMmIbUZ4ldgIVaAgPVQUUqui1q_XG8vOzhX2vXvYUgkhiuGsUmjPXdrohSHrEz-crxbdDs2SsOOApN0S5hUUOq7kVATPCo3LGEfa2GZvMGU630l017Zt3sBQhoM-eiWlbEUFBF_uN0CIAEqCXVzLWVhc3QtMTDzBg.m3u8
-#EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="CATÓLICOS",TELE VID | COLÔMBIA
-https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="CATÓLICOS",EWTN ESPANHOL
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.vianney.org.br/wp-content/uploads/2017/05/logo_novo.png" group-title="CATÓLICOS",TV VIANNEY
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w1701216078.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z23IUgpqg_4/hqdefault.jpg" group-title="CATÓLICOS",WEB TV BOA NOVA
+https://stmv.video.expressolider.com.br/tvboanova/tvboanova/chunklist_w432395728.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-bfcdi.nitrocdn.com/EigTJDFelgEHSfQJBwMExYqAYVGcYUcb/assets/static/optimized/wp-content/uploads/2022/06/5524e2d317318033e30d6726b100e711.tv.png" group-title="CATÓLICOS",SANTA CRUZ WEB TV
+https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/chunklist_w583040319.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="CATÓLICOS",CANAL ORBE 21 - ARGENTINA
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b2211840.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="CATÓLICOS",CATHOLIC TV | EUA
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="CATÓLICOS",ESNE TV | EUA
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_288/hdntl=exp=1705525597~acl=%2f*~data=hdntl~hmac=edccf242e0002ebe6d767aa5d1edb062294ba8cc7b4cd4331150377968169678/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=65a6efd7df94ad000150f98d&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1705525591%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Db320b78395b792211edafff0f38b8da7e8d73caf9b13cef65364d841ef1b6810
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/483/824/png-clipart-ewtn-internet-radio-broadcasting-television-lenten-purple-television.png" group-title="CATÓLICOS",EWTN EUA
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/xsvmsp9q/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="CATÓLICOS",EWTN ESPANHOL
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg " group-title="CATÓLICOS",TELEVISION | EL SALVADOR
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="CATÓLICOS",CANAL DIOCESANO DE TOLEDO | ESPANHA
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="CATÓLICOS",SANTUÁRIO DE FATIMA | PORTUGAL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705979583/ei/X9quZYT7Guv31sQPz9Ok6Aw/ip/181.217.118.230/id/N2Alqn9btNY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNPJE9n2QTFGgBdp3539iAZEdIu6Q17EyqNJ_5Z8UX-ICIHW4xuShn0-yJnvwZU1YsMWoLDO9hbp0qUJmkU3sx6e3/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_TV_Lux.svg/1200px-Logo_TV_Lux.svg.png" group-title="CATÓLICOS",LUX TELEVISIA | ESLOVÁQUIA
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b2652000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="CATÓLICOS",TV PADRE PIO | ITÁLIA
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1247999103.m3u8
+#EXTINF:-1 tvg-logo="https://www.centesimusannus.org/wp-content/uploads/2022/01/vatican-news-1140x600.jpg" group-title="CATÓLICOS",VATICANO NEWS | ITÁLIA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705979173/ei/xdiuZf-gK8WE1sQPwoCoSA/ip/181.217.118.230/id/XBqHnl-WRpI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALDqMDIpWc0DoKbEGbFbacDAcTDNzXuTEYtDjP_VgIjCAiApcOSNFICBY13sjQuJYfibYDO21rqw8fvV_wkepNtn1Q%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="CATÓLICOS",VISIÓN TV | GUATEMALA
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="CATÓLICOS",TELE VID | COLÔMBIA
+https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/familia-tv-logo-1652F563F9-seeklogo.com.png" group-title="CATÓLICOS",TV FAMÍLIA | COLÔMBIA
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 #### EVANGÉLICOS ######## EVANGÉLICOS ######## EVANGÉLICOS ######## EVANGÉLICOS ######## EVANGÉLICOS ######## EVANGÉLICOS ######## EVANGÉLICOS ######## EVANGÉLICOS ####
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="EVANGÉLICOS",KURIAKOS CINE | PORTUGAL
 https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1266159905_b1548000_sleng.m3u8
@@ -824,6 +825,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSJv0sy.png" group-title="INFANTIS",Xilam
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
+###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/BIS.png" group-title="MÚSICA",BIS 
+http://metv.fun:80/Hr43RT/N3hJ6U/89831.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/WOOHOO.png" group-title="MÚSICA",CANAL WOOHOO 
+http://metv.fun:80/Hr43RT/N3hJ6U/89858.m3u8
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV '00 " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MTV.png" group-title="MÚSICA",MTV '00 
+http://metv.fun:80/Hr43RT/N3hJ6U/90161.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MTV.png" group-title="MÚSICA",MTV 
+http://metv.fun:80/Hr43RT/N3hJ6U/90165.m3u8
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MTV%20LIVE.png" group-title="MÚSICA",MTV LIVE 
+http://metv.fun:80/Hr43RT/N3hJ6U/90168.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MULTISHOW.png" group-title="MÚSICA",MULTISHOW 
+http://metv.fun:80/Hr43RT/N3hJ6U/90173.m3u8
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MUSIC%20BOX%20BRASIL.png" group-title="MÚSICA",MUSIC BOX BRAZIL 
+http://metv.fun:80/Hr43RT/N3hJ6U/90176.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="TRACE BRAZUKA " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/TRACE%20BRAZUCA.png" group-title="MÚSICA",TRACE BRAZUKA 
+http://metv.fun:80/Hr43RT/N3hJ6U/91365.m3u8
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
 #EXTINF:-1 tvg-id="Like.br" tvg-name="TNT NOVELAS (FHD)" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20FILM.png" group-title="SÉRIES",TNT NOVELAS (FHD)
 http://metv.fun:80/Hr43RT/N3hJ6U/115422.m3u8
