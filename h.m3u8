@@ -114,6 +114,32 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90396.m3u8
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/UNIVERSAL%20CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/WARNER%20TV.png" group-title="FILMES",WARNER CHANNEL 
 http://metv.fun:80/Hr43RT/N3hJ6U/90444.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 01 
+http://metv.fun:80/Hr43RT/N3hJ6U/91384.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 02 
+http://metv.fun:80/Hr43RT/N3hJ6U/91383.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 03 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 03 
+http://metv.fun:80/Hr43RT/N3hJ6U/91382.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 04 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 04 
+http://metv.fun:80/Hr43RT/N3hJ6U/91381.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 05 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 05 
+http://metv.fun:80/Hr43RT/N3hJ6U/91380.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 06 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 06 
+http://metv.fun:80/Hr43RT/N3hJ6U/91379.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 07 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 07 
+http://metv.fun:80/Hr43RT/N3hJ6U/91378.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CINE SKY 08 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 08 
+http://metv.fun:80/Hr43RT/N3hJ6U/91377.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="FILMES",CINE SKY 09 
+http://metv.fun:80/Hr43RT/N3hJ6U/91376.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="FILMES",APPLETV 01
+http://metv.fun:80/Hr43RT/N3hJ6U/115418.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="FILMES",APPLETV 02
+http://metv.fun:80/Hr43RT/N3hJ6U/115419.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="FILMES",APPLETV 03
+http://metv.fun:80/Hr43RT/N3hJ6U/115420.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="FILMES",APPLETV 04
+http://metv.fun:80/Hr43RT/N3hJ6U/115421.m3u8
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="FILMES",ADRENALINA FREEZONE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="FILMES",CINDIE LITE
@@ -511,14 +537,28 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90328.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90320.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 
 http://metv.fun:80/Hr43RT/N3hJ6U/90324.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 01 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 01 [M]
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 01 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 01 
 http://metv.fun:80/Hr43RT/N3hJ6U/101483.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 02 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 02 [M]
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 02 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 02 
 http://metv.fun:80/Hr43RT/N3hJ6U/101484.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 03 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 03 [M]
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 03 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 03 
 http://metv.fun:80/Hr43RT/N3hJ6U/101485.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 04 [M]" tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 04 [M]
+#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 04 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="ESPORTES",STARPLUS 04 
 http://metv.fun:80/Hr43RT/N3hJ6U/101486.m3u8
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="ESPORTES",HBO MAX STAR+ 01 
+http://metv.fun:80/Hr43RT/N3hJ6U/90106.m3u8
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="ESPORTES",HBO MAX STAR+ 02 
+http://metv.fun:80/Hr43RT/N3hJ6U/90107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="ESPORTES",HBO MAX STAR+ 03 
+http://metv.fun:80/Hr43RT/N3hJ6U/90108.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="ESPORTES",HBO MAX STAR+ 04 
+http://metv.fun:80/Hr43RT/N3hJ6U/118108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="ESPORTES",CAZE TV 1 
+http://metv.fun:80/Hr43RT/N3hJ6U/120560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="ESPORTES",CAZE TV 2 
+http://metv.fun:80/Hr43RT/N3hJ6U/120561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="ESPORTES",CAZE TV 3   
+http://metv.fun:80/Hr43RT/N3hJ6U/120562.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="ESPORTES",PREMIERE CLUBES 
 http://metv.fun:80/Hr43RT/N3hJ6U/90236.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="ESPORTES",PREMIERE 2 
@@ -547,9 +587,11 @@ http://metv.fun:80/Hr43RT/N3hJ6U/97045.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/97048.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 3 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="ESPORTES",PRIME VIDEO 3 
 http://metv.fun:80/Hr43RT/N3hJ6U/97050.m3u8
-#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 [M]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/F1_TV.png" group-title="ESPORTES",F1 TV PRO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="ESPORTES",PRIME VIDEO 4 
+http://metv.fun:80/Hr43RT/N3hJ6U/97052.m3u8
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/F1_TV.png" group-title="ESPORTES",F1 TV PRO
 http://metv.fun:80/Hr43RT/N3hJ6U/102402.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 [M]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/NSPORTS.png" group-title="ESPORTES",NSPORTS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/NSPORTS.png" group-title="ESPORTES",NSPORTS
 http://metv.fun:80/Hr43RT/N3hJ6U/102171.m3u8
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="ESPORTES",All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
