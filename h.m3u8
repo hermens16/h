@@ -284,38 +284,24 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d0885
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="ESPORTES",GEEK E TECH  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision  2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision  3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",Motorvision  4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OvEGVYS.png" group-title="ESPORTES",NBA Brasil - não é 24h | YouTube
-https://ythls.onrender.com/channel/UCsiCOcr5SZAWlJMfcw9P__w.m3u8
-#EXTINF:-1 tvg-id="PonTV.br" tvg-logo="https://i.imgur.com/kySWaiL.png" group-title="ESPORTES",Ponte Preta | Campinas - SP 
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS News Web | ESPORTES
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS 1
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS News Web 2 | ESPORTES
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS 2
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS News Web 3 | ESPORTES
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS 3
 https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
-#EXTINF:-1 tvg-id="Internacional.br" tvg-logo="https://i.imgur.com/FStHrVv.png" group-title="ESPORTES",Sport Club Internacional | Porto Alegre - RS 
-https://clubeinternacionalcod.akamaized.net/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-id="TeenNet.br" tvg-logo="https://i.imgur.com/18ce6HL.pngg" group-title="ESPORTES",TeenNet 
+#EXTINF:-1 tvg-id="TeenNet.br" tvg-logo="https://i.imgur.com/18ce6HL.pngg" group-title="ESPORTES",TEENNET
 https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1J9f1r7.png" group-title="ESPORTES",TNT Sports - não é 24h | YouTube
-https://ythls.onrender.com/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="ESPORTES",UOL Esporte - não é 24h | YouTube
-https://ythls.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
-#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",World Poker Tour 
+#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",WORLD POKER TOUR 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",World Poker Tour  - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="ESPORTES",Yeeaah 
-https://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
 ##### FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ######
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO.png" group-title="FILMES",HBO
 http://metv.fun:80/Hr43RT/N3hJ6U/90100.m3u8
