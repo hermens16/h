@@ -697,16 +697,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://i.imgur.com/JnHVIgo.png" group-title="SÉRIES",Tastemade 
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="SÉRIES",Trace Brazuca
-https://tracebrazuca-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62ab7e667be954333c3f72f4_tracebrazuca-live/SmR77z5V11S8PUJxydj6GQfO.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="SÉRIES",Trace Brazuca | Xiaomi
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="SÉRIES",TVI Reality | Portugal
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="SÉRIES",TVI REALITY
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="SÉRIES",Vida Real  
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="SÉRIES",VIDA REAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="SÉRIES",Vida Real | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 
 http://metv.fun:80/Hr43RT/N3hJ6U/89913.m3u8
@@ -1075,6 +1069,8 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90173.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90176.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="TRACE BRAZUKA " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/TRACE%20BRAZUCA.png" group-title="MÚSICA",TRACE BRAZUKA 
 http://metv.fun:80/Hr43RT/N3hJ6U/91365.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA XIAOMI
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### antes: BRASIL TV ############################### VARIEDADES ############################### BRASIL TV ############################### VARIEDADES ############################### antes: BRASIL TV ############################### 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/ARTE%201.png" group-title="VARIEDADES",ARTE1 
 http://metv.fun:80/Hr43RT/N3hJ6U/89808.m3u8
