@@ -851,53 +851,27 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="NOTÍCIAS",CANAL GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="VARIEDADES",Canal UOL 
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="VARIEDADES",CANAL UOL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="VARIEDADES",Canal UOL  - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTÍCIAS",CBN RJ 
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTÍCIAS",CBN SP 
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS",CNN Brasil | Soul TV
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS",CNN Brasil - não é 24h | YouTube
-https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews em português
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews em português | Plex
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9/variant.m3u8?url=d7b7225898854ac85a9d21175e745956-041f5701542b04aac1f7ac5a87285654aceb7f9d6adc8b2e051bf9daa1836dfbdf4cdb17fa83b3a9920def664457c5e8763b57e2e7738e3d23dfb6e0613696e76ba25bd669433caefc93ecf03d2936b70bb8ee5bb37374619deeedef3bb1eddaeea7253d5b44bb98c975194d021b54bf8816c7689f1ccfa8c0eece670d7d48ae68ea3e80fa57417403f17bb2952faaad8dd8655356c9fcb3762c92adf14fb47a610bde31ecf78da5e0e38509997c32356474c317921d04aecda5d5d7d0fb1d6aa5d0b952cfead5770a253b998e0cf377&x-plex-token=bUeJaWMoTt4Towr8A86_
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews | Rakuten
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews | Samsung
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",EURONEWS
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",Euronews Pluto TV | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://yt3.googleusercontent.com/wEn3tCPNmTuRt3Q0OQ-azFAuWNcYC_UTg64dVLWnpiNKvxt8c-u8f-ABaw91sdrtto50JnHAyYg=s400-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS",Jovem Pan News - não é 24h | YT Brasil
-https://ythls.onrender.com/channel/UCP391YRAjSOdM_bwievgaZA.m3u8
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="NOTÍCIAS",Record News 
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="NOTÍCIAS",RECORD NEWS | PLUTO TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="NOTÍCIAS",Record News | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="NOTÍCIAS",Record News | RunTime Brasil
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="NOTÍCIAS",RECORD NEWS | RUNTIME BRASIL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="NOTÍCIAS",Record News - YouTube 
-https://ythls.onrender.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",Record News - Rede Sim | Espírito Santo
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS",RECORD NEWS - REDE SIM
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQlmrXK5zioRCKwbPT6w01brlaZOuzJDXEq3QnSRA=s800-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS",Rede TVT - não é 24h | YouTube
-https://ythls.onrender.com/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3 | Portugal
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/master.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP 3 link 2 | Portugal
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="NOTÍCIAS",TV 247 - não é 24h | YouTube
-https://ythls.onrender.com/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
-#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="NOTÍCIAS",TV Alego | GO Brasil
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="NOTÍCIAS",RTP | PORTUGAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?tk=1706241600_2ad8b32ccc7c4bf5b1230acef65aaa4ff8e5b86b
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="NOTÍCIAS",TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
-#EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="NOTÍCIAS",TV ALMG | MG Brasil
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="NOTÍCIAS",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="NOTÍCIAS",TV Câmara 
 https://stream3.camara.gov.br/tv1/manifest.m3u8
