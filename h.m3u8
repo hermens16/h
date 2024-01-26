@@ -975,11 +975,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a7
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="VARIEDADES",Lass TV
 https://tv02.zas.media:1936/lasstv/lasstv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CrqC9Qh.png" group-title="VARIEDADES",Mais Favela TV - não é 24h 
-https://ythls.onrender.com/channel/UCkgOz-my1nu6G4hKKZTf-UA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="VARIEDADES",NGT SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="VARIEDADES",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",Nova Era TV | Lages SC Brasil
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="VARIEDADES",PARAMOUNT+ APRESENTA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
