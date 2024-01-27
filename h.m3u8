@@ -132,69 +132,65 @@ https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w377226658_b1548000_sleng
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1643191012_b1548000_sleng.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="RELIGIOSOS EVANGÉLICOS",KURIAKOS TV | PORTUGAL
 https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1820360697_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Cuiabá 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT CUIABÁ 
 https://cloudflare.cdn.spalla.io/live/974e28f6-887e-4831-94ca-06abf1a80c66/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMzAyMTUsImlhdCI6MTcwNTUyNTQxNSwiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjM2MTUsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvOTc0ZTI4ZjYtODg3ZS00ODMxLTk0Y2EtMDZhYmYxYTgwYzY2LyJ9.N-PVdqeDs9BV4quMp9_LrrpAH8tmUysBwIc-BtKNymM&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Curitiba 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT CURITIBA 
 https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMjk2MTUsImlhdCI6MTcwNTUyNDgxNSwiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjMwMTUsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.OJOlrHIZrVljHjfa_BvRE3MPNiksTwMZJhg9pfpZ8Eo&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Londrina 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT LONDRINA 
 https://cloudflare.cdn.spalla.io/live/cb4a055c-36e9-489c-88bc-e225dc6ac594/s2/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMjk1NzQsImlhdCI6MTcwNTUyNDc3NCwiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjI5NzQsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvY2I0YTA1NWMtMzZlOS00ODljLTg4YmMtZTIyNWRjNmFjNTk0LyJ9.o7DIpawguxZp4Ac3jIaR1LNYwNm7rSBdMUQSnDSDOZk&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Manaus 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT MANAUS 
 https://cloudflare.cdn.spalla.io/live/99d4e9f8-8244-40f9-8d09-9f3cc7645b15/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMzAzNDMsImlhdCI6MTcwNTUyNTU0MywiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjM3NDMsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvOTlkNGU5ZjgtODI0NC00MGY5LThkMDktOWYzY2M3NjQ1YjE1LyJ9.H2fuKpHaU47m1Avm46YYf2ELWumlM1SJrog8dzULSoQ&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Porto Alegre 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT PORTO ALEGRE 
 https://cloudflare.cdn.spalla.io/live/99d4e9f8-8244-40f9-8d09-9f3cc7645b15/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMzAzNDMsImlhdCI6MTcwNTUyNTU0MywiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjM3NDMsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvOTlkNGU5ZjgtODI0NC00MGY5LThkMDktOWYzY2M3NjQ1YjE1LyJ9.H2fuKpHaU47m1Avm46YYf2ELWumlM1SJrog8dzULSoQ&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Rio Branco 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT RIO BRANCO 
 https://cloudflare.cdn.spalla.io/live/28da9ea8-8e2e-4d31-8b0a-417496b59b18/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMjk1MTEsImlhdCI6MTcwNTUyNDcxMSwiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjI5MTEsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvMjhkYTllYTgtOGUyZS00ZDMxLThiMGEtNDE3NDk2YjU5YjE4LyJ9.4B5Ar2lHwEcngEuXnBLh1M9gF-d8g-WHc6HMklSIgaE&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Rio de Janeiro 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT RIO DE JANEIRO 
 https://cloudflare.cdn.spalla.io/live/c125dfb2-87ee-40b9-bf6f-566072c05e84/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMjk1OTAsImlhdCI6MTcwNTUyNDc5MCwiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjI5OTAsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvYzEyNWRmYjItODdlZS00MGI5LWJmNmYtNTY2MDcyYzA1ZTg0LyJ9.QxEe1zq4-pRX_x4xNk_xi6qFT0sjgun-rUWVAcLLmIc&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT Salvador 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT SALVADOR 
 https://cloudflare.cdn.spalla.io/live/28da9ea8-8e2e-4d31-8b0a-417496b59b18/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMjk1MTEsImlhdCI6MTcwNTUyNDcxMSwiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjI5MTEsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvMjhkYTllYTgtOGUyZS00ZDMxLThiMGEtNDE3NDk2YjU5YjE4LyJ9.4B5Ar2lHwEcngEuXnBLh1M9gF-d8g-WHc6HMklSIgaE&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT São Paulo 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="RELIGIOSOS EVANGÉLICOS",CNT SÃO PAULO 
 https://cloudflare.cdn.spalla.io/live/cb4a055c-36e9-489c-88bc-e225dc6ac594/s2/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDYxMjk1NzQsImlhdCI6MTcwNTUyNDc3NCwiaWQiOiIwMThkMTkzMS1jM2VmLTc1MTQtODVmOS1mNTFmYjk4MTY4ZDAiLCJuYmYiOjE3MDU1MjI5NzQsInVpZCI6IjAxOGQxOTMxLWMzZWYtNzUxNC04NWY5LWY1MWZiOTgxNjhkMCIsInVyaV9zdWIiOiIvY2I0YTA1NWMtMzZlOS00ODljLTg4YmMtZTIyNWRjNmFjNTk0LyJ9.o7DIpawguxZp4Ac3jIaR1LNYwNm7rSBdMUQSnDSDOZk&uid=018d1931-c3ef-7514-85f9-f51fb98168d0&
-#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="RELIGIOSOS EVANGÉLICOS",Fonte TV | Goiânia 
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="RELIGIOSOS EVANGÉLICOS",FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="RELIGIOSOS EVANGÉLICOS",Gospel Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="RELIGIOSOS EVANGÉLICOS",GOSPEL MOVIES 
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="RELIGIOSOS EVANGÉLICOS",Gospel Music 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="RELIGIOSOS EVANGÉLICOS",GOSPEL MUSIC 
 https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
-#EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="RELIGIOSOS EVANGÉLICOS",Ideal TV 
+#EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="RELIGIOSOS EVANGÉLICOS",IDEAL TV 
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="RELIGIOSOS EVANGÉLICOS",Igreja Online | Portugal 
+#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="RELIGIOSOS EVANGÉLICOS",IGREJA ONLINE | PORTUGAL 
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="RELIGIOSOS EVANGÉLICOS",KKTV | Angola
+#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="RELIGIOSOS EVANGÉLICOS",KKTV | ANGOLA
 http://195.22.22.66:1935/kktv_ang_apps/kktv_ang_pt1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná 1 | Portugal
-http://195.22.11.11:1935/tvmana/tvmana2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHAlM0ElMkYlMkZ0dm1hbmEyLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjA0JTJGTE9HT19UVl9NQU5BMi5wbmcmY2FjaGVNYXJrZXI9MTU4NzIyMjU3NS05OTgxJnRva2VuPWJjY2I4OTg4ZmE3OTAxY2Y.q.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná 2 | Portugal
-http://195.22.11.11:1935/tvmana2/tvmana2_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana3.com/wp-content/uploads/2020/04/LOGO_TV_MANA3-1.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná 3 | Portugal
-http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná Argentina | português e espanhol
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmanabrasil.com/wp-content/uploads/2020/04/LOGO_TV_MANA_BRASIL_V4-396x108.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná Brasil | Portugal
-http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-english.ar/wp-content/uploads/2020/05/LOGO_TV_MANA_ENGLISH_V1.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná English | português e inglês
-http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná Hindi | português e hindi
-http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná Moçambique | Portugal
-http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2020/05/265x145.png-russo-novo.png" group-title="RELIGIOSOS EVANGÉLICOS",Maná Rússia | português e russo
-http://195.22.11.11:1935/tvmana-ru-ua/tvmana-ru-ua2/playlist.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="RELIGIOSOS EVANGÉLICOS",Novo Tempo 
+#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="RELIGIOSOS EVANGÉLICOS",MANÁ | PORTUGAL
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w1526344606_b1548000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="RELIGIOSOS EVANGÉLICOS",MANÁ ARGENTINA
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w598934698_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvmanabrasil.com/wp-content/uploads/2020/04/LOGO_TV_MANA_BRASIL_V4-396x108.png" group-title="RELIGIOSOS EVANGÉLICOS",MANÁ BRASIL
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w92536611_b3048000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-english.ar/wp-content/uploads/2020/05/LOGO_TV_MANA_ENGLISH_V1.png" group-title="RELIGIOSOS EVANGÉLICOS",MANÁ ENGLISH
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w1068783311_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="RELIGIOSOS EVANGÉLICOS",MANÁ HINDI
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w273981128_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="RELIGIOSOS EVANGÉLICOS",MANÁ MOÇAMBIQUE
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1738924686_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2020/05/265x145.png-russo-novo.png" group-title="RELIGIOSOS EVANGÉLICOS",MANÁ RÚSSIA
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/chunklist_w2108884996_b413000_sleng.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="RELIGIOSOS EVANGÉLICOS",NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="RELIGIOSOS EVANGÉLICOS",Rede Família 
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="RELIGIOSOS EVANGÉLICOS",REDE FAMÍLIA 
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="RELIGIOSOS EVANGÉLICOS",Rede Gospel 
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="RELIGIOSOS EVANGÉLICOS",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="RELIGIOSOS EVANGÉLICOS",Rede Mundial 
+#EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="RELIGIOSOS EVANGÉLICOS",REDE MUNDIAL
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="RELIGIOSOS EVANGÉLICOS",Rede Super 
+#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="RELIGIOSOS EVANGÉLICOS",REDE SUPER
 https://playback2.akamaized.net/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8?dw=80&hdnts=exp=1649542381~acl=/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8*~hmac=3f0b55b2105f83becc406b7f56d8b192cea723e9ce2f714353e1460214cf3358
-#EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS EVANGÉLICOS",TV Gideões 
+#EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS EVANGÉLICOS",TV GIDEÕES
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSOS EVANGÉLICOS",TV Mão Amiga 
+#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSOS EVANGÉLICOS",TV MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS EVANGÉLICOS",TV Terceiro Anjo 
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS EVANGÉLICOS",TV TERCEIRO ANJO
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## Brasil: s-ports ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="ESPORTES",BAND SPORTS
@@ -873,14 +869,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_s
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="NOTÍCIAS",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="NOTÍCIAS",TV Câmara 
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="NOTÍCIAS",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="NOTÍCIAS",TV Câmara 2 
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="NOTÍCIAS",TV Câmara 3 
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/JroCDcO.png" group-title="NOTÍCIAS",TV Justiça | YT Brasil
-https://ythls.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/JroCDcO.png" group-title="NOTÍCIAS",TV JUSTIÇA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706391973/ei/RSW1ZfeQI42SobIPzNOEoAI/ip/181.217.118.230/id/uPV_CYACs_E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9f9gz-SCL3UmYIQAQSanck6hFqr-rrm5rzvkl6Hzg6f7T_MW9Y7Ri4XWM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUQHCYkZSBLzlF13dG-8xXzysMI-Nt63k_3Ki59Jf8ScCIHpXfJ4b5ZLYGOQuqBPFNEmL_Gr58lUFvv4CnGDbY0fk/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="NOTÍCIAS",UOL - não é 24h | YouTube
 https://ythls.onrender.com/channel/UCVFbXI6Gu8U2f9Gjtxw4A-Q.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaR4UsnlNEkxYTiJCSNhR-95u89KYa_lv3ANM18O7A=s400-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS",Veja.com - não é 24h | YouTube
