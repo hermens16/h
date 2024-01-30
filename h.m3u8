@@ -108,7 +108,7 @@ https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="RELIGIOSOS CATÓLICOS",CANAL DIOCESANO DE TOLEDO | ESPANHA
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSOS CATÓLICOS",SANTUÁRIO DE FATIMA | PORTUGAL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705979583/ei/X9quZYT7Guv31sQPz9Ok6Aw/ip/181.217.118.230/id/N2Alqn9btNY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNPJE9n2QTFGgBdp3539iAZEdIu6Q17EyqNJ_5Z8UX-ICIHW4xuShn0-yJnvwZU1YsMWoLDO9hbp0qUJmkU3sx6e3/file/index.m3u8
+https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_TV_Lux.svg/1200px-Logo_TV_Lux.svg.png" group-title="RELIGIOSOS CATÓLICOS",LUX TELEVISIA | ESLOVÁQUIA
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b2652000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIOSOS CATÓLICOS",TV PADRE PIO | ITÁLIA
