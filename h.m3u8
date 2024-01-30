@@ -38,9 +38,9 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90149.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90409.m3u8
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20CAMARA.png" group-title="TV",TV CAMARA
 http://metv.fun:80/Hr43RT/N3hJ6U/90412.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20DIARIO.png" group-title="TV",TV DIARIO
-http://metv.fun:80/Hr43RT/N3hJ6U/95476.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="TV",TV DIARIO DO SERTÃO 
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20DIARIO.png" group-title="TV",TV DIÁRIO
+http://metv.fun:80/Hr43RT/N3hJ6U/91449.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="TV",TV DIÁRIO DO SERTÃO 
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="VARIEDADES",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
