@@ -32,7 +32,7 @@ http://metv.fun:80/Hr43RT/N3hJ6U/89843.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/89846.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20GAZETA.png" group-title="01 - TV ABERTA",GAZETA
 http://metv.fun:80/Hr43RT/N3hJ6U/90010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOADING" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/CANAL%20LOADING.png" group-title="01 - TV ABERTA",LOADING
+#EXTINF:-1 tvg-id=" tvg-name="LOADING" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/CANAL%20LOADING.png" group-title="01 - TV ABERTA",LOADING
 http://metv.fun:80/Hr43RT/N3hJ6U/90149.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20BRASIL.png" group-title="01 - TV ABERTA",TV BRASIL
 http://metv.fun:80/Hr43RT/N3hJ6U/90409.m3u8
@@ -49,15 +49,15 @@ http://metv.fun:80/Hr43RT/N3hJ6U/100042.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="01 - TV ABERTA",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title=""02 - ESPORTES"",BAND SPORTS
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="02 - ESPORTES",BAND SPORTS
 http://metv.fun:80/Hr43RT/N3hJ6U/89828.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CANAL%20OFF.png" group-title="02 - ESPORTES",CANAL OFF 
 http://metv.fun:80/Hr43RT/N3hJ6U/89850.m3u8
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/COMBATE.png" group-title="02 - ESPORTES",COMBATE 
 http://metv.fun:80/Hr43RT/N3hJ6U/89877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 1 
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 1 
 http://metv.fun:80/Hr43RT/N3hJ6U/89954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 2 
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 2 
 http://metv.fun:80/Hr43RT/N3hJ6U/89955.m3u8
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%202.png" group-title="02 - ESPORTES",ESPN 2 
 http://metv.fun:80/Hr43RT/N3hJ6U/89970.m3u8
@@ -91,15 +91,15 @@ http://metv.fun:80/Hr43RT/N3hJ6U/101486.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90106.m3u8
 #EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 02 
 http://metv.fun:80/Hr43RT/N3hJ6U/90107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 03 
+#EXTINF:-1 tvg-id=" tvg-name="HBO MAX STAR+ 03 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 03 
 http://metv.fun:80/Hr43RT/N3hJ6U/90108.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 04 
 http://metv.fun:80/Hr43RT/N3hJ6U/118108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 1 
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 1 
 http://metv.fun:80/Hr43RT/N3hJ6U/120560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 2 
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 2 
 http://metv.fun:80/Hr43RT/N3hJ6U/120561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 3   
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 3   
 http://metv.fun:80/Hr43RT/N3hJ6U/120562.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE CLUBES 
 http://metv.fun:80/Hr43RT/N3hJ6U/90236.m3u8
@@ -220,7 +220,7 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90203.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90316.m3u8
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/STAR%20CHANNEL.png" group-title="03 - FILMES",STAR CHANNEL 
 http://metv.fun:80/Hr43RT/N3hJ6U/90332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/STAR%20LIFE.png" group-title="03 - FILMES",STAR LIFE 
+#EXTINF:-1 tvg-id=" tvg-name="STAR LIFE" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/STAR%20LIFE.png" group-title="03 - FILMES",STAR LIFE 
 http://metv.fun:80/Hr43RT/N3hJ6U/90344.m3u8
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/STUDIO%20UNIVERSAL.png" group-title="03 - FILMES",STUDIO UNIVERSAL 
 http://metv.fun:80/Hr43RT/N3hJ6U/90348.m3u8
@@ -704,7 +704,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 http://metv.fun:80/Hr43RT/N3hJ6U/89795.m3u8
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="08 - NOTÍCIAS",BAND NEWS 
 http://metv.fun:80/Hr43RT/N3hJ6U/89820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BLOOMBERG.png" group-title="08 - NOTÍCIAS",BLOOMBERG 
+#EXTINF:-1 tvg-id=" tvg-name="BLOOMBERG " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BLOOMBERG.png" group-title="08 - NOTÍCIAS",BLOOMBERG 
 http://metv.fun:80/Hr43RT/N3hJ6U/97746.m3u8
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL " tvg-logo="http://storage.newbp.xyz/lives/NOTICIAS/CNN%20BRASIL.png" group-title="08 - NOTÍCIAS",CNN BRASIL 
 http://metv.fun:80/Hr43RT/N3hJ6U/89873.m3u8
@@ -895,7 +895,7 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/89808.m3u8
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CANAL_RURAL.png" group-title="11 - VARIEDADES",CANAL RURAL 
 http://metv.fun:80/Hr43RT/N3hJ6U/100034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHEF TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CHEF_TV.png" group-title="11 - VARIEDADES",CHEF TV  
+#EXTINF:-1 tvg-id=" tvg-name="CHEF TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CHEF_TV.png" group-title="11 - VARIEDADES",CHEF TV  
 http://metv.fun:80/Hr43RT/N3hJ6U/95490.m3u8
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/COMEDY%20CENTRAL.png" group-title="11 - VARIEDADES",COMEDY CENTRAL 
 http://metv.fun:80/Hr43RT/N3hJ6U/89881.m3u8
@@ -917,7 +917,7 @@ http://metv.fun:80/Hr43RT/N3hJ6U/89994.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/90084.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/LIFETIME.png" group-title="11 - VARIEDADES",LIFETIME 
 http://metv.fun:80/Hr43RT/N3hJ6U/90143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="11 - VARIEDADES",MAIS GLOBOSAT  
+#EXTINF:-1 tvg-id=" tvg-name="MAIS GLOBOSAT  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="11 - VARIEDADES",MAIS GLOBOSAT  
 http://metv.fun:80/Hr43RT/N3hJ6U/95456.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20NA%20TELA.png" group-title="11 - VARIEDADES",MAIS NA TELA 
 http://metv.fun:80/Hr43RT/N3hJ6U/90153.m3u8
@@ -1046,71 +1046,71 @@ https://alanza.iptv2022.com/TV_VOTORANTIM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="11 - VARIEDADES",VILA TV
 https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
 ################### 12 - RÁDIOS #######################
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title=""12 - RÁDIOS"", JEQUIÉ 89.7 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="12 - RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title=""12 - RÁDIOS"",93 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="12 - RÁDIOS",93 FM | JEQUIÉ - BA
 http://stm3.streaminghd.net.br:7056/stream?1705507034790
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title=""12 - RÁDIOS"",95 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="12 - RÁDIOS",95 FM | JEQUIÉ - BA
 https://stream01.ouveai.com.br:1040/stream?1705515578252
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title=""12 - RÁDIOS"",POVO 96,3 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="12 - RÁDIOS",POVO 96,3 FM | JEQUIÉ - BA
 http://s02.transmissaodigital.com:7320/stream?1705515824537
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title=""12 - RÁDIOS"",CIDADE 104.9 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="12 - RÁDIOS",CIDADE 104.9 FM | JEQUIÉ - BA
 http://stm19.oficinadoradio.com.br:8532/stream?1705516706077
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title=""12 - RÁDIOS"",UESB 106.1 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="12 - RÁDIOS",UESB 106.1 FM | JEQUIÉ - BA
 http://200.128.67.125:8001/stream?1705516960157
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title=""12 - RÁDIOS"",APARECIDA 104.3 FM | SP
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="12 - RÁDIOS",APARECIDA 104.3 FM | SP
 https://aparecida.jmvstream.com/stream?1705520098895
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title=""12 - RÁDIOS"",CANÇÃO NOVA 89.1 FM | SP
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="12 - RÁDIOS",CANÇÃO NOVA 89.1 FM | SP
 https://cloud1.cdnseguro.com:20038/stream?1705519584684
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title=""12 - RÁDIOS"",ITAPOAN 97.5 FM | SALVADOR - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="12 - RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
 https://cast.radiu.live:9300/stream?1705523628515
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title=""12 - RÁDIOS"",98 FM | BH MG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="12 - RÁDIOS",98 FM | BH MG
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title=""12 - RÁDIOS"",ALPHA FM | GO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="12 - RÁDIOS",ALPHA FM | GO
 https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title=""12 - RÁDIOS"",ALPHA FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="12 - RÁDIOS",ALPHA FM | SP
 https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title=""12 - RÁDIOS"",BAND FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="12 - RÁDIOS",BAND FM | SP
 https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | MG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | MG
 https://evpp.mm.uol.com.br/band/bandnewsfm_bh/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | PR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | PR
 https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | GO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | GO
 https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | PB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | PB
 https://evpp.mm.uol.com.br/band/bandnewsfm_jp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | AM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | AM
 https://evpp.mm.uol.com.br/band/bandnewsfm_mao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | RS
 https://evpp.mm.uol.com.br/band/bandnewsfm_poa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | RJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | RJ
 https://evpp.mm.uol.com.br/band/bandnewsfm_rj/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title=""12 - RÁDIOS"",BANDNEWS FM | ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="12 - RÁDIOS",BANDNEWS FM | ES
 https://evpp.mm.uol.com.br/band/bandnewsfm_vit/playlist.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title=""12 - RÁDIOS"",CBN RJ 
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="12 - RÁDIOS",CBN RJ 
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title=""12 - RÁDIOS"",CBN SP 
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="12 - RÁDIOS",CBN SP 
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title=""12 - RÁDIOS"",CULTURA DO PARÁ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="12 - RÁDIOS",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title=""12 - RÁDIOS"",DUMONT FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="12 - RÁDIOS",DUMONT FM | SP
 https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title=""12 - RÁDIOS"",EDUCADORA FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="12 - RÁDIOS",EDUCADORA FM | SP
 https://evpp.mm.uol.com.br/band/educadora/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title=""12 - RÁDIOS"",ENERGIA 97 FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="12 - RÁDIOS",ENERGIA 97 FM | SP
 https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title=""12 - RÁDIOS"",NATIVA FM | SP
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="12 - RÁDIOS",NATIVA FM | SP
 https://15123.live.streamtheworld.com/NATIVA_SPAAC/HLS/8b9f21f9-4325-4140-b92a-9ebeaba1d4f1/0/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/89c0Ixi.png" group-title=""12 - RÁDIOS"",PLAY FM | SP
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/89c0Ixi.png" group-title="12 - RÁDIOS",PLAY FM | SP
 https://19813.live.streamtheworld.com/PLAY_SPAAC/HLS/4630fec5-5ccf-4406-bc06-edab6af6b021/0/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title=""12 - RÁDIOS"",RÁDIO CLUBE TV | PORTUGAL
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="12 - RÁDIOS",RÁDIO CLUBE TV | PORTUGAL
 https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioJustica.br" tvg-logo="https://yt3.googleusercontent.com/hv7eKFRIED31zW53TmQnVS4-5PBdQGayWPufohCwO7XV3v7gq0Fo6oobhutT7JukZSYthRx_wQ=s400-c-k-c0x00ffffff-no-rj" group-title=""12 - RÁDIOS"",JUSTIÇA
+#EXTINF:-1 tvg-id="RadioJustica.br" tvg-logo="https://yt3.googleusercontent.com/hv7eKFRIED31zW53TmQnVS4-5PBdQGayWPufohCwO7XV3v7gq0Fo6oobhutT7JukZSYthRx_wQ=s400-c-k-c0x00ffffff-no-rj" group-title="12 - RÁDIOS",JUSTIÇA
 https://ythls.onrender.com/video/tTQlFWxX6rs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title=""12 - RÁDIOS"",SOCIEDADE | BA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="12 - RÁDIOS",SOCIEDADE | BA
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title=""12 - RÁDIOS"",UFRGS | RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="12 - RÁDIOS",UFRGS | RS
 http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cBF0WmI.png" group-title=""12 - RÁDIOS"",STEREO VALE FM
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cBF0WmI.png" group-title="12 - RÁDIOS",STEREO VALE FM
 https://evpp.mm.uol.com.br/band/stereovale/master.m3u8
