@@ -11,7 +11,7 @@ http://metv.fun:80/Hr43RT/N3hJ6U/90064.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT SP
 http://metv.fun:80/Hr43RT/N3hJ6U/90296.m3u8
 #EXTINF:0 group-title="Geral" tvg-id="SBT.br(m3u4u)" tvg-name="SBT São Paulo" tvg-logo="" url-tvg="http://m3u4u.com/epg/68m7n4xmj4szww5n1gek" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000" group-title="01 - TV ABERTA", SBT São Paulo
-https://www.youtube.com/watch?v=ABVQXgr2LW4
+https://vod-akm.play.hotmart.com/video/2qYWrKg8ZB/hls/540/playlist-540-t-1606882771001.m3u8?hdntl=exp=1708177478~acl=/*~data=hdntl~hmac=09f81aa62f75508d696029456094e80e32888c3d4f400979d0ff2dbcd63b1656&app=f57b1bb2-30e3-4fd0-9c59-cfe00909f280
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT BA
 http://metv.fun:80/Hr43RT/N3hJ6U/100538.m3u8
 #EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="01 - TV ABERTA",RECORD SP
