@@ -754,7 +754,7 @@ http://metv.fun:80/Hr43RT/N3hJ6U/89861.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS CATÓLICOS",CANÇÃO NOVA | PORTUGAL
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w51646191.m3u8
 #EXTINF:-1 tvg-logo="https://katholika.com/wp-content/uploads/2023/11/Banner-mobile-C.jpg" group-title="09 - RELIGIOSOS CATÓLICOS",KATHOLIKA
-https://stmv1.srvstm.com/topcall8595/topcall8595/chunklist_w2012920755.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714168777/ei/ac8rZvreKJWDobIPlvyVgA4/ip/181.217.85.119/id/31b095a95c9253e8/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D90246160%3Bdur%3D349.582%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1705845533270537/rqh/1/hls_chunk_host/rr1---sn-gpv7yn7l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/Ie/mm/31,29/mn/sn-gpv7yn7l,sn-gpv7kn7r/ms/au,rdu/mv/m/mvi/1/pl/25/initcwndbps/745000/vprv/1/playlist_type/DVR/dover/13/txp/4532434/mt/1714146804/fvip/4/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIgMCZdKaejH1JhwjAuXqC0Yy6b0PzokPTg1xdQ4uuNNDACIQDYaBG1pi1ifDwXRaZ-krB8XY7Lh1wI4DMLe1s-Cx9sOQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AHWaYeowRgIhALKp-ZkO3XdDaCXJnAYBUA0v7iECtYRY8Z_KzcY3qrYYAiEAxsv7tLOf6J72LMysRxhnbBZPu_D7alasitbyuL-r89Q%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="09 - RELIGIOSOS CATÓLICOS",REDE SÉCULO 21 
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="09 - RELIGIOSOS CATÓLICOS",REDE VIDA
@@ -776,13 +776,15 @@ https://video01.kshost.com.br/associacao9573/associacao9573/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/9cb298376f242f143ceeb33a31ec443a.jpg" group-title="09 - RELIGIOSOS CATÓLICOS",TV JAMPA JOVENS
 https://srv1.zcast.com.br/anderson7754/anderson7754/chunklist_w1052739511.m3u8
 #EXTINF:-1 tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="09 - RELIGIOSOS CATÓLICOS",TV HORIZONTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705979365/ei/hdmuZZSZGsmz4dUPtcuSoAI/ip/181.217.118.230/id/3bES_rvu6BA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/900/manifest_duration/900/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXp3-oxko6YWRl4OYqvnYSery1CabJWSWjrhIivf8P4wCIDRKUo7GWGGzdl8dxbNhJnX-dtuM7bSG3OczlHUFO3rw/file/index.m3u8
+https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tvmacoi-min.png" group-title="09 - RELIGIOSOS CATÓLICOS",TV MACEIÓ
 https://srv5.zcast.com.br/paulo4100/paulo4100/chunklist_w1093536016.m3u8
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/feemissao.com.br/images/summer/user_384186856.jpg" group-title="09 - RELIGIOSOS CATÓLICOS",TV NOVA ESPERANÇA
 https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/chunklist_w1558071811.m3u8
 #EXTINF:-1 tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="09 - RELIGIOSOS CATÓLICOS",TV NOVO MILÊNIO
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
+#EXTINF:-1 tvg-logo="https://obatistaitaborai.com/wp-content/uploads/2020/01/BRAS%C3%83O-PNG.png" group-title="09 - RELIGIOSOS CATÓLICOS",TV PAROQUIA SÃO JOÃO BATISTA
+https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
 #EXTINF:-1 tvg-logo="https://tvsanta.com.br/ws/media-library/16388ae8ccb74c9a8db8856520d646e4/logo-tv-santa-120-x-120.png" group-title="09 - RELIGIOSOS CATÓLICOS",TV SANTA
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1760586997.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Sudoeste_%28Pato_Branco%29.png?20220121230612" group-title="09 - RELIGIOSOS CATÓLICOS",TV SUDOESTE
@@ -814,7 +816,7 @@ https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b2652000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="09 - RELIGIOSOS CATÓLICOS",TV PADRE PIO | ITÁLIA
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1247999103.m3u8
 #EXTINF:-1 tvg-logo="https://www.centesimusannus.org/wp-content/uploads/2022/01/vatican-news-1140x600.jpg" group-title="09 - RELIGIOSOS CATÓLICOS",VATICANO NEWS | ITÁLIA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XBqHnl-WRpI
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714166720/ei/YMcrZorgGLGaobIPndif8AU/ip/181.217.85.119/id/XBqHnl-WRpI.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-gpv7ynee.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/cq/mm/44/mn/sn-gpv7ynee/ms/lva/mv/u/mvi/5/pl/25/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1714144346/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgaf4_UB92MhsByqlzuoKpjHUimvDdVbaVoGPnCm6l51ECIQCi27xuctIWgJhb0KO_-FxWq4cLDkqmbXjTeMG2IbNQXQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAK0gQHMiPRnQDu3AujR9SVWzKepe45DyPHemdUe61-r2AiEAr6vfG89Th3Gdf9yjcJjTVkG-cF3VFPcdKdlVPorBiy0%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="09 - RELIGIOSOS CATÓLICOS",VISIÓN TV | GUATEMALA
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="09 - RELIGIOSOS CATÓLICOS",TELE VID | COLÔMBIA
