@@ -131,6 +131,14 @@ http://metv.fun:80/Hr43RT/N3hJ6U/97048.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/97050.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="02 - ESPORTES",PRIME VIDEO 4 
 http://metv.fun:80/Hr43RT/N3hJ6U/97052.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",APPLETV 01
+http://metv.fun:80/Hr43RT/N3hJ6U/115418.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",APPLETV 02
+http://metv.fun:80/Hr43RT/N3hJ6U/115419.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",APPLETV 03
+http://metv.fun:80/Hr43RT/N3hJ6U/115420.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",APPLETV 04
+http://metv.fun:80/Hr43RT/N3hJ6U/115421.m3u8
 #EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/F1_TV.png" group-title="02 - ESPORTES",F1 TV PRO
 http://metv.fun:80/Hr43RT/N3hJ6U/102402.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/NSPORTS.png" group-title="02 - ESPORTES",NSPORTS
@@ -253,14 +261,6 @@ http://metv.fun:80/Hr43RT/N3hJ6U/91378.m3u8
 http://metv.fun:80/Hr43RT/N3hJ6U/91377.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 " tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/sky.png" group-title="03 - FILMES",CINE SKY 09 
 http://metv.fun:80/Hr43RT/N3hJ6U/91376.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="03 - FILMES",APPLETV 01
-http://metv.fun:80/Hr43RT/N3hJ6U/115418.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="03 - FILMES",APPLETV 02
-http://metv.fun:80/Hr43RT/N3hJ6U/115419.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="03 - FILMES",APPLETV 03
-http://metv.fun:80/Hr43RT/N3hJ6U/115420.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="03 - FILMES",APPLETV 04
-http://metv.fun:80/Hr43RT/N3hJ6U/115421.m3u8
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="03 - FILMES",ADRENALINA FREEZONE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="03 - FILMES",CINDIE LITE
