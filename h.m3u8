@@ -51,22 +51,14 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="02 - ESPORTES",BAND SPORTS
 http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CANAL%20OFF.png" group-title="02 - ESPORTES",CANAL OFF 
-http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/COMBATE.png" group-title="02 - ESPORTES",COMBATE 
-http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 1 
-http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 2 
-http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20BRASIL.png" group-title="02 - ESPORTES",ESPN BRASIL 
+http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%202.png" group-title="02 - ESPORTES",ESPN 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89970.m3u8
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%203.png" group-title="02 - ESPORTES",ESPN 3 
 http://metv.fun:80/4x6cXF/JDqRqj/89974.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%204.png" group-title="02 - ESPORTES",ESPN 4 
 http://metv.fun:80/4x6cXF/JDqRqj/95437.m3u8
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20BRASIL.png" group-title="02 - ESPORTES",ESPN BRASIL 
-http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20EXTRA.png" group-title="02 - ESPORTES",ESPN EXTRA 
 http://metv.fun:80/4x6cXF/JDqRqj/89966.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
@@ -145,6 +137,14 @@ http://metv.fun:80/4x6cXF/JDqRqj/102402.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/102171.m3u8
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="02 - ESPORTES",ALL SPORTS 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CANAL%20OFF.png" group-title="02 - ESPORTES",CANAL OFF 
+http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 1 
+http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 2 
+http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/COMBATE.png" group-title="02 - ESPORTES",COMBATE 
+http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
 #EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="02 - ESPORTES",ESPORTES 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="630e30ba3583440007c64a20" tvg-logo="https://images.pluto.tv/channels/630e30ba3583440007c64a20/colorLogoPNG.png" group-title="02 - ESPORTES",FITNESS 
