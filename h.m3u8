@@ -67,7 +67,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="02 - ESPORTES",SPORTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV ALTERNATIVO" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="02 - ESPORTES",SPORTV 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="02 - ESPORTES",SPORTV
 https://embedcanaistv.site/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="02 - ESPORTES",SPORTV 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90320.m3u8
