@@ -61,16 +61,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89974.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95437.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20EXTRA.png" group-title="02 - ESPORTES",ESPN EXTRA 
 http://metv.fun:80/4x6cXF/JDqRqj/89966.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
-http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="02 - ESPORTES",FOX SPORTS 2 
-http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="02 - ESPORTES",SPORTV 
-http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="02 - ESPORTES",SPORTV 2 
-http://metv.fun:80/4x6cXF/JDqRqj/90320.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%203.png" group-title="02 - ESPORTES",SPORTV 3 
-http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 01 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="02 - ESPORTES",STARPLUS 01 
 http://metv.fun:80/4x6cXF/JDqRqj/101483.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 02 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="02 - ESPORTES",STARPLUS 02 
@@ -87,12 +77,16 @@ http://metv.fun:80/4x6cXF/JDqRqj/90107.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90108.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 04 
 http://metv.fun:80/4x6cXF/JDqRqj/118108.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 1 
-http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 2 
-http://metv.fun:80/4x6cXF/JDqRqj/120561.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 3   
-http://metv.fun:80/4x6cXF/JDqRqj/120562.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
+http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="02 - ESPORTES",FOX SPORTS 2 
+http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="02 - ESPORTES",SPORTV 
+http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="02 - ESPORTES",SPORTV 2 
+http://metv.fun:80/4x6cXF/JDqRqj/90320.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%203.png" group-title="02 - ESPORTES",SPORTV 3 
+http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE CLUBES 
 http://metv.fun:80/4x6cXF/JDqRqj/90236.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 2 
@@ -107,6 +101,12 @@ http://metv.fun:80/4x6cXF/JDqRqj/90224.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90228.m3u8
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 7
 http://metv.fun:80/4x6cXF/JDqRqj/90232.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 1 
+http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 2 
+http://metv.fun:80/4x6cXF/JDqRqj/120561.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 3   
+http://metv.fun:80/4x6cXF/JDqRqj/120562.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 1 
 http://metv.fun:80/4x6cXF/JDqRqj/89885.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 2 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 2 
@@ -428,8 +428,8 @@ https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-id="CGhost.br" tvg-country="BR" tvg-logo="https://i.imgur.com/sUK7lI0.png" group-title="04 - SÉRIES",C-GHOST
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiaTV.tv" tvg-logo="https://yt3.googleusercontent.com/SAa92zHDwVYxI3DNw2y6zjw61dMyQFrErlYlavfgSSP0fGHY5f5Iog_V4M-hztnRn2Iw3KTiDm4=s400-c-k-c0x00ffffff-no-rj" group-title="04 - SÉRIES",Dia TV | YouTube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706150468/ei/5HWxZfW7NpDz1sQP6LmlqAQ/ip/181.217.118.230/id/VuyZci8QlP0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNGBqBv6o_ckwP8x4vsWwm0rhkJB4Vuy0BS2NiszgO8oCIQCCFuWfwNHEDSOyu10tu9tJY1pYsbzfbG664B8ZS1IzDA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="DiaTV.tv" tvg-logo="https://yt3.googleusercontent.com/SAa92zHDwVYxI3DNw2y6zjw61dMyQFrErlYlavfgSSP0fGHY5f5Iog_V4M-hztnRn2Iw3KTiDm4=s400-c-k-c0x00ffffff-no-rj" group-title="04 - SÉRIES",DIA TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1733596219/ei/2z9UZ9jXEfq24dUP6LbVqAk/ip/181.217.115.137/id/Df3g76Y25gs.6/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-gpv7yn7l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/900/manifest_duration/900/spc/qtApAVpP_HUPY8JcqKbJURepnqxRj-ygIoqeVAmkOCtQnaWouw/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/1361250/met/1733574628,/mh/3I/mm/44/mn/sn-gpv7yn7l/ms/lva/mv/m/mvi/5/pl/23/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51326932,51335594,51347746/mt/1733574264/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,ctier,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPhA0Fh7qc6Z8_Z7_56gS77grsHVsEzj-Vk7wLLMdGBrAiEAh70RPETC6HPaqjR93QPlxI0n_HOLjSSJKsbnvAPfcQM%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAImvB5faDiCNmk_M6f-Vie_FeX1TKYhcu_IYQCrZLCCoAiA3FhrwTV9pRYk2tsst8qlUU71Q-cdsvI8JsSlkpF9AkQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="60f8841a4865da0007421177" tvg-logo="https://i.imgur.com/QftguYR.png" group-title="04 - SÉRIES",ESTILO DE VIDA  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="04 - SÉRIES",FASHION STREAM
