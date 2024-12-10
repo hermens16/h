@@ -8,10 +8,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="01 - TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="01 - TV ABERTA",GLOBO BA
-https://live-uvnetweb.yamyday.com/live/pt_ZX338D1BE728F480B_480p.m3u8?content_auth2=main_addr%3Dhttps://live-uvnetweb.yamyday.com/v3/youshi/%26session_id%3DsR3mfYaz4zIw%26app_ver%3D10101%26dev_id%3Dc58f3497%26client_ip%3D187.109.213.156%26sign_type%3D%26spared_addr%3D%26link%3Dcf%26media_encrypted%3D0%26user_id%3D395750286%26auth_id%3D395750286_uvnetweb__0%26app_id%3Duvnetweb%26expired%3D1733788884%26tag%3DBA8CE7%26check_play_ip%3Dtrue%26token%3D2B65C71C8CE70303310C773279E38A50&content_license2=app_id%3Duvnetweb%26tag%3DBA8CE7%26scheme%3Dmd5-01%26media_code%3Dpt_ZX338D1BE728F480B_480p%26expired%3D1734365833%26token%3DE18C63128F7C13FDC348DABF7825DA39&timestamp=1733774570543
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="01 - TV ABERTA",GLOBO MG
-https://live-youcineweb.yamyday.com/live/pt_ZXB4B5AA4C2C55_480p.m3u8?content_auth2=spared_addr%3Dhttps://live-ycweb.yamyday.com/v3/youshi/%26main_addr%3Dhttps://live-youcineweb.yamyday.com/v3/youshi/%26user_id%3D386468012%26link%3Dcf%26media_encrypted%3D0%26sign_type%3D%26auth_id%3D386468012_com.global.ycweb__2%26session_id%3DJAVmmbOk1ixG%26app_ver%3D20301%26app_id%3Dcom.global.ycweb%26dev_id%3D907ac083%26client_ip%3D181.217.115.137%26expired%3D1733767726%26tag%3D15B972%26check_play_ip%3Dtrue%26token%3D378E246E7F847AFCE118B27FDBCAD41A&content_license2=app_id%3Dcom.global.ycweb%26tag%3D15B972%26scheme%3Dmd5-01%26media_code%3Dpt_ZXB4B5AA4C2C55_480p%26expired%3D1734345626%26token%3D4D434BD7A79143C432E99B0FEC3FAF92&timestamp=1733753333823
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT SP
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT BA
@@ -63,6 +59,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/89970.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89974.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%204.png" group-title="02 - ESPORTES",ESPN 4 
 http://metv.fun:80/4x6cXF/JDqRqj/95437.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 5" tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN_5.png" group-title="02 - ESPORTES",ESPN 5 
+http://lidns.cc:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20EXTRA.png" group-title="02 - ESPORTES",ESPN EXTRA 
 http://metv.fun:80/4x6cXF/JDqRqj/89966.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 01 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="02 - ESPORTES",STARPLUS 01 
@@ -127,6 +125,84 @@ http://metv.fun:80/4x6cXF/JDqRqj/97048.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/97050.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="02 - ESPORTES",PRIME VIDEO 4 
 http://metv.fun:80/4x6cXF/JDqRqj/97052.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESPORTES",ELEVEN SPORTS [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101051.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101051.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESPORTES",ELEVEN SPORTS 2 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101052.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 2 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101052.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 3 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESPORTES",ELEVEN SPORTS 3 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101053.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 3 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 3 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101053.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 4 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESPORTES",ELEVEN SPORTS 4 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101054.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 4 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 4 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101054.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 5 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESPORTES",ELEVEN SPORTS 5 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101055.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 5 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 5 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101055.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 6 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | PORTUGAL",ELEVEN SPORTS 6 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101056.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 6 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="CANAIS | ESPORTES",ELEVEN SPORTS 6 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101056.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV + [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | ESPORTES",SPORT TV + [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101057.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV + [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | PORTUGAL",SPORT TV + [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101057.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 1 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | ESPORTES",SPORT TV 1 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101058.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 1 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | PORTUGAL",SPORT TV 1 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101058.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 2 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | ESPORTES",SPORT TV 2 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101059.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 2 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | PORTUGAL",SPORT TV 2 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101059.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 3 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | ESPORTES",SPORT TV 3 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101060.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 3 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | PORTUGAL",SPORT TV 3 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101060.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 4 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | ESPORTES",SPORT TV 4 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 4 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | PORTUGAL",SPORT TV 4 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 5 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | ESPORTES",SPORT TV 5 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 5 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | PORTUGAL",SPORT TV 5 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | ESPORTES",SPORT TV 6 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 [M] (PPV)" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="CANAIS | PORTUGAL",SPORT TV 6 [M] (PPV)
+http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 4 [HD]" tvg-logo="http://stolime.cc/lives/ESPORTES/PRIME_VIDEO.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 4 [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/97052.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 2 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 2 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95533.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 3 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 3 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95532.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 4 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 4 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95531.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 5 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 5 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95530.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 6 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 6 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95529.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 7 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 7 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95528.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 8 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 8 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95527.m3u8
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 9 [M]" tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="CANAIS | NBA | USA",US NBA LEAGUE PASS 9 [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95526.m3u8
+#EXTINF:-1 tvg-id="AEARGE" tvg-name="USA: A&E [M]" tvg-logo="http://stolime.cc/lives/FILMES%20E%20SERIES/A&E.png" group-title="CANAIS | ESTADOS UNIDOS",USA: A&E [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/119491.m3u8
+#EXTINF:-1 tvg-id="ALTSPHD" tvg-name="USA: ALTITUDE SPORTS [M]" tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="CANAIS | ESTADOS UNIDOS",USA: ALTITUDE SPORTS [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/119492.m3u8
+#EXTINF:-1 tvg-id="BAM" tvg-name="USA: BBC AMERICA [M]" tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/BBC_AMERICA.png" group-title="CANAIS | ESTADOS UNIDOS",USA: BBC AMERICA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/119493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE WALK TV [M]" tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/THE_WALK.png" group-title="CANAIS | ESTADOS UNIDOS",USA: THE WALK TV [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/119494.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",APPLETV 01
 http://metv.fun:80/4x6cXF/JDqRqj/115418.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",APPLETV 02
@@ -771,8 +847,6 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1582217926.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="09 - RELIGIOSOS",TV IMACULADA 
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
-#EXTINF:-1 tvg-logo="https://katholika.com/wp-content/uploads/2023/11/Banner-mobile-C.jpg" group-title="09 - RELIGIOSOS",KATHOLIKA
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2ZjNiYWQ3ZGI4OTM5MDRlNWI2YmE4YTc1MWRhYjA3YSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI0ODkzNjUwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.aviikeI61BZeGZuj0G9PW9WEqYSwfMsmrTpauQI0AqcPXpHTUHGEXIscUXou1kQyhIlXjRFl-B7KHbeVpytLK0GALCyz8nXZBBaFg2u48ityo6pHeYdoLTqSqKra82POXqjU_h9pFze4Gw1nrBbvcB-NvaVfL8w3ILPl49BswaUAlXSR8jhe8gneT_6UKBlXNj3Al2NsYfYlIEx225f7iTrebkCDxAAeFlEnyEzZYB8InRaBMbe8P-tO0W8Kpcy-xp-3fdij0-A_OIR69OHQQniByTD9glwlTJnLuU1x0ixJz1g2LUJJ5h-zmm7RfHvGfVFoL1MUv5evO46vaQOz1A/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/61d88063cc559.png" group-title="09 - RELIGIOSOS",TV GOSPA MIRA
 https://gospamira.brasilstream.com.br/hls/gospamira/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="09 - RELIGIOSOS",TV HORIZONTE
@@ -871,7 +945,7 @@ https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="09 - RELIGIOSOS",TV TERCEIRO ANJO
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### 
+############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/ARTE%201.png" group-title="10 - VARIEDADES",ARTE1 
 http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CANAL_RURAL.png" group-title="10 - VARIEDADES",CANAL RURAL 
