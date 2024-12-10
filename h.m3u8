@@ -2,11 +2,11 @@
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS 
 ##### 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ######
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="01 - TV ABERTA",GLOBO RJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO RJ
 http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="01 - TV ABERTA",GLOBO SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO SP
 http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/618px-Globo_logo_%282020-%29.svg.png" group-title="01 - TV ABERTA",GLOBO BA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT SP
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
