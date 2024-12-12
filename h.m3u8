@@ -26,7 +26,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90266.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="01 - TV ABERTA",BAND SP
 http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RedeTV-Logotipo.svg/2560px-RedeTV-Logotipo.svg.png" group-title="01 - TV ABERTA",REDE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216" group-title="01 - TV ABERTA",REDE TV
 http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="01 - TV ABERTA",CULTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
