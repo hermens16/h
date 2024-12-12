@@ -2,7 +2,7 @@
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS 
 ##### 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ######
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_TV_Globo.png" group-title="01 - TV ABERTA",GLOBO BA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="01 - TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-2022-logo-B63B368B27-seeklogo.com.png" group-title="01 - TV ABERTA",GLOBO RJ
 http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
