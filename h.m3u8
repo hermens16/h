@@ -20,9 +20,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT BA
 http://metv.fun:80/4x6cXF/JDqRqj/100538.m3u8
-#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="01 - TV ABERTA",RECORD SP
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png?20160612182852" group-title="01 - TV ABERTA",RECORD SP
 http://metv.fun:80/4x6cXF/JDqRqj/90266.m3u8
-#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="01 - TV ABERTA",RECORD BA
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png?20160612182852" group-title="01 - TV ABERTA",RECORD BA
 http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="01 - TV ABERTA",BAND SP
 http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
