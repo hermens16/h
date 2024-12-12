@@ -2,19 +2,19 @@
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS 
 ##### 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ############# 01 - TV ABERTA ######
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rede-globo.png" group-title="01 - TV ABERTA",GLOBO RJ
-http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rede-globo.png" group-title="01 - TV ABERTA",GLOBO SP
-http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rede-globo.png" group-title="01 - TV ABERTA",GLOBO BA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rede-globo.png" group-title="01 - TV ABERTA",GLOBO MG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO RJ
+http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO SP
+http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91392.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rede-globo.png" group-title="01 - TV ABERTA",GLOBO RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rede-globo.png" group-title="01 - TV ABERTA",GLOBO PR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rede-globo.png" group-title="01 - TV ABERTA",GLOBO NE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="01 - TV ABERTA",GLOBO NE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT SP
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
@@ -32,7 +32,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/TV%20RA%20TIM%20BUM.png" group-title="01 - TV ABERTA",TV RA-TIM-BUM
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20BRASIL.png" group-title="01 - TV ABERTA",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="01 - TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/CANAL%20DO%20BOI.png" group-title="01 - TV ABERTA",CANAL DO BOI
 http://metv.fun:80/4x6cXF/JDqRqj/89843.m3u8
