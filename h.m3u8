@@ -52,7 +52,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="01 - TV ABERTA",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TVE.png" group-title="01 - TV ABERTA",TVE
+#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="01 - TV ABERTA",TVE
 http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="01 - TV ABERTA",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
