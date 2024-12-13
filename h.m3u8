@@ -79,14 +79,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101484.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101485.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 04 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="02 - ESPORTES",DISNEYPLUS 04 
 http://lidns.cc:80/4x6cXF/JDqRqj/101486.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 01 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="02 - ESPORTES",STARPLUS 01 
-http://metv.fun:80/4x6cXF/JDqRqj/101483.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 02 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="02 - ESPORTES",STARPLUS 02 
-http://metv.fun:80/4x6cXF/JDqRqj/101484.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 03 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="02 - ESPORTES",STARPLUS 03 
-http://metv.fun:80/4x6cXF/JDqRqj/101485.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="STARPLUS 04 " tvg-logo="https://storage.newbp.xyz/lives/ESPORTES/STAR%20PLUS.png" group-title="02 - ESPORTES",STARPLUS 04 
-http://metv.fun:80/4x6cXF/JDqRqj/101486.m3u8
 #EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 01 
 http://metv.fun:80/4x6cXF/JDqRqj/90106.m3u8
 #EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 02 
@@ -95,6 +87,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/90107.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90108.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 04 
 http://metv.fun:80/4x6cXF/JDqRqj/118108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONDEMAND 1 [M]" tvg-logo="http://stolime.cc/lives/VARIEDADES/ONDEMAND.png" group-title="02 - ESPORTES",ONDEMAND 1
+http://lidns.cc:80/4x6cXF/JDqRqj/95425.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
 http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="02 - ESPORTES",FOX SPORTS 2 
@@ -141,56 +135,52 @@ http://metv.fun:80/4x6cXF/JDqRqj/97048.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/97050.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="02 - ESPORTES",PRIME VIDEO 4 
 http://metv.fun:80/4x6cXF/JDqRqj/97052.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 
-http://lidns.cc:80/4x6cXF/JDqRqj/101051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%20BRASIL.png" group-title="02 - ESPORTES",ESPN LATINO  
+http://lidns.cc:80/4x6cXF/JDqRqj/126429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%202.png" group-title="02 - ESPORTES",ESPN 2 LATINO  
+http://lidns.cc:80/4x6cXF/JDqRqj/126430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%203.png" group-title="02 - ESPORTES",ESPN 3 LATINO  
+http://lidns.cc:80/4x6cXF/JDqRqj/126431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN_5.png" group-title="02 - ESPORTES",ESPN 5 LATINO  
+http://lidns.cc:80/4x6cXF/JDqRqj/126432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%20BRASIL.png" group-title="02 - ESPORTES",ESPN 6 LATINO  
+http://lidns.cc:80/4x6cXF/JDqRqj/126433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%20BRASIL.png" group-title="02 - ESPORTES",ESPN 7 LATINO  
+http://lidns.cc:80/4x6cXF/JDqRqj/126434.m3u8
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 1 " tvg-logo="http://stolime.cc/lives/ESPORTES/DAZN.png" group-title="02 - ESPORTES",DAZN 1 
+http://lidns.cc:80/4x6cXF/JDqRqj/89907.m3u8
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/DAZN.png" group-title="02 - ESPORTES",DAZN 2 
+http://lidns.cc:80/4x6cXF/JDqRqj/89908.m3u8
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 " tvg-logo="http://stolime.cc/lives/ESPORTES/DAZN.png" group-title="02 - ESPORTES",DAZN 3 
+http://lidns.cc:80/4x6cXF/JDqRqj/89909.m3u8
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 4 " tvg-logo="http://stolime.cc/lives/ESPORTES/DAZN.png" group-title="02 - ESPORTES",DAZN 4 
+http://lidns.cc:80/4x6cXF/JDqRqj/89910.m3u8
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 5 " tvg-logo="http://stolime.cc/lives/ESPORTES/DAZN.png" group-title="02 - ESPORTES",DAZN 5 
+http://lidns.cc:80/4x6cXF/JDqRqj/89911.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 
 http://lidns.cc:80/4x6cXF/JDqRqj/101051.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 2 
 http://lidns.cc:80/4x6cXF/JDqRqj/101052.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 2 
-http://lidns.cc:80/4x6cXF/JDqRqj/101052.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 3 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 3 
-http://lidns.cc:80/4x6cXF/JDqRqj/101053.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 3 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 3 
 http://lidns.cc:80/4x6cXF/JDqRqj/101053.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 4 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 4 
 http://lidns.cc:80/4x6cXF/JDqRqj/101054.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 4 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 4 
-http://lidns.cc:80/4x6cXF/JDqRqj/101054.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 5 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 5 
-http://lidns.cc:80/4x6cXF/JDqRqj/101055.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 5 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 5 
 http://lidns.cc:80/4x6cXF/JDqRqj/101055.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 6 
 http://lidns.cc:80/4x6cXF/JDqRqj/101056.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="02 - ESPORTES",ELEVEN SPORTS 6 
-http://lidns.cc:80/4x6cXF/JDqRqj/101056.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV + " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV + 
-http://lidns.cc:80/4x6cXF/JDqRqj/101057.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV + " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV + 
 http://lidns.cc:80/4x6cXF/JDqRqj/101057.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 1 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 1 
 http://lidns.cc:80/4x6cXF/JDqRqj/101058.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 1 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 1 
-http://lidns.cc:80/4x6cXF/JDqRqj/101058.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 2 
-http://lidns.cc:80/4x6cXF/JDqRqj/101059.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 2 
 http://lidns.cc:80/4x6cXF/JDqRqj/101059.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 3 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 3 
 http://lidns.cc:80/4x6cXF/JDqRqj/101060.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 3 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 3 
-http://lidns.cc:80/4x6cXF/JDqRqj/101060.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 4 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 4 
-http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 4 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 4 
 http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 5 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 5 
 http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 5 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 5 
-http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 6 
-http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 6 
 http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
 #EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="02 - ESPORTES",US NBA LEAGUE PASS 2 
@@ -558,7 +548,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="04 - SÉRIES",Os ARQUIVOS DO FBI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="04 - SÉRIES",Pet Lovers | SAOUL TV BRASIL
+#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="04 - SÉRIES",PET LOVERS
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="04 - SÉRIES",PRONTO-SOCORRO: HISTÓRIAS DE EMERGÊNCIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -663,7 +653,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="05 - INFANTIS",SUPER ONZE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="05 - INFANTIS",Tartarugas NINJA
+#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="05 - INFANTIS",TARTARUGAS NINJA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="05 - INFANTIS",TG TOON GOOGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
