@@ -77,35 +77,35 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101484.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101485.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 04 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="02 - ESPORTES",DISNEYPLUS 04 
 http://lidns.cc:80/4x6cXF/JDqRqj/101486.m3u8
-#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 01 
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 01 
 http://metv.fun:80/4x6cXF/JDqRqj/90106.m3u8
-#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 02 
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 02 
 http://metv.fun:80/4x6cXF/JDqRqj/90107.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="HBO MAX STAR+ 03 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 03 
+#EXTINF:-1 tvg-id=" tvg-name="HBO MAX STAR+ 03 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 03 
 http://metv.fun:80/4x6cXF/JDqRqj/90108.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="02 - ESPORTES",HBO MAX STAR+ 04 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 04 
 http://metv.fun:80/4x6cXF/JDqRqj/118108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONDEMAND 1 [M]" tvg-logo="http://stolime.cc/lives/VARIEDADES/ONDEMAND.png" group-title="02 - ESPORTES",ONDEMAND 1
+#EXTINF:-1 tvg-id="" tvg-name="ONDEMAND 1 [M]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/800px-Star%2B_logo.svg.png" group-title="02 - ESPORTES",ONDEMAND 1
 http://lidns.cc:80/4x6cXF/JDqRqj/95425.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="02 - ESPORTES",SPORTV 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="02 - ESPORTES",SPORTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="02 - ESPORTES",SPORTV 2 
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="02 - ESPORTES",SPORTV 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90320.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%203.png" group-title="02 - ESPORTES",SPORTV 3 
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="02 - ESPORTES",SPORTV 3 
 http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE CLUBES 
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE CLUBES 
 http://metv.fun:80/4x6cXF/JDqRqj/90236.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 2 
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90212.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 3 
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 3 
 http://metv.fun:80/4x6cXF/JDqRqj/90216.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 4 
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 4 
 http://metv.fun:80/4x6cXF/JDqRqj/90220.m3u8
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 5 
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 5 
 http://metv.fun:80/4x6cXF/JDqRqj/90224.m3u8
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 6 
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 6 
 http://metv.fun:80/4x6cXF/JDqRqj/90228.m3u8
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 7
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 7
 http://metv.fun:80/4x6cXF/JDqRqj/90232.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
 http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
@@ -260,7 +260,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90114.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90119.m3u8
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="03 - FILMES",HBO XTREME 
 http://metv.fun:80/4x6cXF/JDqRqj/90123.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Telecine_Action.png" group-title="03 - FILMES",TELECINE ACTION 
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9f/Tcactionb.jpg/revision/latest?cb=20200817022159&path-prefix=pt-br" group-title="03 - FILMES",TELECINE ACTION 
 http://metv.fun:80/4x6cXF/JDqRqj/90362.m3u8
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/800px-Telecine_Cult_2019.png" group-title="03 - FILMES",TELECINE CULT
 http://metv.fun:80/4x6cXF/JDqRqj/90366.m3u8
