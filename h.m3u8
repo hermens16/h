@@ -57,11 +57,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="01 - TV ABERTA",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Band-Sports-Png-1024x1024.png" group-title="02 - ESPORTES",BAND SPORTS
-http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/800px-Logo_espnbrasil.png" group-title="02 - ESPORTES",ESPN BRASIL 
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="02 - ESPORTES",ESPN 2 
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="02 - ESPORTES",ESPN 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89970.m3u8
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="02 - ESPORTES",ESPN 3 
 http://metv.fun:80/4x6cXF/JDqRqj/89974.m3u8
@@ -89,10 +87,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90108.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/118108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONDEMAND 1 [M]" tvg-logo="http://stolime.cc/lives/VARIEDADES/ONDEMAND.png" group-title="02 - ESPORTES",ONDEMAND 1
 http://lidns.cc:80/4x6cXF/JDqRqj/95425.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
-http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="02 - ESPORTES",FOX SPORTS 2 
-http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="02 - ESPORTES",SPORTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="02 - ESPORTES",SPORTV 2 
@@ -113,20 +107,16 @@ http://metv.fun:80/4x6cXF/JDqRqj/90224.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90228.m3u8
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="02 - ESPORTES",PREMIERE 7
 http://metv.fun:80/4x6cXF/JDqRqj/90232.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
+http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="02 - ESPORTES",FOX SPORTS 2 
+http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 1 
 http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 2 
 http://metv.fun:80/4x6cXF/JDqRqj/120561.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 3   
 http://metv.fun:80/4x6cXF/JDqRqj/120562.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 1 
-http://metv.fun:80/4x6cXF/JDqRqj/89885.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 2 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 2 
-http://metv.fun:80/4x6cXF/JDqRqj/89888.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 3 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 3 
-http://metv.fun:80/4x6cXF/JDqRqj/89891.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 4 
-http://metv.fun:80/4x6cXF/JDqRqj/89894.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="02 - ESPORTES",PRIME VIDEO 1 
 http://metv.fun:80/4x6cXF/JDqRqj/97045.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 2 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="02 - ESPORTES",PRIME VIDEO 2 
@@ -135,6 +125,14 @@ http://metv.fun:80/4x6cXF/JDqRqj/97048.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/97050.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME_VIDEO.png" group-title="02 - ESPORTES",PRIME VIDEO 4 
 http://metv.fun:80/4x6cXF/JDqRqj/97052.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 1 
+http://metv.fun:80/4x6cXF/JDqRqj/89885.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 2 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 2 
+http://metv.fun:80/4x6cXF/JDqRqj/89888.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 3 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 3 
+http://metv.fun:80/4x6cXF/JDqRqj/89891.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 4 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CONMEBOL.png" group-title="02 - ESPORTES",CONMEBOL PARAMOUNT+ 4 
+http://metv.fun:80/4x6cXF/JDqRqj/89894.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%20BRASIL.png" group-title="02 - ESPORTES",ESPN LATINO  
 http://lidns.cc:80/4x6cXF/JDqRqj/126429.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%202.png" group-title="02 - ESPORTES",ESPN 2 LATINO  
@@ -183,6 +181,22 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 6 
 http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Band-Sports-Png-1024x1024.png" group-title="02 - ESPORTES",BAND SPORTS
+http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/F1_TV.png" group-title="02 - ESPORTES",F1 TV PRO
+http://metv.fun:80/4x6cXF/JDqRqj/102402.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/NSPORTS.png" group-title="02 - ESPORTES",NSPORTS
+http://metv.fun:80/4x6cXF/JDqRqj/102171.m3u8
+#EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="02 - ESPORTES",ALL SPORTS 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-id="ALTSPHD" tvg-name="USA: ALTITUDE SPORTS " tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="02 - ESPORTES",USA: ALTITUDE SPORTS 
+http://lidns.cc:80/4x6cXF/JDqRqj/119492.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CANAL%20OFF.png" group-title="02 - ESPORTES",CANAL OFF 
+http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 1 
+http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 2 
+http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
 #EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="02 - ESPORTES",US NBA LEAGUE PASS 2 
 http://lidns.cc:80/4x6cXF/JDqRqj/95533.m3u8
 #EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 3 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="02 - ESPORTES",US NBA LEAGUE PASS 3 
@@ -199,20 +213,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/95528.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/95527.m3u8
 #EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 9 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="02 - ESPORTES",US NBA LEAGUE PASS 9 
 http://lidns.cc:80/4x6cXF/JDqRqj/95526.m3u8
-#EXTINF:-1 tvg-id="ALTSPHD" tvg-name="USA: ALTITUDE SPORTS " tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="02 - ESPORTES",USA: ALTITUDE SPORTS 
-http://lidns.cc:80/4x6cXF/JDqRqj/119492.m3u8
-#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/F1_TV.png" group-title="02 - ESPORTES",F1 TV PRO
-http://metv.fun:80/4x6cXF/JDqRqj/102402.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/NSPORTS.png" group-title="02 - ESPORTES",NSPORTS
-http://metv.fun:80/4x6cXF/JDqRqj/102171.m3u8
-#EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="02 - ESPORTES",ALL SPORTS 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CANAL%20OFF.png" group-title="02 - ESPORTES",CANAL OFF 
-http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 1 
-http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 2 
-http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/COMBATE.png" group-title="02 - ESPORTES",COMBATE 
 http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
 #EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="02 - ESPORTES",ESPORTES 
@@ -244,29 +244,29 @@ https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="02 - ESPORTES",WORLD POKER TOUR 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ##### 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ######
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO.png" group-title="03 - FILMES",HBO
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="03 - FILMES",HBO
 http://metv.fun:80/4x6cXF/JDqRqj/90100.m3u8
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%202.png" group-title="03 - FILMES",HBO 2 
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="03 - FILMES",HBO 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90092.m3u8
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20FAMILY.png" group-title="03 - FILMES",HBO FAMILY
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="03 - FILMES",HBO FAMILY
 http://metv.fun:80/4x6cXF/JDqRqj/90096.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MUNDI.png" group-title="03 - FILMES",HBO MUNDI
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="03 - FILMES",HBO MUNDI
 http://metv.fun:80/4x6cXF/JDqRqj/90110.m3u8
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="https://storage.newbp.xyz/lives/HBO/HBO%20PLUS%202.png" group-title="03 - FILMES",HBO PLUS
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="03 - FILMES",HBO PLUS
 http://metv.fun:80/4x6cXF/JDqRqj/95501.m3u8
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20POP.png" group-title="03 - FILMES",HBO POP
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="03 - FILMES",HBO POP
 http://metv.fun:80/4x6cXF/JDqRqj/90114.m3u8
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20SIGNATURE.png" group-title="03 - FILMES",HBO SIGNATURE
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="03 - FILMES",HBO SIGNATURE
 http://metv.fun:80/4x6cXF/JDqRqj/90119.m3u8
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20XTREME.png" group-title="03 - FILMES",HBO XTREME 
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="03 - FILMES",HBO XTREME 
 http://metv.fun:80/4x6cXF/JDqRqj/90123.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="http://storage.newbp.xyz/lives/TELECINE/TELECINE%20ACTION.png" group-title="03 - FILMES",TELECINE ACTION 
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Telecine_Action.png" group-title="03 - FILMES",TELECINE ACTION 
 http://metv.fun:80/4x6cXF/JDqRqj/90362.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="http://storage.newbp.xyz/lives/TELECINE/TELECINE%20CULT.png" group-title="03 - FILMES",TELECINE CULT
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/800px-Telecine_Cult_2019.png" group-title="03 - FILMES",TELECINE CULT
 http://metv.fun:80/4x6cXF/JDqRqj/90366.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="http://storage.newbp.xyz/lives/TELECINE/TELECINE%20FUN.png" group-title="03 - FILMES",TELECINE FUN
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Telecine_Fun_%282019%29.svg/800px-Telecine_Fun_%282019%29.svg.png" group-title="03 - FILMES",TELECINE FUN
 http://metv.fun:80/4x6cXF/JDqRqj/90370.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="http://storage.newbp.xyz/lives/TELECINE/TELECINE%20PIPOCA.png" group-title="03 - FILMES",TELECINE PIPOCA 
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Tcpipocab.jpg/revision/latest?cb=20200817021740&path-prefix=pt-br" group-title="03 - FILMES",TELECINE PIPOCA 
 http://metv.fun:80/4x6cXF/JDqRqj/90374.m3u8
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://storage.newbp.xyz/lives/TELECINE/TELECINE%20PREMIUM.png" group-title="03 - FILMES",TELECINE PREMIUM 
 http://metv.fun:80/4x6cXF/JDqRqj/90378.m3u8
