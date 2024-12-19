@@ -11,9 +11,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
 #EXTINF:-1 tvg-id="Globo Belo Horizonte HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="01 - TV ABERTA",GLOBO MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91392.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="01 - TV ABERTA",GLOBO RS
-http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="01 - TV ABERTA",GLOBO PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
+#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="01 - TV ABERTA",GLOBO PR
+http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="01 - TV ABERTA",GLOBO NE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 - TV ABERTA",SBT SP
