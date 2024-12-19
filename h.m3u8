@@ -30,7 +30,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 #EXTINF:-1 tvg-id="Cultura HD.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="01 - TV ABERTA",CULTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://scontent.fvdc14-1.fna.fbcdn.net/v/t39.30808-6/311301065_531944288935251_4667083937016977977_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=5vUCJ2aqtqcQ7kNvgER_mze&_nc_zt=23&_nc_ht=scontent.fvdc14-1.fna&_nc_gid=AiykR5ZaN93EFpTAFVkdbOn&oh=00_AYDyGfUaAUJ_vyD2mtupsnixnKZQpMF2TTBFGSlFFetxJg&oe=6760C190" group-title="01 - TV ABERTA",TV RA-TIM-BUM
+#EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-logo="https://scontent.fvdc14-1.fna.fbcdn.net/v/t39.30808-6/311301065_531944288935251_4667083937016977977_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=5vUCJ2aqtqcQ7kNvgER_mze&_nc_zt=23&_nc_ht=scontent.fvdc14-1.fna&_nc_gid=AiykR5ZaN93EFpTAFVkdbOn&oh=00_AYDyGfUaAUJ_vyD2mtupsnixnKZQpMF2TTBFGSlFFetxJg&oe=6760C190" group-title="01 - TV ABERTA",TV RA-TIM-BUM
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="01 - TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
@@ -38,7 +38,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89843.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="01 - TV ABERTA",CANAL FUTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
-#EXTINF:-1 tvg-id="Gazeta HD.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="01 - TV ABERTA",GAZETA
+#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="01 - TV ABERTA",GAZETA
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="01 - TV ABERTA",LOADING
 http://metv.fun:80/4x6cXF/JDqRqj/90149.m3u8
