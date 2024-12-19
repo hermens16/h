@@ -185,17 +185,17 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
 #EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 " tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0-1536x1536.png" group-title="02 - ESPORTES",F1 TV PRO
 http://metv.fun:80/4x6cXF/JDqRqj/102402.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/NSPORTS.png" group-title="02 - ESPORTES",NSPORTS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="https://www.claro.com.br/files/104379/570x380/12ace6ddd3/img-novos-canais-nsports-mobile-v4.png/m/filters:quality(75)" group-title="02 - ESPORTES",NSPORTS
 http://metv.fun:80/4x6cXF/JDqRqj/102171.m3u8
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="02 - ESPORTES",ALL SPORTS 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="ALTSPHD" tvg-name="USA: ALTITUDE SPORTS " tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="02 - ESPORTES",USA: ALTITUDE SPORTS 
 http://lidns.cc:80/4x6cXF/JDqRqj/119492.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/CANAL%20OFF.png" group-title="02 - ESPORTES",CANAL OFF 
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="02 - ESPORTES",CANAL OFF 
 http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 1 
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="02 - ESPORTES",DUBAI SPORTS 1 
 http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/DUBAI%20SPORTS.png" group-title="02 - ESPORTES",DUBAI SPORTS 2 
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="02 - ESPORTES",DUBAI SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
 #EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="02 - ESPORTES",US NBA LEAGUE PASS 2 
 http://lidns.cc:80/4x6cXF/JDqRqj/95533.m3u8
