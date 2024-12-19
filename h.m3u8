@@ -57,7 +57,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="01 - TV ABERTA",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/800px-Logo_espnbrasil.png" group-title="02 - ESPORTES",ESPN BRASIL 
+#EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/800px-Logo_espnbrasil.png" group-title="02 - ESPORTES",ESPN BRASIL 
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="02 - ESPORTES",ESPN 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89970.m3u8
