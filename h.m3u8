@@ -34,13 +34,13 @@ http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="01 - TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png" group-title="01 - TV ABERTA",CANAL DO BOI
+#EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png" group-title="01 - TV ABERTA",CANAL DO BOI
 http://metv.fun:80/4x6cXF/JDqRqj/89843.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="CANAL FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="01 - TV ABERTA",CANAL FUTURA
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="01 - TV ABERTA",CANAL FUTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="01 - TV ABERTA",GAZETA
+#EXTINF:-1 tvg-id="Gazeta HD.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="01 - TV ABERTA",GAZETA
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="01 - TV ABERTA",LOADING
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="01 - TV ABERTA",LOADING
 http://metv.fun:80/4x6cXF/JDqRqj/90149.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://toppng.com/uploads/preview/tv-brasil-11550720773jqxmfgidby.png" group-title="01 - TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
@@ -52,9 +52,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="01 - TV ABERTA",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="01 - TV ABERTA",TVE
+#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="01 - TV ABERTA",TVE ESPANHOL
 http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="01 - TV ABERTA",TVE BAHIA
+#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="01 - TV ABERTA",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES ############## 02 - ESPORTES ############## ############## 02 - ESPORTES
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/800px-Logo_espnbrasil.png" group-title="02 - ESPORTES",ESPN BRASIL 
