@@ -93,7 +93,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90320.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="02 - ESPORTES",SPORTV 3 
 http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE CLUBES 
+#EXTINF:-1 tvg-id="Premiere Clubes.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE CLUBES 
 http://metv.fun:80/4x6cXF/JDqRqj/90236.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90212.m3u8
@@ -109,7 +109,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90228.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90232.m3u8
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="02 - ESPORTES",FOX SPORTS 
 http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="02 - ESPORTES",FOX SPORTS 2 
+#EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="02 - ESPORTES",FOX SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="http://storage.newbp.xyz/lives/WEBPLAYER/PLAY-LOGO.png" group-title="02 - ESPORTES",CAZE TV 1 
 http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
@@ -181,7 +181,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="02 - ESPORTES",SPORT TV 6 
 http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Band-Sports-Png-1024x1024.png" group-title="02 - ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Band-Sports-Png-1024x1024.png" group-title="02 - ESPORTES",BAND SPORTS
 http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
 #EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 01 " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/F1_TV.png" group-title="02 - ESPORTES",F1 TV PRO
 http://metv.fun:80/4x6cXF/JDqRqj/102402.m3u8
