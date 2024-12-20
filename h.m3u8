@@ -111,11 +111,11 @@ http://metv.fun:80/4x6cXF/JDqRqj/90232.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57t_ISrlnUa0jxqvsIY14jBYX7Wam2QyHWw&s" group-title="02 - ESPORTES",FOX SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="02 - ESPORTES",CAZE TV 1 
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="02 - ESPORTES",CAZE TV 1 
 http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="02 - ESPORTES",CAZE TV 2 
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="02 - ESPORTES",CAZE TV 2 
 http://metv.fun:80/4x6cXF/JDqRqj/120561.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="02 - ESPORTES",CAZE TV 3   
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="02 - ESPORTES",CAZE TV 3   
 http://metv.fun:80/4x6cXF/JDqRqj/120562.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="02 - ESPORTES",PRIME VIDEO 1 
 http://metv.fun:80/4x6cXF/JDqRqj/97045.m3u8
@@ -311,6 +311,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90392.m3u8
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="03 - FILMES",TNT SERIES 
 http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/468px-Universal_Channel_Brasil.svg.png" group-title="03 - FILMES",UNIVERSAL CHANNEL
+http://lidns.cc:80/4x6cXF/JDqRqj/90434.m3u8
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="03 - FILMES",WARNER CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/90444.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="03 - FILMES",CINE SKY 01 
@@ -331,13 +332,13 @@ http://metv.fun:80/4x6cXF/JDqRqj/91378.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91377.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="03 - FILMES",CINE SKY 09 
 http://metv.fun:80/4x6cXF/JDqRqj/91376.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="03 - FILMES",APPLETV 01
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="03 - FILMES",APPLETV 01
 http://metv.fun:80/4x6cXF/JDqRqj/115418.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="03 - FILMES",APPLETV 02
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="03 - FILMES",APPLETV 02
 http://metv.fun:80/4x6cXF/JDqRqj/115419.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="03 - FILMES",APPLETV 03
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="03 - FILMES",APPLETV 03
 http://metv.fun:80/4x6cXF/JDqRqj/115420.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="03 - FILMES",APPLETV 04
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="03 - FILMES",APPLETV 04
 http://metv.fun:80/4x6cXF/JDqRqj/115421.m3u8
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="03 - FILMES",ADRENALINA FREEZONE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
