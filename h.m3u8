@@ -246,7 +246,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da
 ##### 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ############# 03 - FILMES ######
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="03 - FILMES",HBO
 http://metv.fun:80/4x6cXF/JDqRqj/90100.m3u8
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="03 - FILMES",HBO 2 
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/800px-HBO2_logo.svg.png" group-title="03 - FILMES",HBO 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90092.m3u8
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="03 - FILMES",HBO FAMILY
 http://metv.fun:80/4x6cXF/JDqRqj/90096.m3u8
@@ -262,7 +262,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90119.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90123.m3u8
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TelecineAction2021.png/657px-TelecineAction2021.png" group-title="03 - FILMES",TELECINE ACTION 
 http://metv.fun:80/4x6cXF/JDqRqj/90362.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="03 - FILMES",TELECINE CULT
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/200px-Rede_Telecine_vertical_logo.svg.png" group-title="03 - FILMES",TELECINE CULT
 http://metv.fun:80/4x6cXF/JDqRqj/90366.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine_Fun_%282021%29.png/657px-Telecine_Fun_%282021%29.png" group-title="03 - FILMES",TELECINE FUN
 http://metv.fun:80/4x6cXF/JDqRqj/90370.m3u8
