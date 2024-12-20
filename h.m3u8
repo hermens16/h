@@ -77,11 +77,11 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101484.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101485.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 04 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="02 - ESPORTES",DISNEYPLUS 04 
 http://lidns.cc:80/4x6cXF/JDqRqj/101486.m3u8
-#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 01 
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 01 
 http://metv.fun:80/4x6cXF/JDqRqj/90106.m3u8
-#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 02 
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="HBO MAX STAR+ 02 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 02 
 http://metv.fun:80/4x6cXF/JDqRqj/90107.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="HBO MAX STAR+ 03 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 03 
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="HBO MAX STAR+ 03 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 03 
 http://metv.fun:80/4x6cXF/JDqRqj/90108.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="02 - ESPORTES",HBO MAX STAR+ 04 
 http://metv.fun:80/4x6cXF/JDqRqj/118108.m3u8
