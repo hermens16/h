@@ -107,9 +107,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/90224.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90228.m3u8
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png?20180325190506" group-title="02 - ESPORTES",PREMIERE 7
 http://metv.fun:80/4x6cXF/JDqRqj/90232.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/76px-FOX_Sports_logo.svg.png" group-title="02 - ESPORTES",FOX SPORTS 
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fox_Sports_Netherlands_Logo.png/800px-Fox_Sports_Netherlands_Logo.png?20190622194344" group-title="02 - ESPORTES",FOX SPORTS 
 http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
-#EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/100px-Fox_sports_2_logo.svg.png" group-title="02 - ESPORTES",FOX SPORTS 2 
+#EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png?20230207231852" group-title="02 - ESPORTES",FOX SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="02 - ESPORTES",CAZE TV 1 
 http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
