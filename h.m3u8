@@ -213,7 +213,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/95528.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/95527.m3u8
 #EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 9 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="02 - ESPORTES",US NBA LEAGUE PASS 9 
 http://lidns.cc:80/4x6cXF/JDqRqj/95526.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/COMBATE.png" group-title="02 - ESPORTES",COMBATE 
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="02 - ESPORTES",COMBATE 
 http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
 #EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="02 - ESPORTES",ESPORTES 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
