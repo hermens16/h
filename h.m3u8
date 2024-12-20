@@ -829,15 +829,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706391973/ei/R
 #### 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ####
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS",CANÇÃO NOVA 
 http://metv.fun:80/4x6cXF/JDqRqj/89861.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
+#EXTINF:-1 tvg-id="CanÃ§ao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
 https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w2078242036.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="09 - RELIGIOSOS",REDE SÉCULO 21 
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="09 - RELIGIOSOS",REDE VIDA
+#EXTINF:-1 tvg-id="Rede Vida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="09 - RELIGIOSOS",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://pbs.twimg.com/profile_images/1285539252995072000/MftGCZSY_400x400.jpg" group-title="09 - RELIGIOSOS",SANTUÁRIO DE APARECIDA
+#EXTINF:-1 tvg-id="TV Aparecida HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1285539252995072000/MftGCZSY_400x400.jpg" group-title="09 - RELIGIOSOS",SANTUÁRIO DE APARECIDA
 https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="09 - RELIGIOSOS",TV APARECIDA 
+#EXTINF:-1 tvg-id="TV Aparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="09 - RELIGIOSOS",TV APARECIDA 
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="09 - RELIGIOSOS",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
@@ -847,7 +847,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/61d88063cc559.png" group-title="09 - RELIGIOSOS",TV GOSPA MIRA
 https://gospamira.brasilstream.com.br/hls/gospamira/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="09 - RELIGIOSOS",TV HORIZONTE
+#EXTINF:-1 tvg-id="Horizonte TV.br" tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="09 - RELIGIOSOS",TV HORIZONTE
 https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tvmacoi-min.png" group-title="09 - RELIGIOSOS",TV MACEIÓ
 https://srv5.zcast.com.br/paulo4100/paulo4100/chunklist_w1093536016.m3u8
@@ -855,7 +855,7 @@ https://srv5.zcast.com.br/paulo4100/paulo4100/chunklist_w1093536016.m3u8
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
 #EXTINF:-1 tvg-logo="https://obatistaitaborai.com/wp-content/uploads/2020/01/BRAS%C3%83O-PNG.png" group-title="09 - RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Sudoeste_%28Pato_Branco%29.png?20220121230612" group-title="09 - RELIGIOSOS",TV SUDOESTE
+#EXTINF:-1 tvg-id="TV Sudoeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Sudoeste_%28Pato_Branco%29.png?20220121230612" group-title="09 - RELIGIOSOS",TV SUDOESTE
 https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CqYFfQj6j_k58rzDzH-32CM6ZXNbgo9DH0SRDABoUKjpEEA5qQfSNJObE4u91TwSz80E7e0azP-z20MAPrwBTcYcxl7DNr8c4vZpBpZ1tiPhFkEbxrx7YajkAsFfvWAvEmNgJHfXuJE8mWPqVXgS5ul4KBYjVQDsX8qlZ0AlVVdP5Q8SXt15w9Te_Sgbv4iZJwnsq-YqR6mfagJYVHDy6_kv_ecaFdsusxM7ZtwYqQMkzfz_Rc79sZzgdJjOW1hzHwvyEGA3dFvTTzGlPE5WA5r-6V1J3gSRgjR7LRs4inWob_HSWXe84yP6RN4KtLJONFYHhn5MQ1I2P2gjem4WiVgP561T6_o9HALJ8jl9m5cSxgrYgU56H-Efnf6kyE9GpPiy8dSChKPkdMemjL8VeEBdiwNJ6OAyEqbN2LLDAWGM8I9ukurP1cm2URdJP-vy_iOyu4fH6iXhkHPHEM7OSwoHX7HFt0ItAOCESzyTcbEHIEYc2MUfWQQECJ0xmug4-JKZnR3QdpIgzxxLaNKvB9y4cG3EEDnlZt0ljXi-U8SPBcUfUuN74so9RzQJGZFleSW2UDcLd_LO3PEcleVEP246q6MYHyl7js_xEI7IkyJmkGR1GbCWRiQKu_Cog2EyduJFQvATuAcXyDqbFmqv4Xy_hLmyIoYY1cHEaFzttiGYCK5uMhIVgeBQDciqEhINtNIGJKdbDzvTR3ksHn5iMiP40Sn0gzaRbJBJcd2o5kPJazHpNh4v1-GuTZUnVtBsr77kkshXvBj7V9Sd4LNwKzmwTKj2_GBWdrROCJut1IevoNoI81XiiEe_eumxX_3LU-QAWWSsSAgjPw0vf3lnB6vfFWLsKlPPLbQA_63Z2skCcYz6tv8sptEUicssuz5TXJCxmk4X5AMZGgz6K1pa3Tn14MtGn8sgASoJdXMtZWFzdC0xMNUI.m3u8
 #EXTINF:-1 tvg-logo="http://tv.vianney.org.br/wp-content/uploads/2017/05/logo_novo.png" group-title="09 - RELIGIOSOS",TV VIANNEY
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist_w1701216078.m3u8
