@@ -830,9 +830,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/JroCDcO.png" group-title="08 - NOTÍCIAS",TV JUSTIÇA
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706391973/ei/RSW1ZfeQI42SobIPzNOEoAI/ip/181.217.118.230/id/uPV_CYACs_E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9f9gz-SCL3UmYIQAQSanck6hFqr-rrm5rzvkl6Hzg6f7T_MW9Y7Ri4XWM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUQHCYkZSBLzlF13dG-8xXzysMI-Nt63k_3Ki59Jf8ScCIHpXfJ4b5ZLYGOQuqBPFNEmL_Gr58lUFvv4CnGDbY0fk/file/index.m3u8
 #### 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ######## 09 - RELIGIOSOS ####
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS",CANÇÃO NOVA 
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS",CANÇÃO NOVA 
 http://metv.fun:80/4x6cXF/JDqRqj/89861.m3u8
-#EXTINF:-1 tvg-id="CanÃ§ao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="09 - RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
 https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w2078242036.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="09 - RELIGIOSOS",REDE SÉCULO 21 
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
