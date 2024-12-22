@@ -803,7 +803,7 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="NOTÍCIAS",CANAL GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="10 - VARIEDADES",CANAL UOL 
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="VARIEDADES",CANAL UOL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTÍCIAS",CBN RJ 
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -946,227 +946,227 @@ https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### 10 - VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/ARTE%201.png" group-title="10 - VARIEDADES",ARTE1 
+############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/ARTE%201.png" group-title="VARIEDADES",ARTE1 
 http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CANAL_RURAL.png" group-title="10 - VARIEDADES",CANAL RURAL 
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CANAL_RURAL.png" group-title="VARIEDADES",CANAL RURAL 
 http://metv.fun:80/4x6cXF/JDqRqj/100034.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CHEF TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CHEF_TV.png" group-title="10 - VARIEDADES",CHEF TV  
+#EXTINF:-1 tvg-id=" tvg-name="CHEF TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CHEF_TV.png" group-title="VARIEDADES",CHEF TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95490.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/COMEDY%20CENTRAL.png" group-title="10 - VARIEDADES",COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL 
 http://metv.fun:80/4x6cXF/JDqRqj/89881.m3u8
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CURTA!.png" group-title="10 - VARIEDADES",CURTA! 
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CURTA!.png" group-title="VARIEDADES",CURTA! 
 http://metv.fun:80/4x6cXF/JDqRqj/89904.m3u8
-#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/DOG%20TV%202.png" group-title="10 - VARIEDADES",DOGTV 
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/DOG%20TV%202.png" group-title="VARIEDADES",DOGTV 
 http://metv.fun:80/4x6cXF/JDqRqj/89951.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/E!.png" group-title="10 - VARIEDADES",E! 
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/E!.png" group-title="VARIEDADES",E! 
 http://metv.fun:80/4x6cXF/JDqRqj/89958.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="EUROCHANNEL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/EUROCHANNEL.png" group-title="10 - VARIEDADES",EUROCHANNEL 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="EUROCHANNEL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/EUROCHANNEL.png" group-title="VARIEDADES",EUROCHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/91362.m3u8
-#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FASHIONTV.png" group-title="10 - VARIEDADES",FASHION TV 
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FASHIONTV.png" group-title="VARIEDADES",FASHION TV 
 http://metv.fun:80/4x6cXF/JDqRqj/89982.m3u8
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FISH%20TV.png" group-title="10 - VARIEDADES",FISH TV 
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FISH%20TV.png" group-title="VARIEDADES",FISH TV 
 http://metv.fun:80/4x6cXF/JDqRqj/89990.m3u8
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FOOD%20NETWORK.png" group-title="10 - VARIEDADES",FOOD NETWORK 
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK 
 http://metv.fun:80/4x6cXF/JDqRqj/89994.m3u8
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/GNT.png" group-title="10 - VARIEDADES",GNT 
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/GNT.png" group-title="VARIEDADES",GNT 
 http://metv.fun:80/4x6cXF/JDqRqj/90084.m3u8
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/LIFETIME.png" group-title="10 - VARIEDADES",LIFETIME 
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/LIFETIME.png" group-title="VARIEDADES",LIFETIME 
 http://metv.fun:80/4x6cXF/JDqRqj/90143.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="MAIS GLOBOSAT  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="10 - VARIEDADES",MAIS GLOBOSAT  
+#EXTINF:-1 tvg-id=" tvg-name="MAIS GLOBOSAT  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT  
 http://metv.fun:80/4x6cXF/JDqRqj/95456.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20NA%20TELA.png" group-title="10 - VARIEDADES",MAIS NA TELA 
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20NA%20TELA.png" group-title="VARIEDADES",MAIS NA TELA 
 http://metv.fun:80/4x6cXF/JDqRqj/90153.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="MODO VIAGEM " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MODO%20VIAGEM.png" group-title="10 - VARIEDADES",MODO VIAGEM 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MODO VIAGEM " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM 
 http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/PLAY_TV.png" group-title="10 - VARIEDADES",PLAY TV  
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/PLAY_TV.png" group-title="VARIEDADES",PLAY TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
-#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME%20BOX%20BRASIL.png" group-title="10 - VARIEDADES",PRIME BOX BRAZIL 
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME%20BOX%20BRASIL.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
-#EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/SABOR%20E%20ARTE.png" group-title="10 - VARIEDADES",SABOR & ARTE 
+#EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/SABOR%20E%20ARTE.png" group-title="VARIEDADES",SABOR & ARTE 
 http://metv.fun:80/4x6cXF/JDqRqj/91388.m3u8
-#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="10 - VARIEDADES",TRAVEL BOX BRAZIL 
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90401.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/VIVA.png" group-title="10 - VARIEDADES",VIVA 
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/VIVA.png" group-title="VARIEDADES",VIVA 
 http://metv.fun:80/4x6cXF/JDqRqj/90440.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="10 - VARIEDADES",1001 NOITES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="10 - VARIEDADES",ABC BRASIL
+#EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="10 - VARIEDADES",AGROBRASIL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="VARIEDADES",AGROBRASIL TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="10 - VARIEDADES",BAND | RBA TV
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="VARIEDADES",BAND | RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="10 - VARIEDADES",BR SUPER TV
+#EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-id="CanalPlural.br" tvg-logo="https://i.imgur.com/sFG3dSr.png" group-title="10 - VARIEDADES",CANAL PLURAL
+#EXTINF:-1 tvg-id="CanalPlural.br" tvg-logo="https://i.imgur.com/sFG3dSr.png" group-title="VARIEDADES",CANAL PLURAL
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="10 - VARIEDADES",CBTV NOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="VARIEDADES",CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="10 - VARIEDADES",COM BRASIL
+#EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="VARIEDADES",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQZEcbT.png" group-title="10 - VARIEDADES",CTV  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQZEcbT.png" group-title="VARIEDADES",CTV  
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
-#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="10 - VARIEDADES",D+ TV 
+#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="VARIEDADES",D+ TV 
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="10 - VARIEDADES",DEMAND AFRICA  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="VARIEDADES",DEMAND AFRICA  
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="10 - VARIEDADES",ISTV
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="VARIEDADES",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="10 - VARIEDADES",Lass TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="VARIEDADES",Lass TV
 https://tv02.zas.media:1936/lasstv/lasstv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="10 - VARIEDADES",NGT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="VARIEDADES",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="10 - VARIEDADES",NOVA ERA TV
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="10 - VARIEDADES",PARAMOUNT+ APRESENTA 
+#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="VARIEDADES",PARAMOUNT+ APRESENTA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="10 - VARIEDADES",PRIMER TV 
+#EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV 
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="10 - VARIEDADES",REDE BRASIL
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="VARIEDADES",REDE BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="10 - VARIEDADES",REDE PREMIUM TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="VARIEDADES",REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="10 - VARIEDADES",REDE SPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="VARIEDADES",REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="10 - VARIEDADES",REVRY BRASIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="VARIEDADES",REVRY BRASIL
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="10 - VARIEDADES",RTP 1 | PORTUGAL
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="VARIEDADES",RTP 1 | PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="10 - VARIEDADES",RTP AÇORES | PORTUGAL
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="VARIEDADES",RTP AÇORES | PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://i.imgur.com/0avw05h.png" group-title="10 - VARIEDADES",RTP ÁFRICA | PORTUGAL
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://i.imgur.com/0avw05h.png" group-title="VARIEDADES",RTP ÁFRICA | PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://i.imgur.com/SBlCf1m.png" group-title="10 - VARIEDADES",RTP INTERNACIONAL | PORTUGAL
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://i.imgur.com/SBlCf1m.png" group-title="VARIEDADES",RTP INTERNACIONAL | PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.imgur.com/vZrqQPX.png" group-title="10 - VARIEDADES",RTP MADEIRA | PORTUGAL
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.imgur.com/vZrqQPX.png" group-title="VARIEDADES",RTP MADEIRA | PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="10 - VARIEDADES",SIC | PORTUGAL
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="VARIEDADES",SIC | PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="10 - VARIEDADES",TDM MACAU | CHINA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="VARIEDADES",TDM MACAU | CHINA
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="10 - VARIEDADES",TDM MACAU | TAIPA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="VARIEDADES",TDM MACAU | TAIPA
 https://live4.tdm.com.mo/ch1/ch1.live/chunklist_w566966703.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wBQZqvb.png" group-title="10 - VARIEDADES",TVG GALICIA | ESPANHA
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wBQZqvb.png" group-title="VARIEDADES",TVG GALICIA | ESPANHA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1249
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/fSnOawT.png" group-title="10 - VARIEDADES",TERRA VIVA
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/fSnOawT.png" group-title="VARIEDADES",TERRA VIVA
 http://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="10 - VARIEDADES",TV A FOLHA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="VARIEDADES",TV A FOLHA
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
-#EXTINF:-1 tvg-id="TVAberta.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title="10 - VARIEDADES",TV ABERTA
+#EXTINF:-1 tvg-id="TVAberta.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title="VARIEDADES",TV ABERTA
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="10 - VARIEDADES",TV BRASIL CENTRAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="VARIEDADES",TV BRASIL CENTRAL
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
-#EXTINF:-1 tvg-id="TVBRICSPortuguese.ru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="10 - VARIEDADES",TV BRICS
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.ru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="VARIEDADES",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/O1WAn2z.png" group-title="10 - VARIEDADES",TV CARIOCA 
+#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/O1WAn2z.png" group-title="VARIEDADES",TV CARIOCA 
 https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDescalvado.br" tvg-logo="https://i.imgur.com/wkjxdRg.png" group-title="10 - VARIEDADES",TV DESCALVADO 
+#EXTINF:-1 tvg-id="TVDescalvado.br" tvg-logo="https://i.imgur.com/wkjxdRg.png" group-title="VARIEDADES",TV DESCALVADO 
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mYp2T7g.png" group-title="10 - VARIEDADES",TV DESTAQUE NACIONAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYp2T7g.png" group-title="VARIEDADES",TV DESTAQUE NACIONAL
 https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/master.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="10 - VARIEDADES",TV DIÁRIO DO SERTÃO
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES",TV DIÁRIO DO SERTÃO
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="10 - VARIEDADES",TV GALEGA
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="VARIEDADES",TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvaguaboa.com.br/admin/assets/img/logo.png" group-title="10 - VARIEDADES",TV ÁGUA BOA
+#EXTINF:-1 tvg-logo="https://www.tvaguaboa.com.br/admin/assets/img/logo.png" group-title="VARIEDADES",TV ÁGUA BOA
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w279367786.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="10 - VARIEDADES",TV GRANDE NATAL
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="VARIEDADES",TV GRANDE NATAL
 https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_1_audio_RCJiu4U1_llhls.m3u8?session=35_9MK1DamT
-#EXTINF:-1 tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="10 - VARIEDADES",TV J.SID
+#EXTINF:-1 tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="VARIEDADES",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616006826369187842/Y-SqSrwl_400x400.jpg" group-title="10 - VARIEDADES",TV RECANTO DA FÉ
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616006826369187842/Y-SqSrwl_400x400.jpg" group-title="VARIEDADES",TV RECANTO DA FÉ
 https://stmv1.srvif.com/2022/2022/chunklist_w914191631.m3u8
-#EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="10 - VARIEDADES",TV LONDRES
+#EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV LONDRES
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="10 - VARIEDADES",TV LUZILÂNDIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="VARIEDADES",TV LUZILÂNDIA
 https://alanza.iptv2022.com/TV_LUZILANDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="10 - VARIEDADES",TV MAX
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="VARIEDADES",TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvmon.br" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png" group-title="10 - VARIEDADES",TV MON
+#EXTINF:-1 tvg-id="Tvmon.br" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png" group-title="VARIEDADES",TV MON
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="10 - VARIEDADES",TV NOVA NORDESTE
+#EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="VARIEDADES",TV NOVA NORDESTE
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="10 - VARIEDADES",TV PANTANAL
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="VARIEDADES",TV PANTANAL
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="10 - VARIEDADES",TV SANTA CECÍLIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="VARIEDADES",TV SANTA CECÍLIA
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="10 - VARIEDADES",TV SULBA
+#EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="VARIEDADES",TV SULBA
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qfSUSw8.png" group-title="10 - VARIEDADES",TV UNIÃO BRASÍLIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qfSUSw8.png" group-title="VARIEDADES",TV UNIÃO BRASÍLIA
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pxpVjh.png" group-title="10 - VARIEDADES",TV VERDES CAMPOS
+#EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pxpVjh.png" group-title="VARIEDADES",TV VERDES CAMPOS
 https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="10 - VARIEDADES",TV VOTORANTIM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="VARIEDADES",TV VOTORANTIM
 https://alanza.iptv2022.com/TV_VOTORANTIM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="10 - VARIEDADES",VILA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="VARIEDADES",VILA TV
 https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
-################### 11 - RÁDIOS #######################
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="11 - RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
+################### RÁDIOS #######################
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="11 - RÁDIOS",93 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="RÁDIOS",93 FM | JEQUIÉ - BA
 http://stm3.streaminghd.net.br:7056/stream?1705507034790
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="11 - RÁDIOS",95 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="RÁDIOS",95 FM | JEQUIÉ - BA
 https://stream01.ouveai.com.br:1040/stream?1705515578252
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="11 - RÁDIOS",POVO 96,3 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="RÁDIOS",POVO 96,3 FM | JEQUIÉ - BA
 http://s02.transmissaodigital.com:7320/stream?1705515824537
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="11 - RÁDIOS",CIDADE 104.9 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="RÁDIOS",CIDADE 104.9 FM | JEQUIÉ - BA
 http://stm19.oficinadoradio.com.br:8532/stream?1705516706077
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="11 - RÁDIOS",UESB 106.1 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="RÁDIOS",UESB 106.1 FM | JEQUIÉ - BA
 http://200.128.67.125:8001/stream?1705516960157
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="11 - RÁDIOS",APARECIDA 104.3 FM | SP
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="RÁDIOS",APARECIDA 104.3 FM | SP
 https://aparecida.jmvstream.com/stream?1705520098895
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="11 - RÁDIOS",CANÇÃO NOVA 89.1 FM | SP
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RÁDIOS",CANÇÃO NOVA 89.1 FM | SP
 https://cloud1.cdnseguro.com:20038/stream?1705519584684
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="11 - RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
 https://cast.radiu.live:9300/stream?1705523628515
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="11 - RÁDIOS",98 FM | BH MG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIOS",98 FM | BH MG
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="11 - RÁDIOS",ALPHA FM | GO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS",ALPHA FM | GO
 https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="11 - RÁDIOS",ALPHA FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS",ALPHA FM | SP
 https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="11 - RÁDIOS",BAND FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIOS",BAND FM | SP
 https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | MG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | MG
 https://evpp.mm.uol.com.br/band/bandnewsfm_bh/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | PR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | PR
 https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | GO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | GO
 https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | PB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | PB
 https://evpp.mm.uol.com.br/band/bandnewsfm_jp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | AM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | AM
 https://evpp.mm.uol.com.br/band/bandnewsfm_mao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | RS
 https://evpp.mm.uol.com.br/band/bandnewsfm_poa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | RJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | RJ
 https://evpp.mm.uol.com.br/band/bandnewsfm_rj/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="11 - RÁDIOS",BANDNEWS FM | ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | ES
 https://evpp.mm.uol.com.br/band/bandnewsfm_vit/playlist.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="11 - RÁDIOS",CBN RJ 
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIOS",CBN RJ 
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="11 - RÁDIOS",CBN SP 
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIOS",CBN SP 
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="11 - RÁDIOS",CULTURA DO PARÁ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="11 - RÁDIOS",DUMONT FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="RÁDIOS",DUMONT FM | SP
 https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="11 - RÁDIOS",EDUCADORA FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="RÁDIOS",EDUCADORA FM | SP
 https://evpp.mm.uol.com.br/band/educadora/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="11 - RÁDIOS",ENERGIA 97 FM | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="RÁDIOS",ENERGIA 97 FM | SP
 https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="11 - RÁDIOS",NATIVA FM | SP
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="RÁDIOS",NATIVA FM | SP
 https://15123.live.streamtheworld.com/NATIVA_SPAAC/HLS/8b9f21f9-4325-4140-b92a-9ebeaba1d4f1/0/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/89c0Ixi.png" group-title="11 - RÁDIOS",PLAY FM | SP
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/89c0Ixi.png" group-title="RÁDIOS",PLAY FM | SP
 https://19813.live.streamtheworld.com/PLAY_SPAAC/HLS/4630fec5-5ccf-4406-bc06-edab6af6b021/0/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="11 - RÁDIOS",RÁDIO CLUBE TV | PORTUGAL
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="RÁDIOS",RÁDIO CLUBE TV | PORTUGAL
 https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioJustica.br" tvg-logo="https://yt3.googleusercontent.com/hv7eKFRIED31zW53TmQnVS4-5PBdQGayWPufohCwO7XV3v7gq0Fo6oobhutT7JukZSYthRx_wQ=s400-c-k-c0x00ffffff-no-rj" group-title="11 - RÁDIOS",JUSTIÇA
+#EXTINF:-1 tvg-id="RadioJustica.br" tvg-logo="https://yt3.googleusercontent.com/hv7eKFRIED31zW53TmQnVS4-5PBdQGayWPufohCwO7XV3v7gq0Fo6oobhutT7JukZSYthRx_wQ=s400-c-k-c0x00ffffff-no-rj" group-title="RÁDIOS",JUSTIÇA
 https://ythls.onrender.com/video/tTQlFWxX6rs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="11 - RÁDIOS",SOCIEDADE | BA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="RÁDIOS",SOCIEDADE | BA
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="11 - RÁDIOS",UFRGS | RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="RÁDIOS",UFRGS | RS
 http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cBF0WmI.png" group-title="11 - RÁDIOS",STEREO VALE FM
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cBF0WmI.png" group-title="RÁDIOS",STEREO VALE FM
 https://evpp.mm.uol.com.br/band/stereovale/master.m3u8
