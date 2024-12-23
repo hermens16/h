@@ -30,8 +30,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 #EXTINF:-1 tvg-id="Cultura HD.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",CULTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
-#EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="TV ABERTA",TV RA-TIM-BUM
-http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
 #EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png" group-title="TV ABERTA",CANAL DO BOI
@@ -564,7 +562,7 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="SÉRIES",VIDA REAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20RA%20TIM%20BUM.png" group-title="INFANTIS",TV RA-TIM-BUM 
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV  " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BABY%20TV.png" group-title="INFANTIS",BABYTV  
 http://metv.fun:80/4x6cXF/JDqRqj/95420.m3u8
