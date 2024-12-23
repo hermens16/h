@@ -111,11 +111,11 @@ http://metv.fun:80/4x6cXF/JDqRqj/90232.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57t_ISrlnUa0jxqvsIY14jBYX7Wam2QyHWw&s" group-title="ESPORTES",FOX SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="ESPORTES",CAZE TV 1 
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="ESPORTES",CAZE TV 1 
 http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="ESPORTES",CAZE TV 2 
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="ESPORTES",CAZE TV 2 
 http://metv.fun:80/4x6cXF/JDqRqj/120561.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="ESPORTES",CAZE TV 3   
+#EXTINF:-1 tvg-id=" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="ESPORTES",CAZE TV 3   
 http://metv.fun:80/4x6cXF/JDqRqj/120562.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="ESPORTES",PRIME VIDEO 1 
 http://metv.fun:80/4x6cXF/JDqRqj/97045.m3u8
@@ -564,6 +564,8 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="SÉRIES",VIDA REAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20RA%20TIM%20BUM.png" group-title="INFANTIS",TV RA-TIM-BUM 
+http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV  " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BABY%20TV.png" group-title="INFANTIS",BABYTV  
 http://metv.fun:80/4x6cXF/JDqRqj/95420.m3u8
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BOOMERANG.png" group-title="INFANTIS",BOOMERANG 
@@ -586,8 +588,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90194.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90198.m3u8
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/TOONCAST.png" group-title="INFANTIS",TOONCAST 
 http://metv.fun:80/4x6cXF/JDqRqj/95503.m3u8
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20RA%20TIM%20BUM.png" group-title="INFANTIS",TV RA-TIM-BUM 
-http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/ZOOMOO.png" group-title="INFANTIS",ZOOMOO 
 http://metv.fun:80/4x6cXF/JDqRqj/90448.m3u8
 #EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://i.imgur.com/iu4Xbjd.png" group-title="INFANTIS",A VIDA MODERNA DE ROCKO
