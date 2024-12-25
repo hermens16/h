@@ -2,20 +2,10 @@
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS RoDrIgUeS
 ##### TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ######
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
-http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RJ
-http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
 #EXTINF:-1 tvg-id="Globo SP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO SP
 http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
-#EXTINF:-1 tvg-id="Globo Belo Horizonte HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MG
-http://lidns.cc:80/4x6cXF/JDqRqj/91392.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RS
-http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO PR
-http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NE
-http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
+#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
+http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
@@ -38,8 +28,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89843.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="TV ABERTA",GAZETA
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="TV ABERTA",LOADING
-http://metv.fun:80/4x6cXF/JDqRqj/90149.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://toppng.com/uploads/preview/tv-brasil-11550720773jqxmfgidby.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-TV-Camara-Png-1024x1024.png" group-title="TV ABERTA",TV CAMARA
@@ -54,6 +42,16 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="TV ABERTA",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RJ
+http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
+#EXTINF:-1 tvg-id="Globo Belo Horizonte HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MG
+http://lidns.cc:80/4x6cXF/JDqRqj/91392.m3u8
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RS
+http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
+#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO PR
+http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NE
+http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN BRASIL" tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN BRASIL 
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
@@ -912,6 +910,8 @@ https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="TV ABERTA",LOADING
+http://metv.fun:80/4x6cXF/JDqRqj/90149.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/ARTE%201.png" group-title="VARIEDADES",ARTE1 
 http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
