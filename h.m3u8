@@ -65,16 +65,16 @@ http://metv.fun:80/4x6cXF/JDqRqj/95437.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png?20220604002901" group-title="ESPORTES",ESPN EXTRA 
 http://metv.fun:80/4x6cXF/JDqRqj/89966.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="https://w7.pngwing.com/pngs/228/313/png-transparent-fox-sports-1-television-channel-fox-sports-north-television-text-trademark.png" group-title="ESPORTES",FOX SPORTS 
+http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57t_ISrlnUa0jxqvsIY14jBYX7Wam2QyHWw&s" group-title="ESPORTES",FOX SPORTS 2 
+http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="ESPORTES",SPORTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="ESPORTES",SPORTV 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90320.m3u8
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="ESPORTES",SPORTV 3 
 http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS" tvg-logo="https://w7.pngwing.com/pngs/228/313/png-transparent-fox-sports-1-television-channel-fox-sports-north-television-text-trademark.png" group-title="ESPORTES",FOX SPORTS 
-http://metv.fun:80/4x6cXF/JDqRqj/90002.m3u8
-#EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57t_ISrlnUa0jxqvsIY14jBYX7Wam2QyHWw&s" group-title="ESPORTES",FOX SPORTS 2 
-http://metv.fun:80/4x6cXF/JDqRqj/89998.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Band-Sports-Png-1024x1024.png" group-title="ESPORTES",BAND SPORTS
 http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 01 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="ESPORTES",DISNEYPLUS 01 
