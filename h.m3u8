@@ -311,32 +311,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90434.m3u8
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="FILMES",WARNER CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/90444.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 01 
-http://metv.fun:80/4x6cXF/JDqRqj/91384.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 02 
-http://metv.fun:80/4x6cXF/JDqRqj/91383.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 03 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 03 
-http://metv.fun:80/4x6cXF/JDqRqj/91382.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 04 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 04 
-http://metv.fun:80/4x6cXF/JDqRqj/91381.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 05 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 05 
-http://metv.fun:80/4x6cXF/JDqRqj/91380.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 06 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 06 
-http://metv.fun:80/4x6cXF/JDqRqj/91379.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 07 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 07 
-http://metv.fun:80/4x6cXF/JDqRqj/91378.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 08 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 08 
-http://metv.fun:80/4x6cXF/JDqRqj/91377.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 09 
-http://metv.fun:80/4x6cXF/JDqRqj/91376.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 01
-http://metv.fun:80/4x6cXF/JDqRqj/115418.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 02
-http://metv.fun:80/4x6cXF/JDqRqj/115419.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 03
-http://metv.fun:80/4x6cXF/JDqRqj/115420.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 04
-http://metv.fun:80/4x6cXF/JDqRqj/115421.m3u8
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="FILMES",ADRENALINA FREEZONE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="FILMES",CINDIE LITE
@@ -403,6 +377,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNvdgy6IgtEVA6GjBWJKqbOvej6rxbe5MEPYt3LPCcxBGRrzxeic80-3CA24BGIAilAhyphenhyphenmgzyz1KkHhg_sGQo7iHraR4BTdao-A-ot_rzRUtIkSMr9imkA259gpUSUy6rxdWJe0JPijQ/s1600/I_sat.png" group-title="FILMES",I SAT 
 http://metv.fun:80/4x6cXF/JDqRqj/95453.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 01 
+http://metv.fun:80/4x6cXF/JDqRqj/91384.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 02 
+http://metv.fun:80/4x6cXF/JDqRqj/91383.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 03 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 03 
+http://metv.fun:80/4x6cXF/JDqRqj/91382.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 04 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 04 
+http://metv.fun:80/4x6cXF/JDqRqj/91381.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 05 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 05 
+http://metv.fun:80/4x6cXF/JDqRqj/91380.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 06 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 06 
+http://metv.fun:80/4x6cXF/JDqRqj/91379.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 07 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 07 
+http://metv.fun:80/4x6cXF/JDqRqj/91378.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 08 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 08 
+http://metv.fun:80/4x6cXF/JDqRqj/91377.m3u8
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 09 
+http://metv.fun:80/4x6cXF/JDqRqj/91376.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 01
+http://metv.fun:80/4x6cXF/JDqRqj/115418.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 02
+http://metv.fun:80/4x6cXF/JDqRqj/115419.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 03
+http://metv.fun:80/4x6cXF/JDqRqj/115420.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 04
+http://metv.fun:80/4x6cXF/JDqRqj/115421.m3u8
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A FEITICEIRA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
