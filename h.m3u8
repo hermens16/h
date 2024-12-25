@@ -22,6 +22,10 @@ http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://toppng.com/uploads/preview/tv-brasil-11550720773jqxmfgidby.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/VIVA.png" group-title="TV ABERTA",VIVA 
+http://metv.fun:80/4x6cXF/JDqRqj/90440.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MULTISHOW.png" group-title="TV ABERTA",MULTISHOW 
+http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="TV ABERTA",CANAL FUTURA
@@ -737,8 +741,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90161.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90165.m3u8
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MTV%20LIVE.png" group-title="MÚSICA",MTV LIVE 
 http://metv.fun:80/4x6cXF/JDqRqj/90168.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MULTISHOW.png" group-title="MÚSICA",MULTISHOW 
-http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 #EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MUSIC%20BOX%20BRASIL.png" group-title="MÚSICA",MUSIC BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90176.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="TRACE BRAZUKA " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/TRACE%20BRAZUCA.png" group-title="MÚSICA",TRACE BRAZUKA 
@@ -954,8 +956,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91388.m3u8
 #EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90401.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/VIVA.png" group-title="VARIEDADES",VIVA 
-http://metv.fun:80/4x6cXF/JDqRqj/90440.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL
