@@ -16,9 +16,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://toppng.com/uploads/preview/tv-brasil-11550720773jqxmfgidby.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/VIVA.png" group-title="TV ABERTA",VIVA 
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20241224170303" group-title="TV ABERTA",VIVA 
 http://metv.fun:80/4x6cXF/JDqRqj/90440.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MULTISHOW.png" group-title="TV ABERTA",MULTISHOW 
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW " tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="TV ABERTA",MULTISHOW 
 http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
@@ -28,7 +28,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
 http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
-#EXTINF:-1 tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
+#EXTINF:-1 tvg-id="diariodosertao.com.br/tv" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="TV ABERTA",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
@@ -46,8 +46,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
+#EXTINF:-1 tvg-id="globoplay.globo.com/tv-globo/ao-vivo/6120663/" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
+Globo TV Bahia.br
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
 #EXTINF:-1 tvg-id="Record TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BA
