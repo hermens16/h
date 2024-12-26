@@ -143,19 +143,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89888.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89891.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 4 
 http://metv.fun:80/4x6cXF/JDqRqj/89894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN LATINO  " tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN LATINO  
-http://lidns.cc:80/4x6cXF/JDqRqj/126429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LATINO  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="ESPORTES",ESPN 2 LATINO  
-http://lidns.cc:80/4x6cXF/JDqRqj/126430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 LATINO  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTES",ESPN 3 LATINO  
-http://lidns.cc:80/4x6cXF/JDqRqj/126431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 LATINO  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="ESPORTES",ESPN 5 LATINO  
-http://lidns.cc:80/4x6cXF/JDqRqj/126432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 LATINO  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 LATINO  
-http://lidns.cc:80/4x6cXF/JDqRqj/126433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 LATINO  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png?20240213032911" group-title="ESPORTES",ESPN 7 LATINO  
-http://lidns.cc:80/4x6cXF/JDqRqj/126434.m3u8
-
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 
 http://lidns.cc:80/4x6cXF/JDqRqj/89907.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 2 
@@ -196,22 +183,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 2 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 2 
-http://lidns.cc:80/4x6cXF/JDqRqj/95533.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 3 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 3 
-http://lidns.cc:80/4x6cXF/JDqRqj/95532.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 4 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 4 
-http://lidns.cc:80/4x6cXF/JDqRqj/95531.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 5 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 5 
-http://lidns.cc:80/4x6cXF/JDqRqj/95530.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 6 
-http://lidns.cc:80/4x6cXF/JDqRqj/95529.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 7 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 7 
-http://lidns.cc:80/4x6cXF/JDqRqj/95528.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 8 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 8 
-http://lidns.cc:80/4x6cXF/JDqRqj/95527.m3u8
-#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="US NBA LEAGUE PASS 9 " tvg-logo="http://stolime.cc/lives/ESPORTES/NBA_LEAGUE_PASS.png" group-title="ESPORTES",US NBA LEAGUE PASS 9 
-http://lidns.cc:80/4x6cXF/JDqRqj/95526.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
 http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
 #EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="ESPORTES",ESPORTES 
@@ -232,12 +203,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS 1
-https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS 2
-https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS 3
-https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
+https://video03.logicahost.com.br/rssports/rssports/chunklist_w301348720.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 2
+https://video03.logicahost.com.br/rssports2/rssports2/chunklist_w313090725.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 3
+https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1739680423.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 4
+https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w161300766.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 5
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w571289972.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS TV
+https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
+https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w1126966857.m3u8
 #EXTINF:-1 tvg-id="TeenNet.br" tvg-logo="https://i.imgur.com/18ce6HL.pngg" group-title="ESPORTES",TEENNET
 https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",WORLD POKER TOUR 
@@ -305,8 +284,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90352.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95473.m3u8
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES",TNT
 http://metv.fun:80/4x6cXF/JDqRqj/90392.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES",TNT SERIES 
-http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
 #EXTINF:-1 tvg-id="Universal Channel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/468px-Universal_Channel_Brasil.svg.png" group-title="FILMES",UNIVERSAL CHANNEL
 http://lidns.cc:80/4x6cXF/JDqRqj/90434.m3u8
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="FILMES",WARNER CHANNEL 
@@ -448,8 +425,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="SÉRIES",INVESTIGAÇÃO  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="TNT NOVELAS (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/475px-Logo_TNT_Novelas.png" group-title="SÉRIES",TNT NOVELAS (FHD)
-http://metv.fun:80/4x6cXF/JDqRqj/115422.m3u8
 #EXTINF:-1 tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="SÉRIES",NOVELAS 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="SÉRIES",PEOPLE ARE AWESOME 
@@ -464,6 +439,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="SÉRIES",THE PET COLLECTIVE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TNT NOVELAS (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/475px-Logo_TNT_Novelas.png" group-title="SÉRIES",TNT NOVELAS (FHD)
+http://metv.fun:80/4x6cXF/JDqRqj/115422.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SÉRIES",TNT SERIES 
+http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="SÉRIES",TOKUSATO  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="SÉRIES",TVI FICÇÃO
@@ -1066,7 +1045,7 @@ https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
 https://alanza.iptv2022.com/TV_VOTORANTIM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="VARIEDADES",VILA TV
 https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="TV ABERTA",TVE ESPANHOL
+#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="VARIEDADES",TVE ESPANHOL
 http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
 ################### RÁDIOS #######################
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
