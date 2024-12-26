@@ -30,7 +30,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
 #EXTINF:-1 tvg-id="diariodosertao.com.br/tv" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
-#EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="TV ABERTA",TV METRÓPOLE 
+#EXTINF:-1 tvg-id="tvmetropolecanal16.com.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="TV ABERTA",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="TV ABERTA",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -78,6 +78,54 @@ http://metv.fun:80/4x6cXF/JDqRqj/90320.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Band-Sports-Png-1024x1024.png" group-title="ESPORTES",BAND SPORTS
 http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="https://www.claro.com.br/files/104379/570x380/12ace6ddd3/img-novos-canais-nsports-mobile-v4.png/m/filters:quality(75)" group-title="ESPORTES",NSPORTS
+http://lidns.cc:80/4x6cXF/JDqRqj/124742.m3u8
+#EXTINF:-1 tvg-id="ALTSPHD" tvg-name="USA: ALTITUDE SPORTS " tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="ESPORTES",USA: ALTITUDE SPORTS 
+http://lidns.cc:80/4x6cXF/JDqRqj/119492.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",CANAL OFF 
+http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 1 
+http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
+#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 2 
+http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
+http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
+#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="ESPORTES",ESPORTES 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="630e30ba3583440007c64a20" tvg-logo="https://images.pluto.tv/channels/630e30ba3583440007c64a20/colorLogoPNG.png" group-title="ESPORTES",FITNESS 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/630e30ba3583440007c64a20/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="http://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="ESPORTES",FUEL TV 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="62e01661a3e6270007f4ec9e" tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="ESPORTES",GAMING UBISOFT  
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="ESPORTES",GEEK E TECH  
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 1
+https://stream.ads.ottera.tv/cl/241226ctmn1feqv9lvrme0j0lg/1920x1080_4787201_4_f.m3u8?i=475_758
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
+https://video03.logicahost.com.br/rssports/rssports/chunklist_w301348720.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 2
+https://video03.logicahost.com.br/rssports2/rssports2/chunklist_w313090725.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 3
+https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1739680423.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 4
+https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w161300766.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 5
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w571289972.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS TV
+https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
+https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w1126966857.m3u8
+#EXTINF:-1 tvg-id="TeenNet.br" tvg-logo="https://i.imgur.com/18ce6HL.pngg" group-title="ESPORTES",TEENNET
+https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
+#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",WORLD POKER TOUR 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 01 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="ESPORTES",DISNEYPLUS 01 
 http://lidns.cc:80/4x6cXF/JDqRqj/101483.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 02 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="ESPORTES",DISNEYPLUS 02 
@@ -170,54 +218,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 6 
 http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="https://www.claro.com.br/files/104379/570x380/12ace6ddd3/img-novos-canais-nsports-mobile-v4.png/m/filters:quality(75)" group-title="ESPORTES",NSPORTS
-http://lidns.cc:80/4x6cXF/JDqRqj/124742.m3u8
-#EXTINF:-1 tvg-id="ALTSPHD" tvg-name="USA: ALTITUDE SPORTS " tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="ESPORTES",USA: ALTITUDE SPORTS 
-http://lidns.cc:80/4x6cXF/JDqRqj/119492.m3u8
-#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",CANAL OFF 
-http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 1 
-http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 2 
-http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
-http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
-#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="ESPORTES",ESPORTES 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="630e30ba3583440007c64a20" tvg-logo="https://images.pluto.tv/channels/630e30ba3583440007c64a20/colorLogoPNG.png" group-title="ESPORTES",FITNESS 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/630e30ba3583440007c64a20/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="http://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="ESPORTES",FUEL TV 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62e01661a3e6270007f4ec9e" tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="ESPORTES",GAMING UBISOFT  
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="ESPORTES",GEEK E TECH  
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 1
-https://stream.ads.ottera.tv/cl/241226ctmn1feqv9lvrme0j0lg/1920x1080_4787201_4_f.m3u8?i=475_758
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
-https://video03.logicahost.com.br/rssports/rssports/chunklist_w301348720.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 2
-https://video03.logicahost.com.br/rssports2/rssports2/chunklist_w313090725.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 3
-https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1739680423.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 4
-https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w161300766.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 5
-https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w571289972.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS TV
-https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
-https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w1126966857.m3u8
-#EXTINF:-1 tvg-id="TeenNet.br" tvg-logo="https://i.imgur.com/18ce6HL.pngg" group-title="ESPORTES",TEENNET
-https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
-#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",WORLD POKER TOUR 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ##### FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ######
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILMES",HBO
 http://metv.fun:80/4x6cXF/JDqRqj/90100.m3u8
