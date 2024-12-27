@@ -488,15 +488,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9e
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV  " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BABY%20TV.png" group-title="INFANTIS",BABYTV  
+#EXTINF:-1 tvg-id="BABY TV.br" tvg-name="BABYTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/800px-Babytvv.png?20121127020616" group-title="INFANTIS",BABYTV  
 http://metv.fun:80/4x6cXF/JDqRqj/95420.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/BOOMERANG.png" group-title="INFANTIS",BOOMERANG 
+#EXTINF:-1 tvg-id="Boomerang HD.br" tvg-name="BOOMERANG " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMERANG 
 http://metv.fun:80/4x6cXF/JDqRqj/89836.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/CARTOOM%20NETWORK.png" group-title="INFANTIS",CARTOON NETWORK 
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="CARTOON NETWORK " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIS",CARTOON NETWORK 
 http://metv.fun:80/4x6cXF/JDqRqj/89865.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CARTOONITO " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/CARTOONITO.png" group-title="INFANTIS",CARTOONITO 
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO 
 http://metv.fun:80/4x6cXF/JDqRqj/91357.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/DISCOVERY%20KIDS.png" group-title="INFANTIS",DISCOVERY KIDS 
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS " tvg-logo="https://seeklogo.com/images/D/discovery-kids-logo-FCF71E0B9B-seeklogo.com.png" group-title="INFANTIS",DISCOVERY KIDS 
 http://metv.fun:80/4x6cXF/JDqRqj/89921.m3u8
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="INFANTIS",DISNEY CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/89941.m3u8
