@@ -966,7 +966,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="VARIEDADES",REVRY BRASIL
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS TV
+#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="VARIEDADES",RS TV
 https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="VARIEDADES",RTP 1 | PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
