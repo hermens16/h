@@ -14,7 +14,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 #EXTINF:-1 tvg-id="Cultura HD.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",CULTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://toppng.com/uploads/preview/tv-brasil-11550720773jqxmfgidby.png" group-title="TV ABERTA",TV BRASIL
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TV_Brasil_logo_2023.svg" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
 #EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="TV ABERTA",GNT 
 http://metv.fun:80/4x6cXF/JDqRqj/90084.m3u8
