@@ -24,7 +24,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="TV ABERTA",CANAL FUTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="VARIEDADES",GNT 
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="TV ABERTA",GNT 
 http://metv.fun:80/4x6cXF/JDqRqj/90084.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="TV ABERTA",GAZETA
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
