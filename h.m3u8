@@ -478,7 +478,7 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://png.pngtree.com/png-clipart/20231127/original/pngtree-real-life-true-photo-png-image_13726854.png" group-title="SÉRIES",VIDA REAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
+#EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
 #EXTINF:-1 tvg-id="BABY TV.br" tvg-name="BABYTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/800px-Babytvv.png?20121127020616" group-title="INFANTIS",BABYTV  
 http://metv.fun:80/4x6cXF/JDqRqj/95420.m3u8
@@ -506,10 +506,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90448.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="INFANTIS",ANIME AÇÃO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="INFANTIS",AS AVENTURAS DE JACKIE CHAN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="http://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="INFANTIS",AS PISTAS DE BLUE  
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="63da6bcd60bc8f0008a5d364" tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="INFANTIS",BABY SHARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="INFANTIS",BABYFIRST 
@@ -519,15 +515,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="INFANTIS",BOB ESPONJA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="INFANTIS",CANAL EDUCAÇÃO
-https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+https://canaleducacao-stream.ebc.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="646663b01593940008990a57" tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="INFANTIS",CAPTAIN TSUBASA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WklXZlV.png" group-title="INFANTIS",CLUBINHO FUN
-http://45.165.178.82:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="INFANTIS",COCORICÓ 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" group-title="INFANTIS",DESENHOS ANTIGOS 1 
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="INFANTIS",ICARLY 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="INFANTIS",JUNIOR  
@@ -558,8 +550,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="INFANTIS",OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="INFANTIS",RAKUTEN TV
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="6202a7fcfb1b100008811f54" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="INFANTIS",ROCKET POWER
@@ -570,40 +560,36 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c275
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="INFANTIS",TURMA DA MÔNICA 
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="INFANTIS",TURMA DA MÔNICA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zDhlE6Z.png" group-title="INFANTIS",XABARÍN CLUBE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSJv0sy.png" group-title="INFANTIS",XILAM
-https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL " tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/89913.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20HOME%20&%20HEALTH.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H 
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H " tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H 
 http://metv.fun:80/4x6cXF/JDqRqj/89917.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID  " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
 http://metv.fun:80/4x6cXF/JDqRqj/95427.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/512px-Science_Channel_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE 
 http://metv.fun:80/4x6cXF/JDqRqj/89925.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER 
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER " tvg-logo="https://banner2.cleanpng.com/20180807/rqq/kisspng-velocity-logo-discovery-hd-discovery-channel-disco-file-2015-discovery-theater-hd-logo-svg-wikimedi-5b699b7e3fb672.887169531533647742261.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER 
 http://metv.fun:80/4x6cXF/JDqRqj/89929.m3u8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO 
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO 
 http://metv.fun:80/4x6cXF/JDqRqj/89933.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD 
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD 
 http://metv.fun:80/4x6cXF/JDqRqj/89937.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET 
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET 
 http://metv.fun:80/4x6cXF/JDqRqj/89803.m3u8
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/HGTV%20HOME%20&%20GARDEN.png" group-title="DOCUMENTÁRIOS",HGTV 
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYCMNTtG5Km5vgG7uNQWL0cdWphqyZUttLw&s" group-title="DOCUMENTÁRIOS",HGTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90127.m3u8
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="DOCUMENTÁRIOS",HISTORY 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90088.m3u8
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL 
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL " tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/90131.m3u8
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO " tvg-logo="http://storage.newbp.xyz/lives/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="DOCUMENTÁRIOS",NATGEO 
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO 
 http://metv.fun:80/4x6cXF/JDqRqj/90180.m3u8
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TLC%20DISCOVERY.png" group-title="DOCUMENTÁRIOS",TLC 
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC " tvg-logo="https://e7.pngegg.com/pngimages/479/542/png-clipart-tlc-logo.png" group-title="DOCUMENTÁRIOS",TLC 
 http://metv.fun:80/4x6cXF/JDqRqj/90388.m3u8
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TRUTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ASSOMBRAÇÕES 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
