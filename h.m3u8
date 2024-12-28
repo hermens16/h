@@ -24,6 +24,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="TV ABERTA",CANAL FUTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="VARIEDADES",GNT 
+http://metv.fun:80/4x6cXF/JDqRqj/90084.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="TV ABERTA",GAZETA
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
@@ -887,8 +889,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89982.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89990.m3u8
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK 
 http://metv.fun:80/4x6cXF/JDqRqj/89994.m3u8
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/GNT.png" group-title="VARIEDADES",GNT 
-http://metv.fun:80/4x6cXF/JDqRqj/90084.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/LIFETIME.png" group-title="VARIEDADES",LIFETIME 
 http://metv.fun:80/4x6cXF/JDqRqj/90143.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="MAIS GLOBOSAT  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT  
