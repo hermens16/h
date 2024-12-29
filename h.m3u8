@@ -583,13 +583,13 @@ http://metv.fun:80/4x6cXF/JDqRqj/89803.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90127.m3u8
 #EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="DOCUMENTÁRIOS",HISTORY 2 
 http://metv.fun:80/4x6cXF/JDqRqj/90088.m3u8
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL " tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL 
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL " tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/90131.m3u8
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO 
 http://metv.fun:80/4x6cXF/JDqRqj/90180.m3u8
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC " tvg-logo="https://e7.pngegg.com/pngimages/479/542/png-clipart-tlc-logo.png" group-title="DOCUMENTÁRIOS",TLC 
 http://metv.fun:80/4x6cXF/JDqRqj/90388.m3u8
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ASSOMBRAÇÕES 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
