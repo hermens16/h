@@ -671,8 +671,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/89795.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89820.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="BLOOMBERG " tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NOTÍCIAS",BLOOMBERG 
 http://metv.fun:80/4x6cXF/JDqRqj/97746.m3u8
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS",BLOOMBERG
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a024c9bc44f4adf14389bbfeab689cd2.webp" group-title="NOTÍCIAS",BLOOMBERG
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/11a4f90a-7dc1-4f23-bd91-dc5897eceadf:SCL/variant/fd3e9ee6e0c218e857d9c21e6e2189a0/bandwidth/3000000.m3u8
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NOTÍCIAS",CNN BRASIL 
 http://metv.fun:80/4x6cXF/JDqRqj/89873.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="FOX NEWS  " tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NOTÍCIAS",FOX NEWS  
