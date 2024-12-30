@@ -687,7 +687,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90259.m3u8
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="NOTÍCIAS",CANAL GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="VARIEDADES",CANAL UOL 
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="NOTÍCIAS",CANAL UOL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTÍCIAS",CBN RJ 
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -833,43 +833,43 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="RELIGIOSOS",LOADING
 http://metv.fun:80/4x6cXF/JDqRqj/90149.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/ARTE%201.png" group-title="VARIEDADES",ARTE1 
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/120px-Arte_1_logo.svg.png" group-title="VARIEDADES",ARTE1 
 http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CANAL_RURAL.png" group-title="VARIEDADES",CANAL RURAL 
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" group-title="VARIEDADES",CANAL RURAL 
 http://metv.fun:80/4x6cXF/JDqRqj/100034.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="CHEF TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CHEF_TV.png" group-title="VARIEDADES",CHEF TV  
+#EXTINF:-1 tvg-id=" tvg-name="CHEF TV  " tvg-logo="https://cheftv.com.br/site_novo/wp-content/uploads/2024/06/logocheftv_rodape.png" group-title="VARIEDADES",CHEF TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95490.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="VARIEDADES",COMEDY CENTRAL 
 http://metv.fun:80/4x6cXF/JDqRqj/89881.m3u8
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/CURTA!.png" group-title="VARIEDADES",CURTA! 
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! " tvg-logo="https://logowik.com/content/uploads/images/canal-curta9116.logowik.com.webp" group-title="VARIEDADES",CURTA! 
 http://metv.fun:80/4x6cXF/JDqRqj/89904.m3u8
-#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/DOG%20TV%202.png" group-title="VARIEDADES",DOGTV 
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/120px-DOGTV_logo.svg.png" group-title="VARIEDADES",DOGTV 
 http://metv.fun:80/4x6cXF/JDqRqj/89951.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/E!.png" group-title="VARIEDADES",E! 
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="VARIEDADES",E! 
 http://metv.fun:80/4x6cXF/JDqRqj/89958.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="EUROCHANNEL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/EUROCHANNEL.png" group-title="VARIEDADES",EUROCHANNEL 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="EUROCHANNEL " tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="VARIEDADES",EUROCHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/91362.m3u8
-#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FASHIONTV.png" group-title="VARIEDADES",FASHION TV 
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ5sitKO_o4HQUovP_hKKoyIFJysaY086IA&s" group-title="VARIEDADES",FASHION TV 
 http://metv.fun:80/4x6cXF/JDqRqj/89982.m3u8
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FISH%20TV.png" group-title="VARIEDADES",FISH TV 
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/120px-Fish_TV_logo_2022.svg.png" group-title="VARIEDADES",FISH TV 
 http://metv.fun:80/4x6cXF/JDqRqj/89990.m3u8
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK 
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/120px-Food_Network_New_Logo.png?20181129223131" group-title="VARIEDADES",FOOD NETWORK 
 http://metv.fun:80/4x6cXF/JDqRqj/89994.m3u8
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/LIFETIME.png" group-title="VARIEDADES",LIFETIME 
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME 
 http://metv.fun:80/4x6cXF/JDqRqj/90143.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="MAIS GLOBOSAT  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT  
+#EXTINF:-1 tvg-id=" tvg-name="MAIS GLOBOSAT  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/120px-Mais_Globosat_logo_2016.svg.png" group-title="VARIEDADES",MAIS GLOBOSAT  
 http://metv.fun:80/4x6cXF/JDqRqj/95456.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MAIS%20NA%20TELA.png" group-title="VARIEDADES",MAIS NA TELA 
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mais_na_Tela_%282020%29.png/120px-Mais_na_Tela_%282020%29.png" group-title="VARIEDADES",MAIS NA TELA 
 http://metv.fun:80/4x6cXF/JDqRqj/90153.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="MODO VIAGEM " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MODO VIAGEM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/120px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",MODO VIAGEM 
 http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/PLAY_TV.png" group-title="VARIEDADES",PLAY TV  
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg/revision/latest?cb=20241019011447" group-title="VARIEDADES",PLAY TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
-#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PRIME%20BOX%20BRASIL.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
-#EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/SABOR%20E%20ARTE.png" group-title="VARIEDADES",SABOR & ARTE 
+#EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/120px-Saborearte.png?20210703164655" group-title="VARIEDADES",SABOR & ARTE 
 http://metv.fun:80/4x6cXF/JDqRqj/91388.m3u8
-#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL 
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TravelBoxBrazillogoatualizado.png/120px-TravelBoxBrazillogoatualizado.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90401.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
