@@ -648,21 +648,21 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 #EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",GEEK E TECH  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/BIS.png" group-title="MÚSICA",BIS 
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS " tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89831.m3u8
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/WOOHOO.png" group-title="MÚSICA",CANAL WOOHOO 
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="MÚSICA",CANAL WOOHOO 
 http://metv.fun:80/4x6cXF/JDqRqj/89858.m3u8
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV '00 " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MTV.png" group-title="MÚSICA",MTV '00 
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV '00 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MÚSICA",MTV '00 
 http://metv.fun:80/4x6cXF/JDqRqj/90161.m3u8
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MTV.png" group-title="MÚSICA",MTV 
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV " tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="MÚSICA",MTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90165.m3u8
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MTV%20LIVE.png" group-title="MÚSICA",MTV LIVE 
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/631px-MTV_Live_2021_logo.svg.png" group-title="MÚSICA",MTV LIVE 
 http://metv.fun:80/4x6cXF/JDqRqj/90168.m3u8
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/MUSIC%20BOX%20BRASIL.png" group-title="MÚSICA",MUSIC BOX BRAZIL 
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="MÚSICA",MUSIC BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90176.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="TRACE BRAZUKA " tvg-logo="http://storage.newbp.xyz/lives/MUSICAS/TRACE%20BRAZUCA.png" group-title="MÚSICA",TRACE BRAZUKA 
+#EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="TRACE BRAZUKA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trace_Brazuca_logo.png/800px-Trace_Brazuca_logo.png" group-title="MÚSICA",TRACE BRAZUKA 
 http://metv.fun:80/4x6cXF/JDqRqj/91365.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA XIAOMI
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA 2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ##############
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/AGROCANAL.png" group-title="NOTÍCIAS",AGRO MAIS 
