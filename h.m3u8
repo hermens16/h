@@ -662,7 +662,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90168.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90176.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="TRACE BRAZUKA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trace_Brazuca_logo.png/800px-Trace_Brazuca_logo.png" group-title="MÚSICA",TRACE BRAZUKA 
 http://metv.fun:80/4x6cXF/JDqRqj/91365.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA 2
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ##############
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS " tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/AGROCANAL.png" group-title="NOTÍCIAS",AGRO MAIS 
