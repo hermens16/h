@@ -685,8 +685,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90139.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90259.m3u8
 #EXTINF:-1 tvg-id="ARTVCanalParlamento.pt" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="NOTÍCIAS",ARTV CANAL PARLAMENTO | PORTUGAL
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS",BLOOMBERG
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="NOTÍCIAS",CANAL GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="VARIEDADES",CANAL UOL 
