@@ -85,7 +85,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="https://www.claro.com.br/files/104379/570x380/12ace6ddd3/img-novos-canais-nsports-mobile-v4.png/m/filters:quality(75)" group-title="ESPORTES",NSPORTS
 http://lidns.cc:80/4x6cXF/JDqRqj/124742.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
 https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w1126966857.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
 https://video03.logicahost.com.br/rssports/rssports/chunklist_w301348720.m3u8
@@ -105,7 +105,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101484.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101485.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 04 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="ESPORTES",DISNEYPLUS 04 
 http://lidns.cc:80/4x6cXF/JDqRqj/101486.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="ESPORTES",HBO MAX STAR+ 01 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="ESPORTES",HBO MAX STAR+ 01 
 http://metv.fun:80/4x6cXF/JDqRqj/90106.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="ESPORTES",HBO MAX STAR+ 02 
 http://metv.fun:80/4x6cXF/JDqRqj/90107.m3u8
@@ -189,9 +189,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 6 
 http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
-#EXTINF:-1 tvg-id="content/dubaisports/livestreaming/channel-1.html" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 1 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 1 
 http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
-#EXTINF:-1 tvg-id="content/dubaisports/livestreaming/channel-2.html" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 2 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 1
 https://stream.ads.ottera.tv/cl/241226ctmn1feqv9lvrme0j0lg/1920x1080_4787201_4_f.m3u8?i=475_758
@@ -203,7 +203,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 #EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="http://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="ESPORTES",FUEL TV 
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ffc5cfa6cad6f2991745c2/variant.m3u8?x-plex-token=ndrf8i8yzWyLjaKXRLHr&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1735244945&url=1338c16cc2c7440a5439a16ba6b8bdb6-102baefdb374e7816cb84704a909c67d8708b87756995eb304042c1bfe649c37fa60d5ac14e7e2b4a1a1b286efca64948ec35f14bf9cbf082342b28edf9b21837c778b50e209ae05a6cc3278b142ddd4b312ca5b93cdf605c5b23e259d93ad4606b57f79170bcbf4e7e191eebd8d324f8d8930c8c39479491adab654dc37fbf556e8595a12f2fd8fa0e22cf099552b7281e88c6c7ab7fb83845289823576fbbc803a7436eb33cd9e06981bb1366027f0fe24350c54deed616c3944afe7bad1689c3d0041a4e6322db0e65626744fd00376ebdb8f2d3f4f25039833c83de966e4e3c0fe07e7e02b2c38c56384502bdb38cfa6e547eb23324b49d1a16b0898b424e9544c94d321ab544ecb6a16788bac754f903aa4e9d3f83a6cd872358534a82a9c053545bac5f958b2823a317be00cd1e2b6e320a5a89a487c29c1bd5dd3dbdf148ccaf550669049f26c1af82b76dc09ab5d337c33588de252a0e61a6b456d995bdce9843a99edd44426b0c74037b9b6ac17bd81eac0611feefd188fb45fbd9cec5b53c81de2dc621555e49cc532e28d927a567cd9704516831d72a330a5ec1eed1d251f1ec8e4e35e87a3adfe41e233624fc126cb407df5d0d970c549ba2da01f91858d75cdfbf1f98d8343ea5f9891081aad2d107d2b7cea42f7dd7c43293e07bcf92b374ea589f300d181718009ea5369a58f27abc69500ed29afc65ddbbd66f36417d036011bbdf0a4d7a8c0f45b74e166b0f1c893e80d3c13f80cd406091bff577ff63e7fcb287bc4b73e3d9b01491d768951719254a2962c08114cc4cfb18e469014a814b8c45e05d95f374e7306d3d1cefa7c2ab4d7761bc9e66b2cc343a515be1d795b1f5c594a9b9f5ccab64a1ecea5f2b6ca267c921003216246db15936d11b249e1f8f4bff92eca8c3368dede1d3c69e8d2572684231319b7f96e77badfa2fa4ea6e88b7c305d929fe57f948939a0e61075e6d0d09151ff625029c172b61ca6079829af68d84fa1d67713dff409e440ff47178cc680716ea41bb6930afe9cf56b5df7be8f8a64f6f4cbeae1e720873882ec36eb6a8526ab029c3a8f19f3c9a5bc355b7839ba240c7fae163704c8781c5fa226d5b7820bf000b5720cabce1eb8d7531da8e056176a230c78a72680168d7f0b220885d3fc9264a1fd6ab806224ef79c1d791fb5774143fbfa005e37736bd3fe545ecbcbc5c7f2b3f34746deaa3b29ab639ada15a600c924c29abf0752ef5efb24e814ba3f7d80d350e46122f71ab4dc938e440b6b8f1b6178732d10760dbb52ae4c861d3db2da0762e74f16713a34eebac52f097e55dd9d92df0de2232e0cbb3494d9cdb6361618e32c1f77f13450ee9edbef9a98d08edf17a1513dd3843c06195e13e450da51c8967225fbcca8c4b56213c003959e2923c91bf0c1d2be0cc7cf4f366ddd75e7af7cf613f350b9e0f54a0184db24da93f3a0269bb357aadc963cd2234c9abe080f0ff3b98b36b9beec051339074313eaf96252398b9d70bea01dad877cc2b4ce844babe56214ae2ed8242298147dfd5cb4cf81213780966a7e11f82b93be48643cb520825546643eb2d6709b3c20936cdb16710fc3dbb78897a5d32c225e0aeb8f2e08366d98a49f8198f51c9653446a5f3ce9217bce2f3f804b4d95c44d3e3eb81e61534db5a1e10a317c25ad529c038c7f070b38721ca9a13d7de6d1f4745492e62ec93c623c0722b4b420c40ab6a5b0da35ec459c59d5a4de9b2e26257e2d27dc72cad38d18189e4f3c30c3a12ca8fd0b652e4e9b5e329c6899db65576526368bde7e410c5e93c7008885b3e86f81f86550488a9073bdaf0db9adbd08e748568697ae8498fbcdeb34145ef66c8c7578b8b11a790103f628bd03821ee7a921fbd493adff4f01f8f5732c1714156260a3bd225e3c788120989ea35339a759945a501fa4eb711b0ef682caf205a4f236d2a18e22f8fd75afc5a95f47f93993a491e7
-#EXTINF:-1 tvg-id="Combate HD.br" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
 http://metv.fun:80/4x6cXF/JDqRqj/89877.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",CANAL OFF 
 http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
@@ -326,8 +326,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="FILMES",MYTIME MOVIE NETWORK 
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="36895-revry-brasil?lang=en" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="FILMES",REVRY BRASIL
-http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-id="pt-br/linear/runtime-acao "tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME AÇÃO 
@@ -366,14 +364,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/91378.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91377.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 09 
 http://metv.fun:80/4x6cXF/JDqRqj/91376.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 01
-http://metv.fun:80/4x6cXF/JDqRqj/115418.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 02
-http://metv.fun:80/4x6cXF/JDqRqj/115419.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 03
-http://metv.fun:80/4x6cXF/JDqRqj/115420.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 04
-http://metv.fun:80/4x6cXF/JDqRqj/115421.m3u8
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A FEITICEIRA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -473,7 +463,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="SÉRIES",PRONTO-SOCORRO: HISTÓRIAS DE EMERGÊNCIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="36895-revry-brasil?lang=en" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="SÉRIES",REVRY BRASIL
+#EXTINF:-1 tvg-id="watch.revry.tv/live-tv/36895-revry-brasil?lang=en" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="SÉRIES",REVRY BRASIL
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://w7.pngwing.com/pngs/596/939/png-transparent-tastemade-logo-company-marketing-media-avocado-miscellaneous-text-public-relations.png" group-title="SÉRIES",TASTEMADE 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/5fd1419a3b4f4b000773ba85/2977920/playlist.m3u8?terminate=false&sid=bc1e4968-c45c-11ef-ac5a-a21c80abf71d&deviceDNT=0&deviceLat=-13.859999656677246&deviceLon=-40.08000183105469&deviceModel=web&deviceVersion=131.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=e0c18745-87c9-4bbb-9028-1af934d4258a&appVersion=9.7.0-18c51860be5ddbebe9312bb3cd99cf9c4bcbd8d9&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYyMzkwOWFlLTY5ODYtNDM4Zi05YTNiLTIzYzBiNmFlMDgzZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiYzFlNDk2OC1jNDVjLTExZWYtYWM1YS1hMjFjODBhYmY3MWQiLCJjbGllbnRJUCI6IjE4MS4yMTcuMTE1LjEzNyIsImNpdHkiOiJKZXF1aWUiLCJwb3N0YWxDb2RlIjoiNDUyMDMtMDQxIiwiY291bnRyeSI6IkJSIiwiZG1hIjo3NjExNCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMy44NTk5OTk2NTY2NzcyNDYsImRldmljZUxvbiI6LTQwLjA4MDAwMTgzMTA1NDY5LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjcuMC0xOGM1MTg2MGJlNWRkYmViZTkzMTJiYjNjZDk5Y2Y5YzRiY2JkOGQ5IiwiY2xpZW50SUQiOiJlMGMxODc0NS04N2M5LTRiYmItOTAyOC0xYWY5MzRkNDI1OGEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9CYWhpYSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImZ3VmNJRDJDb3BwYSI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZTBjMTg3NDUtODdjOS00YmJiLTkwMjgtMWFmOTM0ZDQyNThhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAyMCwxMDAwMCwxMDAwOSwxMDAwMywxMDAxMywxMDAxNCwxMDAxNSwxMDAxNiJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOlpUQmpNVGczTkRVdE9EZGpPUzAwWW1KaUxUa3dNamd0TVdGbU9UTTBaRFF5TlRoaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MzUzOTUyMDQsImlhdCI6MTczNTMwODgwNCwianRpIjoiNTJlZDFlNzYtZjIyZS00MWE2LWE2MjYtMGYyZWMzMTkwODU1In0.HqVj5G0vrpZgThWWSuPhxIMZvZGtB2FH1tu20tlH1Mk&paln=AQzzBGQENFlKP3wPOXT237y13jqb3xK0GuuPTn36PLbHpnqC_fPIc6-MLS58fB5NaYWpUM3k9ZgUhEOiCQZn11BtyJIBRFCx_m-zcnXVhe67DO4XQNLSPuKQKXdwWNGweeFYt3m2V4OBRjkSeU2ukyWkIlt3gYBaP3uIasegzRGHWOcpI5QbxhrGMK1jwLD69C_MtLGrInSPcrS_IAP2fE2lb5otntthlM0dfu8QLwg91DpWwn7vBjMNlcWriT5Z-FxrKHN17Gmu0XQZtV_MjD_UK6LbPn7KHLK5nDnScI8HYrbmx2_GTaywdDOJGnq7JZayEQvDtEKSAxkS9ONV3qx4wHp1a4ZAoAYGL2uGkxeGaKVQ5Al7mlRYPdViOqCATKpHwbRbNRi9zyDHt-5r0dhV2rie4kCHLvpvbHJ-PY8HSS6cZ5XI-LIXP4QprG2ljjwkqQ59PP5Rq9jJbNxZvO4yd8ofq2HsqoyVkbcUfeRX8lIW39_YhgelFWH748RYz5iI0_kOiVZppL-Wv0hutR1lDalMqXQty9LKyGGvvhQzlKXQthV5yuhLsspr7KgiG05-_bH3T2cOMt7bcjoeuhn_mkzhE7FUZZrRpZyI_EFEQUEPvZy39qrwzdf2dgDm6LRHFf4I-cLnKz3e8KwLGYbAElAWRvpwdEcX6UUfTvhDgJdzzqc7SfmA7M1SFwR22dtXOl7zA6rhOCGUvtGqDof8nlHkApKO43tipxElmqo_WmmdB0XralIfxORRZURkNg9EiT8J_zTQvHpeZzN1g4F8vrGDlsyp1gUBSTD0BfFhcUM_P29pkRagVxqgHilT-iW21WRo_v6Begxfe5xUBlQStb8DU8WIYSbbfdybNudRAE-wolJeOtPbFOyJDgZ2FvRMPQNTzWczYQGPCMfgK6WZZY0PqPog9BZqdYhhrLXzlnqkiaWmB4EzW1-7RxVyL0DtDGkljG6HqvAkzpyHY8OXQ3svX8jxZox_kiWzwcNLn8fPM0ava_SHGgRxEsh_idTqVHktHPsoW8PGNkhKvD3rp5SHbjaYlvGnrdP1H80uwGGLQakQOciH-h2I-y6X9tRKCe6swsRHgEIPehJd8uwBcHAW6Ujdltyebq6EFVMZQtNnumbsCV43bdgt1auFR9JLb5QOc5Qs6CarhDz_M43_fg_ALHRHd-mxCdAg_xqRsg6uWCAPI8yef9fRJjZbrSZidCP3Mdnb
@@ -571,7 +561,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 http://metv.fun:80/4x6cXF/JDqRqj/89913.m3u8
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H " tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H 
 http://metv.fun:80/4x6cXF/JDqRqj/89917.m3u8
-#EXTINF:-1 tvg-id="Discovery ID HD.br" tvg-name="DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
+#EXTINF:-1 tvg-id="Discovery ID.br" tvg-name="DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
 http://metv.fun:80/4x6cXF/JDqRqj/95427.m3u8
 #EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/512px-Science_Channel_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE 
 http://metv.fun:80/4x6cXF/JDqRqj/89925.m3u8
@@ -909,8 +899,6 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/master.m3u8
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="VARIEDADES",REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="VARIEDADES",REVRY BRASIL
-http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="VARIEDADES",RS TV
 https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="VARIEDADES",RTP 1 | PORTUGAL
