@@ -306,9 +306,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="FILMES",CINE TERROR 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="front" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="FILMES",CINEMONDE
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="FILMES",CINEMONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="FILMES",DARKFLIX
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="FILMES",DARKFLIX
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEaW5zX.png" group-title="FILMES",DARK MATTER TV 
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
@@ -328,9 +328,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-id="pt-br/linear/runtime-acao "tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME AÇÃO 
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="FILMES",RUNTIME TV e FILMES 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME AÇÃO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME CINESPANTO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME CINESPANTO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-id="linear/runtime-comedia" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME COMÉDIA 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
@@ -340,12 +342,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-id="linear/runtime-romance-0" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME ROMANCE 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="FILMES",RUNTIME TV e FILMES 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="https://soultv.com.br/channel/9" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNvdgy6IgtEVA6GjBWJKqbOvej6rxbe5MEPYt3LPCcxBGRrzxeic80-3CA24BGIAilAhyphenhyphenmgzyz1KkHhg_sGQo7iHraR4BTdao-A-ot_rzRUtIkSMr9imkA259gpUSUy6rxdWJe0JPijQ/s1600/I_sat.png" group-title="FILMES",I SAT 
-http://metv.fun:80/4x6cXF/JDqRqj/95453.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 01 
 http://metv.fun:80/4x6cXF/JDqRqj/91384.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 02 
@@ -387,9 +385,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="https://geekdot.live/noar/" tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="SÉRIES",ANITV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="SÉRIES",ANITV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="https://ipgotv.net.br/tv/animetv/" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="SÉRIES",ANIME TV  
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="SÉRIES",ANIME TV  
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES",BET  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -423,9 +421,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="SÉRIES",TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="SÉRIES",ASTRAL TV  
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="SÉRIES",ASTRAL TV  
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d4binkS.png" group-title="SÉRIES",BRAZITV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png" group-title="SÉRIES",BRAZITV
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DiaTV.png/799px-DiaTV.png" group-title="SÉRIES",DIA TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/662156805a31f70013dba21c/2977920/playlist.m3u8?terminate=false&sid=7abfba5f-c456-11ef-bf9d-8ebe11fd7879&deviceDNT=0&deviceLat=-13.859999656677246&deviceLon=-40.08000183105469&deviceModel=web&deviceVersion=131.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=e0c18745-87c9-4bbb-9028-1af934d4258a&appVersion=9.7.0-18c51860be5ddbebe9312bb3cd99cf9c4bcbd8d9&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYyMzkwOWFlLTY5ODYtNDM4Zi05YTNiLTIzYzBiNmFlMDgzZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3YWJmYmE1Zi1jNDU2LTExZWYtYmY5ZC04ZWJlMTFmZDc4NzkiLCJjbGllbnRJUCI6IjE4MS4yMTcuMTE1LjEzNyIsImNpdHkiOiJKZXF1aWUiLCJwb3N0YWxDb2RlIjoiNDUyMDMtMDQxIiwiY291bnRyeSI6IkJSIiwiZG1hIjo3NjExNCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMy44NTk5OTk2NTY2NzcyNDYsImRldmljZUxvbiI6LTQwLjA4MDAwMTgzMTA1NDY5LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjcuMC0xOGM1MTg2MGJlNWRkYmViZTkzMTJiYjNjZDk5Y2Y5YzRiY2JkOGQ5IiwiY2xpZW50SUQiOiJlMGMxODc0NS04N2M5LTRiYmItOTAyOC0xYWY5MzRkNDI1OGEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9CYWhpYSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImZ3VmNJRDJDb3BwYSI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZTBjMTg3NDUtODdjOS00YmJiLTkwMjgtMWFmOTM0ZDQyNThhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAyMCwxMDAwMCwxMDAwOSwxMDAwMywxMDAxMywxMDAxNCwxMDAxNSwxMDAxNiJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOlpUQmpNVGczTkRVdE9EZGpPUzAwWW1KaUxUa3dNamd0TVdGbU9UTTBaRFF5TlRoaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MzUzOTI1MTcsImlhdCI6MTczNTMwNjExNywianRpIjoiMjM5ZTQ4ZTctNjNjZS00OTAwLWJiZmYtZWFlNzcwYjgxMmI4In0.JJM0y8ZpW4GzUbfPbjn_ACJOH9O92IbxoAXG_sTAgnU&paln=AQzzBGQEZr6mw1crNQBDBl9PRyJs-ROKJRzF8r-cvHONf4Ndlnd2ZvvD-usIGPAeb_NxA4ywTDViiTksQWoMkz9027NiEexTdab316R8Qe22W8sM2auVbv0KW37ICyF92LTke8b1-t_h5MmwjNxRKfvevN_cXpy3nLEGaAqkIUhC270xm0XmNwugg6ccq7gFQcqZ8kM78stPSJIQlC8y7lM9awlsTp_JKGLXoFaijNny8zHD0cO2F3UjSTd0p842V6sRPwbkSYRpW39xU_y_C0i-WcTQo55jZWaJWMiUvUfOvfxh0m_eOcszceM8NxJhL2oLlzHGgffb3j_tq9XyByr1fyev2GDfJG4eVMevaQWCa2Ad0xzpBnk6PFn2a4zESVppl3zcGOaDzsU3JtGMHl5evvc2s-vCV6BiqRej824z9DfceopMgQf-_D-KC-BIox7pHGnDY_qcFUMw9RFwRLjIinPxUgRMuhTzZ1cYc1O9NXaZFCtfTOJ0pSrKYzh6eu_wzUJsBnowxELxB1GEyFS7gKz55KijyiVxcg0ay0St68ZjlNbOVvOGUeexiqtxJrITYRr3sbvIMmzkMfOIbgpS5l1MTmO6be4Xs0T-3952qBGlbIBjl3CK0Ej6SrzWk5enwzXDZZWhyVKGueBrAJpJ-TbBYmEdLhLL5jRdsIBG3ASBsAY29ysONNWtfa4EM51eE5s5s47TepELnWNGn-0FCFVRHK7EKWTT43-grMMivhDGo76YW55AuAtBqtlDd8jqb_gXaJVfx7XZOlxryX6ExXZGQ_bQ17Zh57slxRYitG3D1dh0Q33bZ1WOK18Y3vz9VoD05UZFXJU34dUAorFHIxT6lk9AJNwai5BCIlwzVVUQaj_f7LMHty_0kbTMQA7aab6ewMj-e_L5nQ0rYMOqPW5erBxSYNxwaxO-5kww6gzhL6Sm8EGPS3EbxEz1zlWw5tcXlDP6mRDINR1DQgx3XPk9DUu2cSJF2xTWnWMtATKPRzLxdJyxArRWu0gByNL_Qow9o9No1BYtYrPKWlbTLkrlKlAs1tW33lavvTCwFbDCx4mFVpsj49i3r1Uzg6vf53HgNZWVLTdBgUZV_AIbht8ujrVXjhLFEuNbehKO9LVio_uFaUeQS5xYxno0zkFyZ4FINR97ToA4AQoSKz1pVpRsVzDoR4jqUA9Hi5zK_5j16pAGuuqNpf28HqcNc7dGM7kHBOOp
@@ -437,7 +435,7 @@ https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="SÉRIES",MASTERCHEF 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="umiss.soultv.com.br" tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="SÉRIES",MISS UNIVERSO BRASIL HD  
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="SÉRIES",MISS UNIVERSO BRASIL
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="SÉRIES",MTV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -453,7 +451,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="SÉRIES",MTV SHORE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="SÉRIES",PLAY TV
+#EXTINF:-1 tvg-id="playtv.com.br/site/#programacao" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="SÉRIES",PLAY TV
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="SÉRIES",O ENCANTADOR DE CÃES 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
