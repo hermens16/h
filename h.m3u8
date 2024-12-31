@@ -457,7 +457,7 @@ https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="SÉRIES",Os ARQUIVOS DO FBI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="SÉRIES",PET LOVERS
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="SÉRIES",PETLOVERS TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="SÉRIES",PRONTO-SOCORRO: HISTÓRIAS DE EMERGÊNCIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -540,9 +540,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="63221e41af69b500076f84e7" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="INFANTIS",OS PADRINHOS MÁGICOS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="INFANTIS",OS JETSONS
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="INFANTIS",OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-#EXTINF:-1 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="6202a7fcfb1b100008811f54" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="INFANTIS",ROCKET POWER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -550,7 +550,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcf
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="INFANTIS",TARTARUGAS NINJA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="INFANTIS",TURMA DA MÔNICA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -559,7 +559,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 http://metv.fun:80/4x6cXF/JDqRqj/89913.m3u8
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H " tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H 
 http://metv.fun:80/4x6cXF/JDqRqj/89917.m3u8
-#EXTINF:-1 tvg-id="Discovery ID.br" tvg-name="DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
+#EXTINF:-1 tvg-id="DiscoveryID.br" tvg-name="DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
 http://metv.fun:80/4x6cXF/JDqRqj/95427.m3u8
 #EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/512px-Science_Channel_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE 
 http://metv.fun:80/4x6cXF/JDqRqj/89925.m3u8
