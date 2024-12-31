@@ -16,14 +16,16 @@ http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89900.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW " tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="TV ABERTA",MULTISHOW 
+http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 #EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="TV ABERTA",GNT 
 http://metv.fun:80/4x6cXF/JDqRqj/90084.m3u8
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20241224170303" group-title="TV ABERTA",VIVA 
 http://metv.fun:80/4x6cXF/JDqRqj/90440.m3u8
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW " tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="TV ABERTA",MULTISHOW 
-http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MODO VIAGEM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/120px-Logotipo_do_Modo_Viagem.svg.png" group-title="TV ABERTA",MODO VIAGEM 
+http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="TV ABERTA",CANAL FUTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="TV ABERTA",GAZETA
@@ -861,8 +863,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90143.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95456.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mais_na_Tela_%282020%29.png/120px-Mais_na_Tela_%282020%29.png" group-title="VARIEDADES",MAIS NA TELA 
 http://metv.fun:80/4x6cXF/JDqRqj/90153.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="MODO VIAGEM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/120px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",MODO VIAGEM 
-http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg/revision/latest?cb=20241019011447" group-title="VARIEDADES",PLAY TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
 #EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
