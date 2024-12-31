@@ -346,8 +346,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="https://soultv.com.br/channel/9" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNvdgy6IgtEVA6GjBWJKqbOvej6rxbe5MEPYt3LPCcxBGRrzxeic80-3CA24BGIAilAhyphenhyphenmgzyz1KkHhg_sGQo7iHraR4BTdao-A-ot_rzRUtIkSMr9imkA259gpUSUy6rxdWJe0JPijQ/s1600/I_sat.png" group-title="FILMES",I SAT 
-http://metv.fun:80/4x6cXF/JDqRqj/95453.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 01 
 http://metv.fun:80/4x6cXF/JDqRqj/91384.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 02 
@@ -366,14 +364,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/91378.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91377.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 09 
 http://metv.fun:80/4x6cXF/JDqRqj/91376.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 01
-http://metv.fun:80/4x6cXF/JDqRqj/115418.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 02
-http://metv.fun:80/4x6cXF/JDqRqj/115419.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 03
-http://metv.fun:80/4x6cXF/JDqRqj/115420.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="APPLETV 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AppleTV.png/800px-AppleTV.png" group-title="FILMES",APPLETV 04
-http://metv.fun:80/4x6cXF/JDqRqj/115421.m3u8
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A FEITICEIRA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -859,10 +849,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89990.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89994.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME 
 http://metv.fun:80/4x6cXF/JDqRqj/90143.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="MAIS GLOBOSAT  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/120px-Mais_Globosat_logo_2016.svg.png" group-title="VARIEDADES",MAIS GLOBOSAT  
-http://metv.fun:80/4x6cXF/JDqRqj/95456.m3u8
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mais_na_Tela_%282020%29.png/120px-Mais_na_Tela_%282020%29.png" group-title="VARIEDADES",MAIS NA TELA 
-http://metv.fun:80/4x6cXF/JDqRqj/90153.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg/revision/latest?cb=20241019011447" group-title="VARIEDADES",PLAY TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
 #EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
