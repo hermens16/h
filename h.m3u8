@@ -585,14 +585,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90388.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ASSOMBRAÇÕES 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="DOCUMENTÁRIOS",CANAL GOV 
-https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=1.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="DOCUMENTÁRIOS",CANAL LIBRAS
-https://canallibras-stream.ebc.com.br/LIBRAS-avc1_1800000=1.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="DOCUMENTÁRIOS",CANAL SAÚDE 
-https://www.canalsaude.fiocruz.br/channels/50/format720p.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="DOCUMENTÁRIOS",CULTURA DO PARÁ
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
 #EXTINF:-1 tvg-id="638df93ae2f2a3000737c168" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",DETETIVES MÉDICOS 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",DOCUMENTÁRIOS 
@@ -857,6 +849,14 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="VARIEDADES",CANAL GOV 
+https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=1.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="VARIEDADES",CANAL LIBRAS
+https://canallibras-stream.ebc.com.br/LIBRAS-avc1_1800000=1.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="VARIEDADES",CANAL SAÚDE 
+https://www.canalsaude.fiocruz.br/channels/50/format720p.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="VARIEDADES",CULTURA DO PARÁ
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
 #EXTINF:-1 tvg-id="CanalPlural.br" tvg-logo="https://i.imgur.com/sFG3dSr.png" group-title="VARIEDADES",CANAL PLURAL
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png" group-title="VARIEDADES",CANAL DO BOI
