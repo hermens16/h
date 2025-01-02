@@ -32,13 +32,13 @@ http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
 http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
-#EXTINF:-1 tvg-id="diariodosertao.com.br/tv" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
-#EXTINF:-1 tvg-id="tvmetropolecanal16.com.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="TV ABERTA",TV METRÓPOLE 
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="TV ABERTA",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="TV ABERTA",TV PADRE CICERO
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="TV ABERTA",TV PADRE CICERO
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="TV ABERTA",TVE
+#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="TV ABERTA",TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="TV ABERTA",TVE BAHIA
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
@@ -85,7 +85,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90324.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89828.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="NSPORTS 1 " tvg-logo="https://www.claro.com.br/files/104379/570x380/12ace6ddd3/img-novos-canais-nsports-mobile-v4.png/m/filters:quality(75)" group-title="ESPORTES",NSPORTS
 http://lidns.cc:80/4x6cXF/JDqRqj/124742.m3u8
-#EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
 https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w1126966857.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
 https://video03.logicahost.com.br/rssports/rssports/chunklist_w301348720.m3u8
@@ -105,7 +105,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101484.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101485.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DISNEYPLUS 04 " tvg-logo="http://stolime.cc/lives/INFANTIL/DISNEY%20CHANNEL.png" group-title="ESPORTES",DISNEYPLUS 04 
 http://lidns.cc:80/4x6cXF/JDqRqj/101486.m3u8
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="ESPORTES",HBO MAX STAR+ 01 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 01 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="ESPORTES",HBO MAX STAR+ 01 
 http://metv.fun:80/4x6cXF/JDqRqj/90106.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 02 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="ESPORTES",HBO MAX STAR+ 02 
 http://metv.fun:80/4x6cXF/JDqRqj/90107.m3u8
@@ -189,9 +189,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101061.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101062.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SPORT TV 6 " tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 6 
 http://lidns.cc:80/4x6cXF/JDqRqj/101063.m3u8
-#EXTINF:-1 tvg-id="content/dubaisports/livestreaming/channel-1.html" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 1 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 1 
 http://metv.fun:80/4x6cXF/JDqRqj/89954.m3u8
-#EXTINF:-1 tvg-id="content/dubaisports/livestreaming/channel-2.html" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 2 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="DUBAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89955.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 1
 https://stream.ads.ottera.tv/cl/241226ctmn1feqv9lvrme0j0lg/1920x1080_4787201_4_f.m3u8?i=475_758
