@@ -437,7 +437,7 @@ https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="SÉRIES",MASTERCHEF 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="umiss.soultv.com.br" tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="SÉRIES",MISS UNIVERSO BRASIL HD  
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="SÉRIES",MISS UNIVERSO BRASIL  
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="SÉRIES",MTV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -559,7 +559,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 http://metv.fun:80/4x6cXF/JDqRqj/89913.m3u8
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H " tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H 
 http://metv.fun:80/4x6cXF/JDqRqj/89917.m3u8
-#EXTINF:-1 tvg-id="Discovery ID HD.br" tvg-name="DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
+#EXTINF:-1 tvg-id="Discovery ID.br" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
 http://metv.fun:80/4x6cXF/JDqRqj/95427.m3u8
 #EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/512px-Science_Channel_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE 
 http://metv.fun:80/4x6cXF/JDqRqj/89925.m3u8
