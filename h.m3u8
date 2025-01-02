@@ -338,7 +338,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME CINESPANTO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-id="linear/runtime-comedia" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME COMÉDIA 
+#EXTINF:-1 tvg-id="linear/miss-comedia" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME COMÉDIA 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-id="linear/runtime-crime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME CRIME 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
