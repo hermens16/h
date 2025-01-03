@@ -87,8 +87,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89850.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",WORLD POKER TOUR 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="ESPORTES",GAMING UBISOFT  
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/64c815e8a1c6130008fef928/2977920/playlist.m3u8?terminate=false&sid=6f269e51-c3ca-11ef-8475-5e6044f45d31&deviceDNT=0&deviceLat=-13.859999656677246&deviceLon=-40.08000183105469&deviceModel=web&deviceVersion=131.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=e0c18745-87c9-4bbb-9028-1af934d4258a&appVersion=9.7.0-18c51860be5ddbebe9312bb3cd99cf9c4bcbd8d9&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYyZWI3N2ZkLTJiMzUtNDRmOC1iYWY5LWRhOWI4ODNhZTU3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2ZjI2OWU1MS1jM2NhLTExZWYtODQ3NS01ZTYwNDRmNDVkMzEiLCJjbGllbnRJUCI6IjE4MS4yMTcuMTE1LjEzNyIsImNpdHkiOiJKZXF1aWUiLCJwb3N0YWxDb2RlIjoiNDUyMDMtMDQxIiwiY291bnRyeSI6IkJSIiwiZG1hIjo3NjExNCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMy44NTk5OTk2NTY2NzcyNDYsImRldmljZUxvbiI6LTQwLjA4MDAwMTgzMTA1NDY5LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjcuMC0xOGM1MTg2MGJlNWRkYmViZTkzMTJiYjNjZDk5Y2Y5YzRiY2JkOGQ5IiwiY2xpZW50SUQiOiJlMGMxODc0NS04N2M5LTRiYmItOTAyOC0xYWY5MzRkNDI1OGEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9CYWhpYSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImZ3VmNJRDJDb3BwYSI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZTBjMTg3NDUtODdjOS00YmJiLTkwMjgtMWFmOTM0ZDQyNThhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxMywxMDAxNCwxMDAxNSwxMDAxNiwxMDAyMCwxMDAwMCwxMDAwOSwxMDAwMyJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOlpUQmpNVGczTkRVdE9EZGpPUzAwWW1KaUxUa3dNamd0TVdGbU9UTTBaRFF5TlRoaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MzUzMzIzNjgsImlhdCI6MTczNTI0NTk2OCwianRpIjoiZDU3YTNiMzUtMzFhZS00YzRiLTk4YzEtMjRlNjFmY2VlZTM1In0.ZwuLHd7DialuVxVbST-trBr4_RdqXWmBYqenoY6wPqE&paln=AQzzBGQE78cQAAfVOu_ldzacLujstZSw8jO08lqIC5y3nFpCWDSfYtO-Pb-9Yfp-MoZsj-RhsGRunKJiJf9nQejQkoKAjxNP13NSoU41FLgf6R3-QVH8Ydp7mwlIzPTt-Y8m4Hcs8yEeOoCNO7-EI-JKTy20AnWrPO-x1ABsO7edult5zMEQyekWDNgJ-knFaEh05eLw7ZHeyJn1CMdSwH29e7HGMu9WQ8Jvq2M0ebttqoUihyoXwYehdLjOkItXQh8cOC7EdklThPQntuN84llvYo4sEK_0AIFMVMyBw7MYpOzjIhAZ8NIwQLWz2E_R98prhaaiMjKXzLrJMkBWSj4R9c3bUMIW2t1QeYa5554nCspdL1UaqIFQipjXBKpJwN0f0hjy4I1XyjPohW9sibK9eKrU8FLG4VE0hKpWOrIlC99B0MibhDckaf3xva8rfZcusnRc-9vC6mUstxCecobfLLyCoK7aQJyIk2K9wChcuF-7JrsswgZsJyjMLsAie0pzOKt6eo9tAASdpFc13VAvWOOY50_PKWc1x12Jewqu8yogU1MwCn6Px3sE110NuJEYgubKFSJKOJXMEcz2EGv0mXQHwS5x3UZPHB-2NTJ6e-unZY3T_0Ej7sqHU9esAPXsuOBz3OPSvdHGMcn9phYzt014uiCpAxU3RE1IGjaCl49hcUSZpxNSVRgeAOc2GXowOXXRg-27pCpvTaL7-OuCp-uxUnWS8SVcLgvhs_ZaitQvujTueleOFIxQ-I44FKNzX__XdlWLKcECjKV6fhxCkPqakLCt6tRZmXZHjWyM9UyctHk5klnm4pX4yE67RqMXWjgELDyTn6Wio69MlK56t91Khr7RFki_TIBSeWIRWG_9A8mbj2ozR_7JE-KhSdpSAGH35x9bjVROv0eQqJqyz3xys2lDqcD15ET2QOxIYHdwUqj1980IopY3PDkYxmdF2orSLlu1wiky29bjDj4-of3Lkr1aZRF4h_Gn3hvq9sGjG_xN_RdB1H9plqcm1QAXVUa_WquekAwlQwsvyGdikAMbN8hILVujX9AbzOdYliXi9O9TKpxfZ-nwIAu7Px_eGiGeJB9NfPtBnhI3tsZGqcOzx7vJcq30f1tfOn7mbhJh4NtpC4sYxLdtleCTCxiJzAI0Q0F5k7pDjGMTk8Y7cV-bgbNHyMBTJ_DiZu9QCPU8cyPwzxVL0DLb0tjsBquu-7UV0knLpcdd7Fr0lemVs_I.
 #EXTINF:-1 tvg-id="Like.br" tvg-name="USA: ALTITUDE SPORTS " tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="ESPORTES",USA: ALTITUDE SPORTS 
 http://lidns.cc:80/4x6cXF/JDqRqj/119492.m3u8
 #EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS 1 " tvg-logo="https://www.claro.com.br/files/104379/570x380/12ace6ddd3/img-novos-canais-nsports-mobile-v4.png/m/filters:quality(75)" group-title="ESPORTES",NSPORTS
@@ -873,6 +871,8 @@ https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="VARIEDADES",DEMAND AFRICA  
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="ESPORTES",GAMING UBISOFT  
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/64c815e8a1c6130008fef928/2977920/playlist.m3u8?terminate=false&sid=0976a892-c9e9-11ef-9ecf-0e739464afa5&deviceDNT=0&deviceLat=-13.859999656677246&deviceLon=-40.08000183105469&deviceModel=web&deviceVersion=131.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=e0c18745-87c9-4bbb-9028-1af934d4258a&appVersion=9.7.0-18c51860be5ddbebe9312bb3cd99cf9c4bcbd8d9&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjViMjRlNzFmLWRlNjYtNDcxOC1iNjA0LWM1NTQzMzNiZmQwNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwOTc2YTg5Mi1jOWU5LTExZWYtOWVjZi0wZTczOTQ2NGFmYTUiLCJjbGllbnRJUCI6IjE4MS4yMTcuMTE1LjEzNyIsImNpdHkiOiJKZXF1aWUiLCJwb3N0YWxDb2RlIjoiNDUyMDMtMDQxIiwiY291bnRyeSI6IkJSIiwiZG1hIjo3NjExNCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMy44NTk5OTk2NTY2NzcyNDYsImRldmljZUxvbiI6LTQwLjA4MDAwMTgzMTA1NDY5LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjcuMC0xOGM1MTg2MGJlNWRkYmViZTkzMTJiYjNjZDk5Y2Y5YzRiY2JkOGQ5IiwiY2xpZW50SUQiOiJlMGMxODc0NS04N2M5LTRiYmItOTAyOC0xYWY5MzRkNDI1OGEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9CYWhpYSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImZ3VmNJRDJDb3BwYSI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZTBjMTg3NDUtODdjOS00YmJiLTkwMjgtMWFmOTM0ZDQyNThhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAyMCwxMDAwMCwxMDAwOSwxMDAwMywxMDAxMywxMDAxNCwxMDAxNSwxMDAxNiJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOlpUQmpNVGczTkRVdE9EZGpPUzAwWW1KaUxUa3dNamd0TVdGbU9UTTBaRFF5TlRoaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MzYwMDUyMTksImlhdCI6MTczNTkxODgxOSwianRpIjoiMmMzNmRjOTItMmJjNi00NGQ4LWFlZDktOTgzY2IxZTEyOTYzIn0.oNK47Q-ZJ8quUVKYhL1suzfT0k1QQySzvWV5_OU4FJQ&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=&paln=AQzzBGQEnBnqtnwUWkBfBMreCkRJoQINzYnurajH6-svAj8ZoSUC2_ECvn5lXt5Wfc0bKAM_Ym-kfjgROXJFVtyULJ-dep8m-aGZCAJCOH1u0auZzAyxtnSu6LWnykKZlCC3oa4gL6SwlW3lheeBqWXhgWRE4TJ6m4lQ0oHRFh9-0Bixjzywg2ejjErGmOkr7oV1x2K1YQw1V0aEr5miu6NCwkLjTGXzxfYrSvU4TWs7UpB3rmv5lFw32MWxV1JsvshbAtTeio502kF4P33vQQb_dz5XWZxN74IWwSW-n7og3ddS6n1U1wrKKE-XOBodKZzlsridC5zkWTPox7-WlbBklPyA1hHbBs2KWLT4yXYaVf5nsmPW5iecZgXwNbD47ICQCM_g9Jlc2jYwm-G7uWz8QKl_6s9nUx791Ze8y2z0Qz2nRcQ3FfciTE9HCD2ayqED4YcUECmwWuV8TfVUCVeXlFlkVvLsV2gVn_XG88dDjQRn5-h7zR8Bo7BOjfTAWj1dY_VdA7Txh0W36Y-gBCR_Dt2YxoftQm7y4YyBkw0AbWrOwRY0HwuhX_048YpG_oQSl24_Qs3weGobqMn2jhzESWxVvB2i7R6TLFw0CkjQx1I4E2YToTekdU3vIjTuT5Y_WCxwdWxrIX5CvkVxjIjSv_CMNPqxN1g2htPAg2ZmaxnwWLuImTR74GQsFSil7BPxw7tbd0SccbYUIIubgtm_y1FAUUDh5_1STmue2XDf52Hb7Yw0TysUOaSmljrNqaMUwAgSXF_O8hRxqcHPhJ82Ywgnk0mUostBmnM-A_3JHopCawfDCoJH56Bb2kHwR0XpGqAua_m5wigjUH2DCIyhCRk1ZiO_GolKkVzz2n5CzQHelKQ0iv5J8k-C_4SG2nzfYZa7oV09HYXqyA7bmRUyxiMgyCxaJ2GDXcnPRJwvfgiRtFQgwxlrKcoD-8OkkqUjRpVDdwNryVxY6cJ_JQ30LRqH3uehu8z0E2GSQJp-P1hePbxC7tDRoiPl9nVv1oh-Q1DUXwL9gaLej4-kYKrMmpht-R_hZmqDk6q4gjCdjnTBDpe9mQIcNbhk_8fzwPcaFGQiwtKP1l7D6w0WRTAquFyLqEj2yYYjwknxJn5q6VUXNorBML4IxjNGPdumpOh9nlx2XpSy6jNvOv5Kb9IDKRDj36nP1r1uFBCxOQxAK5Ov4MYeZ4v83RpH7yepJP_ht-TYvQ61rIkn9PxxHT3PoR8.
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="VARIEDADES",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="VARIEDADES",LASS TV
@@ -992,53 +992,9 @@ https://aparecida.jmvstream.com/stream?1705520098895
 https://cloud1.cdnseguro.com:20038/stream?1705519584684
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
 https://cast.radiu.live:9300/stream?1705523628515
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="RÁDIOS",98 FM | BH MG
-https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS",ALPHA FM | GO
-https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS",ALPHA FM | SP
-https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIOS",BAND FM | SP
-https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | MG
-https://evpp.mm.uol.com.br/band/bandnewsfm_bh/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | PR
-https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | GO
-https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | PB
-https://evpp.mm.uol.com.br/band/bandnewsfm_jp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | AM
-https://evpp.mm.uol.com.br/band/bandnewsfm_mao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | RS
-https://evpp.mm.uol.com.br/band/bandnewsfm_poa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | RJ
-https://evpp.mm.uol.com.br/band/bandnewsfm_rj/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | ES
-https://evpp.mm.uol.com.br/band/bandnewsfm_vit/playlist.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIOS",CBN RJ 
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIOS",CBN SP 
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+https://19803.live.streamtheworld.com/BANDFM_SPAAC.aac?dist=radios.com.br&1735919808989
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1735919872327
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="RÁDIOS",DUMONT FM | SP
-https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="RÁDIOS",EDUCADORA FM | SP
-https://evpp.mm.uol.com.br/band/educadora/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="RÁDIOS",ENERGIA 97 FM | SP
-https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="RÁDIOS",NATIVA FM | SP
-https://15123.live.streamtheworld.com/NATIVA_SPAAC/HLS/8b9f21f9-4325-4140-b92a-9ebeaba1d4f1/0/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/89c0Ixi.png" group-title="RÁDIOS",PLAY FM | SP
-https://19813.live.streamtheworld.com/PLAY_SPAAC/HLS/4630fec5-5ccf-4406-bc06-edab6af6b021/0/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="RÁDIOS",RÁDIO CLUBE TV | PORTUGAL
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioJustica.br" tvg-logo="https://yt3.googleusercontent.com/hv7eKFRIED31zW53TmQnVS4-5PBdQGayWPufohCwO7XV3v7gq0Fo6oobhutT7JukZSYthRx_wQ=s400-c-k-c0x00ffffff-no-rj" group-title="RÁDIOS",JUSTIÇA
-https://ythls.onrender.com/video/tTQlFWxX6rs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="RÁDIOS",SOCIEDADE | BA
-https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="RÁDIOS",UFRGS | RS
-http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cBF0WmI.png" group-title="RÁDIOS",STEREO VALE FM
-https://evpp.mm.uol.com.br/band/stereovale/master.m3u8
