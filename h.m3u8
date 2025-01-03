@@ -30,7 +30,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="TV ABERTA",GAZETA
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
-#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="TV ABERTA",TVE BAHIA
+#EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
 http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
@@ -59,7 +59,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
-#EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="http://stolime.cc/lives/ESPORTES/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN  
+#EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="ESPORTES",ESPN 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89970.m3u8
@@ -69,7 +69,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/89974.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95437.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="ESPORTES",ESPN 5 
 http://lidns.cc:80/4x6cXF/JDqRqj/89998.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png?20220604002901" group-title="ESPORTES",ESPN 6 
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/120px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 
 http://metv.fun:80/4x6cXF/JDqRqj/89966.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="ESPORTES",SPORTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90328.m3u8
