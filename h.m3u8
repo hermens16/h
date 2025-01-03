@@ -551,7 +551,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 http://metv.fun:80/4x6cXF/JDqRqj/89913.m3u8
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H " tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H 
 http://metv.fun:80/4x6cXF/JDqRqj/89917.m3u8
-#EXTINF:-1 tvg-id="Discovery ID.br" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
+#EXTINF:-1 tvg-id="Investigaçao Discovery HD.br" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/547px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTÁRIOS",DISCOVERY ID  
 http://metv.fun:80/4x6cXF/JDqRqj/95427.m3u8
 #EXTINF:-1 tvg-id="Discovery Science HD.br" tvg-name="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/512px-Science_Channel_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE 
 http://metv.fun:80/4x6cXF/JDqRqj/89925.m3u8
