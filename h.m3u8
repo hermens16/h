@@ -371,6 +371,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="SÉRIES",CSI MIAMI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Comedy Central.br" tvg-name="COMEDY CENTRAL " tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="VARIEDADES",COMEDY CENTRAL 
+http://metv.fun:80/4x6cXF/JDqRqj/89881.m3u8
 #EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="SÉRIES",DEATH NOTE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="SÉRIES",KENAM E KEL 
@@ -779,8 +781,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/100034.m3u8
 #EXTINF:-1 tvg-id="Chef TV.br" tvg-name="CHEF TV  " tvg-logo="https://cheftv.com.br/site_novo/wp-content/uploads/2024/06/logocheftv_rodape.png" group-title="VARIEDADES",CHEF TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95490.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL " tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="VARIEDADES",COMEDY CENTRAL 
-http://metv.fun:80/4x6cXF/JDqRqj/89881.m3u8
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! " tvg-logo="https://logowik.com/content/uploads/images/canal-curta9116.logowik.com.webp" group-title="VARIEDADES",CURTA! 
 http://metv.fun:80/4x6cXF/JDqRqj/89904.m3u8
 #EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/120px-DOGTV_logo.svg.png" group-title="VARIEDADES",DOGTV 
