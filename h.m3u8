@@ -445,14 +445,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stmv1.srvif.com/canal29/canal29/chunklist_w477346767.m3u8
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="SÉRIES",ASTRAL TV  
-https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png" group-title="SÉRIES",BRAZITV
-https://cbtvnow.com:5866/hls/livest2024.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="SÉRIES",MISS UNIVERSO BRASIL  
-https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="SÉRIES",PLAY TV
-https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="SÉRIES",PETLOVERS TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
@@ -528,7 +520,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="INFANTIS",SUPER ONZE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="SÉRIES",SOUTH PARK
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="INFANTIS",SOUTH PARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="INFANTIS",TARTARUGAS NINJA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -773,6 +765,10 @@ http://metv.fun:80/4x6cXF/JDqRqj/90149.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/120px-Arte_1_logo.svg.png" group-title="VARIEDADES",ARTE1 
 http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="VARIEDADES",ASTRAL TV  
+https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES",BRAZITV
+https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" group-title="VARIEDADES",CANAL RURAL 
 http://metv.fun:80/4x6cXF/JDqRqj/100034.m3u8
 #EXTINF:-1 tvg-id="Chef TV.br" tvg-name="CHEF TV  " tvg-logo="https://cheftv.com.br/site_novo/wp-content/uploads/2024/06/logocheftv_rodape.png" group-title="VARIEDADES",CHEF TV  
@@ -787,7 +783,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89958.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89982.m3u8
 #EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-logo="https://i.imgur.com/YUIQH6G.png" group-title="VARIEDADES",FASHION TV  
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/120px-Fish_TV_logo_2022.svg.png" group-title="VARIEDADES",FISH TV 
 http://metv.fun:80/4x6cXF/JDqRqj/89990.m3u8
 #EXTINF:-1 tvg-id="Food Network.br" tvg-name="FOOD NETWORK " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/120px-Food_Network_New_Logo.png?20181129223131" group-title="VARIEDADES",FOOD NETWORK 
@@ -798,6 +793,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/90143.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91362.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg/revision/latest?cb=20241019011447" group-title="VARIEDADES",PLAY TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="VARIEDADES",PLAY TV
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
 #EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/120px-Saborearte.png?20210703164655" group-title="VARIEDADES",SABOR & ARTE 
@@ -846,6 +843,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="VARIEDADES",LASS TV
 https://tv02.zas.media:1936/lasstv/lasstv/master.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="VARIEDADES",MISS UNIVERSO BRASIL  
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="VARIEDADES",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV
