@@ -454,6 +454,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90195.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90198.m3u8
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/643px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="INFANTIS",ZOOMOO 
 http://metv.fun:80/4x6cXF/JDqRqj/90448.m3u8
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
+http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="INFANTIS",ANIME  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="INFANTIS",ANIME AÇÃO
@@ -541,8 +543,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90088.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90131.m3u8
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC " tvg-logo="https://e7.pngegg.com/pngimages/479/542/png-clipart-tlc-logo.png" group-title="DOCUMENTÁRIOS",TLC 
 http://metv.fun:80/4x6cXF/JDqRqj/90388.m3u8
-#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
-http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET 
 http://metv.fun:80/4x6cXF/JDqRqj/89803.m3u8
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO 
