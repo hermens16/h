@@ -428,7 +428,7 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w477346767.m3u8
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ####################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES #####################
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="INFANTIS",ANIME TV  
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="ANIMES",ANIME TV  
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="ANIMES",ANITV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
