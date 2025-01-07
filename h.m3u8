@@ -452,7 +452,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90195.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90198.m3u8
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/643px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="INFANTIS",ZOOMOO 
 http://metv.fun:80/4x6cXF/JDqRqj/90448.m3u8
-#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="DOCUMENTÁRIOS",TRUTV  
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="INFANTIS",TRUTV  
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="INFANTIS",ANIME  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
