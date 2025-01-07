@@ -328,7 +328,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="linear/runtime-romance-0" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME ROMANCE 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-id="pt-br/linear/runtime-acao" "tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME AÇÃO 
+#EXTINF:-1 tvg-id="Like.br" "tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME AÇÃO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME CINESPANTO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
@@ -427,6 +427,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 https://stmv1.srvif.com/canal29/canal29/chunklist_w477346767.m3u8
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+####################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES #####################
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="INFANTIS",ANIME TV  
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="ANIMES",ANITV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="ANIMES",ANIME  
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="ANIMES",ANIME AÇÃO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="ANIMES",DEATH NOTE 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="ANIMES",NARUTO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="ANIMES",ONE PIECE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIMES",TRUTV  
+http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
 #EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
@@ -498,22 +515,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="INFANTIS",TURMA DA MÔNICA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="INFANTIS",TRUTV  
-http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
-#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="INFANTIS",ANIME  
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="INFANTIS",ANIME AÇÃO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="INFANTIS",DEATH NOTE 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="INFANTIS",NARUTO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="INFANTIS",ONE PIECE
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="INFANTIS",ANITV
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="INFANTIS",ANIME TV  
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="INFANTIS",OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
