@@ -32,7 +32,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
 http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
-#EXTINF:-1 tvg-id="Sesctv.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="VARIEDADES",SESC TV 
+#EXTINF:-1 tvg-id="Sesctv.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV 
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
