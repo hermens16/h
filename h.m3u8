@@ -425,7 +425,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/115422.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="SÉRIES",TOKUSATO  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="VARIEDADES",TVI REALITY
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="SÉRIES",TVI REALITY
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=156310078
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -594,6 +594,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://png.pngtree.com/png-clipart/20231127/original/pngtree-real-life-true-photo-png-image_13726854.png" group-title="DOCUMENTÁRIOS",VIDA REAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="DOCUMENTÁRIOS",E! 
+http://metv.fun:80/4x6cXF/JDqRqj/89958.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://s3.amazonaws.com/assets.apoia.se/campaigns/586307ae77f42b040088470b%7C586b232c9e965e040085cb29/user-campaign-about-photo%7Cmarca-dagua-spacetoday-20210225_01203572.png" group-title="DOCUMENTÁRIOS",SPACE TODAY TV  
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
@@ -774,8 +776,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/100034.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95490.m3u8
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! " tvg-logo="https://logowik.com/content/uploads/images/canal-curta9116.logowik.com.webp" group-title="VARIEDADES",CURTA! 
 http://metv.fun:80/4x6cXF/JDqRqj/89904.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="VARIEDADES",E! 
-http://metv.fun:80/4x6cXF/JDqRqj/89958.m3u8
 #EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ5sitKO_o4HQUovP_hKKoyIFJysaY086IA&s" group-title="VARIEDADES",FASHION TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89982.m3u8
 #EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-logo="https://i.imgur.com/YUIQH6G.png" group-title="VARIEDADES",FASHION TV  
