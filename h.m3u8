@@ -254,6 +254,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/89854.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/95433.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="FILMES",CINEMAX
 http://metv.fun:80/4x6cXF/JDqRqj/89869.m3u8
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL " tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="FILMES",EUROCHANNEL 
+http://metv.fun:80/4x6cXF/JDqRqj/91362.m3u8
 #EXTINF:-1 tvg-id="filmandarts.br" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="FILMES",FILM & ARTS 
 http://metv.fun:80/4x6cXF/JDqRqj/89986.m3u8
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="FILMES",FX 
@@ -411,6 +413,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="SÉRIES",PORTA DOS FUNDOS  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Prime Box Brazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="SÉRIES",PRIME BOX BRAZIL 
+http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
 #EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="SÉRIES",RETRÔ 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6474ab1da51cb80008bfb5f4" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="SÉRIES",SÉRIES AÇÃO 
@@ -548,6 +552,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/90131.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90388.m3u8
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET 
 http://metv.fun:80/4x6cXF/JDqRqj/89803.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/120px-Fish_TV_logo_2022.svg.png" group-title="DOCUMENTÁRIOS",FISH TV 
+http://metv.fun:80/4x6cXF/JDqRqj/89990.m3u8
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO 
 http://metv.fun:80/4x6cXF/JDqRqj/90180.m3u8
 #EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/120px-DOGTV_logo.svg.png" group-title="DOCUMENTÁRIOS",DOGTV 
@@ -588,14 +594,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",TV CULTURA - EPISÓDIOS 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TravelBoxBrazillogoatualizado.png/120px-TravelBoxBrazillogoatualizado.png" group-title="DOCUMENTÁRIOS",TRAVEL BOX BRAZIL 
+http://metv.fun:80/4x6cXF/JDqRqj/90401.m3u8
 #EXTINF:-1 tvg-id="Globosat.br" tvg-name="MODO VIAGEM " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Modo_Viagem_2021_pre-lanzamiento.png/revision/latest?cb=20220117123751&path-prefix=es" group-title="DOCUMENTÁRIOS",MODO VIAGEM 
 http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="DOCUMENTÁRIOS",VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://png.pngtree.com/png-clipart/20231127/original/pngtree-real-life-true-photo-png-image_13726854.png" group-title="DOCUMENTÁRIOS",VIDA REAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! " tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="DOCUMENTÁRIOS",E! 
+#EXTINF:-1 tvg-id="E! HD.br" tvg-name="E! " tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="DOCUMENTÁRIOS",E! 
 http://metv.fun:80/4x6cXF/JDqRqj/89958.m3u8
+#EXTINF:-1 tvg-id="Canal Educacao.br" tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="DOCUMENTÁRIOS",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=1.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://s3.amazonaws.com/assets.apoia.se/campaigns/586307ae77f42b040088470b%7C586b232c9e965e040085cb29/user-campaign-about-photo%7Cmarca-dagua-spacetoday-20210225_01203572.png" group-title="DOCUMENTÁRIOS",SPACE TODAY TV  
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
@@ -611,6 +621,10 @@ http://metv.fun:80/4x6cXF/JDqRqj/90165.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90168.m3u8
 #EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRAZIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="MÚSICA",MUSIC BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90176.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg/revision/latest?cb=20241019011447" group-title="MÚSICA",PLAY TV  
+http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="MÚSICA",PLAY TV
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ##############
@@ -780,24 +794,12 @@ http://metv.fun:80/4x6cXF/JDqRqj/89904.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89982.m3u8
 #EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-logo="https://i.imgur.com/YUIQH6G.png" group-title="VARIEDADES",FASHION TV  
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/120px-Fish_TV_logo_2022.svg.png" group-title="VARIEDADES",FISH TV 
-http://metv.fun:80/4x6cXF/JDqRqj/89990.m3u8
 #EXTINF:-1 tvg-id="Food Network.br" tvg-name="FOOD NETWORK " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/120px-Food_Network_New_Logo.png?20181129223131" group-title="VARIEDADES",FOOD NETWORK 
 http://metv.fun:80/4x6cXF/JDqRqj/89994.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="EUROCHANNEL " tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="VARIEDADES",EUROCHANNEL 
-http://metv.fun:80/4x6cXF/JDqRqj/91362.m3u8
 #EXTINF:-1 tvg-id="hollywire.com" https://hollywire.com/tvg-logo="https://i.imgur.com/LPyQKCi.png" group-title="VARIEDADES",HOLLYWIRE 
 https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg/revision/latest?cb=20241019011447" group-title="VARIEDADES",PLAY TV  
-http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="VARIEDADES",PLAY TV
-https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Prime Box Brazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="VARIEDADES",PRIME BOX BRAZIL 
-http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
 #EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/120px-Saborearte.png?20210703164655" group-title="VARIEDADES",SABOR & ARTE 
 http://metv.fun:80/4x6cXF/JDqRqj/91388.m3u8
-#EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="TRAVEL BOX BRAZIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TravelBoxBrazillogoatualizado.png/120px-TravelBoxBrazillogoatualizado.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL 
-http://metv.fun:80/4x6cXF/JDqRqj/90401.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL
@@ -806,8 +808,6 @@ https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-id="Canal Educacao.br" tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="VARIEDADES",CANAL EDUCAÇÃO
-https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=1.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="VARIEDADES",CANAL GOV 
 https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=1.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="VARIEDADES",CANAL LIBRAS
