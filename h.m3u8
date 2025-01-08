@@ -32,6 +32,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
 http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
+#EXTINF:-1 tvg-id="Sesctv.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="VARIEDADES",SESC TV 
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png?20190524213932" group-title="TV ABERTA",TV METRÓPOLE 
@@ -578,7 +580,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MISTÉRIOS SEM SOLUÇÃO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://i.imgur.com/oAarMpL.png" group-title="DOCUMENTÁRIOS",NATUREZA
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/featuredImage.jpg" group-title="DOCUMENTÁRIOS",NATUREZA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",OS ARQUIVOS DO FBI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -801,11 +803,11 @@ https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
 #EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/120px-Saborearte.png?20210703164655" group-title="VARIEDADES",SABOR & ARTE 
 http://metv.fun:80/4x6cXF/JDqRqj/91388.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunklist_w1746633627_b1000000_slen.m3u8
 #EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL
-https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w293543699.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="VARIEDADES",AGROBRASIL TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8?session=ZPNPTteaWaJgxTLW6xChdN
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="VARIEDADES",CANAL GOV 
@@ -813,7 +815,7 @@ https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=1.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="VARIEDADES",CANAL LIBRAS
 https://canallibras-stream.ebc.com.br/LIBRAS-avc1_1800000=1.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="VARIEDADES",CANAL SAÚDE 
-https://www.canalsaude.fiocruz.br/channels/50/format720p.m3u8
+https://edge-es-01.eduplay.rnp.br/media/ocp(r(sGRMUQ)t(GBjPBY0te3E)p(d(iNo)k(LpA)m(29eWwxeRhCc-v8KP1Rjd-A)n(a(R_LI23Mv2SRphFvaaSxIOgvEWzs)s(tkg)'a(c4HQfg4-TLiR7EnQaIvXhBLE)s(D98)))s(t(PBY)b(se-itRYNYeF_LIubiVqGlvPLEoU7-m-9vgurEMKJPsV9t6xmLsMnYkqhB6lfMRmO6juS5Otbge8tQHSLYygAo8WOte7TOG73xG1ehnp-BrI34eMdZH25AiqfvTwlT9dD5o4GX-flynE9-0kEhJYER6EGUZg95ezy59pfjQI)'t(pKM)b(CTzS3zQfKpgkfCWKOYnRuN1dBelOy61XFbU)))/720_index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="VARIEDADES",CATVE
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="VARIEDADES",CULTURA DO PARÁ
@@ -825,11 +827,11 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png" group-title="VARIEDADES",CANAL DO BOI
 http://metv.fun:80/4x6cXF/JDqRqj/89843.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="VARIEDADES",CBTV NOW
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9215/cabecalho-9215-20221226221427.png" group-title="VARIEDADES",CBTV PLAY
+https://stmv2.samcast.com.br/carla7379/carla7379/chunklist_w417623485.m3u8
 #EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="VARIEDADES",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQZEcbT.png" group-title="VARIEDADES",CTV  
-https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="VARIEDADES",D+ TV 
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="VARIEDADES",DEMAND AFRICA  
@@ -838,32 +840,26 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/64c815e8a1c6130008fef928/2977920/playlist.m3u8?terminate=false&sid=0976a892-c9e9-11ef-9ecf-0e739464afa5&deviceDNT=0&deviceLat=-13.859999656677246&deviceLon=-40.08000183105469&deviceModel=web&deviceVersion=131.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=e0c18745-87c9-4bbb-9028-1af934d4258a&appVersion=9.7.0-18c51860be5ddbebe9312bb3cd99cf9c4bcbd8d9&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjViMjRlNzFmLWRlNjYtNDcxOC1iNjA0LWM1NTQzMzNiZmQwNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwOTc2YTg5Mi1jOWU5LTExZWYtOWVjZi0wZTczOTQ2NGFmYTUiLCJjbGllbnRJUCI6IjE4MS4yMTcuMTE1LjEzNyIsImNpdHkiOiJKZXF1aWUiLCJwb3N0YWxDb2RlIjoiNDUyMDMtMDQxIiwiY291bnRyeSI6IkJSIiwiZG1hIjo3NjExNCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMy44NTk5OTk2NTY2NzcyNDYsImRldmljZUxvbiI6LTQwLjA4MDAwMTgzMTA1NDY5LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzEuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjcuMC0xOGM1MTg2MGJlNWRkYmViZTkzMTJiYjNjZDk5Y2Y5YzRiY2JkOGQ5IiwiY2xpZW50SUQiOiJlMGMxODc0NS04N2M5LTRiYmItOTAyOC0xYWY5MzRkNDI1OGEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9CYWhpYSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImZ3VmNJRDJDb3BwYSI6ImUwYzE4NzQ1LTg3YzktNGJiYi05MDI4LTFhZjkzNGQ0MjU4YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZTBjMTg3NDUtODdjOS00YmJiLTkwMjgtMWFmOTM0ZDQyNThhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAyMCwxMDAwMCwxMDAwOSwxMDAwMywxMDAxMywxMDAxNCwxMDAxNSwxMDAxNiJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOlpUQmpNVGczTkRVdE9EZGpPUzAwWW1KaUxUa3dNamd0TVdGbU9UTTBaRFF5TlRoaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MzYwMDUyMTksImlhdCI6MTczNTkxODgxOSwianRpIjoiMmMzNmRjOTItMmJjNi00NGQ4LWFlZDktOTgzY2IxZTEyOTYzIn0.oNK47Q-ZJ8quUVKYhL1suzfT0k1QQySzvWV5_OU4FJQ&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=&paln=AQzzBGQEnBnqtnwUWkBfBMreCkRJoQINzYnurajH6-svAj8ZoSUC2_ECvn5lXt5Wfc0bKAM_Ym-kfjgROXJFVtyULJ-dep8m-aGZCAJCOH1u0auZzAyxtnSu6LWnykKZlCC3oa4gL6SwlW3lheeBqWXhgWRE4TJ6m4lQ0oHRFh9-0Bixjzywg2ejjErGmOkr7oV1x2K1YQw1V0aEr5miu6NCwkLjTGXzxfYrSvU4TWs7UpB3rmv5lFw32MWxV1JsvshbAtTeio502kF4P33vQQb_dz5XWZxN74IWwSW-n7og3ddS6n1U1wrKKE-XOBodKZzlsridC5zkWTPox7-WlbBklPyA1hHbBs2KWLT4yXYaVf5nsmPW5iecZgXwNbD47ICQCM_g9Jlc2jYwm-G7uWz8QKl_6s9nUx791Ze8y2z0Qz2nRcQ3FfciTE9HCD2ayqED4YcUECmwWuV8TfVUCVeXlFlkVvLsV2gVn_XG88dDjQRn5-h7zR8Bo7BOjfTAWj1dY_VdA7Txh0W36Y-gBCR_Dt2YxoftQm7y4YyBkw0AbWrOwRY0HwuhX_048YpG_oQSl24_Qs3weGobqMn2jhzESWxVvB2i7R6TLFw0CkjQx1I4E2YToTekdU3vIjTuT5Y_WCxwdWxrIX5CvkVxjIjSv_CMNPqxN1g2htPAg2ZmaxnwWLuImTR74GQsFSil7BPxw7tbd0SccbYUIIubgtm_y1FAUUDh5_1STmue2XDf52Hb7Yw0TysUOaSmljrNqaMUwAgSXF_O8hRxqcHPhJ82Ywgnk0mUostBmnM-A_3JHopCawfDCoJH56Bb2kHwR0XpGqAua_m5wigjUH2DCIyhCRk1ZiO_GolKkVzz2n5CzQHelKQ0iv5J8k-C_4SG2nzfYZa7oV09HYXqyA7bmRUyxiMgyCxaJ2GDXcnPRJwvfgiRtFQgwxlrKcoD-8OkkqUjRpVDdwNryVxY6cJ_JQ30LRqH3uehu8z0E2GSQJp-P1hePbxC7tDRoiPl9nVv1oh-Q1DUXwL9gaLej4-kYKrMmpht-R_hZmqDk6q4gjCdjnTBDpe9mQIcNbhk_8fzwPcaFGQiwtKP1l7D6w0WRTAquFyLqEj2yYYjwknxJn5q6VUXNorBML4IxjNGPdumpOh9nlx2XpSy6jNvOv5Kb9IDKRDj36nP1r1uFBCxOQxAK5Ov4MYeZ4v83RpH7yepJP_ht-TYvQ61rIkn9PxxHT3PoR8.
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="VARIEDADES",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="VARIEDADES",LASS TV
-https://tv02.zas.media:1936/lasstv/lasstv/master.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="VARIEDADES",MISS UNIVERSO BRASIL  
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="VARIEDADES",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="VARIEDADES",PARAMOUNT+ APRESENTA 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV 
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="VARIEDADES",REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/master.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil HD.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="VARIEDADES",REDE BRASIL
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w1521770101.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="VARIEDADES",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="VARIEDADES",REDE PREMIUM TV
-https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="VARIEDADES",REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="VARIEDADES",REVRY BRASIL
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RSNews.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="VARIEDADES",RS TV
 https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
-#EXTINF:-1 tvg-id="Sesctv.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="VARIEDADES",SESC TV 
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="VARIEDADES",UNIVERSIDADE DA PESSOA  
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="VARIEDADES",RTP 1 | PORTUGAL
