@@ -856,22 +856,16 @@ https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91388.m3u8
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://w7.pngwing.com/pngs/596/939/png-transparent-tastemade-logo-company-marketing-media-avocado-miscellaneous-text-public-relations.png" group-title="VARIEDADES",TASTEMADE BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj"group-title="VARIEDADES",TV PARANÁ TURISMO
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="VARIEDADES",UNIVERSIDADE DA PESSOA  
-http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="VARIEDADES",UNIVERSIDADE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1249
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/fSnOawT.png" group-title="VARIEDADES",TERRA VIVA
 https://live-b.cf.dmcdn.net/sec2(TOONfu-2b1hMINmtPrX8D3PsDFk-yT5kiNz9EB-KvVHwnYtgnciec1AaCii6-eou6ifX-CyX27tUmba4sU-JxrbnfZDQUwHabJjZS98J9PBc5n1RfN3pG8O8fwg7FL_U)/dm/3/x8qceqq/s/live-720.m3u8#cell=lcfb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="VARIEDADES",TV A FOLHA
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
 #EXTINF:-1 tvg-id="TVAberta.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title="VARIEDADES",TV ABERTA
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w1985858541.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="VARIEDADES",TV BRASIL CENTRAL
-https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="VARIEDADES",TV BOQUEIRÃO
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="VARIEDADES",TV BRASIL CENTRAL
+https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.ru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="VARIEDADES",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/O1WAn2z.png" group-title="VARIEDADES",TV CARIOCA INTERNACIONAL
@@ -882,14 +876,10 @@ https://utvsite.acessaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/chunklis
 https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/master.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6629476fb91a6975d4cc2f6f6955223.webp" group-title="VARIEDADES",TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvaguaboa.com.br/admin/assets/img/logo.png" group-title="VARIEDADES",TV ÁGUA BOA
-https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w279367786.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="VARIEDADES",TV GRANDE NATAL
 https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_qEFnhk4z_llhls.m3u8?session=33_AmXDir5B
 #EXTINF:-1 tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="VARIEDADES",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616006826369187842/Y-SqSrwl_400x400.jpg" group-title="VARIEDADES",TV RECANTO DA FÉ
-https://stmv1.srvif.com/tvaep/tvaep/chunklist_w1127135171.m3u8
 #EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV LONDRES
 https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="VARIEDADES",TV LUZILÂNDIA
@@ -902,6 +892,10 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvpantanalms.com.br/wp-content/uploads/elementor/thumbs/logo_menor-qn90vhk6eujpy4tg6uhaljhie0azq2swir4unijri8.png" group-title="VARIEDADES",TV PANTANAL
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1710990903.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj"group-title="VARIEDADES",TV PARANÁ TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616006826369187842/Y-SqSrwl_400x400.jpg" group-title="VARIEDADES",TV RECANTO DA FÉ
+https://stmv1.srvif.com/tvaep/tvaep/chunklist_w1127135171.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="VARIEDADES",TV SANTA CECÍLIA
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="VARIEDADES",TV SULBA
@@ -910,12 +904,12 @@ https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="VARIEDADES",TV VOTORANTIM
 https://alanza.iptv2022.com/TV_VOTORANTIM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvaguaboa.com.br/admin/assets/img/logo.png" group-title="VARIEDADES",TV ÁGUA BOA
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w279367786.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="VARIEDADES",UNIVERSIDADE DA PESSOA  
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="VARIEDADES",VILA TV
 https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="VARIEDADES",TVE ESPANHOL
-http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="VARIEDADES",V+ TVI
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="VARIEDADES",WORLD POKER TOUR 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="VARIEDADES",XR HEALTH BRASIL
@@ -926,6 +920,8 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w1738641359.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="VARIEDADES",TDM MACAU | TAIPA
 https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w452323990.m3u8
+#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="VARIEDADES",TVE ESPANHOL
+http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wBQZqvb.png" group-title="VARIEDADES",TVG GALICIA | ESPANHA
 https://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="VARIEDADES",RTP 1 | PORTUGAL
@@ -940,6 +936,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="VARIEDADES",SIC | PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="VARIEDADES",V+ TVI
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 ################### RÁDIOS #######################
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
