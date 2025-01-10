@@ -32,6 +32,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
 http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/120px-Arte_1_logo.svg.png" group-title="TV ABERTA",ARTE1 
+http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
 #EXTINF:-1 tvg-id="Sesctv.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV 
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="TV ABERTA",TV DIÁRIO DO SERTÃO 
@@ -786,8 +788,6 @@ https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunkl
 https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w293543699.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="VARIEDADES",AGROBRASIL TV
 https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8?session=ZPNPTteaWaJgxTLW6xChdN
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/120px-Arte_1_logo.svg.png" group-title="VARIEDADES",ARTE1 
-http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="VARIEDADES",ASTRAL TV  
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
