@@ -372,7 +372,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90856.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90859.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HOMEM-ARANHA" tvg-logo="https://w7.pngwing.com/pngs/22/51/png-transparent-spider-man-logo-film-spider-cdr-heroes-comic-book-thumbnail.png" group-title="FILMES",HOMEM-ARANHA
 http://lidns.cc:80/4x6cXF/JDqRqj/90862.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="VINGADORES" tvg-logo="https://w7.pngwing.com/pngs/280/187/png-transparent-hulk-iron-man-spider-man-carol-danvers-captain-america-hulk-marvel-avengers-assemble-avengers-text.png" group-title="CANAIS | 24 HORAS",VINGADORES
+#EXTINF:-1 tvg-id="Like.br" tvg-name="VINGADORES" tvg-logo="https://w7.pngwing.com/pngs/280/187/png-transparent-hulk-iron-man-spider-man-carol-danvers-captain-america-hulk-marvel-avengers-assemble-avengers-text.png" group-title="FILMES",VINGADORES
 http://lidns.cc:80/4x6cXF/JDqRqj/90863.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="X-MEN " tvg-logo="https://w7.pngwing.com/pngs/909/163/png-transparent-professor-x-wolverine-cyclops-spider-man-x-men-wolverine-angle-text-logo.png" group-title="FILMES",X-MEN 
 http://lidns.cc:80/4x6cXF/JDqRqj/90865.m3u8
@@ -470,6 +470,14 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90545.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89881.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="COMÉDIAS",COMEDY CENTRAL 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MASTER TRASH E PANICO CHEF" tvg-logo="https://pbs.twimg.com/media/DEeaxy0XsAAsPm5.jpg" group-title="COMÉDIAS",MASTER TRASH E PANICO CHEF
+http://lidns.cc:80/4x6cXF/JDqRqj/90867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-NA CORREIA" tvg-logo="https://yt3.googleusercontent.com/EB9XyvpMkHVuJnO4W8tgRoRmBIbDDLOeh6FnVnNokC4rlvrGVaHzZKzzYv5MA3IE9VJoPxkFOg=s900-c-k-c0x00ffffff-no-rj" group-title="COMÉDIAS",NA CORRERIA
+http://lidns.cc:80/4x6cXF/JDqRqj/90905.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS TRAPALHOES" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/89/Os_Trapalhoes_logo_1984.png/revision/latest?cb=20220219130130" group-title="COMÉDIAS",OS TRAPALHOES
+http://lidns.cc:80/4x6cXF/JDqRqj/90995.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PANICO TROLL" tvg-logo="https://seeklogo.com/images/P/P__nico_na_Tv-logo-DEFE306B6D-seeklogo.com.png" group-title="COMÉDIAS",PANICO TROLL
+http://lidns.cc:80/4x6cXF/JDqRqj/91003.m3u8
 #EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="COMÉDIAS",PORTA DOS FUNDOS  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ####################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES #####################
@@ -566,6 +574,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS - O NOVO TESTAMENTO" tvg-logo="https://w7.pngwing.com/pngs/223/94/png-transparent-new-testament-chapter-by-chapter-old-testament-logo-book-book-blue-other-emblem.png" group-title="INFANTIS",DESENHOS BIBLICOS - O NOVO TESTAMENTO
+http://lidns.cc:80/4x6cXF/JDqRqj/90931.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL " tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/89913.m3u8
@@ -651,6 +661,8 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="FATOS DESCONHECIDOS" tvg-logo="https://static.wikia.nocookie.net/fubeliotv/images/7/76/Fatos.png/revision/latest?cb=20230205221215&path-prefix=pt-br" group-title="DOCUMENTÁRIOS",FATOS DESCONHECIDOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90700.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MELHORES VIDEOS DO MUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcxDt30Cb1NyaHl2i6tsuhv-KsCLEWzWv4Q&s" group-title="DOCUMENTÁRIOS",OS MELHORES VIDEOS DO MUNDO
+http://lidns.cc:80/4x6cXF/JDqRqj/90873.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS " tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89831.m3u8
@@ -670,6 +682,12 @@ http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS FORRÓ" tvg-logo="https://e7.pngegg.com/pngimages/376/272/png-clipart-musica-sertaneja-forro-singer-thailand-forro-angle-rectangle-thumbnail.png" group-title="MÚSICA",SHOWS FORRÓ
+http://lidns.cc:80/4x6cXF/JDqRqj/90896.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pop_logo_2021.png/768px-Pop_logo_2021.png" group-title="MÚSICA",SHOWS POP
+http://lidns.cc:80/4x6cXF/JDqRqj/90900.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS SERTANEJO" tvg-logo="https://showsertanejo.com.br/wp-content/uploads/2021/11/logo-show-sertanejo.svg" group-title="MÚSICA",SHOWS SERTANEJO
+http://lidns.cc:80/4x6cXF/JDqRqj/90903.m3u8
 ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ##############
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Agromais-band-logo.png/800px-Agromais-band-logo.png" group-title="NOTÍCIAS",AGRO MAIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89795.m3u8
@@ -992,28 +1010,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ###############################
-#EXTINF:-1 tvg-id="" tvg-name="24H-MASTER TRASH E PANICO CHEF" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MASTER TRASH E PANICO CHEF
-http://lidns.cc:80/4x6cXF/JDqRqj/90867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MELHORES VIDEOS DO MUNDO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MELHORES VIDEOS DO MUNDO
-http://lidns.cc:80/4x6cXF/JDqRqj/90873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MUSICA FORRO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS SHOWS",24H-MUSICA FORRO
-http://lidns.cc:80/4x6cXF/JDqRqj/90896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS POP" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS SHOWS",24H-MUSICAS POP
-http://lidns.cc:80/4x6cXF/JDqRqj/90900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS SERTANEJO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS SHOWS",24H-MUSICAS SERTANEJO
-http://lidns.cc:80/4x6cXF/JDqRqj/90903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NA CORREIA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS YOUTUBERS",24H-NA CORREIA
-http://lidns.cc:80/4x6cXF/JDqRqj/90905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARCOS S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-NARCOS S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-O NOVO TESTAMENTO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-O NOVO TESTAMENTO
-http://lidns.cc:80/4x6cXF/JDqRqj/90931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-OCEANO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-OCEANO
-http://lidns.cc:80/4x6cXF/JDqRqj/90943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS TRAPALHOES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-OS TRAPALHOES
-http://lidns.cc:80/4x6cXF/JDqRqj/90995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PANICO TROLL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-PANICO TROLL
-http://lidns.cc:80/4x6cXF/JDqRqj/91003.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-PARA RELAXAR E DORMIR" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS SHOWS",24H-PARA RELAXAR E DORMIR
 http://lidns.cc:80/4x6cXF/JDqRqj/91006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-PEGADINHAS DO SILVIO SANTOS
