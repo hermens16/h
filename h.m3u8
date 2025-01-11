@@ -356,6 +356,26 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-CLASSICOS DA MARVEL 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixkTQntpQDzPyYGYSwp6aomELCClYdRMuHA&s" group-title="FILMES",CLASSICOS DA MARVEL 1
+http://lidns.cc:80/4x6cXF/JDqRqj/90832.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-CLASSICOS DA MARVEL 2" tvg-logo="https://wallpapers.com/images/hd/marvel-comics-classic-logo-7jw6kcihaz78ee5t.jpg" group-title="FILMES",CLASSICOS DA MARVEL 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90833.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-FILMES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png" group-title="FILMES",MARVEL-FILMES 1
+http://lidns.cc:80/4x6cXF/JDqRqj/90840.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-FILMES 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88c4706a-565c-4f0a-acfc-b914df984541/dblgm0i-7da34d4a-e558-44bf-aea5-888590187ae0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4YzQ3MDZhLTU2NWMtNGYwYS1hY2ZjLWI5MTRkZjk4NDU0MVwvZGJsZ20waS03ZGEzNGQ0YS1lNTU4LTQ0YmYtYWVhNS04ODg1OTAxODdhZTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kiEbpUbOCa8_ZQmgW7WDxnGF9L-7A8GWHcMb7SsXLyQ" group-title="FILMES",MARVEL-FILMES 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90841.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-HOMEM DE FERRO" tvg-logo="https://w7.pngwing.com/pngs/857/871/png-transparent-iron-man-iron-man-spider-man-captain-america-thor-marvel-comics-iron-man-thumbnail.png" group-title="FILMES",HOMEM DE FERRO
+http://lidns.cc:80/4x6cXF/JDqRqj/90842.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-ORDEM CRONOLOGICA " tvg-logo="https://i0.wp.com/nerdiva.com.br/wp-content/uploads/2014/07/ordem-filmes-marvel-mcu.png?resize=800%2C1200&ssl=1" group-title="FILMES",MARVEL ORDEM CRONOLOGICA 
+http://lidns.cc:80/4x6cXF/JDqRqj/90856.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-QUARTETO FANTASTICO" tvg-logo="https://w7.pngwing.com/pngs/530/57/png-transparent-fantastic-four-mister-fantastic-logo-comics-decal-fantastic-four-angle-superhero-trademark-thumbnail.png" group-title="FILMES",QUARTETO FANTASTICO
+http://lidns.cc:80/4x6cXF/JDqRqj/90859.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="HOMEM-ARANHA" tvg-logo="https://w7.pngwing.com/pngs/22/51/png-transparent-spider-man-logo-film-spider-cdr-heroes-comic-book-thumbnail.png" group-title="FILMES",HOMEM-ARANHA
+http://lidns.cc:80/4x6cXF/JDqRqj/90862.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="VINGADORES" tvg-logo="https://w7.pngwing.com/pngs/280/187/png-transparent-hulk-iron-man-spider-man-carol-danvers-captain-america-hulk-marvel-avengers-assemble-avengers-text.png" group-title="CANAIS | 24 HORAS",VINGADORES
+http://lidns.cc:80/4x6cXF/JDqRqj/90863.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="X-MEN " tvg-logo="https://w7.pngwing.com/pngs/909/163/png-transparent-professor-x-wolverine-cyclops-spider-man-x-men-wolverine-angle-text-logo.png" group-title="FILMES",X-MEN 
+http://lidns.cc:80/4x6cXF/JDqRqj/90865.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 01 
 http://metv.fun:80/4x6cXF/JDqRqj/91384.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 02 
@@ -385,10 +405,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="SÉRIES",COMÉDIA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Comedy Central.br" tvg-name="COMEDY CENTRAL " tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="SÉRIES",COMEDY CENTRAL 
-http://metv.fun:80/4x6cXF/JDqRqj/89881.m3u8
-#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="SÉRIES",COMEDY CENTRAL 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="SÉRIES",DIFF'RENT STROKES ARNOLD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="SÉRIES",FAILARMY  
@@ -423,8 +439,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES",O HOMEM QUE VEIO DO CÉU 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="SÉRIES",PORTA DOS FUNDOS  
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Prime Box Brazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="SÉRIES",PRIME BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
 #EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="SÉRIES",RETRÔ 
@@ -445,6 +459,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=156310078
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+####################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS #####################
+#EXTINF:-1 tvg-id="Like.br" tvg-name="4 AMIGOS-FILA DE PIADAS" tvg-logo="https://theatropedro2.com.br/imagem_texto/20241118_104119_9-4-amigos-10-11-21h-png" group-title="COMÉDIAS",4 AMIGOS-FILA DE PIADAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90702.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="5 ALGUMA COISA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65BoEYWZhMB6iasa-Q02ucLg4jrBTpDWTPQ&s" group-title="COMÉDIAS",5 ALGUMA COISA
+http://lidns.cc:80/4x6cXF/JDqRqj/90452.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CAMERAS ESCONDIDAS" tvg-logo="https://static.sbt.com.br/programas/logos/718.jpg" group-title="COMÉDIAS",CAMERAS ESCONDIDAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90545.m3u8
+#EXTINF:-1 tvg-id="Comedy Central.br" tvg-name="COMEDY CENTRAL " tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="COMÉDIAS",COMEDY CENTRAL 
+http://metv.fun:80/4x6cXF/JDqRqj/89881.m3u8
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="COMÉDIAS",COMEDY CENTRAL 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="COMÉDIAS",PORTA DOS FUNDOS  
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ####################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES #####################
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="ANIMES",ANIME  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -622,6 +649,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://s3.amazonaws.com/assets.apoia.se/campaigns/586307ae77f42b040088470b%7C586b232c9e965e040085cb29/user-campaign-about-photo%7Cmarca-dagua-spacetoday-20210225_01203572.png" group-title="DOCUMENTÁRIOS",SPACE TODAY TV
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="FATOS DESCONHECIDOS" tvg-logo="https://static.wikia.nocookie.net/fubeliotv/images/7/76/Fatos.png/revision/latest?cb=20230205221215&path-prefix=pt-br" group-title="DOCUMENTÁRIOS",FATOS DESCONHECIDOS
+http://lidns.cc:80/4x6cXF/JDqRqj/90700.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS " tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89831.m3u8
@@ -963,144 +992,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ###############################
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S01
-http://lidns.cc:80/4x6cXF/JDqRqj/91106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S02
-http://lidns.cc:80/4x6cXF/JDqRqj/91107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S03
-http://lidns.cc:80/4x6cXF/JDqRqj/91108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S04
-http://lidns.cc:80/4x6cXF/JDqRqj/91109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S05
-http://lidns.cc:80/4x6cXF/JDqRqj/91110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S06" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S06
-http://lidns.cc:80/4x6cXF/JDqRqj/91111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S08" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S08
-http://lidns.cc:80/4x6cXF/JDqRqj/91113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S09" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S09
-http://lidns.cc:80/4x6cXF/JDqRqj/91114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S10" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S10
-http://lidns.cc:80/4x6cXF/JDqRqj/91115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S11" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S11
-http://lidns.cc:80/4x6cXF/JDqRqj/91116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S12" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S12
-http://lidns.cc:80/4x6cXF/JDqRqj/91117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S13" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S13
-http://lidns.cc:80/4x6cXF/JDqRqj/91118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S14" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S14
-http://lidns.cc:80/4x6cXF/JDqRqj/91119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-AGENTS DA S.H.I.E.L.D S06" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-AGENTS DA S.H.I.E.L.D S06
-http://lidns.cc:80/4x6cXF/JDqRqj/90830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-5 ALGUMA COISA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-5 ALGUMA COISA
-http://lidns.cc:80/4x6cXF/JDqRqj/90452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S02
-http://lidns.cc:80/4x6cXF/JDqRqj/90503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S03
-http://lidns.cc:80/4x6cXF/JDqRqj/90504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S04
-http://lidns.cc:80/4x6cXF/JDqRqj/90505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S02
-http://lidns.cc:80/4x6cXF/JDqRqj/90537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S03
-http://lidns.cc:80/4x6cXF/JDqRqj/90538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S04
-http://lidns.cc:80/4x6cXF/JDqRqj/90539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S05
-http://lidns.cc:80/4x6cXF/JDqRqj/90540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAMERAS ESCONDIDAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-CAMERAS ESCONDIDAS
-http://lidns.cc:80/4x6cXF/JDqRqj/90545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S02
-http://lidns.cc:80/4x6cXF/JDqRqj/90638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S03
-http://lidns.cc:80/4x6cXF/JDqRqj/90639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S04
-http://lidns.cc:80/4x6cXF/JDqRqj/90640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S05
-http://lidns.cc:80/4x6cXF/JDqRqj/90641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S06" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S06
-http://lidns.cc:80/4x6cXF/JDqRqj/90642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S08" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S08
-http://lidns.cc:80/4x6cXF/JDqRqj/90644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S09" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S09
-http://lidns.cc:80/4x6cXF/JDqRqj/90645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S10" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S10
-http://lidns.cc:80/4x6cXF/JDqRqj/90646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S11" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S11
-http://lidns.cc:80/4x6cXF/JDqRqj/90647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S12" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S12
-http://lidns.cc:80/4x6cXF/JDqRqj/90648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S02
-http://lidns.cc:80/4x6cXF/JDqRqj/90690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S03
-http://lidns.cc:80/4x6cXF/JDqRqj/90691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S04
-http://lidns.cc:80/4x6cXF/JDqRqj/90692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S05
-http://lidns.cc:80/4x6cXF/JDqRqj/90693.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FATOS DESCONHECIDOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FATOS DESCONHECIDOS
-http://lidns.cc:80/4x6cXF/JDqRqj/90700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FILA DE PIADAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FILA DE PIADAS
-http://lidns.cc:80/4x6cXF/JDqRqj/90702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S02
-http://lidns.cc:80/4x6cXF/JDqRqj/90709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S03
-http://lidns.cc:80/4x6cXF/JDqRqj/90710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S04
-http://lidns.cc:80/4x6cXF/JDqRqj/90711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S05
-http://lidns.cc:80/4x6cXF/JDqRqj/90712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S06" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S06
-http://lidns.cc:80/4x6cXF/JDqRqj/90713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S07" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S07
-http://lidns.cc:80/4x6cXF/JDqRqj/90714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S08" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S08
-http://lidns.cc:80/4x6cXF/JDqRqj/90715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S09" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S09
-http://lidns.cc:80/4x6cXF/JDqRqj/90716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S10" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-FRIENDS S10
-http://lidns.cc:80/4x6cXF/JDqRqj/90717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL- AGENTS DA S.H.I.E.L.D S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL- AGENTS DA S.H.I.E.L.D S02
-http://lidns.cc:80/4x6cXF/JDqRqj/90824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL- LUKE CAGE S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL- LUKE CAGE S02
-http://lidns.cc:80/4x6cXF/JDqRqj/90825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-CLASSICOS DA MARVEL 1" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-CLASSICOS DA MARVEL 1
-http://lidns.cc:80/4x6cXF/JDqRqj/90832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-CLASSICOS DA MARVEL 2" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-CLASSICOS DA MARVEL 2
-http://lidns.cc:80/4x6cXF/JDqRqj/90833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 1" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-FILMES 1
-http://lidns.cc:80/4x6cXF/JDqRqj/90840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 2" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-FILMES 2
-http://lidns.cc:80/4x6cXF/JDqRqj/90841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-HOMEM DE FERRO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-HOMEM DE FERRO
-http://lidns.cc:80/4x6cXF/JDqRqj/90842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JESSICA JONES S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-JESSICA JONES S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LEGIAO S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-LEGIAO S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LUKE CAGE S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-LUKE CAGE S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-ORDEM CRONOLOGICA 02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-ORDEM CRONOLOGICA 02
-http://lidns.cc:80/4x6cXF/JDqRqj/90856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-QUARTETO FANTASTICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-QUARTETO FANTASTICO
-http://lidns.cc:80/4x6cXF/JDqRqj/90859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-THE GIFTED S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-THE GIFTED S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-TRILOGIA HOMEM-ARANHA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-TRILOGIA HOMEM-ARANHA
-http://lidns.cc:80/4x6cXF/JDqRqj/90862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-VINGADORES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-VINGADORES
-http://lidns.cc:80/4x6cXF/JDqRqj/90863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-X-MEN 1" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MARVEL-X-MEN 1
-http://lidns.cc:80/4x6cXF/JDqRqj/90865.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-MASTER TRASH E PANICO CHEF" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MASTER TRASH E PANICO CHEF
 http://lidns.cc:80/4x6cXF/JDqRqj/90867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-MELHORES VIDEOS DO MUNDO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-MELHORES VIDEOS DO MUNDO
