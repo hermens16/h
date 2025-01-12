@@ -439,6 +439,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES",O HOMEM QUE VEIO DO CÉU 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER CLASSICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGER CLASSICO
+http://lidns.cc:80/4x6cXF/JDqRqj/91051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER CLASSICO S01 AO S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGER CLASSICO S01 AO S04
+http://lidns.cc:80/4x6cXF/JDqRqj/91052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER DINO THUNDER" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGER DINO THUNDER
+http://lidns.cc:80/4x6cXF/JDqRqj/91053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER GALAXIA PERDIDA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGER GALAXIA PERDIDA
+http://lidns.cc:80/4x6cXF/JDqRqj/91054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER NINJA STORM" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGER NINJA STORM
+http://lidns.cc:80/4x6cXF/JDqRqj/91055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER SPD" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGER SPD
+http://lidns.cc:80/4x6cXF/JDqRqj/91056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER ZEO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGER ZEO
+http://lidns.cc:80/4x6cXF/JDqRqj/91057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGERS TURBO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="SÉRIES",24H-POWER RANGERS TURBO
+http://lidns.cc:80/4x6cXF/JDqRqj/91058.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brazil.br" tvg-name="PRIME BOX BRAZIL " tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="SÉRIES",PRIME BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90239.m3u8
 #EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="SÉRIES",RETRÔ 
@@ -478,14 +494,19 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90905.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90995.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PANICO TROLL" tvg-logo="https://seeklogo.com/images/P/P__nico_na_Tv-logo-DEFE306B6D-seeklogo.com.png" group-title="COMÉDIAS",PANICO TROLL
 http://lidns.cc:80/4x6cXF/JDqRqj/91003.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",24H-PEGADINHAS DO SILVIO SANTOS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",PEGADINHAS DO SILVIO SANTOS
 http://lidns.cc:80/4x6cXF/JDqRqj/91015.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS JALALS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",24H-PEGADINHAS JALALS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS JALALS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",PEGADINHAS JALALS
 http://lidns.cc:80/4x6cXF/JDqRqj/91016.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS JOAO KLEBER" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",24H-PEGADINHAS JOAO KLEBER
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS JOAO KLEBER" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",PEGADINHAS JOAO KLEBER
 http://lidns.cc:80/4x6cXF/JDqRqj/91017.m3u8
 #EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="COMÉDIAS",PORTA DOS FUNDOS  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-name="24H-PORTAS DOS FUNDOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",PORTAS DOS FUNDOS 2
+http://lidns.cc:80/4x6cXF/JDqRqj/91050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-TESTE DE FIDELIDADE" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",TESTE DE FIDELIDADE
+http://lidns.cc:80/4x6cXF/JDqRqj/91163.m3u8
+
 ####################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES #####################
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="ANIMES",ANIME  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -503,6 +524,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a17
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIMES",TRUTV  
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-YU YU HAKUSHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="ANIMES",YU YU HAKUSHO
+http://lidns.cc:80/4x6cXF/JDqRqj/91295.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
 #EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
@@ -1017,24 +1040,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPA
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ###############################
 
-#EXTINF:-1 tvg-id="" tvg-name="24H-PORTAS DOS FUNDOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS YOUTUBERS",24H-PORTAS DOS FUNDOS
-http://lidns.cc:80/4x6cXF/JDqRqj/91050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER CLASSICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGER CLASSICO
-http://lidns.cc:80/4x6cXF/JDqRqj/91051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER CLASSICO S01 AO S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGER CLASSICO S01 AO S04
-http://lidns.cc:80/4x6cXF/JDqRqj/91052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER DINO THUNDER" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGER DINO THUNDER
-http://lidns.cc:80/4x6cXF/JDqRqj/91053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER GALAXIA PERDIDA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGER GALAXIA PERDIDA
-http://lidns.cc:80/4x6cXF/JDqRqj/91054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER NINJA STORM" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGER NINJA STORM
-http://lidns.cc:80/4x6cXF/JDqRqj/91055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER SPD" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGER SPD
-http://lidns.cc:80/4x6cXF/JDqRqj/91056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER ZEO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGER ZEO
-http://lidns.cc:80/4x6cXF/JDqRqj/91057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGERS TURBO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER RANGERS TURBO
-http://lidns.cc:80/4x6cXF/JDqRqj/91058.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER STONE" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER STONE
 http://lidns.cc:80/4x6cXF/JDqRqj/91059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-PROJETO ZETA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PROJETO ZETA
@@ -1053,12 +1060,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91066.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-REN E STIMPY" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-REN E STIMPY
 http://lidns.cc:80/4x6cXF/JDqRqj/91068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 1 TEMPORADA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-RICK E MORTY 1 TEMPORADA
-http://lidns.cc:80/4x6cXF/JDqRqj/91069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 2 TEMPORADA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-RICK E MORTY 2 TEMPORADA
-http://lidns.cc:80/4x6cXF/JDqRqj/91070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 3 TEMPORADA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-RICK E MORTY 3 TEMPORADA
-http://lidns.cc:80/4x6cXF/JDqRqj/91071.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-RIQUINHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-RIQUINHO
 http://lidns.cc:80/4x6cXF/JDqRqj/91073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ROCKET POWER" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ROCKET POWER
@@ -1091,8 +1092,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91092.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91093.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-SLAM DUCK" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-SLAM DUCK
 http://lidns.cc:80/4x6cXF/JDqRqj/91094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S07" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S07
-http://lidns.cc:80/4x6cXF/JDqRqj/91112.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-SONIC BOOM" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-SONIC BOOM
 http://lidns.cc:80/4x6cXF/JDqRqj/91120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-SONIC X" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-SONIC X
@@ -1137,26 +1136,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91160.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-TENCHI MUYO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-TENCHI MUYO
 http://lidns.cc:80/4x6cXF/JDqRqj/91162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TESTE DE FIDELIDADE" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-TESTE DE FIDELIDADE
-http://lidns.cc:80/4x6cXF/JDqRqj/91163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S01
-http://lidns.cc:80/4x6cXF/JDqRqj/91164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S02
-http://lidns.cc:80/4x6cXF/JDqRqj/91165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S03
-http://lidns.cc:80/4x6cXF/JDqRqj/91166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S04
-http://lidns.cc:80/4x6cXF/JDqRqj/91167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S05
-http://lidns.cc:80/4x6cXF/JDqRqj/91168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S06" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S06
-http://lidns.cc:80/4x6cXF/JDqRqj/91169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S07" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S07
-http://lidns.cc:80/4x6cXF/JDqRqj/91170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S08" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S08
-http://lidns.cc:80/4x6cXF/JDqRqj/91171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S09" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S09
-http://lidns.cc:80/4x6cXF/JDqRqj/91172.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24H-THOMAS E SEUS AMIGOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-THOMAS E SEUS AMIGOS
 http://lidns.cc:80/4x6cXF/JDqRqj/91173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-THUNDERCATS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-THUNDERCATS
@@ -1175,16 +1155,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91184.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-TRANSFORMES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TRANSFORMES
 http://lidns.cc:80/4x6cXF/JDqRqj/91186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TRES ESPIAS DEMAIS S01
-http://lidns.cc:80/4x6cXF/JDqRqj/91187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TRES ESPIAS DEMAIS S02
-http://lidns.cc:80/4x6cXF/JDqRqj/91188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TRES ESPIAS DEMAIS S03
-http://lidns.cc:80/4x6cXF/JDqRqj/91189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TRES ESPIAS DEMAIS S04
-http://lidns.cc:80/4x6cXF/JDqRqj/91190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TRES ESPIAS DEMAIS S05
-http://lidns.cc:80/4x6cXF/JDqRqj/91191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-TUNEL DO TEMPO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-TUNEL DO TEMPO
 http://lidns.cc:80/4x6cXF/JDqRqj/91192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-TURBOMAN" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TURBOMAN
@@ -1197,18 +1167,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91195.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91196.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ULTRAMAN" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ULTRAMAN
 http://lidns.cc:80/4x6cXF/JDqRqj/91197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S01
-http://lidns.cc:80/4x6cXF/JDqRqj/91198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S02
-http://lidns.cc:80/4x6cXF/JDqRqj/91199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S03
-http://lidns.cc:80/4x6cXF/JDqRqj/91200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S04
-http://lidns.cc:80/4x6cXF/JDqRqj/91201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S05
-http://lidns.cc:80/4x6cXF/JDqRqj/91202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S06" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S06
-http://lidns.cc:80/4x6cXF/JDqRqj/91203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-URSINHO GUMMI" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-URSINHO GUMMI
 http://lidns.cc:80/4x6cXF/JDqRqj/91204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-URSINHOS CARINHOSOS
@@ -1229,22 +1187,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91212.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91213.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-XUXA SO PARA BAIXINHOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-XUXA SO PARA BAIXINHOS
 http://lidns.cc:80/4x6cXF/JDqRqj/91214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU YU HAKUSHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU YU HAKUSHO
-http://lidns.cc:80/4x6cXF/JDqRqj/91295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU-GI-OH S01
-http://lidns.cc:80/4x6cXF/JDqRqj/91296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU-GI-OH S02
-http://lidns.cc:80/4x6cXF/JDqRqj/91297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S03" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU-GI-OH S03
-http://lidns.cc:80/4x6cXF/JDqRqj/91298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S04" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU-GI-OH S04
-http://lidns.cc:80/4x6cXF/JDqRqj/91299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU-GI-OH S05
-http://lidns.cc:80/4x6cXF/JDqRqj/91300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S06" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU-GI-OH S06
-http://lidns.cc:80/4x6cXF/JDqRqj/91301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S07" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-YU-GI-OH S07
-http://lidns.cc:80/4x6cXF/JDqRqj/91302.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZACK E CODY GEMEOS A BORDO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ZACK E CODY GEMEOS A BORDO
 http://lidns.cc:80/4x6cXF/JDqRqj/91303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZATCH BELL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ZATCH BELL
