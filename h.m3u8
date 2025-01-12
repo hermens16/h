@@ -401,6 +401,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES",BET  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-name="24H-CASTELO RA TI BUM" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CASTELO RA TI BUM
+http://lidns.cc:80/4x6cXF/JDqRqj/90556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHANPOLIN COLORADO
+http://lidns.cc:80/4x6cXF/JDqRqj/90563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHAPOLIN
+http://lidns.cc:80/4x6cXF/JDqRqj/90564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHAVES
+http://lidns.cc:80/4x6cXF/JDqRqj/90566.m3u8
 #EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="SÉRIES",CSI MIAMI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="SÉRIES",COMÉDIA 
@@ -490,12 +498,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b
 http://lidns.cc:80/4x6cXF/JDqRqj/90679.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MASTER TRASH E PANICO CHEF" tvg-logo="https://pbs.twimg.com/media/DEeaxy0XsAAsPm5.jpg" group-title="COMÉDIAS",MASTER TRASH E PANICO CHEF
 http://lidns.cc:80/4x6cXF/JDqRqj/90867.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PANICO TROLL" tvg-logo="https://seeklogo.com/images/P/P__nico_na_Tv-logo-DEFE306B6D-seeklogo.com.png" group-title="COMÉDIAS",PANICO TROLL
+http://lidns.cc:80/4x6cXF/JDqRqj/91003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-ZE PEQUENO DO PANICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",ZÉ PEQUENO DO PANICO
+http://lidns.cc:80/4x6cXF/JDqRqj/91307.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NA CORREIA" tvg-logo="https://yt3.googleusercontent.com/EB9XyvpMkHVuJnO4W8tgRoRmBIbDDLOeh6FnVnNokC4rlvrGVaHzZKzzYv5MA3IE9VJoPxkFOg=s900-c-k-c0x00ffffff-no-rj" group-title="COMÉDIAS",NA CORRERIA
 http://lidns.cc:80/4x6cXF/JDqRqj/90905.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="OS TRAPALHOES" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/89/Os_Trapalhoes_logo_1984.png/revision/latest?cb=20220219130130" group-title="COMÉDIAS",OS TRAPALHOES
 http://lidns.cc:80/4x6cXF/JDqRqj/90995.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="PANICO TROLL" tvg-logo="https://seeklogo.com/images/P/P__nico_na_Tv-logo-DEFE306B6D-seeklogo.com.png" group-title="COMÉDIAS",PANICO TROLL
-http://lidns.cc:80/4x6cXF/JDqRqj/91003.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",PEGADINHAS DO SILVIO SANTOS
 http://lidns.cc:80/4x6cXF/JDqRqj/91015.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEGADINHAS JALALS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="COMÉDIAS",PEGADINHAS JALALS
@@ -525,6 +535,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a94
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="ANIMES",ONE PIECE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="ANIMES",OS CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
+http://lidns.cc:80/4x6cXF/JDqRqj/90558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE ASGARD" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA DE ASGARD
+http://lidns.cc:80/4x6cXF/JDqRqj/90559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE POSEIDON" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA DE POSEIDON
+http://lidns.cc:80/4x6cXF/JDqRqj/90560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
+http://lidns.cc:80/4x6cXF/JDqRqj/90561.m3u8
 #EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIMES",TRUTV  
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU YU HAKUSHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="ANIMES",YU YU HAKUSHO
@@ -606,6 +624,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-id="" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-DESENHOS BIBLICOS
+http://lidns.cc:80/4x6cXF/JDqRqj/90629.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS - O NOVO TESTAMENTO" tvg-logo="https://w7.pngwing.com/pngs/223/94/png-transparent-new-testament-chapter-by-chapter-old-testament-logo-book-book-blue-other-emblem.png" group-title="INFANTIS",DESENHOS BIBLICOS - NOVO TESTAMENTO
 http://lidns.cc:80/4x6cXF/JDqRqj/90931.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ANTIGO TESTAMENTO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",DESENHOS BÍBLICOS - ANTIGO TESTAMENTO
@@ -1049,9 +1069,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ############################### 24 HORAS ###############################
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER STONE" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POWER STONE
 http://lidns.cc:80/4x6cXF/JDqRqj/91059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-PROJETO ZETA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PROJETO ZETA
@@ -1199,8 +1216,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91304.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91305.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZE COLMEIA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ZE COLMEIA
 http://lidns.cc:80/4x6cXF/JDqRqj/91306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZE PEQUENO DO PANICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-ZE PEQUENO DO PANICO
-http://lidns.cc:80/4x6cXF/JDqRqj/91307.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZILLION" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ZILLION
 http://lidns.cc:80/4x6cXF/JDqRqj/91308.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZOEY 101" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-ZOEY 101
@@ -1380,26 +1395,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90551.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90552.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAROLE E TUESDAY" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CAROLE E TUESDAY
 http://lidns.cc:80/4x6cXF/JDqRqj/90554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CASTELO RA TI BUM" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CASTELO RA TI BUM
-http://lidns.cc:80/4x6cXF/JDqRqj/90556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
-http://lidns.cc:80/4x6cXF/JDqRqj/90558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE ASGARD" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CAVALEIROS DO ZODIACO SAGA DE ASGARD
-http://lidns.cc:80/4x6cXF/JDqRqj/90559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE POSEIDON" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CAVALEIROS DO ZODIACO SAGA DE POSEIDON
-http://lidns.cc:80/4x6cXF/JDqRqj/90560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
-http://lidns.cc:80/4x6cXF/JDqRqj/90561.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CAVERNA DO DRAG
 http://lidns.cc:80/4x6cXF/JDqRqj/90562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHANPOLIN COLORADO
-http://lidns.cc:80/4x6cXF/JDqRqj/90563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHAPOLIN
-http://lidns.cc:80/4x6cXF/JDqRqj/90564.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHARLIE CHAN" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHARLIE CHAN
 http://lidns.cc:80/4x6cXF/JDqRqj/90565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHAVES
-http://lidns.cc:80/4x6cXF/JDqRqj/90566.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHAVES CLASSICO S01
 http://lidns.cc:80/4x6cXF/JDqRqj/90568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-CHAVES CLASSICO S02
@@ -1496,8 +1495,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90626.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90627.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-DENNIS O PIMENTINHA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-DENNIS O PIMENTINHA
 http://lidns.cc:80/4x6cXF/JDqRqj/90628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-DESENHOS BIBLICOS
-http://lidns.cc:80/4x6cXF/JDqRqj/90629.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-DIGIMON S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-DIGIMON S01
 http://lidns.cc:80/4x6cXF/JDqRqj/90630.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-DIGIMON S05" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-DIGIMON S05
