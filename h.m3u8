@@ -485,6 +485,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f6
 http://metv.fun:80/4x6cXF/JDqRqj/115422.m3u8
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SÉRIES",TNT SERIES 
 http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-KAMEN RIDER BLACK
+http://lidns.cc:80/4x6cXF/JDqRqj/90786.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="SÉRIES",TOKUSATO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ULTRAMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Ultraman_English_logo.png" group-title="SÉRIES",ULTRAMAN
@@ -1712,8 +1714,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90783.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90784.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JUBEI CHAN THE NINJA GIRL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-JUBEI CHAN THE NINJA GIRL
 http://lidns.cc:80/4x6cXF/JDqRqj/90785.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-KAMEN RIDER BLACK
-http://lidns.cc:80/4x6cXF/JDqRqj/90786.m3u8
+
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KENAN E KEL 1 TEMPORADA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-KENAN E KEL 1 TEMPORADA
 http://lidns.cc:80/4x6cXF/JDqRqj/90787.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KENAN E KEL 2 TEMPORADA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-KENAN E KEL 2 TEMPORADA
