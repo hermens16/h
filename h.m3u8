@@ -493,7 +493,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/115422.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="SÉRIES",JASPION
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="INFANTIS",JASPION 2
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="SÉRIES",JASPION 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90778.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/Kamen_Rider_Black_Logo.png/revision/latest?cb=20200613192441" group-title="SÉRIES",pintad RIDER BLACK
 http://lidns.cc:80/4x6cXF/JDqRqj/90786.m3u8
@@ -823,6 +823,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90949.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg" group-title="INFANTIS",OS JETSONS 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90958.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS VINGADORES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="INFANTIS",OS VINGADORES
+http://lidns.cc:80/4x6cXF/JDqRqj/90999.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SHOW DA LUNA" tvg-logo="https://i.pinimg.com/originals/af/d5/17/afd5176c70b216b33d90d166015ba32f.png" group-title="INFANTIS",O SHOW DA LUNA
 http://lidns.cc:80/4x6cXF/JDqRqj/91089.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/Care-Bears.png" group-title="INFANTIS",OS URSINHOS CARINHOSOS
@@ -1990,8 +1992,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90994.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90996.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS VERDADEIROS CA FANTASMAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS VERDADEIROS CA FANTASMAS
 http://lidns.cc:80/4x6cXF/JDqRqj/90997.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS VINGADORES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS VINGADORES
-http://lidns.cc:80/4x6cXF/JDqRqj/90999.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OSWALDO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OSWALDO
 http://lidns.cc:80/4x6cXF/JDqRqj/91000.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PANTERA COR DE ROSA
