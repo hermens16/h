@@ -370,12 +370,16 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90840.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90841.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-HOMEM DE FERRO" tvg-logo="https://w7.pngwing.com/pngs/857/871/png-transparent-iron-man-iron-man-spider-man-captain-america-thor-marvel-comics-iron-man-thumbnail.png" group-title="FILMES",HOMEM DE FERRO
 http://lidns.cc:80/4x6cXF/JDqRqj/90842.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-ORDEM CRONOLÓGICA " tvg-logo="https://i0.wp.com/nerdiva.com.br/wp-content/uploads/2014/07/ordem-filmes-marvel-mcu.png?resize=800%2C1200&ssl=1" group-title="FILMES",MARVEL ORDEM CRONOLÓGICA 
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MARVEL -ORDEM CRONOLÓGICA 01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="FILMES",MARVEL ORDEM CRONOLÓGICA
+http://lidns.cc:80/4x6cXF/JDqRqj/90822.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-ORDEM CRONOLÓGICA " tvg-logo="https://i0.wp.com/nerdiva.com.br/wp-content/uploads/2014/07/ordem-filmes-marvel-mcu.png?resize=800%2C1200&ssl=1" group-title="FILMES",MARVEL ORDEM CRONOLÓGICA 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90856.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-QUARTETO FANTASTICO" tvg-logo="https://w7.pngwing.com/pngs/530/57/png-transparent-fantastic-four-mister-fantastic-logo-comics-decal-fantastic-four-angle-superhero-trademark-thumbnail.png" group-title="FILMES",QUARTETO FANTASTICO
 http://lidns.cc:80/4x6cXF/JDqRqj/90859.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HOMEM-ARANHA" tvg-logo="https://w7.pngwing.com/pngs/22/51/png-transparent-spider-man-logo-film-spider-cdr-heroes-comic-book-thumbnail.png" group-title="FILMES",HOMEM-ARANHA
 http://lidns.cc:80/4x6cXF/JDqRqj/90862.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MARVEL DESENHO" tvg-logo="https://artpoin.com/wp-content/uploads/2021/07/homem-aranha-topo-de-bolo5.png" group-title="FILMES",HOMEM ARANHA 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90823.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="VINGADORES" tvg-logo="https://w7.pngwing.com/pngs/280/187/png-transparent-hulk-iron-man-spider-man-carol-danvers-captain-america-hulk-marvel-avengers-assemble-avengers-text.png" group-title="FILMES",VINGADORES
 http://lidns.cc:80/4x6cXF/JDqRqj/90863.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="X-MEN " tvg-logo="https://w7.pngwing.com/pngs/909/163/png-transparent-professor-x-wolverine-cyclops-spider-man-x-men-wolverine-angle-text-logo.png" group-title="FILMES",X-MEN 
@@ -425,6 +429,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="SÉRIES",FAILARMY  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FAMILIA DINOSSAURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpse4mvYljOGI2-V_skxN9pata5lM0-Sa50A&s" group-title="SÉRIES",FAMILIA DINOSSAURO
+http://lidns.cc:80/4x6cXF/JDqRqj/90697.m3u8
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="SÉRIES",KENAM E KEL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Food Network.br" tvg-name="FOOD NETWORK " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/120px-Food_Network_New_Logo.png?20181129223131" group-title="SÉRIES",FOOD NETWORK 
@@ -485,10 +491,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f6
 http://metv.fun:80/4x6cXF/JDqRqj/115422.m3u8
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SÉRIES",TNT SERIES 
 http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-KAMEN RIDER BLACK
-http://lidns.cc:80/4x6cXF/JDqRqj/90786.m3u8
-#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="SÉRIES",TOKUSATO
+#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="SÉRIES",JASPION
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="INFANTIS",JASPION 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90778.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/Kamen_Rider_Black_Logo.png/revision/latest?cb=20200613192441" group-title="SÉRIES",pintad RIDER BLACK
+http://lidns.cc:80/4x6cXF/JDqRqj/90786.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ULTRAMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Ultraman_English_logo.png" group-title="SÉRIES",ULTRAMAN
 http://lidns.cc:80/4x6cXF/JDqRqj/91197.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-WINSPECTOR" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6bfa91a-e0f6-450e-a91f-62138f13b80f/de6yzjk-2e0ce547-9af1-4130-880c-6fba15d83dcb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2YmZhOTFhLWUwZjYtNDUwZS1hOTFmLTYyMTM4ZjEzYjgwZlwvZGU2eXpqay0yZTBjZTU0Ny05YWYxLTQxMzAtODgwYy02ZmJhMTVkODNkY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2lq-4NR_NroVl4gsXMQiK9zyioPTikFk2peqFkuRdG0" group-title="SÉRIES",WINSPECTOR
@@ -502,6 +510,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043
 http://lidns.cc:80/4x6cXF/JDqRqj/90702.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="5 ALGUMA COISA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65BoEYWZhMB6iasa-Q02ucLg4jrBTpDWTPQ&s" group-title="COMÉDIAS",5 ALGUMA COISA
 http://lidns.cc:80/4x6cXF/JDqRqj/90452.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS BARBIXAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d3/Cia._Barbixas_de_Humor.png" group-title="COMÉDIAS",BARBIXAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90947.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BOOM" tvg-logo="https://w7.pngwing.com/pngs/351/644/png-transparent-boom-illustration-boom-youtube-television-channel-canal-boom-boom-text-logo-free-music-thumbnail.png" group-title="COMÉDIAS",BOOM
 http://lidns.cc:80/4x6cXF/JDqRqj/90534.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CÂMERAS ESCONDIDAS" tvg-logo="https://static.sbt.com.br/programas/logos/718.jpg" group-title="COMÉDIAS",CÂMERAS ESCONDIDAS
@@ -629,6 +639,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90579.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90700.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FATOS INSANOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2O_MpvxXgLmhvX41dO9Ox-grR-HB9G6QaHQ&s" group-title="DOCUMENTÁRIOS",FATOS INSANOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90701.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_moyLRg4mLejXMsF2FPiI_dpzjG5v2Evy5mw_f8VLES9pc=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTÁRIOS",INCRÍVEL
+http://lidns.cc:80/4x6cXF/JDqRqj/90771.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MELHORES VIDEOS DO MUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcxDt30Cb1NyaHl2i6tsuhv-KsCLEWzWv4Q&s" group-title="DOCUMENTÁRIOS",OS MELHORES VIDEOS DO MUNDO
 http://lidns.cc:80/4x6cXF/JDqRqj/90873.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REFUGIO MENTAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muStnjzczAA6nbeG53qU14QK00Bl6z8HPCBkNOSv46JhQ=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTÁRIOS",REFUGIO MENTAL
@@ -662,6 +674,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90664.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90665.m3u8
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="ANIMES",NARUTO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="ANIMES",NARUTO 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90909.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NEON GENESIS EVANGELION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Evangelion.png" group-title="ANIMES",NEON GENESIS EVANGELION
+http://lidns.cc:80/4x6cXF/JDqRqj/90923.m3u8
 #EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="ANIMES",ONE PIECE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE ASGARD" tvg-logo="https://vortexcultural.com.br/images/2015/05/Os-Cavaleiros-do-Zodiaco-17-A-Saga-de-Asgard.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA DE ASGARD
@@ -695,6 +711,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/89941.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90076.m3u8
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/512px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO 
 http://metv.fun:80/4x6cXF/JDqRqj/90080.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HELLO KITTY" tvg-logo="https://e7.pngegg.com/pngimages/816/297/png-clipart-hello-kitty-character-sanrio-hello-kitty-logo-hello-kitty-logo-love-game-thumbnail.png" group-title="INFANTIS",HELLO KITTY
+http://lidns.cc:80/4x6cXF/JDqRqj/90744.m3u8
 #EXTINF:-1 tvg-id="Nick Jr. HD.br" tvg-name="NICK JR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/642px-Nick_Jr._logo_2023.svg.png" group-title="INFANTIS",NICK JR 
 http://lidns.cc:80/4x6cXF/JDqRqj/90195.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 
@@ -749,44 +767,76 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A TURMA DO CHARLIE BROWN E SNOOPY" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/ae/A_Turma_do_Charlie_Brown.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230417022127&path-prefix=pt-br" group-title="INFANTIS",A TURMA DO CHARLIE BROWN E SNOOPY
 http://lidns.cc:80/4x6cXF/JDqRqj/90472.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A VACA E O FRANGO" tvg-logo="https://image.tmdb.org/t/p/original/tRgWFuXp2XcNk3sg8QUOh6wbnpv.png" group-title="INFANTIS",A VACA E O FRANGO
+http://lidns.cc:80/4x6cXF/JDqRqj/90474.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ALADDIN" tvg-logo="https://w7.pngwing.com/pngs/347/145/png-transparent-aladdin-princess-jasmine-jafar-genie-the-walt-disney-company-aladdin-genie-purple-violet-text.png" group-title="INFANTIS",ALADDIN
 http://lidns.cc:80/4x6cXF/JDqRqj/90480.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BOB ZOOM" tvg-logo="https://e7.pngegg.com/pngimages/920/364/png-clipart-bob-zoom-vol-4-music-al-jeep-del-padre-spotify-bob-s-watches-zoom-vol-4-thumbnail.png" group-title="INFANTIS",BOB ZOOM
-http://lidns.cc:80/4x6cXF/JDqRqj/90532.m3u8  
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIS",AS AVENTURAS DE BOB ESPONJA
 http://lidns.cc:80/4x6cXF/JDqRqj/90486.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://w7.pngwing.com/pngs/447/831/png-transparent-television-show-animated-series-animated-film-jackie-chan-adventures-television-cartoon-fictional-character-thumbnail.png" group-title="INFANTIS",AS AVENTURAS DE JACKIE CHAN
 http://lidns.cc:80/4x6cXF/JDqRqj/90487.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BATMAN" tvg-logo="https://w7.pngwing.com/pngs/509/584/png-transparent-batman-logo-sticker-batman-logo-comics-emblem-superhero-thumbnail.png" group-title="INFANTIS",BATMAN
+http://lidns.cc:80/4x6cXF/JDqRqj/90508.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BOB ZOOM" tvg-logo="https://e7.pngegg.com/pngimages/920/364/png-clipart-bob-zoom-vol-4-music-al-jeep-del-padre-spotify-bob-s-watches-zoom-vol-4-thumbnail.png" group-title="INFANTIS",BOB ZOOM
+http://lidns.cc:80/4x6cXF/JDqRqj/90532.m3u8  
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="INFANTIS",CAVERNA DO DRAGÃO
 http://lidns.cc:80/4x6cXF/JDqRqj/90562.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="https://static.wikia.nocookie.net/clarencio/images/0/09/ClarenceTitle.png/revision/latest?cb=20140825022812&path-prefix=pt-br" group-title="INFANTIS",CLARÊNCIO, O OTIMISTA
 http://lidns.cc:80/4x6cXF/JDqRqj/90580.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY81z48pa9bgdoJUmmLR-i3MwtVt4TRDrXrQ&s" group-title="INFANTIS",DESENHOS BÍBLICOS
+http://lidns.cc:80/4x6cXF/JDqRqj/90629.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="DESENHOS BIBLICOS - O NOVO TESTAMENTO" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a3/Desenhos_B%C3%ADblicos.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230611124122&path-prefix=pt-br" group-title="INFANTIS",DESENHOS BÍBLICOS - NOVO TESTAMENTO
+http://lidns.cc:80/4x6cXF/JDqRqj/90931.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ANTIGO TESTAMENTO" tvg-logo="https://w7.pngwing.com/pngs/935/1015/png-transparent-noah-s-ark-bible-drawing-child-noah-s-ark-bible-drawing.png" group-title="INFANTIS",DESENHOS BÍBLICOS - ANTIGO TESTAMENTO
+http://lidns.cc:80/4x6cXF/JDqRqj/90484.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DOUG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Doug-72210-2.png" group-title="INFANTIS",DOUG
 http://lidns.cc:80/4x6cXF/JDqRqj/90651.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FUTURAMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglAwzqrEGEG2ikxMntLW4iUatoqnU6nVyxw&s" group-title="INFANTIS",FUTURAMA
 http://lidns.cc:80/4x6cXF/JDqRqj/90718.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GALINHA PINTADINHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuqtKujFOd8Yzk3defhx_11RgDQL9mFjkD6w&s" group-title="INFANTIS",GALINHA PINTADINHA
+http://lidns.cc:80/4x6cXF/JDqRqj/90721.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GATO DE BOTAS" tvg-logo="https://w7.pngwing.com/pngs/476/457/png-transparent-puss-in-boots-shrek-film-series-cat-puss-in-boots-mammal-hat-cat-like-mammal-thumbnail.png" group-title="INFANTIS",GATO DE BOTAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90733.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HE-MAN 24H" tvg-logo="https://banner2.cleanpng.com/20180620/jwy/aa6a1xrex.webp" group-title="INFANTIS",HE-MAN
+http://lidns.cc:80/4x6cXF/JDqRqj/90743.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEM ARANHA" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/ab/Homemaranha1.jpg/revision/latest?cb=20220406031013&path-prefix=pt-br" group-title="INFANTIS",HOMEM-ARANHA
+http://lidns.cc:80/4x6cXF/JDqRqj/90757.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="https://image.tmdb.org/t/p/original/rxandEoW2PKOKwWtOenAsZ5lClg.jpg" group-title="INFANTIS",HOMEM-ARANHA: AÇÃO SEM LIMITES
+http://lidns.cc:80/4x6cXF/JDqRqj/90760.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL HULK" tvg-logo="https://w7.pngwing.com/pngs/398/127/png-transparent-hulk-spider-man-logo-marvel-comics-others-comics-marvel-avengers-assemble-superhero.png" group-title="INFANTIS",INCRIVEL HULK
+http://lidns.cc:80/4x6cXF/JDqRqj/90772.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGA DA JUSTI" tvg-logo="https://i.pinimg.com/originals/b2/9c/ee/b29ceea873de1770e55c48d20a64ba16.png" group-title="INFANTIS",LIGA DA JUSTIÇA
+http://lidns.cc:80/4x6cXF/JDqRqj/90805.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Men_In_Black_logo.png" group-title="INFANTIS",MIB HOMENS DE PRETO
+http://lidns.cc:80/4x6cXF/JDqRqj/90876.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MORTAL KOMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/Mortal_kombat_logo.png" group-title="INFANTIS",MORTAL KOMBAT
+http://lidns.cc:80/4x6cXF/JDqRqj/90888.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MUNDO BITA E OS ANIMAIS" tvg-logo="https://liviabrazil.files.wordpress.com/2016/03/bita.jpg?w=640&h=480&crop=1" group-title="INFANTIS",MUNDO BITA E OS ANIMAIS
+http://lidns.cc:80/4x6cXF/JDqRqj/90893.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O MASKARA" tvg-logo="https://absolutamentelendarios.wordpress.com/wp-content/uploads/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="INFANTIS",O MASKARA
 http://lidns.cc:80/4x6cXF/JDqRqj/90929.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O MASKARA SERIE ANIMADA" tvg-logo="https://absolutamentelendarios.wordpress.com/wp-content/uploads/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="INFANTIS",O MASKARA 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90930.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="INFANTIS",OS FLINTSTONES
+http://lidns.cc:80/4x6cXF/JDqRqj/90949.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="INFANTIS",OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg" group-title="INFANTIS",OS JETSONS 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90958.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SHOW DA LUNA" tvg-logo="https://i.pinimg.com/originals/af/d5/17/afd5176c70b216b33d90d166015ba32f.png" group-title="INFANTIS",O SHOW DA LUNA
 http://lidns.cc:80/4x6cXF/JDqRqj/91089.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BATMAN" tvg-logo="https://w7.pngwing.com/pngs/509/584/png-transparent-batman-logo-sticker-batman-logo-comics-emblem-superhero-thumbnail.png" group-title="INFANTIS",BATMAN
-http://lidns.cc:80/4x6cXF/JDqRqj/90508.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/Care-Bears.png" group-title="INFANTIS",OS URSINHOS CARINHOSOS
+http://lidns.cc:80/4x6cXF/JDqRqj/91205.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPER CHOQUE" tvg-logo="https://i.pinimg.com/originals/ad/f5/4f/adf54ffb830f5a9fa5a301b0d5d50abd.jpg" group-title="INFANTIS",SUPER CHOQUE
 http://lidns.cc:80/4x6cXF/JDqRqj/91149.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPERMAN DESENHO" tvg-logo="https://e7.pngegg.com/pngimages/298/628/png-transparent-superman-flat-logo.png" group-title="INFANTIS",SUPERMAN
 http://lidns.cc:80/4x6cXF/JDqRqj/91152.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/Care-Bears.png" group-title="INFANTIS",OS URSINHOS CARINHOSOS
-http://lidns.cc:80/4x6cXF/JDqRqj/91205.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SILVERHAWKS" tvg-logo="https://w7.pngwing.com/pngs/867/520/png-transparent-logo-television-show-cartoon-others-miscellaneous-television-text-thumbnail.png" group-title="INFANTIS",SILVERHAWKS
 http://lidns.cc:80/4x6cXF/JDqRqj/91092.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-THUNDERCATS" tvg-logo="https://w7.pngwing.com/pngs/373/290/png-transparent-logo-lion-o-thundercats-animated-series-logos-miscellaneous-comics-logo-thumbnail.png" group-title="INFANTIS",THUNDERCATS
 http://lidns.cc:80/4x6cXF/JDqRqj/91174.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TIMAO E PUMBA" tvg-logo="https://e7.pngegg.com/pngimages/875/738/png-clipart-pumba-and-timon-illustration-youtube-timon-and-pumbaa-simba-zazu-the-lion-king-mammal-cat-like-mammal-thumbnail.png" group-title="INFANTIS",TIMÃO E PUMBA
@@ -795,12 +845,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91175.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91181.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-X MEN" tvg-logo="https://i.pinimg.com/originals/59/fc/67/59fc671e1fd73d00d76e58c6c1839b7e.png" group-title="INFANTIS",X MEN
 http://lidns.cc:80/4x6cXF/JDqRqj/91213.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY81z48pa9bgdoJUmmLR-i3MwtVt4TRDrXrQ&s" group-title="INFANTIS",DESENHOS BÍBLICOS
-http://lidns.cc:80/4x6cXF/JDqRqj/90629.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="DESENHOS BIBLICOS - O NOVO TESTAMENTO" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a3/Desenhos_B%C3%ADblicos.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230611124122&path-prefix=pt-br" group-title="INFANTIS",DESENHOS BÍBLICOS - NOVO TESTAMENTO
-http://lidns.cc:80/4x6cXF/JDqRqj/90931.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ANTIGO TESTAMENTO" tvg-logo="https://w7.pngwing.com/pngs/935/1015/png-transparent-noah-s-ark-bible-drawing-child-noah-s-ark-bible-drawing.png" group-title="INFANTIS",DESENHOS BÍBLICOS - ANTIGO TESTAMENTO
-http://lidns.cc:80/4x6cXF/JDqRqj/90484.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS " tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89831.m3u8
@@ -1314,8 +1358,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90471.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90470.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A TURMA DO PATETA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-A TURMA DO PATETA
 http://lidns.cc:80/4x6cXF/JDqRqj/90473.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A VACA E O FRANGO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-A VACA E O FRANGO
-http://lidns.cc:80/4x6cXF/JDqRqj/90474.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A VIDA E AS AVENTURAS DE JUNIPER" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-A VIDA E AS AVENTURAS DE JUNIPER
 http://lidns.cc:80/4x6cXF/JDqRqj/90475.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A VIDA MODERNA DE ROCKO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-A VIDA MODERNA DE ROCKO
@@ -1590,8 +1632,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90694.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90695.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FAISCA E FUMACA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-FAISCA E FUMACA
 http://lidns.cc:80/4x6cXF/JDqRqj/90696.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FAMILIA DINOSSAURO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-FAMILIA DINOSSAURO
-http://lidns.cc:80/4x6cXF/JDqRqj/90697.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FAMILIA URSO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-FAMILIA URSO
 http://lidns.cc:80/4x6cXF/JDqRqj/90698.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FANTASMINHA LEGAL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-FANTASMINHA LEGAL
@@ -1608,16 +1648,12 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90707.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90719.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GALAXY TRIO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GALAXY TRIO
 http://lidns.cc:80/4x6cXF/JDqRqj/90720.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GALINHA PINTADINHA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GALINHA PINTADINHA
-http://lidns.cc:80/4x6cXF/JDqRqj/90721.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GARFIELD E SEUS AMIGOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GARFIELD E SEUS AMIGOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90730.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GASPARZIHO E SEUS AMIGOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GASPARZIHO E SEUS AMIGOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90731.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GASPARZINHO O FANTASMA ESPACIAL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GASPARZINHO O FANTASMA ESPACIAL
 http://lidns.cc:80/4x6cXF/JDqRqj/90732.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GATO DE BOTAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GATO DE BOTAS
-http://lidns.cc:80/4x6cXF/JDqRqj/90733.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GATO FELIX" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GATO FELIX
 http://lidns.cc:80/4x6cXF/JDqRqj/90734.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GENERETOR REX" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-GENERETOR REX
@@ -1634,10 +1670,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90740.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90741.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HARVEY O ADVOGADO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HARVEY O ADVOGADO
 http://lidns.cc:80/4x6cXF/JDqRqj/90742.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HE-MAN 24H" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HE-MAN 24H
-http://lidns.cc:80/4x6cXF/JDqRqj/90743.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HELLO KITTY" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HELLO KITTY
-http://lidns.cc:80/4x6cXF/JDqRqj/90744.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HERCULES
 http://lidns.cc:80/4x6cXF/JDqRqj/90745.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULOIDES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HERCULOIDES
@@ -1660,12 +1692,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90753.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90755.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HO HO OLIMPICS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HO HO OLIMPICS
 http://lidns.cc:80/4x6cXF/JDqRqj/90756.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEM ARANHA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HOMEM ARANHA
-http://lidns.cc:80/4x6cXF/JDqRqj/90757.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEM PASSARO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HOMEM PASSARO
 http://lidns.cc:80/4x6cXF/JDqRqj/90759.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HOMEN ARANHA ACAO SEM LIMITES S01
-http://lidns.cc:80/4x6cXF/JDqRqj/90760.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEN PASSARO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HOMEN PASSARO
 http://lidns.cc:80/4x6cXF/JDqRqj/90761.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HONG KONG FU" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HONG KONG FU
@@ -1686,10 +1714,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90768.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90769.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ILHA DOS DESAFIOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ILHA DOS DESAFIOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90770.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-INCRIVEL
-http://lidns.cc:80/4x6cXF/JDqRqj/90771.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL HULK" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-INCRIVEL HULK
-http://lidns.cc:80/4x6cXF/JDqRqj/90772.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL MUNDO DE GUMBAL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-INCRIVEL MUNDO DE GUMBAL
 http://lidns.cc:80/4x6cXF/JDqRqj/90773.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INVASOR ZIM" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-INVASOR ZIM
@@ -1700,8 +1724,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90775.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90776.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JAMBO O RUIVAO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-JAMBO O RUIVAO
 http://lidns.cc:80/4x6cXF/JDqRqj/90777.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JASPION" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-JASPION
-http://lidns.cc:80/4x6cXF/JDqRqj/90778.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JEAM E AS HOLOGRAMAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-JEAM E AS HOLOGRAMAS
 http://lidns.cc:80/4x6cXF/JDqRqj/90779.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-JOAO GRANDAO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-JOAO GRANDAO
@@ -1739,8 +1761,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90802.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90803.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LEO O CAMINHAO CURIOSO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LEO O CAMINHAO CURIOSO
 http://lidns.cc:80/4x6cXF/JDqRqj/90804.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGA DA JUSTI" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LIGA DA JUSTI
-http://lidns.cc:80/4x6cXF/JDqRqj/90805.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGEIRINHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LIGEIRINHO
 http://lidns.cc:80/4x6cXF/JDqRqj/90806.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIL BUSH" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LIL BUSH
@@ -1773,10 +1793,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90819.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90820.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MARTIN MYSTERY" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MARTIN MYSTERY
 http://lidns.cc:80/4x6cXF/JDqRqj/90821.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MARVEL -ORDEM CRONOLÓGICA 01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MARVEL -ORDEM CRONOLÓGICA 01
-http://lidns.cc:80/4x6cXF/JDqRqj/90822.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MARVEL DESENHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MARVEL DESENHO
-http://lidns.cc:80/4x6cXF/JDqRqj/90823.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MATRACA E MATRICA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MATRACA E MATRICA
 http://lidns.cc:80/4x6cXF/JDqRqj/90868.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MECANIMAIS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MECANIMAIS
@@ -1791,8 +1807,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90872.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90874.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MEU TITIO AVO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MEU TITIO AVO
 http://lidns.cc:80/4x6cXF/JDqRqj/90875.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MIB HOMENS DE PRETO
-http://lidns.cc:80/4x6cXF/JDqRqj/90876.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MICKEY E DONALD" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MICKEY E DONALD
 http://lidns.cc:80/4x6cXF/JDqRqj/90877.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MIGTHOR" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MIGTHOR
@@ -1815,8 +1829,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90885.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90886.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MORANGUINHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MORANGUINHO
 http://lidns.cc:80/4x6cXF/JDqRqj/90887.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MORTAL KOMBAT" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MORTAL KOMBAT
-http://lidns.cc:80/4x6cXF/JDqRqj/90888.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MOSQUETE MOSQUITO E MOSCADO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MOSQUETE MOSQUITO E MOSCADO
 http://lidns.cc:80/4x6cXF/JDqRqj/90889.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MR BEANS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MR BEANS
@@ -1825,14 +1837,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90890.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90891.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MUMIAS VIVAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MUMIAS VIVAS
 http://lidns.cc:80/4x6cXF/JDqRqj/90892.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MUNDO BITA E OS ANIMAIS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MUNDO BITA E OS ANIMAIS
-http://lidns.cc:80/4x6cXF/JDqRqj/90893.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MUSCULO TOTAL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MUSCULO TOTAL
 http://lidns.cc:80/4x6cXF/JDqRqj/90894.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MY LITTLE PONY" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-MY LITTLE PONY
 http://lidns.cc:80/4x6cXF/JDqRqj/90904.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-NARUTO CLASSICO
-http://lidns.cc:80/4x6cXF/JDqRqj/90909.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-NARUTO CLASSICO S01
 http://lidns.cc:80/4x6cXF/JDqRqj/90910.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-NARUTO CLASSICO S02
@@ -1851,8 +1859,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90916.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90917.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO S09" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-NARUTO CLASSICO S09
 http://lidns.cc:80/4x6cXF/JDqRqj/90918.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NEON GENESIS EVANGELION" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-NEON GENESIS EVANGELION
-http://lidns.cc:80/4x6cXF/JDqRqj/90923.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NOSSA TURMA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-NOSSA TURMA
 http://lidns.cc:80/4x6cXF/JDqRqj/90924.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O CHEFINHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-O CHEFINHO
@@ -1889,12 +1895,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90944.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90945.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS APUROS DE PENELOPE CHARMOSA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS APUROS DE PENELOPE CHARMOSA
 http://lidns.cc:80/4x6cXF/JDqRqj/90946.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS BARBIXAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS BARBIXAS
-http://lidns.cc:80/4x6cXF/JDqRqj/90947.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS CASTORES PIRADOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS CASTORES PIRADOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90948.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS FLINTSTONES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS FLINTSTONES
-http://lidns.cc:80/4x6cXF/JDqRqj/90949.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS FLINTSTONES S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS FLINTSTONES S01
 http://lidns.cc:80/4x6cXF/JDqRqj/90950.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS FLINTSTONES S02" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS FLINTSTONES S02
@@ -1912,7 +1914,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90956.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS IMPOSSIVEIS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS IMPOSSIVEIS
 http://lidns.cc:80/4x6cXF/JDqRqj/90957.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS JETSONS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS JETSONS
-http://lidns.cc:80/4x6cXF/JDqRqj/90958.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS JORGES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS JORGES
 http://lidns.cc:80/4x6cXF/JDqRqj/90959.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS JOVENS TITANS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS JOVENS TITANS
