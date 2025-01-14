@@ -503,8 +503,12 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91197.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91212.m3u8
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="SÉRIES",TVI REALITY
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=156310078
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-VOCE NA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Vctv2024.png/revision/latest?cb=20240618152532" group-title="SÉRIES",VOCÊ NA TV
+http://lidns.cc:80/4x6cXF/JDqRqj/91208.m3u8
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ZOEY 101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Zoey101.png" group-title="SÉRIES",ZOEY 101
+http://lidns.cc:80/4x6cXF/JDqRqj/91310.m3u8
 ####################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS ##################### COMÉDIAS #####################
 #EXTINF:-1 tvg-id="Like.br" tvg-name="4 AMIGOS-FILA DE PIADAS" tvg-logo="https://theatropedro2.com.br/imagem_texto/20241118_104119_9-4-amigos-10-11-21h-png" group-title="COMÉDIAS",4 AMIGOS-FILA DE PIADAS
 http://lidns.cc:80/4x6cXF/JDqRqj/90702.m3u8
@@ -548,6 +552,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 http://lidns.cc:80/4x6cXF/JDqRqj/91050.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TESTE DE FIDELIDADE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/TestedeFidelidade2023.jpg" group-title="COMÉDIAS",TESTE DE FIDELIDADE
 http://lidns.cc:80/4x6cXF/JDqRqj/91163.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TOURADAS" tvg-logo="https://e7.pngegg.com/pngimages/55/916/png-clipart-matador-illustration-bullfighting-a-matador-bullring-la-tauromaquia-bull-mouse-animals-performance-thumbnail.png" group-title="COMÉDIAS",TOURADAS
+http://lidns.cc:80/4x6cXF/JDqRqj/91184.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-WEBBULLYING NA TV" tvg-logo="https://i.imgur.com/eUShEWV.png" group-title="COMÉDIAS",WEBBULLYING NA TV
 http://lidns.cc:80/4x6cXF/JDqRqj/91211.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
@@ -799,6 +805,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90721.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90733.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HE-MAN 24H" tvg-logo="https://banner2.cleanpng.com/20180620/jwy/aa6a1xrex.webp" group-title="INFANTIS",HE-MAN
 http://lidns.cc:80/4x6cXF/JDqRqj/90743.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="INFANTIS",HERCULES
+http://lidns.cc:80/4x6cXF/JDqRqj/90745.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEM ARANHA" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/ab/Homemaranha1.jpg/revision/latest?cb=20220406031013&path-prefix=pt-br" group-title="INFANTIS",HOMEM-ARANHA
 http://lidns.cc:80/4x6cXF/JDqRqj/90757.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="https://image.tmdb.org/t/p/original/rxandEoW2PKOKwWtOenAsZ5lClg.jpg" group-title="INFANTIS",HOMEM-ARANHA: AÇÃO SEM LIMITES
@@ -807,6 +815,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90760.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90772.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGA DA JUSTI" tvg-logo="https://i.pinimg.com/originals/b2/9c/ee/b29ceea873de1770e55c48d20a64ba16.png" group-title="INFANTIS",LIGA DA JUSTIÇA
 http://lidns.cc:80/4x6cXF/JDqRqj/90805.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGEIRINHO" tvg-logo="https://w7.pngwing.com/pngs/210/704/png-transparent-speedy-gonzales-sylvester-looney-tunes-cartoon-animation-looney-tunes-mammal-vertebrate-cartoon-thumbnail.png" group-title="INFANTIS",24H-LIGEIRINHO
+http://lidns.cc:80/4x6cXF/JDqRqj/90806.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Men_In_Black_logo.png" group-title="INFANTIS",MIB HOMENS DE PRETO
 http://lidns.cc:80/4x6cXF/JDqRqj/90876.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MORTAL KOMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/Mortal_kombat_logo.png" group-title="INFANTIS",MORTAL KOMBAT
@@ -823,14 +833,32 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90949.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg" group-title="INFANTIS",OS JETSONS 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90958.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS PINGUINS DE MADAGASCAR" tvg-logo="https://w7.pngwing.com/pngs/621/463/png-transparent-penguin-madagascar-brand-penguin-animals-text-logo.png" group-title="INFANTIS",OS PINGUINS DE MADAGASCAR
+http://lidns.cc:80/4x6cXF/JDqRqj/90963.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS VINGADORES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="INFANTIS",OS VINGADORES
 http://lidns.cc:80/4x6cXF/JDqRqj/90999.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SHOW DA LUNA" tvg-logo="https://i.pinimg.com/originals/af/d5/17/afd5176c70b216b33d90d166015ba32f.png" group-title="INFANTIS",O SHOW DA LUNA
 http://lidns.cc:80/4x6cXF/JDqRqj/91089.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/Care-Bears.png" group-title="INFANTIS",OS URSINHOS CARINHOSOS
 http://lidns.cc:80/4x6cXF/JDqRqj/91205.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="https://w7.pngwing.com/pngs/671/393/png-transparent-coyote-and-road-runner-illustration-wile-e-coyote-and-the-road-runner-looney-tunes-marvin-the-martian-cartoon-beep-beep-runner-fauna-wildlife-tail-thumbnail.png" group-title="INFANTIS",PAPALEGUAS E COIOTE
+http://lidns.cc:80/4x6cXF/JDqRqj/91005.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEPPA PIG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Peppa_Pig_logo.png" group-title="INFANTIS",PEPPA PIG
+http://lidns.cc:80/4x6cXF/JDqRqj/91019.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdt-VdJIOshukpxfEdNd8LDEecgeCuB2Rtg&s" group-title="INFANTIS",PERNALONGA E SUA TURMA
+http://lidns.cc:80/4x6cXF/JDqRqj/91022.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PICA-PAU" tvg-logo="https://e7.pngegg.com/pngimages/665/187/png-clipart-woody-woodpecker-drawing-andy-panda-pica-pau-cartoon-fictional-character-thumbnail.png" group-title="INFANTIS",PICA-PAU
+http://lidns.cc:80/4x6cXF/JDqRqj/91025.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POPEYE" tvg-logo="https://w7.pngwing.com/pngs/422/7/png-transparent-popeye-the-sailor-man-popeye-rush-for-spinach-popeye-village-t-shirt-popeye-comics-child-hand-thumbnail.png" group-title="INFANTIS",POPEYE
+http://lidns.cc:80/4x6cXF/JDqRqj/91049.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O PEQUENO SCOOBY DOO" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/2/2c/Pequeno_Scooby.jpeg/revision/latest?cb=20230826220455&path-prefix=pt-br" group-title="INFANTIS",O PEQUENO SCOOBY DOO
+http://lidns.cc:80/4x6cXF/JDqRqj/90934.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O QUE HA DE NOVO SCOOBYDOO" tvg-logo="https://image.tmdb.org/t/p/original/lQ0biSV9HrfK1DEu9BekYAP2XH1.jpg" group-title="INFANTIS",O QUE HÁ DE NOVO SCOOBYDOO
+http://lidns.cc:80/4x6cXF/JDqRqj/90937.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REI DO PEDACO" tvg-logo="https://animeserie.com/product_images/c/155/O_Rei_do_Peda%E7o__71972_std.png" group-title="INFANTIS",REI DO PEDAÇO
+http://lidns.cc:80/4x6cXF/JDqRqj/91067.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPER CHOQUE" tvg-logo="https://i.pinimg.com/originals/ad/f5/4f/adf54ffb830f5a9fa5a301b0d5d50abd.jpg" group-title="INFANTIS",SUPER CHOQUE
 http://lidns.cc:80/4x6cXF/JDqRqj/91149.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPERMAN DESENHO" tvg-logo="https://e7.pngegg.com/pngimages/298/628/png-transparent-superman-flat-logo.png" group-title="INFANTIS",SUPERMAN
@@ -1206,8 +1234,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91063.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91064.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REDAKAI" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-REDAKAI
 http://lidns.cc:80/4x6cXF/JDqRqj/91065.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REI DO PEDACO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-REI DO PEDACO
-http://lidns.cc:80/4x6cXF/JDqRqj/91067.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REN E STIMPY" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-REN E STIMPY
 http://lidns.cc:80/4x6cXF/JDqRqj/91068.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-RIQUINHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-RIQUINHO
@@ -1281,8 +1307,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91173.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91176.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TOPO GIGIO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TOPO GIGIO
 http://lidns.cc:80/4x6cXF/JDqRqj/91183.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TOURADAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-TOURADAS
-http://lidns.cc:80/4x6cXF/JDqRqj/91184.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TR ESPI DEMAIS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TR ESPI DEMAIS
 http://lidns.cc:80/4x6cXF/JDqRqj/91185.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TRANSFORMES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-TRANSFORMES
@@ -1301,8 +1325,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91196.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91204.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-VALE DOS DINOSSAUROS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-VALE DOS DINOSSAUROS
 http://lidns.cc:80/4x6cXF/JDqRqj/91206.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-VOCE NA TV" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-VOCE NA TV
-http://lidns.cc:80/4x6cXF/JDqRqj/91208.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-WALLY GATOR" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-WALLY GATOR
 http://lidns.cc:80/4x6cXF/JDqRqj/91210.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-XUXA SO PARA BAIXINHOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-XUXA SO PARA BAIXINHOS
@@ -1317,8 +1339,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91305.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91306.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ZILLION" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-ZILLION
 http://lidns.cc:80/4x6cXF/JDqRqj/91308.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ZOEY 101" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS",24H-ZOEY 101
-http://lidns.cc:80/4x6cXF/JDqRqj/91310.m3u8
 ###############################24 HORAS INFANTIS###############################24 HORAS INFANTIS###############################24 HORAS INFANTIS###############################24 HORAS INFANTIS###############################24 HORAS INFANTIS###############################24 HORAS INFANTIS###############################24 HORAS INFANTIS###############################
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-101 DALMATAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-101 DALMATAS
 http://lidns.cc:80/4x6cXF/JDqRqj/90451.m3u8
@@ -1672,8 +1692,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90740.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90741.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HARVEY O ADVOGADO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HARVEY O ADVOGADO
 http://lidns.cc:80/4x6cXF/JDqRqj/90742.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HERCULES
-http://lidns.cc:80/4x6cXF/JDqRqj/90745.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULOIDES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HERCULOIDES
 http://lidns.cc:80/4x6cXF/JDqRqj/90746.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HEY ARNOLD" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-HEY ARNOLD
@@ -1763,8 +1781,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90802.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90803.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LEO O CAMINHAO CURIOSO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LEO O CAMINHAO CURIOSO
 http://lidns.cc:80/4x6cXF/JDqRqj/90804.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGEIRINHO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LIGEIRINHO
-http://lidns.cc:80/4x6cXF/JDqRqj/90806.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIL BUSH" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LIL BUSH
 http://lidns.cc:80/4x6cXF/JDqRqj/90807.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LILO E STITCH" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-LILO E STITCH
@@ -1875,12 +1891,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90928.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90932.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O PEQUENO PRINCIPE CLASSICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-O PEQUENO PRINCIPE CLASSICO
 http://lidns.cc:80/4x6cXF/JDqRqj/90933.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O PEQUENO SCOOBY DOO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-O PEQUENO SCOOBY DOO
-http://lidns.cc:80/4x6cXF/JDqRqj/90934.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O PEQUENO URSO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-O PEQUENO URSO
 http://lidns.cc:80/4x6cXF/JDqRqj/90935.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O QUE HA DE NOVO SCOOBYDOO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-O QUE HA DE NOVO SCOOBYDOO
-http://lidns.cc:80/4x6cXF/JDqRqj/90937.m3u8
+
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O REI DO PEDA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-O REI DO PEDA
 http://lidns.cc:80/4x6cXF/JDqRqj/90938.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O SEGREDO ALEM DO JARDIM" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-O SEGREDO ALEM DO JARDIM
@@ -1924,8 +1937,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90960.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90961.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS PADRINHOS MAGICOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS PADRINHOS MAGICOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90962.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS PINGUINS DE MADAGASCAR" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS PINGUINS DE MADAGASCAR
-http://lidns.cc:80/4x6cXF/JDqRqj/90963.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS SETE MONSTRINHOS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS SETE MONSTRINHOS
 http://lidns.cc:80/4x6cXF/JDqRqj/90964.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS SIMPSONS S01" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-OS SIMPSONS S01
@@ -1996,8 +2007,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90997.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91000.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PANTERA COR DE ROSA
 http://lidns.cc:80/4x6cXF/JDqRqj/91004.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PAPALEGUAS E COIOTE
-http://lidns.cc:80/4x6cXF/JDqRqj/91005.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PATLABOR" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PATLABOR
 http://lidns.cc:80/4x6cXF/JDqRqj/91009.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PATRULHA CANINA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PATRULHA CANINA
@@ -2012,18 +2021,12 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91013.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91014.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEPE LEGAL" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PEPE LEGAL
 http://lidns.cc:80/4x6cXF/JDqRqj/91018.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEPPA PIG" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PEPPA PIG
-http://lidns.cc:80/4x6cXF/JDqRqj/91019.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PERDIDO NAS ESTRELAS" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PERDIDO NAS ESTRELAS
 http://lidns.cc:80/4x6cXF/JDqRqj/91020.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PERNALONGA E SUA TURMA
-http://lidns.cc:80/4x6cXF/JDqRqj/91022.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PETER POTAMUS E TICO MICO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PETER POTAMUS E TICO MICO
 http://lidns.cc:80/4x6cXF/JDqRqj/91023.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PHINEAS E FERB" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PHINEAS E FERB
 http://lidns.cc:80/4x6cXF/JDqRqj/91024.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PICA-PAU" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PICA-PAU
-http://lidns.cc:80/4x6cXF/JDqRqj/91025.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PICOLINO" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PICOLINO
 http://lidns.cc:80/4x6cXF/JDqRqj/91026.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PINGU" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-PINGU
@@ -2068,8 +2071,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91045.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91046.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POLEPOSITION" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POLEPOSITION
 http://lidns.cc:80/4x6cXF/JDqRqj/91047.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POPEYE" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="CANAIS | 24 HORAS INFANTIS",24H-POPEYE
-http://lidns.cc:80/4x6cXF/JDqRqj/91049.m3u8
 
 
 
