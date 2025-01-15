@@ -922,7 +922,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b4
 #### RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ####
 #EXTINF:-1 tvg-id="CanÃ§ao Nova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA 
 http://metv.fun:80/4x6cXF/JDqRqj/89861.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
+#EXTINF:-1 tvg-id="Cançao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
 https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w2078242036.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="RELIGIOSOS",REDE SÉCULO 21 
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
