@@ -52,9 +52,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-id="Globo BrasÃ­lia.br" tvg-name="GLOBO DF" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO DF
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO DF" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO DF
 http://lidns.cc:80/4x6cXF/JDqRqj/95439.m3u8
-#EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="GLOBO CENTRO AMERICA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO MT
+#EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="GLOBO MT " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO MT
 http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
 #EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RN
 http://lidns.cc:80/4x6cXF/JDqRqj/91405.m3u8
@@ -80,10 +80,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91460.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/95448.m3u8
 #EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="GLOBO TV MORENA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV MORENA 
 http://lidns.cc:80/4x6cXF/JDqRqj/91461.m3u8
-#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="GLOBO TV RECIFE " tvg-logo="https://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV RECIFE 
-http://lidns.cc:80/4x6cXF/JDqRqj/96307.m3u8
-#EXTINF:-1 tvg-id="TV Rio Sul HD.br" tvg-name="GLOBO TV RIO SUL " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV RIO SUL 
-http://lidns.cc:80/4x6cXF/JDqRqj/91465.m3u8
 #EXTINF:-1 tvg-id="InterTV Serra Mar HD.br" tvg-name="GLOBO TV SERRA MAR " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV SERRA MAR 
 http://lidns.cc:80/4x6cXF/JDqRqj/91467.m3u8
 #EXTINF:-1 tvg-id="Globo TV Tem Bauru.br" tvg-name="GLOBO TV TEM BAURU " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV TEM BAURU 
