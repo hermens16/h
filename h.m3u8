@@ -40,10 +40,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/91449.m3u8
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w526054796.m3u8
 #EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TV ABERTA",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
-http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
-#EXTINF:-1 tvg-id="Record TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BA
-http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
 #EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RJ
 http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
 #EXTINF:-1 tvg-id="Globo Belo Horizonte HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MG
@@ -56,9 +52,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-id="Globo Brasi­lia.br" tvg-name="GLOBO BRASILIA [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO DF
+#EXTINF:-1 tvg-id=";Globo BrasÃ­lia.br" tvg-name="GLOBO BRASILIA [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO DF
 http://lidns.cc:80/4x6cXF/JDqRqj/95439.m3u8
-#EXTINF:-1 tvg-id="TV Centro America CuiabÃ¡ HD.br" tvg-name="GLOBO CENTRO AMERICA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO MT
+#EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="GLOBO CENTRO AMERICA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO MT
 http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
 #EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RN
 http://lidns.cc:80/4x6cXF/JDqRqj/91405.m3u8
@@ -100,6 +96,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91473.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91477.m3u8
 #EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO VERDES MARES 
 http://lidns.cc:80/4x6cXF/JDqRqj/91479.m3u8
+#EXTINF:-1 tvg-id="Record TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BA
+http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
+#EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
+http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
