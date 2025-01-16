@@ -56,26 +56,14 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV BAHIA 
-http://lidns.cc:80/4x6cXF/JDqRqj/91446.m3u8
 #EXTINF:-1 tvg-id="Globo BrasÃ­lia HD.br" tvg-name="GLOBO BRASILIA [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO DF
 http://lidns.cc:80/4x6cXF/JDqRqj/95439.m3u8
 #EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="GLOBO CENTRO AMERICA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO MT
 http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
-#EXTINF:-1 tvg-id="EPTV Campinas HD.br" tvg-name="GLOBO EPTV CAMPINAS [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO.png" group-title="TV ABERTA",GLOBO EPTV CAMPINAS
-http://lidns.cc:80/4x6cXF/JDqRqj/91397.m3u8
-#EXTINF:-1 tvg-id="EPTV Ribeirao Preto HD.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO EPTV RIBEIRÃO PRETO
-http://lidns.cc:80/4x6cXF/JDqRqj/91399.m3u8
-#EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="GLOBO EPTV SUL DE MINAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS 
-http://lidns.cc:80/4x6cXF/JDqRqj/95442.m3u8
-#EXTINF:-1 tvg-id="InterTV Alto Literal HD.br" tvg-name="GLOBO INTER TV ALTO LITORAL " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO INTER TV ALTO LITORAL
-http://lidns.cc:80/4x6cXF/JDqRqj/91403.m3u8
 #EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI
 http://lidns.cc:80/4x6cXF/JDqRqj/91405.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="GLOBO INTER TV DOS VALES " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO INTER TV DOS VALES 
 http://lidns.cc:80/4x6cXF/JDqRqj/91407.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="GLOBO INTER TV GRANDE MINAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO INTER TV GRANDE MINAS 
-http://lidns.cc:80/4x6cXF/JDqRqj/95444.m3u8
 #EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="GLOBO NSC BLUMENAU " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO NSC BLUMENAU 
 http://lidns.cc:80/4x6cXF/JDqRqj/91411.m3u8
 #EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="GLOBO NSC CHAPECO " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO NSC CHAPECO 
