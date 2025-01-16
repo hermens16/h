@@ -68,15 +68,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91413.m3u8
 http://lidhttp://lidns.cc:80/4x6cXF/JDqRqj/117331.m3u8
 #EXTINF:-1 tvg-id="Globo Amazonas HD.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RO
 http://lidns.cc:80/4x6cXF/JDqRqj/120082.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RPC MARINGA 
-http://lidns.cc:80/4x6cXF/JDqRqj/91437.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC PARANAVAI " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RPC PARANAVAI 
-http://lidns.cc:80/4x6cXF/JDqRqj/91439.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PONTA GROSSA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RPC TV PONTA GROSSA 
-http://lidns.cc:80/4x6cXF/JDqRqj/91441.m3u8
-#EXTINF:-1 tvg-id="Globo TV Tem Bauru.br" tvg-name="GLOBO SJRP " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO SJRP 
-http://lidns.cc:80/4x6cXF/JDqRqj/90056.m3u8
-#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV ALAGOAS 
+#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO ALAGOAS
 http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
 #EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA 
 http://lidns.cc:80/4x6cXF/JDqRqj/91445.m3u8
