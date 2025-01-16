@@ -66,41 +66,39 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91405.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91413.m3u8
 #EXTINF:-1 tvg-id="Globo Amazonas HD.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO AM
 http://lidhttp://lidns.cc:80/4x6cXF/JDqRqj/117331.m3u8
-#EXTINF:-1 tvg-id="Globo Amazonas HD.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RO
+#EXTINF:-1 tvg-id="TV Ariquemes HD.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RO
 http://lidns.cc:80/4x6cXF/JDqRqj/120082.m3u8
-#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO ALAGOAS
+#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA 
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO GO 
 http://lidns.cc:80/4x6cXF/JDqRqj/91445.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="GLOBO TV DIARIO " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV DIARIO 
-http://lidns.cc:80/4x6cXF/JDqRqj/91448.m3u8
-#EXTINF:-1 tvg-id="Tvfronteira.br" tvg-name="GLOBO TV FRONTEIRA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV FRONTEIRA 
+#EXTINF:-1 tvg-id="Sergipe HD.br" tvg-name="GLOBO TV SERGIPE " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO SE 
+http://lidns.cc:80/4x6cXF/JDqRqj/95483.m3u8
+#EXTINF:-1 tvg-id="TV Fronteira.br" tvg-name="GLOBO TV FRONTEIRA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV FRONTEIRA 
 http://lidns.cc:80/4x6cXF/JDqRqj/97396.m3u8
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="GLOBO TV INTEG. ARAXA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV INTEG. ARAXA 
+#EXTINF:-1 tvg-id="TV IntegraÃ§ao AraxÃ¡.br" tvg-name="GLOBO TV INTEG. ARAXA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV INTEG. ARAXA 
 http://lidns.cc:80/4x6cXF/JDqRqj/91456.m3u8
 #EXTINF:-1 tvg-id="Globo Belem Liberal.br" tvg-name="GLOBO TV LIBERAL BELEM " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 
 http://lidns.cc:80/4x6cXF/JDqRqj/91460.m3u8
-#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV MIRANTE 
+#EXTINF:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="GLOBO TV MIRANTE " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV MIRANTE 
 http://lidns.cc:80/4x6cXF/JDqRqj/95448.m3u8
-#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV MORENA 
+#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="GLOBO TV MORENA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV MORENA 
 http://lidns.cc:80/4x6cXF/JDqRqj/91461.m3u8
 #EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="GLOBO TV RECIFE " tvg-logo="https://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV RECIFE 
 http://lidns.cc:80/4x6cXF/JDqRqj/96307.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="GLOBO TV RIO SUL " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV RIO SUL 
+#EXTINF:-1 tvg-id="TV Rio Sul HD.br" tvg-name="GLOBO TV RIO SUL " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV RIO SUL 
 http://lidns.cc:80/4x6cXF/JDqRqj/91465.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV SERGIPE " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV SERGIPE 
-http://lidns.cc:80/4x6cXF/JDqRqj/95483.m3u8
-#EXTINF:-1 tvg-id="altolitoral.br" tvg-name="GLOBO TV SERRA MAR " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV SERRA MAR 
+#EXTINF:-1 tvg-id="InterTV Serra Mar HD.br" tvg-name="GLOBO TV SERRA MAR " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV SERRA MAR 
 http://lidns.cc:80/4x6cXF/JDqRqj/91467.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV TEM BAURU 
+#EXTINF:-1 tvg-id="Globo TV Tem Bauru.br" tvg-name="GLOBO TV TEM BAURU " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV TEM BAURU 
 http://lidns.cc:80/4x6cXF/JDqRqj/91470.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SOROCABA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV TEM SOROCABA 
+#EXTINF:-1 tvg-id="TV TEM Sorocaba HD.br" tvg-name="GLOBO TV TEM SOROCABA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV TEM SOROCABA 
 http://lidns.cc:80/4x6cXF/JDqRqj/91471.m3u8
 #EXTINF:-1 tvg-id="Globo TV Tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV TRIBUNA SANTOS 
 http://lidns.cc:80/4x6cXF/JDqRqj/91473.m3u8
-#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANG. TAUBATE " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV VANG. TAUBATE 
+#EXTINF:-1 tvg-id="Globo TV Vanguarda.br" tvg-name="GLOBO TV VANG. TAUBATE " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV VANG. TAUBATE 
 http://lidns.cc:80/4x6cXF/JDqRqj/91477.m3u8
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO VERDES MARES 
+#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO VERDES MARES 
 http://lidns.cc:80/4x6cXF/JDqRqj/91479.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
