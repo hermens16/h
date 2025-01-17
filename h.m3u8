@@ -40,31 +40,31 @@ https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w526054796
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RJ
 http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
-#EXTINF:-1 tvg-id="Globo Belo Horizonte HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MG
+#EXTINF:-1 tvg-id="Globo Minas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/90034.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RBS PORTO ALEGRE-RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO PR
+#EXTINF:-1 tvg-id="RPC Foz do IguaÃ§u HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RPC FOZ DO IGUAÇU-PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO DF" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO DF
-http://lidns.cc:80/4x6cXF/JDqRqj/95439.m3u8
-#EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="GLOBO MT " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO MT
+http://lidns.cc:80/4x6cXF/JDqRqj/90019.m3u8
+#EXTINF:-1 tvg-id="TV Centro America CuiabÃ¡ HD.br" tvg-name="GLOBO MT " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV CENTRO AMÉRICA-MT
 http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
-#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RN
+#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI-RN
 http://lidns.cc:80/4x6cXF/JDqRqj/91405.m3u8
-#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="GLOBO NSC CHAPECO " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO SC 
+#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="GLOBO NSC CHAPECO " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO NSC TV CHAPECO-SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/91413.m3u8
-#EXTINF:-1 tvg-id="Globo Amazonas HD.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO AM
+#EXTINF:-1 tvg-id="TV Itacoatiara.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO REDE AMAZÔNICA ITACOATIARA-AM
 http://lidhttp://lidns.cc:80/4x6cXF/JDqRqj/117331.m3u8
-#EXTINF:-1 tvg-id="TV Ariquemes HD.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO RO
+#EXTINF:-1 tvg-id="TV Ariquemes HD.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO REDE AMAZONICA ARIQUEMES-RO
 http://lidns.cc:80/4x6cXF/JDqRqj/120082.m3u8
-#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO AL
+#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV GAZETA-AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO GO 
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA-GO 
 http://lidns.cc:80/4x6cXF/JDqRqj/91445.m3u8
 #EXTINF:-1 tvg-id="Sergipe HD.br" tvg-name="GLOBO TV SERGIPE " tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="TV ABERTA",GLOBO SE 
 http://lidns.cc:80/4x6cXF/JDqRqj/95483.m3u8
@@ -92,6 +92,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91477.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91479.m3u8
 #EXTINF:-1 tvg-id="Record TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BA
 http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
+#EXTINF:-1 tvg-id="SIC TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SIC TV-RO
+http://lidns.cc:80/4x6cXF/JDqRqj/91429.m3u8
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
