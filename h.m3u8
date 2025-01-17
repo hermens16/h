@@ -30,8 +30,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/120px-Arte_1_logo.svg.png" group-title="TV ABERTA",ARTE 1 
-http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
 #EXTINF:-1 tvg-id="Sesctv.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV 
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/800px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV ABERTA",TV DIÁRIO
@@ -603,12 +601,14 @@ http://metv.fun:80/4x6cXF/JDqRqj/89933.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89937.m3u8
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYCMNTtG5Km5vgG7uNQWL0cdWphqyZUttLw&s" group-title="DOCUMENTÁRIOS",HGTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90127.m3u8
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="DOCUMENTÁRIOS",HISTORY 2 
-http://metv.fun:80/4x6cXF/JDqRqj/90088.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL " tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/90131.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="DOCUMENTÁRIOS",HISTORY 2 
+http://metv.fun:80/4x6cXF/JDqRqj/90088.m3u8
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC " tvg-logo="https://e7.pngegg.com/pngimages/479/542/png-clipart-tlc-logo.png" group-title="DOCUMENTÁRIOS",TLC 
 http://metv.fun:80/4x6cXF/JDqRqj/90388.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/120px-Arte_1_logo.svg.png" group-title="TV ABERTA",ARTE 1 
+http://metv.fun:80/4x6cXF/JDqRqj/89808.m3u8
 #EXTINF:-1 tvg-id="Canal Educacao.br" tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="DOCUMENTÁRIOS",CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="DOCUMENTÁRIOS",PHOENIX TV 
