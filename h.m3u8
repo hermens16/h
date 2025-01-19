@@ -152,27 +152,27 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90017.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90021.m3u8
 #EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="GLOBO CENTRO AMERICA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV CENTRO AMÉRICA-MT
 http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO CURITIBA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO CURITIBA 
+#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="GLOBO CURITIBA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RPC CURITIBA-PR
 http://lidns.cc:80/4x6cXF/JDqRqj/90023.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO EPTV RIBEIRÃO PRETO 
+#EXTINF:-1 tvg-id="EPTV Ribeirao Preto.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO EPTV RIBEIRÃO PRETO-MG
 http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SÃO CARLOS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO EPTV SÃO CARLOS 
+#EXTINF:-1 tvg-id="EPTV Central HD.br" tvg-name="GLOBO EPTV SÃO CARLOS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO EPTV CENTRAL-SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90029.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SUL DE MINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS 
+#EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="GLOBO EPTV SUL DE MINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS-MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91402.m3u8
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO FLORIANÓPOLIS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO FLORIANÓPOLIS 
+#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="GLOBO FLORIANÓPOLIS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC TV FLORIANÓPOLIS-SC
 http://lidns.cc:80/4x6cXF/JDqRqj/90031.m3u8
-#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO INTER TV CABUGI 
+#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO INTER TV CABUGI-RN
 http://lidns.cc:80/4x6cXF/JDqRqj/91406.m3u8
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GLOBO INTER TV DOS VALES " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO INTER TV DOS VALES 
+#EXTINF:-1 tvg-id="InterTV Grande Minas" tvg-name="GLOBO INTER TV DOS VALES " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO INTER TV DOS VALES-MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="GLOBO INTER TV GRANDE MINAS MG " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO INTER TV GRANDE MINAS MG 
+#EXTINF:-1 tvg-id="InterTV Grande Minas" tvg-name="GLOBO INTER TV GRANDE MINAS MG " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO INTER TV GRANDE MINAS-MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
-#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO MARANHÃO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MARANHÃO 
+#EXTINF:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="GLOBO MARANHÃO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV MIRANTE-MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/90032.m3u8
-#EXTINF:-1 tvg-id="Globo Minas.br" tvg-name="GLOBO MINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MINAS 
+#EXTINF:-1 tvg-id="Globo Minas.br" tvg-name="GLOBO MINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MINAS-MG
 http://lidns.cc:80/4x6cXF/JDqRqj/90034.m3u8
-#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO NATAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NATAL 
+#EXTINF:-1 tvg-id="Globo Natal.br" tvg-name="GLOBO NATAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NATAL 
 http://lidns.cc:80/4x6cXF/JDqRqj/90036.m3u8
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NORDESTE 
 http://lidns.cc:80/4x6cXF/JDqRqj/90043.m3u8
