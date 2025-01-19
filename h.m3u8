@@ -96,6 +96,200 @@ http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91429.m3u8
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="" tvg-name="GLOBO AMAPÁ [FHD] (H265)" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ [FHD] (H265)
+http://lidns.cc:80/4x6cXF/JDqRqj/90015.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO BRASILIA [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA [FHD]
+http://lidns.cc:80/4x6cXF/JDqRqj/95439.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS [FHD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91397.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC TV FLORIANOPOLIS [FHD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91419.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU [FHD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91469.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO INTER TV GRANDE MINAS MG [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS MG [FHD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91409.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO REDE AMAZONICA PARINTINS [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA PARINTINS [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117332.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO REDE AMAZONICA ITACOATIARA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA ITACOATIARA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117331.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO JUAZEIRO BAHIA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO JUAZEIRO BAHIA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117330.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO TV OESTE BARREIRAS BAHIA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV OESTE BARREIRAS BAHIA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117329.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO TV SANTA CRUZ ITABUNA BAHIA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ ITABUNA BAHIA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117328.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO FEIRA DE SANTANA BAHIA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO FEIRA DE SANTANA BAHIA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117327.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO JUAZEIRO DO NORTE [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO JUAZEIRO DO NORTE [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117326.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO TV ANHANGUERA CATALAO [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA CATALAO [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117325.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globogo.br" tvg-name="GLOBO TV ANHANGUERA ITUMBIARA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA ITUMBIARA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117324.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="ZYA588" tvg-name="GLOBO TV ANHANGUERA JATAI [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA JATAI [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117323.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="ANGLUHD" tvg-name="GLOBO TV ANHANGUERA LUZIANIA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA LUZIANIA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117322.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO TV ANHANGUERA PARAGANTU [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA PARAGANTU [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/117321.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91424.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RJ [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91432.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvcabobranco.br" tvg-name="GLOBO TV CABO BRANCO [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/97260.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91404.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO TV PARAÍBA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV PARAÍBA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/100903.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC JOINVILLE [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC JOINVILLE [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91418.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO TV SERRA MAR [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV SERRA MAR [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91468.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvthathiltoral.br" tvg-name="GLOBO TV CLUBE [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV CLUBE [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/95677.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Agromais.br" tvg-name="GLOBO TV INTEG. ARAXA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. ARAXA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91457.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PONTA GROSSA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTA GROSSA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91442.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC PARANAVAI [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAVAI [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91440.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Agromais.br" tvg-name="GLOBO ACRE RIO BRANCO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO ACRE RIO BRANCO [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90013.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="" tvg-name="GLOBO AMAPÁ [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90016.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globopa.br" tvg-name="GLOBO BELEM [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO BELEM [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90017.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO BRASILIA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90019.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Verdesmares.br" tvg-name="GLOBO CEARÁ [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO CEARÁ [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90021.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO CURITIBA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO CURITIBA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90023.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90025.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90028.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SÃO CARLOS [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV SÃO CARLOS [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90029.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SUL DE MINAS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91402.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO FLORIANÓPOLIS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO FLORIANÓPOLIS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90031.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91406.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Intertvgminas.br" tvg-name="GLOBO INTER TV DOS VALES [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO INTER TV DOS VALES [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO INTER TV GRANDE MINAS MG [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS MG [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvmirante.br" tvg-name="GLOBO MARANHÃO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO MARANHÃO [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90032.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO MINAS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO MINAS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90034.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO NATAL [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NATAL [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90036.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90043.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC BLUMENAU [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC BLUMENAU [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91412.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC CHAPECO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC CHAPECO [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91414.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC CRICIUMA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC CRICIUMA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91415.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV BLUMENAU [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC TV BLUMENAU [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/95461.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC TV FLORIANOPOLIS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91420.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="" tvg-name="GLOBO PERNAMBUCO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO PERNAMBUCO [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90044.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO PORTO ALEGRE [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO PORTO ALEGRE [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90046.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PORTO ALEGRE [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RBS PORTO ALEGRE [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91422.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PELOTAS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91428.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO REDE AMAZONICA MANAUS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA MANAUS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90048.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="" tvg-name="GLOBO RONDONIA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RONDONIA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90052.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO RORAIMA [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RORAIMA [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90055.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91434.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO SJRP [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO SJRP [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90057.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvgazetaalagoas.br" tvg-name="GLOBO TV ALAGOAS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ALAGOAS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91444.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GOIANIA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90062.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvdiariosp.br" tvg-name="GLOBO TV DIARIO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91449.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Agromais.br" tvg-name="GLOBO TV FRONTEIRA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV FRONTEIRA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/97392.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="TVGazetaes.br" tvg-name="GLOBO TV GAZETA VITORIA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA VITORIA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91455.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Agromais.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. JUIZ DE FORA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91459.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO TV MORENA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91462.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV NORDESTE [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV NORDESTE [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90042.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvriosul.br" tvg-name="GLOBO TV RIO SUL [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91466.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV SERGIPE [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/95484.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90066.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SJRP [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SJRP [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90068.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SOROCABA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91472.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SANTOS [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91474.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA SJDC [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA SJDC [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90071.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES [SD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90072.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO VERDES MARES [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91480.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="TVGazetaes.br" tvg-name="GLOBO VITÓRIA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO VITÓRIA [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globors.br" tvg-name="GLOBO RBS TV SANTA MARIA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RBS TV SANTA MARIA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/97301.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PASSO FUNDO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91426.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globominas.br" tvg-name="GLOBO BELO HORIZONTE [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE [HD]
+http://lidns.cc:80/4x6cXF/JDqRqj/91393.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="ZYA724H" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV INTEGRACAO UBERLANDIA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/119725.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="ZYA575" tvg-name="GLOBO TV ANHANGUERA ARAGUAINA TOCANTINS [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA ARAGUAINA TOCANTINS [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/120077.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="TVANHGU" tvg-name="GLOBO TV ANHANGUERA GURUPI TOCANTINS [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GURUPI TOCANTINS [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/120078.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="ANHAPAH" tvg-name="GLOBO TV ANHANGUERA PALMAS TOCANTINS [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA PALMAS TOCANTINS [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/120079.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="GLBBITA" tvg-name="GLOBO TV TEM ITAPETININGA E REGIAO [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV TEM ITAPETININGA E REGIAO [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/120080.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globopa.br" tvg-name="GLOBO TV LIBERAL ALTAMIRA (PARA) [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV LIBERAL ALTAMIRA (PARA) [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/120081.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globoro.br" tvg-name="GLOBO REDE AMAZONICA ARIQUEMES [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA ARIQUEMES [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/120082.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="ZYB610" tvg-name="GLOBO RBS TV BAGE [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RBS TV BAGE [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/120084.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Boxkids.br" tvg-name="GLOBO RBS CRUZ ALTA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO RBS CRUZ ALTA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/123214.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Like.br" tvg-name="GLOBO TV INTEGRACAO UBERABA [M]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO TV INTEGRACAO UBERABA [M]
+http://lidns.cc:80/4x6cXF/JDqRqj/124835.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS [4K]" tvg-logo="http://stolime.cc/lives/4K/GLOBO%20NEWS%204K.png" group-title="CANAIS | UHD 4K",GLOBO NEWS [4K]
+http://lidns.cc:80/4x6cXF/JDqRqj/102411.m3u8
+#EXTINF:-1 tvg-id="unknown"-1 tvg-id="unknown"-1 tvg-id="Globosp.br" tvg-name="GLOBO [4K]" tvg-logo="http://stolime.cc/lives/4K/GLOBO%204K.png" group-title="CANAIS | UHD 4K",GLOBO [4K]
+http://lidns.cc:80/4x6cXF/JDqRqj/95657.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
