@@ -98,8 +98,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91429.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAPÁ [FHD] (H265)" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ [FHD] (H265)
 http://lidns.cc:80/4x6cXF/JDqRqj/90015.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="GLOBO BRASILIA [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA [FHD]
-http://lidns.cc:80/4x6cXF/JDqRqj/95439.m3u8
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS [FHD]
 http://lidns.cc:80/4x6cXF/JDqRqj/91397.m3u8
 #EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS [FHD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO NSC TV FLORIANOPOLIS [FHD]
@@ -156,8 +154,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91442.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91440.m3u8
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="GLOBO ACRE RIO BRANCO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO ACRE RIO BRANCO [HD]
 http://lidns.cc:80/4x6cXF/JDqRqj/90013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAPÁ [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO AMAPÁ [SD]
-http://lidns.cc:80/4x6cXF/JDqRqj/90016.m3u8
 #EXTINF:-1 tvg-id="Globopa.br" tvg-name="GLOBO BELEM [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO BELEM [HD]
 http://lidns.cc:80/4x6cXF/JDqRqj/90017.m3u8
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="GLOBO BRASILIA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA [HD]
@@ -168,12 +164,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90021.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO CURITIBA [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO CURITIBA [HD]
 http://lidns.cc:80/4x6cXF/JDqRqj/90023.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS [HD]
-http://lidns.cc:80/4x6cXF/JDqRqj/90025.m3u8
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO [HD]
 http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO [SD]
-http://lidns.cc:80/4x6cXF/JDqRqj/90028.m3u8
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SÃO CARLOS [SD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV SÃO CARLOS [SD]
 http://lidns.cc:80/4x6cXF/JDqRqj/90029.m3u8
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV SUL DE MINAS [HD]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/GLOBO%202021.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS [HD]
