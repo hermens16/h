@@ -172,22 +172,22 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90032.m3u8
 #EXTINF:-1 tvg-id="Globo Minas.br" tvg-name="GLOBO MINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO MINAS-MG
 http://lidns.cc:80/4x6cXF/JDqRqj/90034.m3u8
-#EXTINF:-1 tvg-id="Globo Natal.br" tvg-name="GLOBO NATAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NATAL 
+#EXTINF:-1 tvg-id="Globo Natal.br" tvg-name="GLOBO NATAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NATAL-RN
 http://lidns.cc:80/4x6cXF/JDqRqj/90036.m3u8
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NORDESTE 
+#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="GLOBO NORDESTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV PERNAMBUCO-PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90043.m3u8
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC BLUMENAU " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC BLUMENAU 
+#EXTINF:-1 tvg-id="TV Grande Rio.br" tvg-name="GLOBO PERNAMBUCO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO PERNAMBUCO 
+http://lidns.cc:80/4x6cXF/JDqRqj/90044.m3u8
+#EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="GLOBO NSC BLUMENAU " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC TV BLUMENAU-SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/91412.m3u8
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC CHAPECO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC CHAPECO 
+#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="GLOBO NSC CHAPECO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC TV CHAPECO-SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/91414.m3u8
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC CRICIUMA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC CRICIUMA 
+#EXTINF:-1 tvg-id="NSC TV CriciÃºma.br" tvg-name="GLOBO NSC CRICIUMA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC TV CRICIUMA-SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91415.m3u8
 #EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV BLUMENAU " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC TV BLUMENAU 
 http://lidns.cc:80/4x6cXF/JDqRqj/95461.m3u8
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC TV FLORIANOPOLIS 
+#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NSC TV FLORIANOPOLIS-SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PERNAMBUCO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO PERNAMBUCO 
-http://lidns.cc:80/4x6cXF/JDqRqj/90044.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO PORTO ALEGRE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO PORTO ALEGRE 
 http://lidns.cc:80/4x6cXF/JDqRqj/90046.m3u8
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PORTO ALEGRE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO RBS PORTO ALEGRE 
