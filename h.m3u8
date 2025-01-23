@@ -60,7 +60,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/120081.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91460.m3u8
 #EXTINF:-1 tvg-id="Globo Belem Liberal.br" tvg-name="TV LIBERAL BELÉM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV LIBERAL BELÉM - PA 
 http://lidns.cc:80/4x6cXF/JDqRqj/90017.m3u8
-#EXTINF:-1 tvg-id="TV Ariquemes HD.br" tvg-name="AMAZONICA ARIQUEMES " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",REDE AMAZÔNICA ARIQUEMES - RO
+#EXTINF:-1 tvg-id="TV Ariquemes HD.br" tvg-name="AMAZONICA ARIQUEMES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",REDE AMAZÔNICA ARIQUEMES - RO
 http://lidns.cc:80/4x6cXF/JDqRqj/120082.m3u8
 #EXTINF:-1 tvg-id="TV Ji-ParanÃ¡ HD.br" tvg-name="REDE AMAZÔNICA PORTO VELHO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",REDE AMAZÔNICA PORTO VELHO - RO
 http://lidns.cc:80/4x6cXF/JDqRqj/90052.m3u8
@@ -72,93 +72,95 @@ http://lidns.cc:80/4x6cXF/JDqRqj/120077.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/120078.m3u8
 #EXTINF:-1 tvg-id="TV Anhanguera Palmas HD.br" tvg-name="TV ANHANGUERA PALMAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA PALMAS - TO
 http://lidns.cc:80/4x6cXF/JDqRqj/120079.m3u8
-#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA - AL
+#EXTINF:-1 tvg-id="Globo Maceio.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
-#EXTINF:-1 tvg-id="Tvgazetaalagoas.br" tvg-name="GLOBO TV ALAGOAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
+#EXTINF:-1 tvg-id="Tvgazetaalagoas.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91444.m3u8
-#EXTINF:-1 tvg-id="TV Sudoeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SUDOESTE - BA
+#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV BAHIA - BA 
+http://lidns.cc:80/4x6cXF/JDqRqj/91446.m3u8
+#EXTINF:-1 tvg-id="TV Sudoeste HD.br" tvg-id="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV BAHIA - BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="GLOBO JUAZEIRO BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SÃO FRANCISCO JUAZEIRO - BA 
+#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV SÃO FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SÃO FRANCISCO - BA 
 http://lidns.cc:80/4x6cXF/JDqRqj/117330.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="GLOBO TV OESTE BARREIRAS BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV OESTE BARREIRAS - BA 
+#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV OESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV OESTE - BA 
 http://lidns.cc:80/4x6cXF/JDqRqj/117329.m3u8
-#EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-name="GLOBO TV SANTA CRUZ ITABUNA BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SANTA CRUZ ITABUNA - BA
+#EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-name="TV SANTA CRUZ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SANTA CRUZ - BA
 http://lidns.cc:80/4x6cXF/JDqRqj/117328.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="GLOBO FEIRA DE SANTANA BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SUBAÉ FEIRA DE SANTANA - BA 
+#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV SUBAÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SUBAÉ - BA 
 http://lidns.cc:80/4x6cXF/JDqRqj/117327.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares Cariri.br" tvg-name="GLOBO JUAZEIRO DO NORTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES CARIRI - CE 
+#EXTINF:-1 tvg-id="TV Verdes Mares Cariri.br" tvg-name="TV VERDES MARES CARIRI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES CARIRI - CE 
 http://lidns.cc:80/4x6cXF/JDqRqj/117326.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO CEARÁ " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES- CE
+#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="TV VERDES MARES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES - CE
 http://lidns.cc:80/4x6cXF/JDqRqj/90021.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO TV VERDES MARES " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES - CE
+#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="TV VERDES MARES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES - CE
 http://lidns.cc:80/4x6cXF/JDqRqj/90072.m3u8
-#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="GLOBO VERDES MARES " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES - CE
+#EXTINF:-1 tvg-id="TV Verdes Mares HD.br" tvg-name="TV VERDES MARES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV VERDES MARES - CE
 http://lidns.cc:80/4x6cXF/JDqRqj/91480.m3u8
-#EXTINF:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="GLOBO TV MIRANTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MIRANTE SÃO LUÍS - MA
+#EXTINF:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="TV MIRANTE SÃO LUÍS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MIRANTE SÃO LUÍS - MA
 http://lidns.cc:80/4x6cXF/JDqRqj/95448.m3u8
-#EXTINF:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="GLOBO MARANHÃO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MIRANTE SÃO LUÍS - MA 
+#EXTINF:-1 tvg-id="TV Mirante Sao Luis HD.br" tvg-name="TV MIRANTE SÃO LUÍS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MIRANTE SÃO LUÍS - MA 
 http://lidns.cc:80/4x6cXF/JDqRqj/90032.m3u8
-#EXTINF:-1 tvg-id="TV Cabo Branco HD.br" tvg-name="GLOBO TV CABO BRANCO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CABO BRANCO - PB
+#EXTINF:-1 tvg-id="TV Cabo Branco HD.br" tvg-name="TV CABO BRANCO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CABO BRANCO - PB
 http://lidns.cc:80/4x6cXF/JDqRqj/97260.m3u8
-#EXTINF:-1 tvg-id="TV ParaÃ­ba HD.br" tvg-name="GLOBO TV PARAÍBA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PARAÍBA - PB
+#EXTINF:-1 tvg-id="TV ParaÃ­ba HD.br" tvg-name="TV PARAÍBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PARAÍBA - PB
 http://lidns.cc:80/4x6cXF/JDqRqj/100903.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
+#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="TV GLOBO PERNAMBUCO' tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
-#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="GLOBO TV NORDESTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
+#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV PERNAMBUCO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90042.m3u8
-#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="GLOBO NORDESTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PERNAMBUCO - PE
+#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV PERNAMBUCO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90043.m3u8
 #EXTINF:-1 tvg-id="TV Grande Rio.br" tvg-name="GLOBO PERNAMBUCO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90044.m3u8
-#EXTINF:-1 tvg-id="TV Clube HD.br" tvg-name="GLOBO TV CLUBE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CLUBE - PI
+#EXTINF:-1 tvg-id="TV Clube HD.br" tvg-name="TV CLUBE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CLUBE - PI
 http://lidns.cc:80/4x6cXF/JDqRqj/95677.m3u8
-#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV CABUGI - RN
+#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="INTERTV CABUGI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV CABUGI - RN
 http://lidns.cc:80/4x6cXF/JDqRqj/91405.m3u8
-#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV CABUGI - RN
+#EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="INTERTV CABUGI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV CABUGI - RN
 http://lidns.cc:80/4x6cXF/JDqRqj/91406.m3u8
-#EXTINF:-1 tvg-id="Globo Natal.br" tvg-name="GLOBO NATAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO NATAL - RN
+#EXTINF:-1 tvg-id="Globo Natal.br" tvg-name="INTERTV CABUGI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV CABUGI - RN
 http://lidns.cc:80/4x6cXF/JDqRqj/90036.m3u8
-#EXTINF:-1 tvg-id="TV Sergipe HD.br" tvg-name="GLOBO TV SERGIPE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SERGIPE - SE
+#EXTINF:-1 tvg-id="TV Sergipe HD.br" tvg-name="TV SERGIPE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SERGIPE - SE
 http://lidns.cc:80/4x6cXF/JDqRqj/95484.m3u8
-#EXTINF:-1 tvg-id="Sergipe HD.br" tvg-name="GLOBO TV SERGIPE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SERGIPE - SE 
+#EXTINF:-1 tvg-id="Sergipe HD.br" tvg-name="TV SERGIPE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SERGIPE - SE 
 http://lidns.cc:80/4x6cXF/JDqRqj/95483.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA GOIÂNIA - GO 
+#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA GOIÂNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA GOIÂNIA - GO 
 http://lidns.cc:80/4x6cXF/JDqRqj/90062.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA - GO 
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA - GO 
 http://lidns.cc:80/4x6cXF/JDqRqj/91445.m3u8
-#EXTINF:-1 tvg-id="TV Anhaguera Catalao.br" tvg-name="GLOBO TV ANHANGUERA CATALAO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
+#EXTINF:-1 tvg-id="TV Anhaguera Catalao.br" tvg-name="TV ANHANGUERA CATALÃO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/117325.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA ITUMBIARA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA ITUMBIARA - GO
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA ITUMBIARA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA ITUMBIARA - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/117324.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="GLOBO TV ANHANGUERA JATAI " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA JATAÍ - GO
+#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA JATAÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA JATAÍ - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/117323.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera LuziÃ¢nia.br" tvg-name="GLOBO TV ANHANGUERA LUZIANIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA LUZIÂNIA - GO
+#EXTINF:-1 tvg-id="TV Anhanguera LuziÃ¢nia.br" tvg-name="TV ANHANGUERA LUZIÂNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA LUZIÂNIA - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/117322.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="GLOBO TV ANHANGUERA PARAGANTU " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA PORANGATU - GO
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA PORANGATU" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA PORANGATU - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/117321.m3u8
-#EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="GLOBO CENTRO AMERICA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
+#EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
 http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
-#EXTINF:-1 tvg-id="TV Centro America CuiabÃ¡ HD.br" tvg-name="GLOBO MT " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
+#EXTINF:-1 tvg-id="TV Centro America CuiabÃ¡ HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
 http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
-#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="GLOBO TV MORENA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MORENA - MS 
+#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MORENA - MS 
 http://lidns.cc:80/4x6cXF/JDqRqj/91462.m3u8
-#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="GLOBO TV MORENA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MORENA - MS
+#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MORENA - MS
 http://lidns.cc:80/4x6cXF/JDqRqj/91461.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta Es.br" tvg-name="GLOBO TV GAZETA VITORIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
+#EXTINF:-1 tvg-id="TV Gazeta Es.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/91455.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta Es.br" tvg-name="GLOBO VITÓRIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
+#EXTINF:-1 tvg-id="TV Gazeta Es.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="GLOBO TV GAZETA SUL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA SUL - ES
+#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA SUL - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
+#EXTINF:-1 tvg-id="TV IntegraÃ§ao.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91459.m3u8
-#EXTINF:-1 tvg-id="Globo Minas.br" tvg-name="GLOBO BELO HORIZONTE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GLOBO MINAS - MG 
+#EXTINF:-1 tvg-id="Globo Minas.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GLOBO MINAS - MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91393.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao Uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
+#EXTINF:-1 tvg-id="TV IntegraÃ§ao Uberaba.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/119725.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao Uberaba.br" tvg-name="GLOBO TV INTEGRACAO UBERABA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV INTEGRAÇÃO UBERABA - MG
+#EXTINF:-1 tvg-id="TV IntegraÃ§ao Uberaba.br" tvg-name="TV INTEGRAÇÃO UBERABA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV INTEGRAÇÃO UBERABA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/124835.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao AraxÃ¡.br" tvg-name="GLOBO TV INTEG. ARAXA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
+#EXTINF:-1 tvg-id="TV IntegraÃ§ao AraxÃ¡.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91456.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="GLOBO INTER TV GRANDE MINAS MG " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV GRANDE MINAS - MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91409.m3u8
