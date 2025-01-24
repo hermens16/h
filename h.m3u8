@@ -98,7 +98,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91444.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-id="GLOBO TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV BAHIA - BA
+#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="GLOBO TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV BAHIA - BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV SÃO FRANCISCO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV SÃO FRANCISCO - BA 
 http://lidns.cc:80/4x6cXF/JDqRqj/117330.m3u8
@@ -130,7 +130,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90042.m3u8
 #EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV PERNAMBUCO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90043.m3u8
-#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="GLOBO PERNAMBUCO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PERNAMBUCO - PE
+#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV PERNAMBUCO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90044.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CLUBE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CLUBE - PI
 http://lidns.cc:80/4x6cXF/JDqRqj/95677.m3u8
@@ -200,51 +200,51 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91455.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA SUL - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
-#EXTINF:-1 tvg-id="RPC Ponta Grossa HD.br" tvg-name="GLOBO RPC TV PONTA GROSSA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC TV PONTA GROSSA - PR
+#EXTINF:-1 tvg-id="RPC Ponta Grossa HD.br" tvg-name="RPC TV PONTA GROSSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC TV PONTA GROSSA - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91442.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC FOZ DO IGUAÇU - PR
+#EXTINF:-1 tvg-id="RPC Curitiba HD.br"  tvg-name="RPC FOZ DO IGUAÇU"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC FOZ DO IGUAÇU - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="GLOBO RPC PARANAVAI " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC PARANAVAI - PR
+#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC PARANAVAI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC PARANAVAI - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91440.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="GLOBO CURITIBA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC CURITIBA - PR
+#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC CURITIBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC CURITIBA - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/90023.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="GLOBO RPC CURITIBA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC CURITIBA - PR
+#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC CURITIBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RPC CURITIBA - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91434.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV CAXIAS DO SUL - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV CAXIAS DO SUL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV CAXIAS DO SUL - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91424.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO PORTO ALEGRE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/90046.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS PORTO ALEGRE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS 
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS 
 http://lidns.cc:80/4x6cXF/JDqRqj/91422.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV PELOTAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PELOTAS - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PELOTAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PELOTAS - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91428.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV SANTA MARIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV SANTA MARIA - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV SANTA MARIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV SANTA MARIA - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/97301.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV PASSO FUNDO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PASSO FUNDO - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PASSO FUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PASSO FUNDO - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91426.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV BAGE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV BAGÉ - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV BAGÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV BAGÉ - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/120084.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS CRUZ ALTA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS CRUZ ALTA - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS CRUZ ALTA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS CRUZ ALTA - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/123214.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS PORTO ALEGRE - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS PORTO ALEGRE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS PORTO ALEGRE - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
-#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="GLOBO NSC CHAPECO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
+#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="NSC TV CHAPECÓ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/91413.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="GLOBO FLORIANÓPOLIS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
+#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANÓPOLIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/90031.m3u8
-#EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="GLOBO NSC BLUMENAU " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV BLUMENAU - SC 
+#EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="NSC TV BLUMENAU" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV BLUMENAU - SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/91412.m3u8
-#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="GLOBO NSC CHAPECO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
+#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="NSC TV CHAPECO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/91414.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="GLOBO NSC CRICIUMA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV CRICIÚMA - SC
+#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV CRICIUMA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV CRICIÚMA - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91415.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="GLOBO NSC TV BLUMENAU " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV BLUMENAU - SC
+#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV BLUMENAU" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV BLUMENAU - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/95461.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
+#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANOPOLIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91420.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
+#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANOPOLIS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91419.m3u8
-#EXTINF:-1 tvg-id="NSC TV Joinville HD.br" tvg-name="GLOBO NSC JOINVILLE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV JOINVILLE - SC
+#EXTINF:-1 tvg-id="NSC TV Joinville HD.br" tvg-name="NSC JOINVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",NSC TV JOINVILLE - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91418.m3u8
 #EXTINF:-1 tvg-id="Record TV Bahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BA
 http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
