@@ -8,7 +8,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/95657.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90266.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
 http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
@@ -376,50 +376,50 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90298.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90293.m3u8
 #EXTINF:-1 tvg-id="SBT RS.br" tvg-name="SBT RS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RS
 http://lidns.cc:80/4x6cXF/JDqRqj/90291.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
 http://lidns.cc:80/4x6cXF/JDqRqj/91375.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND BAHIA " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND BAHIA
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND BAHIA
 http://lidns.cc:80/4x6cXF/JDqRqj/110228.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CEARA " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND CEARA
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CEARA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CEARA
 http://lidns.cc:80/4x6cXF/JDqRqj/101479.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND MG " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND MG
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND MG " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MG
 http://lidns.cc:80/4x6cXF/JDqRqj/110234.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND NATAL " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND NATAL
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND NATAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND NATAL
 http://lidns.cc:80/4x6cXF/JDqRqj/101482.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND POA " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND POA
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND POA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND POA
 http://lidns.cc:80/4x6cXF/JDqRqj/110230.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND PR " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND PR
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND PR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PR
 http://lidns.cc:80/4x6cXF/JDqRqj/110229.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND PRESIDENTE PRUDENTE " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND PRESIDENTE PRUDENTE
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND PRESIDENTE PRUDENTE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PRESIDENTE PRUDENTE
 http://lidns.cc:80/4x6cXF/JDqRqj/110231.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND RIO " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND RIO
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND RIO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND RIO
 http://lidns.cc:80/4x6cXF/JDqRqj/101480.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND RS " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND RS
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND RS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND RS
 http://lidns.cc:80/4x6cXF/JDqRqj/100660.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP" tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND SP
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND SP
 http://lidns.cc:80/4x6cXF/JDqRqj/89823.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND SP
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND SP
 http://lidns.cc:80/4x6cXF/JDqRqj/89824.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND SP
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND SP
 http://lidns.cc:80/4x6cXF/JDqRqj/89825.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND SP
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND TV MANAÍRA " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND TV MANAÍRA
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND SP
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND TV MANAÍRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND TV MANAÍRA
 http://lidns.cc:80/4x6cXF/JDqRqj/100904.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND TV TRIBUNA RECIFE " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND TV TRIBUNA RECIFE
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND TV TRIBUNA RECIFE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND TV TRIBUNA RECIFE
 http://lidns.cc:80/4x6cXF/JDqRqj/101477.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND VALE " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND VALE
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND VALE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE
 http://lidns.cc:80/4x6cXF/JDqRqj/110232.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="BAND [4K]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/BAND.png" group-title="TV ABERTA",BAND [4K]
 http://lidns.cc:80/4x6cXF/JDqRqj/95649.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND AMAZONAS " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND AMAZONAS
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND AMAZONAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND AMAZONAS
 http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CAMPINAS " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND CAMPINAS
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CAMPINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CAMPINAS
 http://lidns.cc:80/4x6cXF/JDqRqj/89817.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CAMPINAS " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND CAMPINAS
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CAMPINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CAMPINAS
 http://lidns.cc:80/4x6cXF/JDqRqj/89818.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CASCAVEL TV TAROBA " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND CASCAVEL TV TAROBA
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CASCAVEL TV TAROBA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CASCAVEL TV TAROBA
 http://lidns.cc:80/4x6cXF/JDqRqj/101478.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND MACEIO " tvg-logo="https://e7.pngegg.com/pngimages/373/233/png-clipart-tv-bandeirantes-vale-do-paraiba-television-brazil-free-to-air-band-television-trademark.png" group-title="TV ABERTA",BAND MACEIO
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND MACEIO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MACEIO
 http://lidns.cc:80/4x6cXF/JDqRqj/116878.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
