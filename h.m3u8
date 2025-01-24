@@ -8,7 +8,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/95657.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90266.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND
 http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
@@ -250,8 +250,177 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91418.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/100541.m3u8
 #EXTINF:-1 tvg-id="SIC TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SIC TV - RO
 http://lidns.cc:80/4x6cXF/JDqRqj/91429.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BAHIA
+http://lidns.cc:80/4x6cXF/JDqRqj/90245.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BAHIA
+http://lidns.cc:80/4x6cXF/JDqRqj/90246.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD MANAUS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD MANAUS
+http://lidns.cc:80/4x6cXF/JDqRqj/90255.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD MANAUS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD MANAUS
+http://lidns.cc:80/4x6cXF/JDqRqj/90256.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD VILA REAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD VILA REAL
+http://lidns.cc:80/4x6cXF/JDqRqj/100543.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD VILA REAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD VILA REAL
+http://lidns.cc:80/4x6cXF/JDqRqj/100544.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD GOIAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD GOIAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90253.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD GOIAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD GOIAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90254.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD CAMPINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD CAMPINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90251.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD CAMPINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD CAMPINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90252.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD ITAPOAN " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD ITAPOAN
+http://lidns.cc:80/4x6cXF/JDqRqj/100540.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD ITAPOAN " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD ITAPOAN
+http://lidns.cc:80/4x6cXF/JDqRqj/100541.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD LITORAL VALE DO PARNAIBA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD LITORAL VALE DO PARNAIBA
+http://lidns.cc:80/4x6cXF/JDqRqj/123216.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD LITORAL VALE DO PARNAIBA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD LITORAL VALE DO PARNAIBA
+http://lidns.cc:80/4x6cXF/JDqRqj/123217.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD PARANAIBA UBERLANDIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD PARANAIBA UBERLANDIA
+http://lidns.cc:80/4x6cXF/JDqRqj/124836.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD TV CORREIOS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD TV CORREIOS
+http://lidns.cc:80/4x6cXF/JDqRqj/100400.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD TV GUARARAPES " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD TV GUARARAPES
+http://lidns.cc:80/4x6cXF/JDqRqj/100401.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD TV PAJUÇARA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD TV PAJUÇARA
+http://lidns.cc:80/4x6cXF/JDqRqj/116880.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD TV TROPICAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD TV TROPICAL
+http://lidns.cc:80/4x6cXF/JDqRqj/117320.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD BELEM " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BELEM
+http://lidns.cc:80/4x6cXF/JDqRqj/90247.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD BELEM " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BELEM
+http://lidns.cc:80/4x6cXF/JDqRqj/90248.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD BRASILIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BRASILIA
+http://lidns.cc:80/4x6cXF/JDqRqj/90249.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD BRASILIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BRASILIA
+http://lidns.cc:80/4x6cXF/JDqRqj/90250.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD MINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD MINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90257.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD MINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD MINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90258.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD NDTV JOINVILLE " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD NDTV JOINVILLE
+http://lidns.cc:80/4x6cXF/JDqRqj/123212.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD RIO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD RIO
+http://lidns.cc:80/4x6cXF/JDqRqj/90261.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD RIO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD RIO
+http://lidns.cc:80/4x6cXF/JDqRqj/90262.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD [4K]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD [4K]
+http://lidns.cc:80/4x6cXF/JDqRqj/95664.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90265.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD SP " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90266.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD SP " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90267.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD SP " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90268.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD RS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD RS
+http://lidns.cc:80/4x6cXF/JDqRqj/90264.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="RECORD RS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD RS
+http://lidns.cc:80/4x6cXF/JDqRqj/90263.m3u8
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT PIAUI " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PIAUI
+http://lidns.cc:80/4x6cXF/JDqRqj/123213.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT REDE MASSA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT REDE MASSA
+http://lidns.cc:80/4x6cXF/JDqRqj/90289.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SAO LUIZ MA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SAO LUIZ MA
+http://lidns.cc:80/4x6cXF/JDqRqj/90292.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV JORNAL RECIFE " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV JORNAL RECIFE
+http://lidns.cc:80/4x6cXF/JDqRqj/90302.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT  TV JANGADEIRO " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT  TV JANGADEIRO
+http://lidns.cc:80/4x6cXF/JDqRqj/95493.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT ITAPOAN " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT ITAPOAN
+http://lidns.cc:80/4x6cXF/JDqRqj/100539.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT ITAPOAN " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT ITAPOAN
+http://lidns.cc:80/4x6cXF/JDqRqj/100538.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT PARA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PARA
+http://lidns.cc:80/4x6cXF/JDqRqj/90288.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SERRA DOURADA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SERRA DOURADA
+http://lidns.cc:80/4x6cXF/JDqRqj/90294.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV ALTEROSA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ALTEROSA
+http://lidns.cc:80/4x6cXF/JDqRqj/97414.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV ALTEROSA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ALTEROSA
+http://lidns.cc:80/4x6cXF/JDqRqj/97413.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT VTV CAMPINAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT VTV CAMPINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90305.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT VTV CAMPINAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT VTV CAMPINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90304.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT BRASILIA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BRASILIA
+http://lidns.cc:80/4x6cXF/JDqRqj/90285.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT INTERIOR " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT INTERIOR
+http://lidns.cc:80/4x6cXF/JDqRqj/90287.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT PONTA VERDE " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PONTA VERDE
+http://lidns.cc:80/4x6cXF/JDqRqj/116879.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT RBS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RBS
+http://lidns.cc:80/4x6cXF/JDqRqj/100542.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT RIO " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RIO
+http://lidns.cc:80/4x6cXF/JDqRqj/90290.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV ARATU " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ARATU
+http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV DIFUSORA CAXIAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV DIFUSORA CAXIAS
+http://lidns.cc:80/4x6cXF/JDqRqj/90301.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT [4K]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/SBT.png" group-title="TV ABERTA",SBT [4K]
+http://lidns.cc:80/4x6cXF/JDqRqj/95666.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90295.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90296.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90297.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90298.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SCC " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SCC
+http://lidns.cc:80/4x6cXF/JDqRqj/90293.m3u8
+#EXTINF:-1 tvg-id="SBT RS.br" tvg-name="SBT RS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RS
+http://lidns.cc:80/4x6cXF/JDqRqj/90291.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND
+http://lidns.cc:80/4x6cXF/JDqRqj/91375.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND BAHIA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND BAHIA
+http://lidns.cc:80/4x6cXF/JDqRqj/110228.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CEARA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND CEARA
+http://lidns.cc:80/4x6cXF/JDqRqj/101479.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND MG " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND MG
+http://lidns.cc:80/4x6cXF/JDqRqj/110234.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND NATAL " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND NATAL
+http://lidns.cc:80/4x6cXF/JDqRqj/101482.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND POA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND POA
+http://lidns.cc:80/4x6cXF/JDqRqj/110230.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND PR " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND PR
+http://lidns.cc:80/4x6cXF/JDqRqj/110229.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND PRESIDENTE PRUDENTE " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND PRESIDENTE PRUDENTE
+http://lidns.cc:80/4x6cXF/JDqRqj/110231.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND RIO " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND RIO
+http://lidns.cc:80/4x6cXF/JDqRqj/101480.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND RS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND RS
+http://lidns.cc:80/4x6cXF/JDqRqj/100660.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND SP
+http://lidns.cc:80/4x6cXF/JDqRqj/89823.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND SP
+http://lidns.cc:80/4x6cXF/JDqRqj/89824.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND SP
+http://lidns.cc:80/4x6cXF/JDqRqj/89825.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND SP
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND TV MANAÍRA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND TV MANAÍRA
+http://lidns.cc:80/4x6cXF/JDqRqj/100904.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND TV TRIBUNA RECIFE " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND TV TRIBUNA RECIFE
+http://lidns.cc:80/4x6cXF/JDqRqj/101477.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND VALE " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND VALE
+http://lidns.cc:80/4x6cXF/JDqRqj/110232.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND [4K]" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/BAND.png" group-title="TV ABERTA",BAND [4K]
+http://lidns.cc:80/4x6cXF/JDqRqj/95649.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND AMAZONAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND AMAZONAS
+http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CAMPINAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND CAMPINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/89817.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CAMPINAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND CAMPINAS
+http://lidns.cc:80/4x6cXF/JDqRqj/89818.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CASCAVEL TV TAROBA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND CASCAVEL TV TAROBA
+http://lidns.cc:80/4x6cXF/JDqRqj/101478.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-name="BAND MACEIO " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",BAND MACEIO
+http://lidns.cc:80/4x6cXF/JDqRqj/116878.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
