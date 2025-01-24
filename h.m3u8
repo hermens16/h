@@ -136,9 +136,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/117323.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/117322.m3u8
 #EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA PORANGATU" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV ANHANGUERA PORANGATU - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/117321.m3u8
-#EXTINF:-1 tvg-id="TV Centro America.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
 http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
-#EXTINF:-1 tvg-id="TV Centro America CuiabÃ¡ HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
 http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
 #EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV MORENA - MS 
 http://lidns.cc:80/4x6cXF/JDqRqj/91462.m3u8
@@ -150,19 +150,19 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91455.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GAZETA SUL - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91459.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV GLOBO MINAS - MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91393.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao Uberaba.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/119725.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao Uberaba.br" tvg-name="TV INTEGRAÇÃO UBERABA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV INTEGRAÇÃO UBERABA - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERABA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO TV INTEGRAÇÃO UBERABA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/124835.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao AraxÃ¡.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91456.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="GLOBO INTER TV GRANDE MINAS MG " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV GRANDE MINAS - MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91409.m3u8
-#EXTINF:-1 tvg-id="TV IntegraÃ§ao AraxÃ¡.br" tvg-name="GLOBO TV INTEG. ARAXA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="GLOBO TV INTEG. ARAXA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91457.m3u8
 #EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",EPTV RIBEIRÃO PRETO - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
@@ -174,9 +174,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
 #EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="GLOBO TV RIO SUL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV RIO SUL - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/91466.m3u8
-#EXTINF:-1 tvg-id="InterTV Serra Mar HD.br" tvg-name="GLOBO TV SERRA MAR " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV SERRA MAR - RJ
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="GLOBO TV SERRA MAR " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV SERRA MAR - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/91467.m3u8
-#EXTINF:-1 tvg-id="Inter TV Alto Litoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV ALTO LITORAL - RJ
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="GLOBO INTER TV ALTO LITORAL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",INTERTV ALTO LITORAL - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/91404.m3u8
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="GLOBO TV DIARIO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",TV DÁRIO - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/91449.m3u8
@@ -218,7 +218,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90046.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91422.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV PELOTAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PELOTAS - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91428.m3u8
-#EXTINF:-1 tvg-id="RBS TV Santa Maria HD.br" tvg-name="GLOBO RBS TV SANTA MARIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV SANTA MARIA - RS
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV SANTA MARIA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV SANTA MARIA - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/97301.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="GLOBO RBS TV PASSO FUNDO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",RBS TV PASSO FUNDO - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91426.m3u8
