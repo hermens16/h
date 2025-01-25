@@ -98,30 +98,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91455.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA SUL - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GLOBO BRASÍLIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV GLOBO BRASÍLIA - DF
-http://lidns.cc:80/4x6cXF/JDqRqj/90019.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA GOIÂNIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA GOIÂNIA - GO 
-http://lidns.cc:80/4x6cXF/JDqRqj/90062.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA - GO 
-http://lidns.cc:80/4x6cXF/JDqRqj/91445.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA CATALÃO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117325.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA ITUMBIARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA ITUMBIARA - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117324.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA JATAÍ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA JATAÍ - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117323.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA LUZIÂNIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA LUZIÂNIA - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117322.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA PORANGATU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA PORANGATU - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117321.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
-http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
-http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
-#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV MORENA - MS 
-http://lidns.cc:80/4x6cXF/JDqRqj/91462.m3u8
-#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV MORENA - MS
-http://lidns.cc:80/4x6cXF/JDqRqj/91461.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
@@ -170,6 +146,30 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90036.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/95484.m3u8
 #EXTINF:-1 tvg-id="TV Sergipe HD.br" tvg-name="TV SERGIPE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV SERGIPE - SE 
 http://lidns.cc:80/4x6cXF/JDqRqj/95483.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GLOBO BRASÍLIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV GLOBO BRASÍLIA - DF
+http://lidns.cc:80/4x6cXF/JDqRqj/90019.m3u8
+#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA GOIÂNIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA GOIÂNIA - GO 
+http://lidns.cc:80/4x6cXF/JDqRqj/90062.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA - GO 
+http://lidns.cc:80/4x6cXF/JDqRqj/91445.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA CATALÃO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
+http://lidns.cc:80/4x6cXF/JDqRqj/117325.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA ITUMBIARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA ITUMBIARA - GO
+http://lidns.cc:80/4x6cXF/JDqRqj/117324.m3u8
+#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA JATAÍ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA JATAÍ - GO
+http://lidns.cc:80/4x6cXF/JDqRqj/117323.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA LUZIÂNIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA LUZIÂNIA - GO
+http://lidns.cc:80/4x6cXF/JDqRqj/117322.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA PORANGATU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA PORANGATU - GO
+http://lidns.cc:80/4x6cXF/JDqRqj/117321.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
+http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
+http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
+#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV MORENA - MS 
+http://lidns.cc:80/4x6cXF/JDqRqj/91462.m3u8
+#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV MORENA - MS
+http://lidns.cc:80/4x6cXF/JDqRqj/91461.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA RIO BRANCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA RIO BRANCO - AC 
 http://lidns.cc:80/4x6cXF/JDqRqj/90013.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA MACAPÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA MACAPÁ - AP  
