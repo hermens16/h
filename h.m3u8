@@ -128,8 +128,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91444.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV BAHIA - BA
 http://metv.fun:80/4x6cXF/JDqRqj/90064.m3u8
-#EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV SÃO FRANCISCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV SÃO FRANCISCO - BA 
-http://lidns.cc:80/4x6cXF/JDqRqj/117330.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV OESTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV OESTE - BA 
 http://lidns.cc:80/4x6cXF/JDqRqj/117329.m3u8
 #EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-name="TV SANTA CRUZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV SANTA CRUZ - BA
@@ -152,11 +150,13 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90032.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/97260.m3u8
 #EXTINF:-1 tvg-id="TV Cabo Branco HD.br" tvg-name="TV PARAÍBA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV PARAÍBA - PB
 http://lidns.cc:80/4x6cXF/JDqRqj/100903.m3u8
-#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="TV GLOBO PERNAMBUCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
+#EXTINF:-1 tvg-id="TV Grande Rio.br" tvg-name="TV SÃO FRANCISCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GRANDE RIO - PE 
+http://lidns.cc:80/4x6cXF/JDqRqj/117330.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="TV GLOBO NORDESTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO NORDESTE - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
-#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV GLOBO PERNAMBUCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
+#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV GLOBO NORDESTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO NORDESTE - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90043.m3u8
-#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV GLOBO PERNAMBUCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
+#EXTINF:-1 tvg-id="Globo Recife.br" tvg-name="TV GLOBO NORDESTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO NORDESTE - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90044.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CLUBE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV CLUBE - PI
 http://lidns.cc:80/4x6cXF/JDqRqj/95677.m3u8
