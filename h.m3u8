@@ -5,11 +5,11 @@
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png?20240903205857" group-title="TV ABERTA",GLOBO
 http://lidns.cc:80/4x6cXF/JDqRqj/95657.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD
-http://lidns.cc:80/4x6cXF/JDqRqj/95664.m3u8
+http://metv.fun:80/4x6cXF/JDqRqj/90266.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
 http://lidns.cc:80/4x6cXF/JDqRqj/95666.m3u8
 #EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
-http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8http://lidns.cc:80/4x6cXF/JDqRqj/95649.m3u8
+http://lidns.cc:80/4x6cXF/JDqRqj/95649.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
 #EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216" group-title="TV ABERTA",REDE TV
@@ -305,7 +305,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90261.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="RECORD RIO " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD RIO
 http://lidns.cc:80/4x6cXF/JDqRqj/90262.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="RECORD - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD - SP
-http://metv.fun:80/4x6cXF/JDqRqj/90266.m3u8
+http://lidns.cc:80/4x6cXF/JDqRqj/95664.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90265.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="RECORD SP " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
@@ -408,7 +408,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101477.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="BAND VALE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE
 http://lidns.cc:80/4x6cXF/JDqRqj/110232.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="BAND - SP" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/BAND.png" group-title="TV ABERTA",BAND - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/95649.m3u8
+http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="BAND AMAZONAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND AMAZONAS
 http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="BAND CAMPINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CAMPINAS
