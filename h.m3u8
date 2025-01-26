@@ -286,6 +286,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90265.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90264.m3u8
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ARATU - BA
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
+#EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-name="TV ARATU" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ARATU
+http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
 #EXTINF:-1 tvg-id="TV Cidade Verde HD.br" tvg-name="SBT PIAUI " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV CIDADE VERDE - PI
 http://lidns.cc:80/4x6cXF/JDqRqj/123213.m3u8
 #EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="REDE MASSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",REDE MASSA - PR
@@ -318,9 +320,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/116879.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/100542.m3u8
 #EXTINF:-1 tvg-id="SBT Rio HD.br" tvg-name="SBT RJ" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RIO - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/90290.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV ARATU " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ARATU
-http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV DIFUSORA CAXIAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV DIFUSORA CAXIAS
+#EXTINF:-1 tvg-id="TV Difusora Sao LuÃ­s.br" tvg-name="TV DIFUSORA SÃO LUÍS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV DIFUSORA SÃO LUÍS - MA
 http://lidns.cc:80/4x6cXF/JDqRqj/90301.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="SBT - SP" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/SBT.png" group-title="TV ABERTA",SBT - SP
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
