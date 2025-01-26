@@ -304,19 +304,19 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90294.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/97414.m3u8
 #EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ALTEROSA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/97413.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT VTV CAMPINAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT VTV CAMPINAS
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="VTV" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",VTV - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90305.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT VTV CAMPINAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT VTV CAMPINAS
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="VTV" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",VTV - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90304.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT BRASILIA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BRASILIA
+#EXTINF:-1 tvg-id="SBT BrasÃ­lia HD.br" tvg-name="SBT BRASÍLIA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BRASÍLIA - DF
 http://lidns.cc:80/4x6cXF/JDqRqj/90285.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT INTERIOR " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT INTERIOR
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT INTERIOR" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT INTERIOR - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90287.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT PONTA VERDE " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PONTA VERDE
+#EXTINF:-1 tvg-id="SBT TV Ponta Verde HD.br" tvg-name="TV PONTA VERDE" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV PONTA VERDE - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/116879.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT RBS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RBS
+#EXTINF:-1 tvg-id="NSBT RS HD.br" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/100542.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT RIO " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RIO
+#EXTINF:-1 tvg-id="SBT Rio HD.br" tvg-name="SBT RJ" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RIO - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/90290.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV ARATU " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ARATU
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
@@ -456,8 +456,6 @@ http://metv.fun:80/4x6cXF/JDqRqj/90108.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/118108.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ONDEMAND 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/800px-Star%2B_logo.svg.png" group-title="ESPORTES",ONDEMAND
 http://lidns.cc:80/4x6cXF/JDqRqj/95425.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ETK6HuQBHDR8vsfOYJ_A26LBKS33JHiFVQ&s" group-title="ESPORTES",TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CAZE TV 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="ESPORTES",CAZE TV 1 
 http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="ESPORTES",CAZE TV 2 
