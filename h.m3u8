@@ -322,29 +322,29 @@ http://lidns.cc:80/4x6cXF/JDqRqj/100542.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90290.m3u8
 #EXTINF:-1 tvg-id="TV Difusora Sao LuÃ­s.br" tvg-name="TV DIFUSORA SÃO LUÍS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV DIFUSORA SÃO LUÍS - MA
 http://lidns.cc:80/4x6cXF/JDqRqj/90301.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT - SP" tvg-logo="http://stolime.cc/lives/CANAIS%20ABERTOS/SBT.png" group-title="TV ABERTA",SBT - SP
+#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90295.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP 
 http://lidns.cc:80/4x6cXF/JDqRqj/90296.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP 
 http://lidns.cc:80/4x6cXF/JDqRqj/90297.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SP " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SP
+#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP 
 http://lidns.cc:80/4x6cXF/JDqRqj/90298.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SCC " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SCC
+#EXTINF:-1 tvg-id="SBT Florianopolis.br" tvg-name="SCC SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SCC SBT - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/90293.m3u8
-#EXTINF:-1 tvg-id="SBT RS.br" tvg-name="SBT RS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RS
+#EXTINF:-1 tvg-id="SBT RS HD.br" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/90291.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
 http://lidns.cc:80/4x6cXF/JDqRqj/91375.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND BAHIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND BAHIA
+#EXTINF:-1 tvg-id="Band Bahia HD.br" tvg-name="BAND BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND BAHIA - BA
 http://lidns.cc:80/4x6cXF/JDqRqj/110228.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND CEARA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CEARA
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CEARÁ - CE
 http://lidns.cc:80/4x6cXF/JDqRqj/101479.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND MG " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MG
+#EXTINF:-1 tvg-id="Minas HD.br" tvg-name="BAND MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MINAS - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/110234.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="BAND NATAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND NATAL
+#EXTINF:-1 tvg-id="Band Natal HD.br" tvg-name="BAND NATAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND NATAL - RN
 http://lidns.cc:80/4x6cXF/JDqRqj/101482.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="BAND POA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND POA
 http://lidns.cc:80/4x6cXF/JDqRqj/110230.m3u8
