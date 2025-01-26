@@ -284,29 +284,25 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90261.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90265.m3u8
 #EXTINF:-1 tvg-id="Record TV RS.br" tvg-name="RECORD RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/90264.m3u8
-#EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BA
+#EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ARATU - BA
 http://lidns.cc:80/4x6cXF/JDqRqj/90300.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT PIAUI " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PIAUI
+#EXTINF:-1 tvg-id="TV Cidade Verde HD.br" tvg-name="SBT PIAUI " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV CIDADE VERDE - PI
 http://lidns.cc:80/4x6cXF/JDqRqj/123213.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT REDE MASSA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT REDE MASSA
+#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="REDE MASSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",REDE MASSA - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/90289.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SAO LUIZ MA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SAO LUIZ MA
+#EXTINF:-1 tvg-id="TV Difusora Sao LuÃ­s.br" tvg-name="TV DIFUSORA SÃO LUÍS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV DIFUSORA SÃO LUÍS - MA
 http://lidns.cc:80/4x6cXF/JDqRqj/90292.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV JORNAL RECIFE " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV JORNAL RECIFE
+#EXTINF:-1 tvg-id="TV Jornal HD.br" tvg-name="TV JORNAL" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV JORNAL - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/90302.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT  TV JANGADEIRO " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT  TV JANGADEIRO
+#EXTINF:-1 tvg-id="TV Jangadeiro HD.br" tvg-name="TV JANGADEIRO" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV JANGADEIRO - CE
 http://lidns.cc:80/4x6cXF/JDqRqj/95493.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT ITAPOAN " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT ITAPOAN
-http://lidns.cc:80/4x6cXF/JDqRqj/100539.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT ITAPOAN " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT ITAPOAN
-http://lidns.cc:80/4x6cXF/JDqRqj/100538.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT PARA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PARA
+#EXTINF:-1 tvg-id="SBT ParÃ¡.br" tvg-name="SBT PARÁ" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT PARÁ - PA
 http://lidns.cc:80/4x6cXF/JDqRqj/90288.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT SERRA DOURADA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT SERRA DOURADA
+#EXTINF:-1 tvg-id="SBT Goiania TV Serra Dourada.br" tvg-name="SBT SERRA DOURADA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV SERRA DOURADA - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/90294.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV ALTEROSA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ALTEROSA
+#EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ALTEROSA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/97414.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-name="SBT TV ALTEROSA " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT TV ALTEROSA
+#EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ALTEROSA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/97413.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-name="SBT VTV CAMPINAS " tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT VTV CAMPINAS
 http://lidns.cc:80/4x6cXF/JDqRqj/90305.m3u8
