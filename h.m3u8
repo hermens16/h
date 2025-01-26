@@ -456,6 +456,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/90108.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/118108.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ONDEMAND 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/800px-Star%2B_logo.svg.png" group-title="ESPORTES",ONDEMAND
 http://lidns.cc:80/4x6cXF/JDqRqj/95425.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="HBO MAX STAR+ 04 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ETK6HuQBHDR8vsfOYJ_A26LBKS33JHiFVQ&s" group-title="ESPORTES",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CAZE TV 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="ESPORTES",CAZE TV 1 
 http://metv.fun:80/4x6cXF/JDqRqj/120560.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="CAZE TV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png?20240804064650" group-title="ESPORTES",CAZE TV 2 
