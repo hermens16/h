@@ -10,7 +10,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90266.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/95666.m3u8
 #EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
 http://lidns.cc:80/4x6cXF/JDqRqj/95649.m3u8
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/120px-TV_Brasil_logo_2023.svg.png" group-title="TV ABERTA",TV BRASIL
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/90409.m3u8
 #EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216" group-title="TV ABERTA",REDE TV
 http://metv.fun:80/4x6cXF/JDqRqj/95470.m3u8
@@ -24,7 +24,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/90173.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90084.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
 http://metv.fun:80/4x6cXF/JDqRqj/89840.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Canal_Futura_%282022%29.svg/revision/latest?cb=20230430160401" group-title="TV ABERTA",FUTURA
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhc_obXCcC7k8lsuhBDpYC2En-q9O4hXeTQ&s" group-title="TV ABERTA",FUTURA
 http://metv.fun:80/4x6cXF/JDqRqj/89846.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logowik.com/content/uploads/images/tv-gazeta1306.logowik.com.webp" group-title="TV ABERTA",GAZETA
 http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
