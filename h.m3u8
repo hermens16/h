@@ -80,24 +80,16 @@ http://lidns.cc:80/4x6cXF/JDqRqj/124835.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91456.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV GRANDE MINAS - MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91409.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO ARAXA " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/91457.m3u8
 #EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="EPTV RIBEIRÃO PRETO " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV RIBEIRÃO PRETO - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
-#EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="EPTV SUL DE MINAS " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV SUL DE MINAS - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/91402.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV DOS VALES " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV DOS VALES - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV GRANDE MINAS - MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
-http://lidns.cc:80/4x6cXF/JDqRqj/91455.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA SUL - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
-http://lidns.cc:80/4x6cXF/JDqRqj/91443.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91444.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV BAHIA - BA
@@ -226,16 +218,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91413.m3u8
 #EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANÓPOLIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/90031.m3u8
-#EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="NSC TV BLUMENAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV BLUMENAU - SC 
-http://lidns.cc:80/4x6cXF/JDqRqj/91412.m3u8
-#EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="NSC TV CHAPECO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
-http://lidns.cc:80/4x6cXF/JDqRqj/91414.m3u8
 #EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV CRICIUMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV CRICIÚMA - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91415.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV BLUMENAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV BLUMENAU - SC
+#EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="NSC TV BLUMENAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV BLUMENAU - SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/95461.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANOPOLIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
-http://lidns.cc:80/4x6cXF/JDqRqj/91420.m3u8
 #EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANOPOLIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91419.m3u8
 #EXTINF:-1 tvg-id="NSC TV Joinville HD.br" tvg-name="NSC JOINVILLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV JOINVILLE - SC
