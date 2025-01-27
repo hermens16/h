@@ -304,12 +304,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90288.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90294.m3u8
 #EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ALTEROSA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/97414.m3u8
-#EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ALTEROSA - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/97413.m3u8
 #EXTINF:-1 tvg-id="SBT HD.br" tvg-name="VTV" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",VTV - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90305.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="VTV" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",VTV - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/90304.m3u8
 #EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT BRASÍLIA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BRASÍLIA - DF
 http://lidns.cc:80/4x6cXF/JDqRqj/90285.m3u8
 #EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT INTERIOR" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT INTERIOR - SP
@@ -324,14 +320,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90290.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90301.m3u8
 #EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP
 http://metv.fun:80/4x6cXF/JDqRqj/90296.m3u8
-#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/90295.m3u8
-#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/90296.m3u8
-#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/90297.m3u8
-#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/90298.m3u8
 #EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SCC SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SCC SBT - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/90293.m3u8
 #EXTINF:-1 tvg-id="SBT RS HD.br" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - RS
@@ -364,14 +352,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/100904.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/101477.m3u8
 #EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/110232.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - SP
-http://metv.fun:80/4x6cXF/JDqRqj/89824.m3u8
 #EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BAND AMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND AMAZONAS - AM
 http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MAIS - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/89817.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MAIS - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/89818.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="TV TAROBÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TAROBÁ - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/101478.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RN
