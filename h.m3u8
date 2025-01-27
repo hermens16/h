@@ -300,40 +300,40 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90293.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90291.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
 http://lidns.cc:80/4x6cXF/JDqRqj/91375.m3u8
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/89823.m3u8
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MAIS - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/89817.m3u8
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND PAULISTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PAULISTA - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/110231.m3u8
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/110232.m3u8
+#EXTINF:-1 tvg-id="Band RJ HD.br" tvg-name="BAND RIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND RIO - RJ
+http://lidns.cc:80/4x6cXF/JDqRqj/101480.m3u8
+#EXTINF:-1 tvg-id="Band Minas.br" tvg-name="BAND MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MINAS - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/110234.m3u8
 #EXTINF:-1 tvg-id="Band Bahia HD.br" tvg-name="BAND BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND BAHIA - BA
 http://lidns.cc:80/4x6cXF/JDqRqj/110228.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CEARÁ - CE
 http://lidns.cc:80/4x6cXF/JDqRqj/101479.m3u8
-#EXTINF:-1 tvg-id="Band Minas.br" tvg-name="BAND MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MINAS - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/110234.m3u8
-#EXTINF:-1 tvg-id="Band Natal HD.br" tvg-name="BAND NATAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND NATAL - RN
-http://lidns.cc:80/4x6cXF/JDqRqj/101482.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND POA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND POA
-http://lidns.cc:80/4x6cXF/JDqRqj/110230.m3u8
-#EXTINF:-1 tvg-id="Band Curitiba HD.br" tvg-name="BAND PARANÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PARANÁ - PR
-http://lidns.cc:80/4x6cXF/JDqRqj/110229.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND PAULISTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PAULISTA - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/110231.m3u8
-#EXTINF:-1 tvg-id="Band RJ HD.br" tvg-name="BAND RIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND RIO - RJ
-http://lidns.cc:80/4x6cXF/JDqRqj/101480.m3u8
-#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="BAND RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RS
-http://lidns.cc:80/4x6cXF/JDqRqj/100660.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/89823.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND TV MANAÍRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND TV MANAÍRA
-http://lidns.cc:80/4x6cXF/JDqRqj/100904.m3u8
 #EXTINF:-1 tvg-id="TV Tribuna HD.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TRIBUNA - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/101477.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/110232.m3u8
-#EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BAND AMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND AMAZONAS - AM
-http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MAIS - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/89817.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="TV TAROBÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TAROBÁ - PR
-http://lidns.cc:80/4x6cXF/JDqRqj/101478.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RN
 http://lidns.cc:80/4x6cXF/JDqRqj/116878.m3u8
+#EXTINF:-1 tvg-id="Band Natal HD.br" tvg-name="BAND NATAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND NATAL - RN
+http://lidns.cc:80/4x6cXF/JDqRqj/101482.m3u8
+#EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BAND AMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND AMAZONAS - AM
+http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
+#EXTINF:-1 tvg-id="Band Curitiba HD.br" tvg-name="BAND PARANÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PARANÁ - PR
+http://lidns.cc:80/4x6cXF/JDqRqj/110229.m3u8
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="TV TAROBÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TAROBÁ - PR
+http://lidns.cc:80/4x6cXF/JDqRqj/101478.m3u8
+#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="BAND RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RS
+http://lidns.cc:80/4x6cXF/JDqRqj/100660.m3u8
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND POA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND POA
+http://lidns.cc:80/4x6cXF/JDqRqj/110230.m3u8
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND TV MANAÍRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND TV MANAÍRA
+http://lidns.cc:80/4x6cXF/JDqRqj/100904.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
