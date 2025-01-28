@@ -36,60 +36,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w526054796.m3u8
 #EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TV ABERTA",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="TV GLOBO - SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - SP
-http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV DÁRIO - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/91449.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV FRONTEIRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV FRONTEIRA PAULISTA - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/97392.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM BAURU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM BAURU - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/91469.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SOROCABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SOROCABA - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/91471.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM ITAPETININGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM ITAPETININGA - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/120080.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SJRP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SJRP - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/90068.m3u8
-#EXTINF:-1 tvg-id="Globo TV Tribuna.br" tvg-name="TV TRIBUNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TRIBUNA - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/91473.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANGUARDA SJDC " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA SJC - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/90071.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANG. TAUBATE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA TAUBATÉ - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/91477.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="EPTV CAMPINAS " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV CAMPINAS - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/91397.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="EPTV SÃO CARLOS " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV CENTRAL - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/90029.m3u8
-#EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-name="TV GLOBO - RJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - RJ
-http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV RIO SUL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV RIO SUL - RJ
-http://lidns.cc:80/4x6cXF/JDqRqj/91466.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV SERRA MAR " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV SERRA MAR - RJ
-http://lidns.cc:80/4x6cXF/JDqRqj/91467.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="INTERTV ALTO LITORAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV ALTO LITORAL - RJ
-http://lidns.cc:80/4x6cXF/JDqRqj/91404.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO MINAS - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/90034.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/91459.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/119725.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",GLOBO TV INTEGRAÇÃO UBERABA - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/124835.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/91456.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV GRANDE MINAS - MG 
-http://lidns.cc:80/4x6cXF/JDqRqj/91409.m3u8
-#EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="EPTV RIBEIRÃO PRETO " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV RIBEIRÃO PRETO - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV DOS VALES " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV DOS VALES - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV GRANDE MINAS - MG 
-http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
-http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA SUL - ES
-http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GAZETA DE ALAGOAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GAZETA DE ALAGOAS - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/91444.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV BAHIA - BA
@@ -182,6 +128,60 @@ http://lidns.cc:80/4x6cXF/JDqRqj/120077.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/120078.m3u8
 #EXTINF:-1 tvg-id="TV Anhanguera Palmas HD.br" tvg-name="TV ANHANGUERA PALMAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV ANHANGUERA PALMAS - TO
 http://lidns.cc:80/4x6cXF/JDqRqj/120079.m3u8
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="TV GLOBO - SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - SP
+http://metv.fun:80/4x6cXF/JDqRqj/90059.m3u8
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV DÁRIO - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/91449.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV FRONTEIRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV FRONTEIRA PAULISTA - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/97392.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM BAURU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM BAURU - SP 
+http://lidns.cc:80/4x6cXF/JDqRqj/91469.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SOROCABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SOROCABA - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/91471.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM ITAPETININGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM ITAPETININGA - SP 
+http://lidns.cc:80/4x6cXF/JDqRqj/120080.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SJRP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SJRP - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90068.m3u8
+#EXTINF:-1 tvg-id="Globo TV Tribuna.br" tvg-name="TV TRIBUNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TRIBUNA - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/91473.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANGUARDA SJDC " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA SJC - SP 
+http://lidns.cc:80/4x6cXF/JDqRqj/90071.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANG. TAUBATE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA TAUBATÉ - SP 
+http://lidns.cc:80/4x6cXF/JDqRqj/91477.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="EPTV CAMPINAS " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV CAMPINAS - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/91397.m3u8
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="EPTV SÃO CARLOS " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV CENTRAL - SP
+http://lidns.cc:80/4x6cXF/JDqRqj/90029.m3u8
+#EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-name="TV GLOBO - RJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - RJ
+http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV RIO SUL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV RIO SUL - RJ
+http://lidns.cc:80/4x6cXF/JDqRqj/91466.m3u8
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV SERRA MAR " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV SERRA MAR - RJ
+http://lidns.cc:80/4x6cXF/JDqRqj/91467.m3u8
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="INTERTV ALTO LITORAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV ALTO LITORAL - RJ
+http://lidns.cc:80/4x6cXF/JDqRqj/91404.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO MINAS - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/90034.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/91459.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/119725.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",GLOBO TV INTEGRAÇÃO UBERABA - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/124835.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/91456.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV GRANDE MINAS - MG 
+http://lidns.cc:80/4x6cXF/JDqRqj/91409.m3u8
+#EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="EPTV RIBEIRÃO PRETO " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV RIBEIRÃO PRETO - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV DOS VALES " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV DOS VALES - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV GRANDE MINAS - MG 
+http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
+http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA SUL - ES
+http://lidns.cc:80/4x6cXF/JDqRqj/91452.m3u8
 #EXTINF:-1 tvg-id="RPC Ponta Grossa HD.br" tvg-name="RPC TV PONTA GROSSA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC TV PONTA GROSSA - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91442.m3u8
 #EXTINF:-1 tvg-id="RPC Curitiba HD.br"  tvg-name="RPC FOZ DO IGUAÇU"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC FOZ DO IGUAÇU - PR
