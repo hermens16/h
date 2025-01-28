@@ -316,6 +316,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/110234.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/110228.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CEARÁ - CE
 http://lidns.cc:80/4x6cXF/JDqRqj/101479.m3u8
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",RBA TV - PA
+http://lidns.cc:80/4x6cXF/JDqRqj/100904.m3u8
 #EXTINF:-1 tvg-id="TV Tribuna HD.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TRIBUNA - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/101477.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RN
@@ -332,8 +334,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/101478.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/100660.m3u8
 #EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND POA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND POA
 http://lidns.cc:80/4x6cXF/JDqRqj/110230.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND TV MANAÍRA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND TV MANAÍRA
-http://lidns.cc:80/4x6cXF/JDqRqj/100904.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://metv.fun:80/4x6cXF/JDqRqj/89962.m3u8
