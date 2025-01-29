@@ -1325,6 +1325,8 @@ https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunkl
 https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w293543699.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="VARIEDADES",AGROBRASIL TV
 https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8?session=ZPNPTteaWaJgxTLW6xChdN
+#EXTINF:-1 tvg-id="Amazon Sat HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/Amazon_sat_logo_2022.svg/1200px-Amazon_sat_logo_2022.svg.png" group-title="VARIEDADES",AMAZON SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="VARIEDADES",ASTRAL TV  
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
