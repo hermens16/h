@@ -238,7 +238,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/117320.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/123216.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PARANAÍBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV PARANAÍBA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/124836.m3u8
-#EXTINF:-1 tvg-id="TV Correio HD.br" tvg-name="RECORD TV CORREIO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BELÉM - PA
+#EXTINF:-1 tvg-id="Record TV Belem.br" tvg-name="RECORD BELÉM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BELÉM - PA
 http://lidns.cc:80/4x6cXF/JDqRqj/100400.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV GUARARAPES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV GUARARAPES - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/100401.m3u8
