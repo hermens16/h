@@ -233,7 +233,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/100543.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD GOIÁS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD GOIÁS - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/90253.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD CAMPINAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV THATHI CAMPINAS - SP
-http://lidns.cc:80/4x6cXF/JDqRqj/117320.m3u8
+http://lidns.cc:80/4x6cXF/JDqRqj/90252.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD LITORAL E VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD LITORAL E VALE - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/123216.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PARANAÍBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV PARANAÍBA - MG
@@ -245,7 +245,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/100401.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PAJUÇARA " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV PAJUÇARA - AL
 http://lidns.cc:80/4x6cXF/JDqRqj/116880.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV TROPICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV TROPICAL - RN
-http://lidns.cc:80/4x6cXF/JDqRqj/90252.m3u8
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w675410568.m3u8
 #EXTINF:-1 tvg-id="Record TV Minas HD.br" tvg-name="RECORD MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD MINAS - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/90257.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="NDTV JOINVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",NDTV JOINVILLE - SC
