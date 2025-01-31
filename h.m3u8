@@ -169,15 +169,11 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 #EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC PARANAVAI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC PARANAVAI - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91440.m3u8
 #EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC CURITIBA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC CURITIBA - PR
-http://lidns.cc:80/4x6cXF/JDqRqj/90023.m3u8
-#EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC CURITIBA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC CURITIBA - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91434.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV CAXIAS DO SUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS TV CAXIAS DO SUL - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91424.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/90046.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS 
-http://lidns.cc:80/4x6cXF/JDqRqj/91422.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PELOTAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS TV PELOTAS - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/91428.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV SANTA MARIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS TV SANTA MARIA - RS
@@ -188,8 +184,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91426.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/120084.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS CRUZ ALTA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS CRUZ ALTA - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/123214.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS PORTO ALEGRE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS PORTO ALEGRE - RS
-http://lidns.cc:80/4x6cXF/JDqRqj/91421.m3u8
 #EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="NSC TV CHAPECÓ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/91413.m3u8
 #EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANÓPOLIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
