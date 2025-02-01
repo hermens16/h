@@ -1358,7 +1358,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="VARIEDADES",BEM MELHOR
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="Brasil: variedades",BLITS TV
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="VARIEDADES",BLITS TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
