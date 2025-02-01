@@ -695,7 +695,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES",O HOMEM QUE VEIO DO CÉU 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção",ROOKIE BLUE
+#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="SÉRIES",ROOKIE BLUE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER CLASSICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/MMPR_Logo.png/revision/latest?cb=20140301211300" group-title="SÉRIES",POWER RANGERS CLASSICO
 http://lidns.cc:80/4x6cXF/JDqRqj/91051.m3u8
@@ -853,7 +853,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="656e2a10954b020008ed167c" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",CAÇADORES DE OVNIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",CURIOSIDADE
+#EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",CURIOSIDADE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="638df93ae2f2a3000737c168" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",DETETIVES MÉDICOS 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -907,7 +907,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90701.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90771.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MELHORES VIDEOS DO MUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcxDt30Cb1NyaHl2i6tsuhv-KsCLEWzWv4Q&s" group-title="DOCUMENTÁRIOS",OS MELHORES VIDEOS DO MUNDO
 http://lidns.cc:80/4x6cXF/JDqRqj/90873.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="Brasil: lifestyle e realities",OPORTUNIDADES TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="DOCUMENTÁRIOS",OPORTUNIDADES TV
 http://maistop.net:80/live/meutedio/meutedio/1.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REFUGIO MENTAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muStnjzczAA6nbeG53qU14QK00Bl6z8HPCBkNOSv46JhQ=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTÁRIOS",REFUGIO MENTAL
 http://lidns.cc:80/4x6cXF/JDqRqj/91066.m3u8
