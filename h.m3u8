@@ -32,6 +32,10 @@ http://metv.fun:80/4x6cXF/JDqRqj/90010.m3u8
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV 
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV ABERTA",NGT
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rede Minas HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="TV ABERTA",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD.br" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w526054796.m3u8
 #EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TV ABERTA",COM BRASIL
@@ -1154,6 +1158,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91213.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS " tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89831.m3u8
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="MÚSICA",BLITS TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="CANAL WOOHOO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="MÚSICA",CANAL WOOHOO 
 http://metv.fun:80/4x6cXF/JDqRqj/89858.m3u8
 #EXTINF:-1 tvg-id="MTV Brasil.br" tvg-name="MTV '00 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MÚSICA",MTV '00 
@@ -1358,8 +1364,6 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="VARIEDADES",BEM MELHOR
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="VARIEDADES",BLITS TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES",BRAZITV
@@ -1406,14 +1410,10 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="VARIEDADES",U MISS TV 
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="VARIEDADES",NGT
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV 
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede Minas HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="VARIEDADES",REDE MINAS
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="VARIEDADES",REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="VARIEDADES",REDE SPTV
