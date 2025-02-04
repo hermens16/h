@@ -62,7 +62,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/97260.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/117330.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="TV GLOBO PERNAMBUCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CLUBE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV CLUBE - PI
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="GLOBO TV CLUBE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",GLOBO TV CLUBE - PI
 http://lidns.cc:80/4x6cXF/JDqRqj/95677.m3u8
 #EXTINF:-1 tvg-id="InterTV Cabugi HD.br" tvg-name="INTERTV CABUGI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",INTERTV CABUGI - RN
 http://lidns.cc:80/4x6cXF/JDqRqj/91405.m3u8
@@ -74,18 +74,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90019.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90062.m3u8
 #EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA CATALÃO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
 http://lidns.cc:80/4x6cXF/JDqRqj/117325.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA ITUMBIARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA ITUMBIARA - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117324.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA JATAÍ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA JATAÍ - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117323.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA LUZIÂNIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA LUZIÂNIA - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117322.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA PORANGATU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA PORANGATU - GO
-http://lidns.cc:80/4x6cXF/JDqRqj/117321.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
 http://lidns.cc:80/4x6cXF/JDqRqj/91396.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
-http://lidns.cc:80/4x6cXF/JDqRqj/95441.m3u8
 #EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV MORENA - MS
 http://lidns.cc:80/4x6cXF/JDqRqj/91461.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA RIO BRANCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA RIO BRANCO - AC 
@@ -94,22 +84,14 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90013.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90015.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PARINTINS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PARINTINS - AM 
 http://lidns.cc:80/4x6cXF/JDqRqj/117332.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA ITACOATIARA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA ITACOATIARA - AM
-http://lidns.cc:80/4x6cXF/JDqRqj/117331.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZONICA MANAUS - AM
 http://lidns.cc:80/4x6cXF/JDqRqj/90048.m3u8
-#EXTINF:-1 tvg-id="TV Liberal.br" tvg-name="TV LIBERAL ALTAMIRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV LIBERAL ALTAMIRA - PA
-http://lidns.cc:80/4x6cXF/JDqRqj/120081.m3u8
 #EXTINF:-1 tvg-id="TV Liberal.br" tvg-name="TV LIBERAL BELÉM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV LIBERAL BELÉM - PA 
 http://lidns.cc:80/4x6cXF/JDqRqj/90017.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="AMAZONICA ARIQUEMES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA ARIQUEMES - RO
 http://lidns.cc:80/4x6cXF/JDqRqj/120082.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PORTO VELHO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PORTO VELHO - RO
 http://lidns.cc:80/4x6cXF/JDqRqj/90052.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera Palmas.br" tvg-name="TV ANHANGUERA ARAGUAÍNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV ANHANGUERA ARAGUAÍNA - TO
-http://lidns.cc:80/4x6cXF/JDqRqj/120077.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera Palmas HD.br" tvg-name="TV ANHANGUERA GURUPI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV ANHANGUERA GURUPI - TO 
-http://lidns.cc:80/4x6cXF/JDqRqj/120078.m3u8
 #EXTINF:-1 tvg-id="TV Anhanguera Palmas HD.br" tvg-name="TV ANHANGUERA PALMAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV ANHANGUERA PALMAS - TO
 http://lidns.cc:80/4x6cXF/JDqRqj/120079.m3u8
 #EXTINF:-1 tvg-id="Globo SP.br" tvg-name="TV GLOBO - SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - SP
@@ -122,14 +104,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/97392.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91469.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SOROCABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SOROCABA - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/91471.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM ITAPETININGA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM ITAPETININGA - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/120080.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SJRP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SJRP - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/90068.m3u8
 #EXTINF:-1 tvg-id="Globo TV Tribuna.br" tvg-name="TV TRIBUNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TRIBUNA - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/91473.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANGUARDA SJDC " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA SJC - SP 
-http://lidns.cc:80/4x6cXF/JDqRqj/90071.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANG. TAUBATE " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA TAUBATÉ - SP 
 http://lidns.cc:80/4x6cXF/JDqRqj/91477.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="EPTV CAMPINAS " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",EPTV CAMPINAS - SP
@@ -140,8 +118,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90029.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91431.m3u8
 #EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV RIO SUL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV RIO SUL - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/91466.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV SERRA MAR " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV SERRA MAR - RJ
-http://lidns.cc:80/4x6cXF/JDqRqj/91467.m3u8
 #EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="INTERTV ALTO LITORAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTERTV ALTO LITORAL - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/91404.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO MINAS - MG
