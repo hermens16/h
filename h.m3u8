@@ -631,7 +631,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90556.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90563.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAPOLIN" tvg-logo="https://e7.pngegg.com/pngimages/725/464/png-clipart-logo-document-text-chapolin-angle-text-thumbnail.png" group-title="SÉRIES",CHAPOLIN COLORADO 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90564.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/120px-Chaves_logo.svg.png" group-title="SÉRIES",24H-CHAVES
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/120px-Chaves_logo.svg.png" group-title="SÉRIES",CHAVES
 http://lidns.cc:80/4x6cXF/JDqRqj/90566.m3u8
 #EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="SÉRIES",CSI MIAMI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
