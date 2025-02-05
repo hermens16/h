@@ -369,13 +369,13 @@ http://metv.fun:80/4x6cXF/JDqRqj/97048.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/97050.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="PRIME VIDEO 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="ESPORTES",PRIME VIDEO 4 
 http://metv.fun:80/4x6cXF/JDqRqj/97052.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 1 
+#EXTINF:-1 tvg-id="Conmebol TV 1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 1 
 http://metv.fun:80/4x6cXF/JDqRqj/89885.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 2 
+#EXTINF:-1 tvg-id="Conmebol TV 2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 2 
 http://metv.fun:80/4x6cXF/JDqRqj/89888.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 3 
+#EXTINF:-1 tvg-id="Conmebol TV 3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 3 
 http://metv.fun:80/4x6cXF/JDqRqj/89891.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL PARAMOUNT+ 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 4 
+#EXTINF:-1 tvg-id="Conmebol TV 4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png?20181206113831" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 4 
 http://metv.fun:80/4x6cXF/JDqRqj/89894.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="NOSSO FUTEBOL 1 " tvg-logo="http://stolime.cc/lives/ESPORTES/NOSSO%20FUTEBOL.png" group-title="ESPORTES",NOSSO FUTEBOL 1 
 http://lidns.cc:80/4x6cXF/JDqRqj/101247.m3u8
@@ -795,7 +795,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/89929.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89933.m3u8
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD 
 http://metv.fun:80/4x6cXF/JDqRqj/89937.m3u8
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYCMNTtG5Km5vgG7uNQWL0cdWphqyZUttLw&s" group-title="DOCUMENTÁRIOS",HGTV 
+#EXTINF:-1 tvg-id="HGTV HD.br" tvg-name="HGTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYCMNTtG5Km5vgG7uNQWL0cdWphqyZUttLw&s" group-title="DOCUMENTÁRIOS",HGTV 
 http://metv.fun:80/4x6cXF/JDqRqj/90127.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL HD.br" tvg-name="HISTORY CHANNEL " tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL 
 http://metv.fun:80/4x6cXF/JDqRqj/90131.m3u8
