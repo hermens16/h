@@ -172,8 +172,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90031.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91415.m3u8
 #EXTINF:-1 tvg-id="NSC TV Blumenau HD.br" tvg-name="NSC TV BLUMENAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV BLUMENAU - SC 
 http://lidns.cc:80/4x6cXF/JDqRqj/95461.m3u8
-#EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANOPOLIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
-http://lidns.cc:80/4x6cXF/JDqRqj/91419.m3u8
 #EXTINF:-1 tvg-id="NSC TV Joinville HD.br" tvg-name="NSC JOINVILLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV JOINVILLE - SC
 http://lidns.cc:80/4x6cXF/JDqRqj/91418.m3u8
 #EXTINF:-1 tvg-id="SIC TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SIC TV - RO
@@ -1324,11 +1322,11 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES
 https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunklist_w1746633627_b1000000_slen.m3u8
-#EXTINF:-1 tvg-id="ABCBrasil.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL
 https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w293543699.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://www.andreiagrezzana.com.br/public/69934-2024-01-05.png" group-title="VARIEDADES",AG TV 
+#EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://www.andreiagrezzana.com.br/public/69934-2024-01-05.png" group-title="VARIEDADES",AG TV 
 https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="VARIEDADES",AWTV
+#EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="VARIEDADES",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="VARIEDADES",AGROBRASIL TV
 https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8?session=ZPNPTteaWaJgxTLW6xChdN
@@ -1336,9 +1334,9 @@ https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_outp
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="VARIEDADES",ASTRAL TV  
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="VARIEDADES",BEM MELHOR
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="VARIEDADES",BEM MELHOR
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES",BRAZITV
 https://cbtvnow.com:5866/hls/livest2024.m3u8
@@ -1488,27 +1486,27 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="INTERNACIONAIS",V+ TVI
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 ################### RÁDIOS #######################
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="RÁDIOS",93 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="RÁDIOS",93 FM | JEQUIÉ - BA
 http://stm3.streaminghd.net.br:7056/stream?1705507034790
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="RÁDIOS",95 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="RÁDIOS",95 FM | JEQUIÉ - BA
 https://stream01.ouveai.com.br:1040/stream?1705515578252
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="RÁDIOS",POVO 96,3 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="RÁDIOS",POVO 96,3 FM | JEQUIÉ - BA
 http://s02.transmissaodigital.com:7320/stream?1705515824537
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="RÁDIOS",CIDADE 104.9 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="RÁDIOS",CIDADE 104.9 FM | JEQUIÉ - BA
 http://stm19.oficinadoradio.com.br:8532/stream?1705516706077
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="RÁDIOS",UESB 106.1 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="RÁDIOS",UESB 106.1 FM | JEQUIÉ - BA
 http://200.128.67.125:8001/stream?1705516960157
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="RÁDIOS",APARECIDA 104.3 FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="RÁDIOS",APARECIDA 104.3 FM | SP
 https://aparecida.jmvstream.com/stream?1705520098895
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RÁDIOS",CANÇÃO NOVA 89.1 FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RÁDIOS",CANÇÃO NOVA 89.1 FM | SP
 https://cloud1.cdnseguro.com:20038/stream?1705519584684
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
 https://cast.radiu.live:9300/stream?1705523628515
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIOS",BAND FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIOS",BAND FM | SP
 https://19803.live.streamtheworld.com/BANDFM_SPAAC.aac?dist=radios.com.br&1735919808989
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | SP
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1735919872327
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
