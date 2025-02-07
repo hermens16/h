@@ -84,14 +84,12 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90013.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90015.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PARINTINS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PARINTINS - AM 
 http://lidns.cc:80/4x6cXF/JDqRqj/117332.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA MANAUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZONICA MANAUS - AM
-http://lidns.cc:80/4x6cXF/JDqRqj/90048.m3u8
-#EXTINF:-1 tvg-id="TV Liberal.br" tvg-name="TV LIBERAL BELÉM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV LIBERAL BELÉM - PA 
-http://lidns.cc:80/4x6cXF/JDqRqj/90017.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="AMAZONICA ARIQUEMES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA ARIQUEMES - RO
 http://lidns.cc:80/4x6cXF/JDqRqj/120082.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PORTO VELHO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PORTO VELHO - RO
 http://lidns.cc:80/4x6cXF/JDqRqj/90052.m3u8
+#EXTINF:-1 tvg-id="TV Liberal.br" tvg-name="TV LIBERAL BELÉM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV LIBERAL BELÉM - PA 
+http://lidns.cc:80/4x6cXF/JDqRqj/90017.m3u8
 #EXTINF:-1 tvg-id="TV Anhanguera Palmas HD.br" tvg-name="TV ANHANGUERA PALMAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV ANHANGUERA PALMAS - TO
 http://lidns.cc:80/4x6cXF/JDqRqj/120079.m3u8
 #EXTINF:-1 tvg-id="Globo SP.br" tvg-name="TV GLOBO - SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - SP
@@ -128,14 +126,12 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90027.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91459.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/119725.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO UBERABA - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/124835.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/91456.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV GRANDE MINAS - MG 
 http://lidns.cc:80/4x6cXF/JDqRqj/91409.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV GRANDE MINAS MG " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV GRANDE MINAS - MG 
-http://lidns.cc:80/4x6cXF/JDqRqj/91410.m3u8
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV DOS VALES " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV DOS VALES - MG
+http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA VITÓRIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA VITÓRIA - ES
 http://lidns.cc:80/4x6cXF/JDqRqj/90073.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta Sul.br" tvg-name="TV GAZETA SUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GAZETA SUL - ES
@@ -148,8 +144,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91435.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91440.m3u8
 #EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC CURITIBA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RPC CURITIBA - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/91434.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV DOS VALES " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",INTER TV DOS VALES - MG
-http://lidns.cc:80/4x6cXF/JDqRqj/91408.m3u8
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/90046.m3u8
 #EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="NSC TV CHAPECÓ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TVGlobo2021_purple.png/revision/latest?cb=20220506203750cb=20241210012706" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
