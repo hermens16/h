@@ -550,10 +550,16 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DC COMICS-CRONOLOGIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/DC_Comics_logo.png" group-title="FILMES",DC COMICS ORDEM CRONOLÓGICA
-http://lidns.cc:80/4x6cXF/JDqRqj/90599.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DC COMICS-PENTALOGIA BATMAN" tvg-logo="https://w7.pngwing.com/pngs/139/642/png-transparent-batman-logo-graphics-drawing-batman-gotham-skyline-comics-superhero-logo.png" group-title="FILMES",BATMAN
 http://lidns.cc:80/4x6cXF/JDqRqj/90608.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DC COMICS-CRONOLOGIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/DC_Comics_logo.png" group-title="FILMES",LIGA DA JUSTIÇA 
+http://lidns.cc:80/4x6cXF/JDqRqj/90599.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="VINGADORES" tvg-logo="https://w7.pngwing.com/pngs/280/187/png-transparent-hulk-iron-man-spider-man-carol-danvers-captain-america-hulk-marvel-avengers-assemble-avengers-text.png" group-title="FILMES",VINGADORES
+http://lidns.cc:80/4x6cXF/JDqRqj/90863.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MARVEL -ORDEM CRONOLÓGICA 01" tvg-logo="https://e7.pngegg.com/pngimages/704/824/png-clipart-marvel-studios-logo-walt-disney-studios-marvel-studios-marvel-cinematic-universe-logo-film-studio-marvel-miscellaneous-fictional-characters.png" group-title="FILMES",MARVEL ORDEM CRONOLÓGICA
+http://lidns.cc:80/4x6cXF/JDqRqj/90822.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-ORDEM CRONOLÓGICA " tvg-logo="https://www.citypng.com/public/uploads/preview/marvel-studios-logo-download-png-701751694711695ntbcoszyiu.png?v=2025012207" group-title="FILMES",MARVEL ORDEM CRONOLÓGICA 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90856.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-CLASSICOS DA MARVEL 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixkTQntpQDzPyYGYSwp6aomELCClYdRMuHA&s" group-title="FILMES",CLASSICOS DA MARVEL 1
 http://lidns.cc:80/4x6cXF/JDqRqj/90832.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-CLASSICOS DA MARVEL 2" tvg-logo="https://wallpapers.com/images/hd/marvel-comics-classic-logo-7jw6kcihaz78ee5t.jpg" group-title="FILMES",CLASSICOS DA MARVEL 2
@@ -562,16 +568,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90841.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90840.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-HOMEM DE FERRO" tvg-logo="https://e7.pngegg.com/pngimages/380/925/png-clipart-the-iron-man-war-machine-others-computer-wallpaper-iron.png" group-title="FILMES",HOMEM DE FERRO
 http://lidns.cc:80/4x6cXF/JDqRqj/90842.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MARVEL -ORDEM CRONOLÓGICA 01" tvg-logo="https://e7.pngegg.com/pngimages/704/824/png-clipart-marvel-studios-logo-walt-disney-studios-marvel-studios-marvel-cinematic-universe-logo-film-studio-marvel-miscellaneous-fictional-characters.png" group-title="FILMES",MARVEL ORDEM CRONOLÓGICA
-http://lidns.cc:80/4x6cXF/JDqRqj/90822.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-ORDEM CRONOLÓGICA " tvg-logo="https://www.citypng.com/public/uploads/preview/marvel-studios-logo-download-png-701751694711695ntbcoszyiu.png?v=2025012207" group-title="FILMES",MARVEL ORDEM CRONOLÓGICA 2
-http://lidns.cc:80/4x6cXF/JDqRqj/90856.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-QUARTETO FANTASTICO" tvg-logo="https://w7.pngwing.com/pngs/530/57/png-transparent-fantastic-four-mister-fantastic-logo-comics-decal-fantastic-four-angle-superhero-trademark-thumbnail.png" group-title="FILMES",QUARTETO FANTASTICO
-http://lidns.cc:80/4x6cXF/JDqRqj/90859.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="HOMEM-ARANHA" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/11/Spider-Man-Logo-2005-presente.png" group-title="FILMES",HOMEM-ARANHA
 http://lidns.cc:80/4x6cXF/JDqRqj/90862.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="VINGADORES" tvg-logo="https://w7.pngwing.com/pngs/280/187/png-transparent-hulk-iron-man-spider-man-carol-danvers-captain-america-hulk-marvel-avengers-assemble-avengers-text.png" group-title="FILMES",VINGADORES
-http://lidns.cc:80/4x6cXF/JDqRqj/90863.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MARVEL-QUARTETO FANTASTICO" tvg-logo="https://w7.pngwing.com/pngs/530/57/png-transparent-fantastic-four-mister-fantastic-logo-comics-decal-fantastic-four-angle-superhero-trademark-thumbnail.png" group-title="FILMES",QUARTETO FANTASTICO
+http://lidns.cc:80/4x6cXF/JDqRqj/90859.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="X-MEN " tvg-logo="https://w7.pngwing.com/pngs/909/163/png-transparent-professor-x-wolverine-cyclops-spider-man-x-men-wolverine-angle-text-logo.png" group-title="FILMES",X-MEN 
 http://lidns.cc:80/4x6cXF/JDqRqj/90865.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 01 
