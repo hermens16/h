@@ -1422,7 +1422,7 @@ https://stmv1.srvif.com/tvaep/tvaep/chunklist_w1127135171.m3u8
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="VARIEDADES",TV SULBA - BA
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="VARIEDADES",TV UNIÃO BRASÍLIA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="VARIEDADES",TV UNIÃO BRASÍLIA - DF
 https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="VARIEDADES",TV VOTORANTIM
 https://stmv1.paineldevideo.com.br/tvvotorantim/tvvotorantim/chunklist_w1385653592.m3u8
