@@ -58,7 +58,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90072.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90032.m3u8
 #EXTINF:-1 tvg-id="TV Cabo Branco HD.br" tvg-name="TV CABO BRANCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV CABO BRANCO - PB
 http://lidns.cc:80/4x6cXF/JDqRqj/97260.m3u8
-#EXTINF:-1 tvg-id="TV Grande Rio.br" tvg-name="TV GRANDE RIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GRANDE RIO - PE 
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GRANDE RIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GRANDE RIO - PE 
 http://lidns.cc:80/4x6cXF/JDqRqj/117330.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="TV GLOBO PERNAMBUCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV GLOBO PERNAMBUCO - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/91463.m3u8
@@ -172,7 +172,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/123216.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90257.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PARANAÍBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV PARANAÍBA - MG
 http://lidns.cc:80/4x6cXF/JDqRqj/124836.m3u8
-#EXTINF:-1 tvg-id="Record TV Belem.br" tvg-name="RECORD BELÉM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BELÉM - PA
+#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD BELÉM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD BELÉM - PA
 http://lidns.cc:80/4x6cXF/JDqRqj/100400.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV GUARARAPES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",TV GUARARAPES - PE
 http://lidns.cc:80/4x6cXF/JDqRqj/100401.m3u8
@@ -230,9 +230,9 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90291.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/89823.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MAIS - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/89817.m3u8
-#EXTINF:-1 tvg-id="Band Campinas HD.br" tvg-name="BAND PAULISTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CAMPINAS - SP
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND PAULISTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CAMPINAS - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/110231.m3u8
-#EXTINF:-1 tvg-id="Band Vale.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE - SP
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE - SP
 http://lidns.cc:80/4x6cXF/JDqRqj/110232.m3u8
 #EXTINF:-1 tvg-id="Band RJ HD.br" tvg-name="BAND RIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND RIO - RJ
 http://lidns.cc:80/4x6cXF/JDqRqj/101480.m3u8
