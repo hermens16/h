@@ -250,8 +250,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/116878.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
 #EXTINF:-1 tvg-id="Band Curitiba HD.br" tvg-name="BAND PARANÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PARANÁ - PR
 http://lidns.cc:80/4x6cXF/JDqRqj/110229.m3u8
-#EXTINF:-1 tvg-id="Band Curitiba HD.br" tvg-name="TV TAROBÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TAROBÁ - PR
-http://lidns.cc:80/4x6cXF/JDqRqj/101478.m3u8
 #EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="BAND RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/100660.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
@@ -916,7 +914,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90559.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90560.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="https://cosplace.com.br/wp-content/uploads/2021/05/CAVALEIROS-DO-ZODIACO-TORNEIO-GALACTICO-1024x576.jpg.webp" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
 http://lidns.cc:80/4x6cXF/JDqRqj/90561.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIMES",OTAKU SIGN TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIMES",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SAMURAI CHAMPLOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Samurai-Champloo-Logo-Red.png/640px-Samurai-Champloo-Logo-Red.png" group-title="ANIMES",SAMURAI CHAMPLOO
 http://lidns.cc:80/4x6cXF/JDqRqj/91083.m3u8
@@ -1112,7 +1110,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91213.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS " tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89831.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="MÚSICA",BLITS TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="MÚSICA",BLITS TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="CANAL WOOHOO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="MÚSICA",CANAL WOOHOO 
 http://metv.fun:80/4x6cXF/JDqRqj/89858.m3u8
@@ -1124,9 +1122,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/90165.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90168.m3u8
 #EXTINF:-1 tvg-id="Music Box Brasil HD.br" tvg-name="MUSIC BOX BRAZIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="MÚSICA",MUSIC BOX BRAZIL 
 http://metv.fun:80/4x6cXF/JDqRqj/90176.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV  " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg/revision/latest?cb=20241019011447" group-title="MÚSICA",PLAY TV  
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="MÚSICA",PLAY TV  
 http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="MÚSICA",PLAY TV
+#EXTINF:-1 tvg-id="Like.br" tvg-name="PLAY TV" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/08/PlayTVHorizontal@500x-400x154.png" group-title="MÚSICA",PLAY TV
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
