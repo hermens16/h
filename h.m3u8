@@ -1135,7 +1135,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90900.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS SERTANEJO" tvg-logo="https://showsertanejo.com.br/wp-content/uploads/2021/11/logo-show-sertanejo.svg" group-title="MÚSICA",SHOWS SERTANEJO
 http://lidns.cc:80/4x6cXF/JDqRqj/90903.m3u8
 ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ##############
-#EXTINF:-1 tvg-id="011News.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCIIg6U_RtV8u1ojfXTZjmhmBlE510XOHug&s" group-title="NOTÍCIAS",011 NEWS
+#EXTINF:-1 tvg-id="Like.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCIIg6U_RtV8u1ojfXTZjmhmBlE510XOHug&s" group-title="NOTÍCIAS",011 NEWS
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Agromais-band-logo.png/800px-Agromais-band-logo.png" group-title="NOTÍCIAS",AGRO MAIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89795.m3u8
@@ -1145,7 +1145,7 @@ http://metv.fun:80/4x6cXF/JDqRqj/89820.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/97746.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NOTÍCIAS",CNN BRASIL 
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="Desaparecidos RS" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_REDONDO_100X100_FUNDO_PRETO_54DyE4h.png" group-title="NOTÍCIAS",DESAPARECIDOS RS
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_REDONDO_100X100_FUNDO_PRETO_54DyE4h.png" group-title="NOTÍCIAS",DESAPARECIDOS RS
 https://video01.soultv.com.br/desaparecidosrs/desaparecidosrs/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox News Channel.br" tvg-name="FOX NEWS " tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NOTÍCIAS",FOX NEWS  
 http://metv.fun:80/4x6cXF/JDqRqj/95430.m3u8
@@ -1180,19 +1180,19 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/
 https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV Aparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="RELIGIOSOS",TV APARECIDA 
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",TV EVANGELIZAR
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="RELIGIOSOS",TV PAI ETERNO
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="RELIGIOSOS",TV PAI ETERNO
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w349642608.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="RELIGIOSOS",TV IMACULADA 
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="RELIGIOSOS",TV IMACULADA 
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-id="Horizonte TV.br" tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="RELIGIOSOS",TV HORIZONTE
 https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tvmacoi-min.png" group-title="RELIGIOSOS",TV MACEIÓ
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tvmacoi-min.png" group-title="RELIGIOSOS",TV MACEIÓ
 https://srv5.zcast.com.br/paulo4100/paulo4100/chunklist_w1093536016.m3u8
-#EXTINF:-1 tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",TV NOVO MILÊNIO
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",TV NOVO MILÊNIO
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
-#EXTINF:-1 tvg-logo="https://obatistaitaborai.com/wp-content/uploads/2020/01/BRAS%C3%83O-PNG.png" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://obatistaitaborai.com/wp-content/uploads/2020/01/BRAS%C3%83O-PNG.png" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
 #EXTINF:-1 tvg-id="TV Sudoeste HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Sudoeste_%28Pato_Branco%29.png?20220121230612" group-title="RELIGIOSOS",TV SUDOESTE
 https://sae13.playlist.ttvnw.net/v1/playlist/CvsF5AbzlxmypiIqllLbTyL9z0gf8-fWQ87oclr7g7uhJ2V0U8LFvFwQOYj70q2o-X8_Pn-oZAt05KtZuFrAMuVRWYmgl8-GjxfRolmKj0KhakHBvJUPGcgUOXCwUckeIYBLR1hSLr5viGIfoNXsgHwLqY4DXXiUc81yu3_0Av5fZefcHd04lSL7qPI2N529sV35OkRw4cs9Ti1YOywgarkdHp27R1Bc0CtIMscBXJ5B_Td_hAvOJO_hdB56zqU6oDj8Tcg0n9qJlt8qC0G3UN2AGJzdMAkjw_6E6pE5AKMe3V6g0oXu4f1ylWYzaLIGDYdtZcoL8M1gdFfEkh839tHiJ67DoXAhC8AmAz7PBxGm-GASSvKelWocJiBoPPThLjVw607GgF0wgFHRf7_tqxmtTDeeczrb0qsJyes-5_krEppouUOCcPjApQeNLqRxrChQf3wWeDwV--_8PvFqI8B-NAeX72AD42hS_arWvd0NcMzI15PQ94z6RJALt0S0rnoGdpWxW8nKIEzPQEDvFlygQ4TRie1dhBZQGw_rQ6dJnKIDyLoncU9bIvnXKddqlJ7OCfwjCt3gDYuNu4YsoXORP0BMWgQfiPmaqvS2G96yR9q48P_pnqgVRrlLXb0Qv9zSPNSnCzxPainuykQqhjffhagJYRDULAPVSuiarQIsZwpSHMegnpL_Vpuv7AOicisgAivfH6ywjBZIFVsQshhfkUqU5HyjOPHueMMW5lgNSUgrMERsNdSN9yEWJ2JZ1fYbWY90Wdli1np9YGHCVcwBNPEhkV5d5ZQOHq3qg57kverfOHchzj91qdMaXt8q1F5q44Nu9G9gWMsjZiIUZmrlN9THjlX3vTP3Bc-HwwS1PjP7zY14n94YJZgSgF7Wg3VaKtDrc7IfKTpi4MriUxj91LNjSb6m6GruJ8mM_U8jwmAvF7hPs2Ky7gnRbvsaHSk5aIYmzY04IM8bzrKAZ2hJXQiG9s8IcI0wu1_QKVGJf8RLDlb2CoafYxXQCBoMscg2lyE4vF78dJl7IAEqCXVzLWVhc3QtMTDwCQ.m3u8
