@@ -1211,7 +1211,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b22
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="RELIGIOSOS",CATHOLIC TV | EUA
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_3.m3u8
 #EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS",ESNE TV | EUA
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1736369275~acl=%2f*~data=hdntl~hmac=5efc68d7da158157f5d1eed8c72b5df91c79e95240aa8634a2d855eb12f9cf91/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=677d92f9a8486100016d2d46&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1736369273%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Dcba10bf4abf6266be3d67ce96a16bfd57322e0f53b4c6d98c76b2dc512ec9668
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1740258031~acl=%2f*~data=hdntl~hmac=f5b2f0b2f1c56bf8ccab198f3b0e151247c972a198c897c35da509f69f74ce89/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=67b8e969c6448e0001fd72e9&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1740258025%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D7b87c8922bfe8d764dcebd82b5c0dfe12a3a9e5e1bf58dd6a2f9bca76b87b0b4
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/483/824/png-clipart-ewtn-internet-radio-broadcasting-television-lenten-purple-television.png" group-title="RELIGIOSOS",EWTN EUA
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/qnxqyqtj/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN ESPANHOL
@@ -1220,18 +1220,14 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="RELIGIOSOS",CANAL DIOCESANO DE TOLEDO | ESPANHA
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSOS",SANTUÁRIO DE FATIMA | PORTUGAL
-https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_TV_Lux.svg/1200px-Logo_TV_Lux.svg.png" group-title="RELIGIOSOS",LUX TELEVISIA | ESLOVÁQUIA
-https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b2652000.m3u8
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w1335879731.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIOSOS",TV PADRE PIO | ITÁLIA
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1247999103.m3u8
-#EXTINF:-1 tvg-logo="https://www.centesimusannus.org/wp-content/uploads/2022/01/vatican-news-1140x600.jpg" group-title="RELIGIOSOS",VATICANO NEWS | ITÁLIA
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714166720/ei/YMcrZorgGLGaobIPndif8AU/ip/181.217.85.119/id/XBqHnl-WRpI.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-gpv7ynee.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/cq/mm/44/mn/sn-gpv7ynee/ms/lva/mv/u/mvi/5/pl/25/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1714144346/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgaf4_UB92MhsByqlzuoKpjHUimvDdVbaVoGPnCm6l51ECIQCi27xuctIWgJhb0KO_-FxWq4cLDkqmbXjTeMG2IbNQXQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAK0gQHMiPRnQDu3AujR9SVWzKepe45DyPHemdUe61-r2AiEAr6vfG89Th3Gdf9yjcJjTVkG-cF3VFPcdKdlVPorBiy0%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="RELIGIOSOS",VISIÓN TV | GUATEMALA
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="RELIGIOSOS",TELE VID | COLÔMBIA
-https://liveingesta118.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8?DVR
+https://vod-adaptive-ak.vimeocdn.com/exp=1740184490~acl=%2F85546b5b-9614-4074-8ea5-d5f9932b3ff9%2F%2A~hmac=0b5a74e41d362afd5d94cd9de418937922f0d411eea436a8bc93c8dc396fc88e/85546b5b-9614-4074-8ea5-d5f9932b3ff9/v2/playlist/av/85546b5b/avf/10a8bb1f/media.m3u8?pathsig=8c953e4f~eGxLhoDv3tHRafe3S1K3C-8jcqdYLdz0qhR8VLO7loU&qsr=1&sf=ts&st=video
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/familia-tv-logo-1652F563F9-seeklogo.com.png" group-title="RELIGIOSOS",TV FAMÍLIA | COLÔMBIA
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="RELIGIOSOS",KURIAKOS CINE | PORTUGAL
