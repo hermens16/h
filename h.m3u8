@@ -544,6 +544,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="FILMES",CINEMONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="FILMES",CLASSIQUE TV 
+https://stmv1.srvif.com/classique/classique/chunklist_w96348289.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="FILMES",DARKFLIX
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
@@ -609,6 +611,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90563.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90564.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/120px-Chaves_logo.svg.png" group-title="SÉRIES",CHAVES
 http://lidns.cc:80/4x6cXF/JDqRqj/90566.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAVES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="SÉRIES",CLASSIQUE TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1762000633.m3u8
 #EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="SÉRIES",CSI MIAMI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="SÉRIES",COMÉDIA 
@@ -1141,6 +1145,8 @@ https://011news.akamaized.net/011news/011news/playlist.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89795.m3u8
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png" group-title="NOTÍCIAS",BAND NEWS 
 http://metv.fun:80/4x6cXF/JDqRqj/89820.m3u8
+#EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BLOOMBERG " tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26762/logo_256_1718721922.png" group-title="NOTÍCIAS",BM&C NEWS 
+https://alanza.iptv2022.com/BM_C_News/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BLOOMBERG " tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NOTÍCIAS",BLOOMBERG 
 http://metv.fun:80/4x6cXF/JDqRqj/97746.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN BRASIL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="NOTÍCIAS",CNN BRASIL 
@@ -1304,6 +1310,8 @@ https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunkl
 https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w293543699.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://www.andreiagrezzana.com.br/public/69934-2024-01-05.png" group-title="VARIEDADES",AG TV - GO
 https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://play-lh.googleusercontent.com/PVLMMmY3XmywaWenLCNzYFAOBbNNL-dG0ROuRsWXLBfB3tbIxAItXdsBFhjNohQRMu2Y" group-title="VARIEDADES",AGROPLUS
+https://video09.logicahost.com.br/agroplus/agroplus/chunklist_w1663697041.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="VARIEDADES",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="VARIEDADES",AGROBRASIL TV
