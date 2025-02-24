@@ -1021,8 +1021,6 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90480.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90486.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://w7.pngwing.com/pngs/447/831/png-transparent-television-show-animated-series-animated-film-jackie-chan-adventures-television-cartoon-fictional-character-thumbnail.png" group-title="INFANTIS",AS AVENTURAS DE JACKIE CHAN
 http://lidns.cc:80/4x6cXF/JDqRqj/90487.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BATMAN" tvg-logo="https://w7.pngwing.com/pngs/509/584/png-transparent-batman-logo-sticker-batman-logo-comics-emblem-superhero-thumbnail.png" group-title="INFANTIS",BATMAN
-http://lidns.cc:80/4x6cXF/JDqRqj/90508.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BOB ZOOM" tvg-logo="https://e7.pngegg.com/pngimages/920/364/png-clipart-bob-zoom-vol-4-music-al-jeep-del-padre-spotify-bob-s-watches-zoom-vol-4-thumbnail.png" group-title="INFANTIS",BOB ZOOM
 http://lidns.cc:80/4x6cXF/JDqRqj/90532.m3u8  
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="INFANTIS",CAVERNA DO DRAGÃO
@@ -1043,24 +1041,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90718.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90721.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GATO DE BOTAS" tvg-logo="https://w7.pngwing.com/pngs/476/457/png-transparent-puss-in-boots-shrek-film-series-cat-puss-in-boots-mammal-hat-cat-like-mammal-thumbnail.png" group-title="INFANTIS",GATO DE BOTAS
 http://lidns.cc:80/4x6cXF/JDqRqj/90733.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HE-MAN 24H" tvg-logo="https://banner2.cleanpng.com/20180620/jwy/aa6a1xrex.webp" group-title="INFANTIS",HE-MAN
-http://lidns.cc:80/4x6cXF/JDqRqj/90743.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="INFANTIS",HERCULES
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULES" tvg-logo="https://w7.pngwing.com/pngs/1011/170/png-transparent-disney-039-s-hercules-hd-logo.png" group-title="INFANTIS",HERCULES
 http://lidns.cc:80/4x6cXF/JDqRqj/90745.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEM ARANHA" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/ab/Homemaranha1.jpg/revision/latest?cb=20220406031013&path-prefix=pt-br" group-title="INFANTIS",HOMEM-ARANHA
-http://lidns.cc:80/4x6cXF/JDqRqj/90757.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="https://image.tmdb.org/t/p/original/rxandEoW2PKOKwWtOenAsZ5lClg.jpg" group-title="INFANTIS",HOMEM-ARANHA: AÇÃO SEM LIMITES
-http://lidns.cc:80/4x6cXF/JDqRqj/90760.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL HULK" tvg-logo="https://w7.pngwing.com/pngs/398/127/png-transparent-hulk-spider-man-logo-marvel-comics-others-comics-marvel-avengers-assemble-superhero.png" group-title="INFANTIS",INCRIVEL HULK
-http://lidns.cc:80/4x6cXF/JDqRqj/90772.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGA DA JUSTI" tvg-logo="https://i.pinimg.com/originals/b2/9c/ee/b29ceea873de1770e55c48d20a64ba16.png" group-title="INFANTIS",LIGA DA JUSTIÇA
-http://lidns.cc:80/4x6cXF/JDqRqj/90805.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGEIRINHO" tvg-logo="https://w7.pngwing.com/pngs/210/704/png-transparent-speedy-gonzales-sylvester-looney-tunes-cartoon-animation-looney-tunes-mammal-vertebrate-cartoon-thumbnail.png" group-title="INFANTIS",24H-LIGEIRINHO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="LIGEIRINHO" tvg-logo="https://w7.pngwing.com/pngs/210/704/png-transparent-speedy-gonzales-sylvester-looney-tunes-cartoon-animation-looney-tunes-mammal-vertebrate-cartoon-thumbnail.png" group-title="INFANTIS",LIGEIRINHO
 http://lidns.cc:80/4x6cXF/JDqRqj/90806.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Men_In_Black_logo.png" group-title="INFANTIS",MIB HOMENS DE PRETO
-http://lidns.cc:80/4x6cXF/JDqRqj/90876.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MORTAL KOMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/Mortal_kombat_logo.png" group-title="INFANTIS",MORTAL KOMBAT
-http://lidns.cc:80/4x6cXF/JDqRqj/90888.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MUNDO BITA E OS ANIMAIS" tvg-logo="https://liviabrazil.files.wordpress.com/2016/03/bita.jpg?w=640&h=480&crop=1" group-title="INFANTIS",MUNDO BITA E OS ANIMAIS
 http://lidns.cc:80/4x6cXF/JDqRqj/90893.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O MASKARA" tvg-logo="https://absolutamentelendarios.wordpress.com/wp-content/uploads/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="INFANTIS",O MASKARA
@@ -1075,8 +1059,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90958.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS PINGUINS DE MADAGASCAR" tvg-logo="https://w7.pngwing.com/pngs/621/463/png-transparent-penguin-madagascar-brand-penguin-animals-text-logo.png" group-title="INFANTIS",OS PINGUINS DE MADAGASCAR
 http://lidns.cc:80/4x6cXF/JDqRqj/90963.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS VINGADORES" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="INFANTIS",OS VINGADORES
-http://lidns.cc:80/4x6cXF/JDqRqj/90999.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SHOW DA LUNA" tvg-logo="https://i.pinimg.com/originals/af/d5/17/afd5176c70b216b33d90d166015ba32f.png" group-title="INFANTIS",O SHOW DA LUNA
 http://lidns.cc:80/4x6cXF/JDqRqj/91089.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/Care-Bears.png" group-title="INFANTIS",OS URSINHOS CARINHOSOS
@@ -1099,22 +1081,40 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90934.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/90937.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REI DO PEDACO" tvg-logo="https://animeserie.com/product_images/c/155/O_Rei_do_Peda%E7o__71972_std.png" group-title="INFANTIS",REI DO PEDAÇO
 http://lidns.cc:80/4x6cXF/JDqRqj/91067.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TIMAO E PUMBA" tvg-logo="https://e7.pngegg.com/pngimages/875/738/png-clipart-pumba-and-timon-illustration-youtube-timon-and-pumbaa-simba-zazu-the-lion-king-mammal-cat-like-mammal-thumbnail.png" group-title="INFANTIS",TIMÃO E PUMBA
+http://lidns.cc:80/4x6cXF/JDqRqj/91175.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TOM E JERRY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWMNBOB2vYrP65QZZ7S6TDUE30Mlq0TOF5g&s" group-title="INFANTIS",TOM E JERRY
+http://lidns.cc:80/4x6cXF/JDqRqj/91181.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HE-MAN 24H" tvg-logo="https://banner2.cleanpng.com/20180620/jwy/aa6a1xrex.webp" group-title="INFANTIS",HE-MAN
+http://lidns.cc:80/4x6cXF/JDqRqj/90743.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Men_In_Black_logo.png" group-title="INFANTIS",MIB HOMENS DE PRETO
+http://lidns.cc:80/4x6cXF/JDqRqj/90876.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MORTAL KOMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/Mortal_kombat_logo.png" group-title="INFANTIS",MORTAL KOMBAT
+http://lidns.cc:80/4x6cXF/JDqRqj/90888.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SILVERHAWKS" tvg-logo="https://w7.pngwing.com/pngs/867/520/png-transparent-logo-television-show-cartoon-others-miscellaneous-television-text-thumbnail.png" group-title="INFANTIS",SILVERHAWKS
+http://lidns.cc:80/4x6cXF/JDqRqj/91092.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-THUNDERCATS" tvg-logo="https://w7.pngwing.com/pngs/373/290/png-transparent-logo-lion-o-thundercats-animated-series-logos-miscellaneous-comics-logo-thumbnail.png" group-title="INFANTIS",THUNDERCATS
+http://lidns.cc:80/4x6cXF/JDqRqj/91174.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BATMAN" tvg-logo="https://w7.pngwing.com/pngs/509/584/png-transparent-batman-logo-sticker-batman-logo-comics-emblem-superhero-thumbnail.png" group-title="INFANTIS",BATMAN
+http://lidns.cc:80/4x6cXF/JDqRqj/90508.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPER CHOQUE" tvg-logo="https://i.pinimg.com/originals/ad/f5/4f/adf54ffb830f5a9fa5a301b0d5d50abd.jpg" group-title="INFANTIS",SUPER CHOQUE
 http://lidns.cc:80/4x6cXF/JDqRqj/91149.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPERMAN DESENHO" tvg-logo="https://e7.pngegg.com/pngimages/298/628/png-transparent-superman-flat-logo.png" group-title="INFANTIS",SUPERMAN
 http://lidns.cc:80/4x6cXF/JDqRqj/91152.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SILVERHAWKS" tvg-logo="https://w7.pngwing.com/pngs/867/520/png-transparent-logo-television-show-cartoon-others-miscellaneous-television-text-thumbnail.png" group-title="INFANTIS",SILVERHAWKS
-http://lidns.cc:80/4x6cXF/JDqRqj/91092.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-THUNDERCATS" tvg-logo="https://w7.pngwing.com/pngs/373/290/png-transparent-logo-lion-o-thundercats-animated-series-logos-miscellaneous-comics-logo-thumbnail.png" group-title="INFANTIS",THUNDERCATS
-http://lidns.cc:80/4x6cXF/JDqRqj/91174.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TIMAO E PUMBA" tvg-logo="https://e7.pngegg.com/pngimages/875/738/png-clipart-pumba-and-timon-illustration-youtube-timon-and-pumbaa-simba-zazu-the-lion-king-mammal-cat-like-mammal-thumbnail.png" group-title="INFANTIS",TIMÃO E PUMBA
-http://lidns.cc:80/4x6cXF/JDqRqj/91175.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TOM E JERRY" tvg-logo="http://stolime.cc/lives/VARIEDADES/24H.png" group-title="INFANTIS",TOM E JERRY
-http://lidns.cc:80/4x6cXF/JDqRqj/91181.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGA DA JUSTI" tvg-logo="https://i.pinimg.com/originals/b2/9c/ee/b29ceea873de1770e55c48d20a64ba16.png" group-title="INFANTIS",LIGA DA JUSTIÇA
+http://lidns.cc:80/4x6cXF/JDqRqj/90805.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEM ARANHA" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/ab/Homemaranha1.jpg/revision/latest?cb=20220406031013&path-prefix=pt-br" group-title="INFANTIS",HOMEM-ARANHA
+http://lidns.cc:80/4x6cXF/JDqRqj/90757.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="https://image.tmdb.org/t/p/original/rxandEoW2PKOKwWtOenAsZ5lClg.jpg" group-title="INFANTIS",HOMEM-ARANHA: AÇÃO SEM LIMITES
+http://lidns.cc:80/4x6cXF/JDqRqj/90760.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL HULK" tvg-logo="https://w7.pngwing.com/pngs/398/127/png-transparent-hulk-spider-man-logo-marvel-comics-others-comics-marvel-avengers-assemble-superhero.png" group-title="INFANTIS",INCRIVEL HULK
+http://lidns.cc:80/4x6cXF/JDqRqj/90772.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-X MEN" tvg-logo="https://i.pinimg.com/originals/59/fc/67/59fc671e1fd73d00d76e58c6c1839b7e.png" group-title="INFANTIS",X MEN
 http://lidns.cc:80/4x6cXF/JDqRqj/91213.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS VINGADORES" tvg-logo="https://e7.pngegg.com/pngimages/861/252/png-clipart-carol-danvers-iron-man-ultron-hulk-marvel-comics-avengers-logo-marvel-avengers-logo-marvel-avengers-assemble-avengers-thumbnail.png" group-title="INFANTIS",OS VINGADORES
+http://lidns.cc:80/4x6cXF/JDqRqj/90999.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS " tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://metv.fun:80/4x6cXF/JDqRqj/89831.m3u8
@@ -1214,16 +1214,14 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b22
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
 #EXTINF:-1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS",ESNE TV | EUA
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1740489198~acl=%2f*~data=hdntl~hmac=aa28c6f10a6e874cf5ee8714ec89d16216f1aa0e3266ea8f80ea3cd60e034296/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=67bc706ce1c90800019c9baf&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1740489196%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D20991ab460027a1ec1a79d5d84ec229e750f1e88951e89c3d78b8da0cc568580
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/483/824/png-clipart-ewtn-internet-radio-broadcasting-television-lenten-purple-television.png" group-title="RELIGIOSOS",EWTN EUA
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/483/824/png-clipart-ewtn-internet-radio-broadcasting-television-lenten-purple-television.png" group-title="RELIGIOSOS",EWTN | EUA
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/qnxqyqtj/720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN ESPANHOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN | ESPANHA
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg " group-title="RELIGIOSOS",TELEVISION | EL SALVADOR
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="RELIGIOSOS",CANAL DIOCESANO | ESPANHA
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_TV_Lux.svg/1200px-Logo_TV_Lux.svg.png" group-title="RELIGIOSOS",LUX TELEVISIA | ESLOVÁQUIA
-https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w1335879731.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIOSOS",TV PADRE PIO | ITÁLIA
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1247999103.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="RELIGIOSOS",VISIÓN TV | GUATEMALA
