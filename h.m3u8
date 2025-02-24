@@ -1228,8 +1228,6 @@ https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w1335879731.m3u8
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1247999103.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="RELIGIOSOS",VISIÓN TV | GUATEMALA
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png" group-title="RELIGIOSOS",TELE VID | COLÔMBIA
-https://vod-adaptive-ak.vimeocdn.com/exp=1740415115~acl=%2F5dfe23a9-e293-4651-abe5-aa5c0fc4ced3%2F%2A~hmac=77f65da0b812cee3d4f4e191c32cdbf135d3566a0eb137abd02fea845757d8e5/5dfe23a9-e293-4651-abe5-aa5c0fc4ced3/v2/playlist/av/5dfe23a9/avf/29391711/media.m3u8?pathsig=8c953e4f~Q_naViWODmVoTZ5ILMtiPBCm8U9D1hfU-zIQGfGzaWc&qsr=1&sf=ts&st=video
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/familia-tv-logo-1652F563F9-seeklogo.com.png" group-title="RELIGIOSOS",TV FAMÍLIA | COLÔMBIA
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="RELIGIOSOS",KURIAKOS CINE | PORTUGAL
@@ -1246,42 +1244,40 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="RELIGIOSOS",GOSPEL MUSIC 
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w98623764.m3u8
-#EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="RELIGIOSOS",IDEAL TV 
-https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="RELIGIOSOS",IGREJA ONLINE | PORTUGAL 
-http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="RELIGIOSOS",KKTV | ANGOLA
-http://195.22.22.66:1935/kktv_ang_apps/kktv_ang_pt1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="RELIGIOSOS",MANÁ | PORTUGAL
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/chunklist_w1438491982_b3048000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="RELIGIOSOS",KKTV | ANGOLA
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w811133022_b3048000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRO-rV350TpkvqkINMWIfuN0ISXzTVuYrww&s" group-title="RELIGIOSOS",MANÁ PORTUGAL
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w1526344606_b1548000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="RELIGIOSOS",MANÁ ARGENTINA
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/Untitled-1.jpg" group-title="RELIGIOSOS",MANÁ ARGENTINA
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w598934698_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://tvmanabrasil.com/wp-content/uploads/2020/04/LOGO_TV_MANA_BRASIL_V4-396x108.png" group-title="RELIGIOSOS",MANÁ BRASIL
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="RELIGIOSOS",MANÁ BRASIL
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w92536611_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-english.ar/wp-content/uploads/2020/05/LOGO_TV_MANA_ENGLISH_V1.png" group-title="RELIGIOSOS",MANÁ ENGLISH
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/logo-eng.png" group-title="RELIGIOSOS",MANÁ ENGLISH
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w1068783311_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="RELIGIOSOS",MANÁ HINDI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcNoAMV_hb_shoG1xH4GKTTy5Iy9rN0qt2w&s" group-title="RELIGIOSOS",MANÁ HINDI
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w273981128_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="RELIGIOSOS",MANÁ MOÇAMBIQUE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2sJZUjDNWV-ykt72GM6nYrOCD6ZEnzbO-w&s" group-title="RELIGIOSOS",MANÁ MOÇAMBIQUE
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1738924686_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2020/05/265x145.png-russo-novo.png" group-title="RELIGIOSOS",MANÁ RÚSSIA
+#EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2024/07/LOGO_TV_RUSSO_V7.png" group-title="RELIGIOSOS",MANÁ RÚSSIA
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/chunklist_w2108884996_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="RELIGIOSOS",NOVO TEMPO
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="RELIGIOSOS",REDE FAMÍLIA 
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="RELIGIOSOS",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="RELIGIOSOS",REDE MUNDIAL
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="RELIGIOSOS",REDE SUPER
-https://playback2.akamaized.net/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8?dw=80&hdnts=exp=1649542381~acl=/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8*~hmac=3f0b55b2105f83becc406b7f56d8b192cea723e9ce2f714353e1460214cf3358
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1553191580.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="RELIGIOSOS",SBN GLOBAL
 https://acesso.ecast.site:3500/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="RELIGIOSOS",TENDA TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS",TV GIDEÕES
-https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w829200045.m3u8
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSOS",TV MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO
