@@ -1218,7 +1218,7 @@ https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdn
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/qnxqyqtj/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN | ESPANHA
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg " group-title="RELIGIOSOS",TELEVISION | EL SALVADOR
+#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg " group-title="RELIGIOSOS",TVCA | EL SALVADOR
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="RELIGIOSOS",CANAL DIOCESANO | ESPANHA
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
