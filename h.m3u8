@@ -1424,6 +1424,8 @@ https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="VARIEDADES",TV GRANDE NATAL
 https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_21b8LdXV_llhls.m3u8?session=33_
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-pequena.png" group-title="VARIEDADES",TV BRASIL HITS
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1263689930.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="VARIEDADES",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
 #EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV LONDRES
