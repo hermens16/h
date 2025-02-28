@@ -1192,9 +1192,9 @@ http://metv.fun:80/4x6cXF/JDqRqj/89861.m3u8
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
 #EXTINF:-1 tvg-id="Rede Vida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="RELIGIOSOS",TV APARECIDA 
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="RELIGIOSOS",TV APARECIDA 
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",TV EVANGELIZAR
+#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="RELIGIOSOS",TV IMACULADA 
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
