@@ -1488,35 +1488,6 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1966474387.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="VARIEDADES",ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-############################### INTERNACIONAIS ############################### INTERNACIONAIS ############################### INTERNACIONAIS ############################### INTERNACIONAIS ############################### INTERNACIONAIS ############################### INTERNACIONAIS ############################### INTERNACIONAIS ###############################
-#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="INTERNACIONAIS",ASSIM É PORTUGAL
-https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBRICSPortuguese.ru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="INTERNACIONAIS",TV BRICS
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="INTERNACIONAIS",DEMAND AFRICA  
-https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="INTERNACIONAIS",TDM MACAU | CHINA
-https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w1738641359.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="INTERNACIONAIS",TDM MACAU | TAIPA
-https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w452323990.m3u8
-#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONAIS",TVE ESPANHOL
-http://metv.fun:80/4x6cXF/JDqRqj/100042.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wBQZqvb.png" group-title="INTERNACIONAIS",TVG GALICIA | ESPANHA
-https://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="INTERNACIONAIS",RTP 1 | PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="INTERNACIONAIS",RTP AÇORES | PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://i.imgur.com/0avw05h.png" group-title="INTERNACIONAIS",RTP ÁFRICA | PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://i.imgur.com/SBlCf1m.png" group-title="INTERNACIONAIS",RTP INTERNACIONAL | PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.imgur.com/vZrqQPX.png" group-title="INTERNACIONAIS",RTP MADEIRA | PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="INTERNACIONAIS",SIC | PORTUGAL
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="INTERNACIONAIS",V+ TVI
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 ################### RÁDIOS #######################
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
