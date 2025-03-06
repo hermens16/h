@@ -1376,6 +1376,8 @@ https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="VARIEDADES",UMISS TV 
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+#EXTINF:-1 vg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14372/thumb_image_2022-06-27_15-13-34.png" group-title="VARIEDADES",MJR TV 
+https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w741816191.m3u8
 #EXTINF:-1 tvg-id="645a99282858cb0008ea8378" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="VARIEDADES",NEW BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV
