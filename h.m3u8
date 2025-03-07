@@ -556,6 +556,8 @@ https://stmv1.srvif.com/classique/classique/chunklist_w96348289.m3u8
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/19321/logo_256_1693922543.jpg" group-title="FILMES",TV 100
+https://alanza.iptv2022.com/sh/TV_100/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DC COMICS-PENTALOGIA BATMAN" tvg-logo="https://w7.pngwing.com/pngs/139/642/png-transparent-batman-logo-graphics-drawing-batman-gotham-skyline-comics-superhero-logo.png" group-title="FILMES",BATMAN
 http://lidns.cc:80/4x6cXF/JDqRqj/90608.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DC COMICS-CRONOLOGIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/DC_Comics_logo.png" group-title="FILMES",LIGA DA JUSTIÇA 
@@ -1412,7 +1414,7 @@ https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/fSnOawT.png" group-title="VARIEDADES",TERRA VIVA
 http://lidns.cc:80/4x6cXF/JDqRqj/90385.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="VARIEDADES",TOP MIX TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="VARIEDADES",TOP MIX TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="VARIEDADES",TV A FOLHA
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
