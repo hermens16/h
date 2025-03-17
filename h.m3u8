@@ -1424,6 +1424,8 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w328778514.m3u8
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="VARIEDADES",TV ART HD 
 https://alanza.iptv2022.com/TV_ART_HD/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://cdn.technettv.com/channel/12972/logo_256_1684133882.png" group-title="VARIEDADES",TV BELTRÃO 
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_w1698196213.m3u8
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="VARIEDADES",TV BOQUEIRÃO - PR
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="VARIEDADES",TV BRASIL CENTRAL - GO
