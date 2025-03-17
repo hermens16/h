@@ -1394,6 +1394,8 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w1549325618.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13532/logo_256_1684140439.png" group-title="VARIEDADES",REDE GAMA
 https://alanza.iptv2022.com/sh/REDE_GAMA/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11418/logo_256_1684140422.png" group-title="VARIEDADES",REDE METRÓPOLE
+https://alanza.iptv2022.com/RedeMetropole-ptbr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="VARIEDADES",REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="QDM.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_QDM_reduzido_DGFc9E4.png" group-title="VARIEDADES",REDE QDM
@@ -1444,6 +1446,8 @@ https://utvsite.acessaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/chunklis
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/mYp2T7g.png" group-title="VARIEDADES",TV DESTAQUE NACIONAL
 https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/master.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/13658/logo_256_1683895351.png" group-title="VARIEDADES",TV ENTORNO DO SUL - SP
+https://video01.kshost.com.br/manoel2072/manoel2072/chunklist_w1078844844.m3u8
 #EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13644/logo_256_1683895360.png" group-title="VARIEDADES",TV ERGA OMNES
 https://video01.kshost.com.br/erga9862/erga9862/chunklist_w847685358.m3u8
 #EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="VARIEDADES",TV ESCOLA
