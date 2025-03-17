@@ -1398,6 +1398,8 @@ https://alanza.iptv2022.com/sh/REDE_GAMA/tracks-v1a1/mono.m3u8?filter.tracks=a1v
 https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="QDM.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_QDM_reduzido_DGFc9E4.png" group-title="VARIEDADES",REDE QDM
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:-1 tvg-id="redesmartplay.com/programacao/" tvg-logo="https://redesmartplay.com/imagens/logo.png" group-title="VARIEDADES",REDE SMART DE COMUNICAÇÃO - SP
+https://5ffab78b24f94.streamlock.net/smart/smart/chunklist_w930076999.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="VARIEDADES",REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="VARIEDADES",REDE UTV
@@ -1448,8 +1450,10 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sNgDx7c.png" group-title="VARIEDADES",TV MAIS BRASIL
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="VARIEDADES",TV MARCHETTI
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11866/thumb_TV_METROPOLITANA_RIO_new.png" group-title="VARIEDADES",TV METROPOLITANA
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="VARIEDADES",TV MARCHETTI
+https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w60889945.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6629476fb91a6975d4cc2f6f6955223.webp" group-title="VARIEDADES",TV GALEGA - RS
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="VARIEDADES",TV GRANDE NATAL
