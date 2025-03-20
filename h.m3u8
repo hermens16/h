@@ -701,22 +701,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f6
 http://metv.fun:80/4x6cXF/JDqRqj/115422.m3u8
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SÉRIES",TNT SERIES 
 http://metv.fun:80/4x6cXF/JDqRqj/90396.m3u8
-#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="SÉRIES",JASPION
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="SÉRIES",JASPION 2
-http://lidns.cc:80/4x6cXF/JDqRqj/90778.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/Kamen_Rider_Black_Logo.png/revision/latest?cb=20200613192441" group-title="SÉRIES",KAMEN RIDER BLACK
-http://lidns.cc:80/4x6cXF/JDqRqj/90786.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ULTRAMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Ultraman_English_logo.png" group-title="SÉRIES",ULTRAMAN
-http://lidns.cc:80/4x6cXF/JDqRqj/91197.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-WINSPECTOR" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6bfa91a-e0f6-450e-a91f-62138f13b80f/de6yzjk-2e0ce547-9af1-4130-880c-6fba15d83dcb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2YmZhOTFhLWUwZjYtNDUwZS1hOTFmLTYyMTM4ZjEzYjgwZlwvZGU2eXpqay0yZTBjZTU0Ny05YWYxLTQxMzAtODgwYy02ZmJhMTVkODNkY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2lq-4NR_NroVl4gsXMQiK9zyioPTikFk2peqFkuRdG0" group-title="SÉRIES",WINSPECTOR
-http://lidns.cc:80/4x6cXF/JDqRqj/91212.m3u8
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="SÉRIES",TVI REALITY
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=156310078
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-VOCE NA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Vctv2024.png/revision/latest?cb=20240618152532" group-title="SÉRIES",VOCÊ NA TV
 http://lidns.cc:80/4x6cXF/JDqRqj/91208.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="SÉRIES",XTREME TV
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ZOEY 101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Zoey101.png" group-title="SÉRIES",ZOEY 101
@@ -881,59 +869,71 @@ http://maistop.net:80/live/meutedio/meutedio/1.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/91066.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-VOCE SABIA" tvg-logo="https://static.wikia.nocookie.net/famosos/images/e/e3/Vocesabia.jpg/revision/latest?cb=20210526105439&path-prefix=pt-br" group-title="DOCUMENTÁRIOS",VOCÊ SABIA
 http://lidns.cc:80/4x6cXF/JDqRqj/91209.m3u8
-####################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES ##################### ANIMES #####################
-#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="ANIMES",ANIME  
+####################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU #####################
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",ANIME  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="ANIMES",ANIME AÇÃO
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",ANIME AÇÃO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="ANIMES",ANIME TV  
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="ANIMES & TOKUSATSU",ANIME TV  
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="ANIMES",ANITV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="ANIMES & TOKUSATSU",ANITV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="ANIMES",BORUTO
+#EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",BORUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="ANIMES",DEATH NOTE 
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",DEATH NOTE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="ANIMES",DRAGON BALL
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL
 http://lidns.cc:80/4x6cXF/JDqRqj/90653.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL GT" tvg-logo="https://e1.pngegg.com/pngimages/890/287/png-clipart-logo-dragon-ball-gt-anime-original-06-dragon-ball-gt-logo.png" group-title="ANIMES",DRAGON BALL GT
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL GT" tvg-logo="https://e1.pngegg.com/pngimages/890/287/png-clipart-logo-dragon-ball-gt-anime-original-06-dragon-ball-gt-logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL GT
 http://lidns.cc:80/4x6cXF/JDqRqj/90654.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="ANIMES",DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO
 http://lidns.cc:80/4x6cXF/JDqRqj/90657.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA DE MAJIN BOO" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES",DRAGON BALL Z SAGA DE MAJIN BOO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA DE MAJIN BOO" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z SAGA DE MAJIN BOO
 http://lidns.cc:80/4x6cXF/JDqRqj/90660.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA DOS ANDROIDES" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES",DRAGON BALL Z SAGA DOS ANDROIDES
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA DOS ANDROIDES" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z SAGA DOS ANDROIDES
 http://lidns.cc:80/4x6cXF/JDqRqj/90662.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA FREEZA" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES",DRAGON BALL Z SAGA FREEZA
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA FREEZA" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z SAGA FREEZA
 http://lidns.cc:80/4x6cXF/JDqRqj/90664.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES",DRAGON BALL Z TORNEIO DE OUTRO MUNDO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z TORNEIO DE OUTRO MUNDO
 http://lidns.cc:80/4x6cXF/JDqRqj/90665.m3u8
-#EXTINF:-1 tvg-id="65d9167818036500080e8780" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="ANIMES",HUNTER X HUNTER
+#EXTINF:-1 tvg-id="65d9167818036500080e8780" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",HUNTER X HUNTER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="ANIMES",NARUTO
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",NARUTO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="ANIMES",NARUTO 2
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="ANIMES & TOKUSATSU",NARUTO 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90909.m3u8
-#EXTINF:-1 tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="ANIMES",NARUTO SHIPPUDEN
+#EXTINF:-1 tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",NARUTO SHIPPUDEN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NEON GENESIS EVANGELION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Evangelion.png" group-title="ANIMES",NEON GENESIS EVANGELION
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NEON GENESIS EVANGELION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Evangelion.png" group-title="ANIMES & TOKUSATSU",NEON GENESIS EVANGELION
 http://lidns.cc:80/4x6cXF/JDqRqj/90923.m3u8
-#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="ANIMES",ONE PIECE
+#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",ONE PIECE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE ASGARD" tvg-logo="https://vortexcultural.com.br/images/2015/05/Os-Cavaleiros-do-Zodiaco-17-A-Saga-de-Asgard.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA DE ASGARD
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE ASGARD" tvg-logo="https://vortexcultural.com.br/images/2015/05/Os-Cavaleiros-do-Zodiaco-17-A-Saga-de-Asgard.jpg" group-title="ANIMES & TOKUSATSU",OS CAVALEIROS DO ZODIACO SAGA DE ASGARD
 http://lidns.cc:80/4x6cXF/JDqRqj/90559.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE POSEIDON" tvg-logo="https://vortexcultural.com.br/images/2015/05/CDZ-Poseidon-Capa.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA DE POSEIDON
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA DE POSEIDON" tvg-logo="https://vortexcultural.com.br/images/2015/05/CDZ-Poseidon-Capa.jpg" group-title="ANIMES & TOKUSATSU",OS CAVALEIROS DO ZODIACO SAGA DE POSEIDON
 http://lidns.cc:80/4x6cXF/JDqRqj/90560.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="https://cosplace.com.br/wp-content/uploads/2021/05/CAVALEIROS-DO-ZODIACO-TORNEIO-GALACTICO-1024x576.jpg.webp" group-title="ANIMES",OS CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="https://cosplace.com.br/wp-content/uploads/2021/05/CAVALEIROS-DO-ZODIACO-TORNEIO-GALACTICO-1024x576.jpg.webp" group-title="ANIMES & TOKUSATSU",OS CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
 http://lidns.cc:80/4x6cXF/JDqRqj/90561.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIMES",OTAKU SIGN TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIMES & TOKUSATSU",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SAMURAI CHAMPLOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Samurai-Champloo-Logo-Red.png/640px-Samurai-Champloo-Logo-Red.png" group-title="ANIMES",SAMURAI CHAMPLOO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SAMURAI CHAMPLOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Samurai-Champloo-Logo-Red.png/640px-Samurai-Champloo-Logo-Red.png" group-title="ANIMES & TOKUSATSU",SAMURAI CHAMPLOO
 http://lidns.cc:80/4x6cXF/JDqRqj/91083.m3u8
-#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIMES",TRUTV  
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIMES & TOKUSATSU",TRUTV  
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-YU YU HAKUSHO" tvg-logo="https://static.wikia.nocookie.net/liberproeliis/images/1/1e/Hakusho-box-yu-yu.png/revision/latest?cb=20200815173009&path-prefix=pt-br" group-title="ANIMES",YU YU HAKUSHO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-YU YU HAKUSHO" tvg-logo="https://static.wikia.nocookie.net/liberproeliis/images/1/1e/Hakusho-box-yu-yu.png/revision/latest?cb=20200815173009&path-prefix=pt-br" group-title="ANIMES & TOKUSATSU",YU YU HAKUSHO
 http://lidns.cc:80/4x6cXF/JDqRqj/91295.m3u8
+#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",JASPION
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Like.br" tvg-name="JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="ANIMES & TOKUSATSU",JASPION 2
+http://lidns.cc:80/4x6cXF/JDqRqj/90778.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/Kamen_Rider_Black_Logo.png/revision/latest?cb=20200613192441" group-title="ANIMES & TOKUSATSU",KAMEN RIDER BLACK
+http://lidns.cc:80/4x6cXF/JDqRqj/90786.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ULTRAMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Ultraman_English_logo.png" group-title="ANIMES & TOKUSATSU",ULTRAMAN
+http://lidns.cc:80/4x6cXF/JDqRqj/91197.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="SÉRIES",XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-WINSPECTOR" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6bfa91a-e0f6-450e-a91f-62138f13b80f/de6yzjk-2e0ce547-9af1-4130-880c-6fba15d83dcb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2YmZhOTFhLWUwZjYtNDUwZS1hOTFmLTYyMTM4ZjEzYjgwZlwvZGU2eXpqay0yZTBjZTU0Ny05YWYxLTQxMzAtODgwYy02ZmJhMTVkODNkY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2lq-4NR_NroVl4gsXMQiK9zyioPTikFk2peqFkuRdG0" group-title="SÉRIES",WINSPECTOR
+http://lidns.cc:80/4x6cXF/JDqRqj/91212.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
 #EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://metv.fun:80/4x6cXF/JDqRqj/90425.m3u8
@@ -1288,6 +1288,8 @@ https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w829200045.m3u8
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSOS",TV MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://cdn.technettv.com/channel/17452/logo_256_1686046966.png" group-title="RELIGIOSOS",TV RECONCAVO
+https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/chunklist_w540439499.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="RELIGIOSOS",TV VERDADE
@@ -1388,12 +1390,16 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w39098346.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV 
 https://stream.ichibantv.com:3522/stream/play.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11383/logo_256_1684136346.png" group-title="VARIEDADES",POLIDORO TV 
+https://stmv1.video.cloudstream.com.br/polidorotv/polidorotv/chunklist_w1592555751.m3u8
 #EXTINF:-1 tvg-id="https://poop.tv.br/programas/" tvg-logo="https://poop.tv.br/wp-content/uploads/2024/06/cropped-logo-pooptv-142x108.png" group-title="VARIEDADES",POOP TV 
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="qtal_channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f6d7a6cfee7623726f0312eb9b9b20b.webp" group-title="VARIEDADES",QTAL CHANNEL 
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w1549325618.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13532/logo_256_1684140439.png" group-title="VARIEDADES",REDE GAMA
 https://alanza.iptv2022.com/sh/REDE_GAMA/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://redelivre.tv.br/storage/images/cache/image-go-1740692266-130-8519dd86.png" group-title="VARIEDADES",REDE LIVRE
+https://srv6.zcast.com.br/redelivre/redelivre/chunklist_w17063307.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11418/logo_256_1684140422.png" group-title="VARIEDADES",REDE METRÓPOLE
 https://alanza.iptv2022.com/RedeMetropole-ptbr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="VARIEDADES",REDE PREMIUM TV
@@ -1476,6 +1482,8 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chun
 https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1126990452.m3u8
 #EXTINF:-1 tvg-id="Tvmon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0048ba30afe4808a9a7ed1722c22b994.webp" group-title="VARIEDADES",TV MON
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://cdn.technettv.com/channel/13091/logo_256_1683890039.png" group-title="VARIEDADES",TV NORDESTINA - PB
+https://alanza.iptv2022.com/tv_nordestina/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="VARIEDADES",TV NOVA NORDESTE - PE
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="VARIEDADES", TV NOVA PLAY
@@ -1502,6 +1510,8 @@ https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
 #EXTINF:-1 tvg-id="tv-vale-do-uruar" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TV_Vale_do_Uruar%C3%A1_Logo.png" group-title="VARIEDADES",TV VALE DO ARUARÁ - PA
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1235530788.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12286/logo_256_1683876549.png" group-title="VARIEDADES",TV VIDEONEWS - SP
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="VARIEDADES",TV VOTORANTIM
 https://stmv1.paineldevideo.com.br/tvvotorantim/tvvotorantim/chunklist_w1385653592.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.tvaguaboa.com.br/admin/assets/img/logo.png" group-title="VARIEDADES",TV ÁGUA BOA - MT
@@ -1522,8 +1532,6 @@ https://video01.kshost.com.br/seap8272/seap8272/chunklist_w1014680645.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="VARIEDADES",XR HEALTH BRASIL
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.vidks.net/v2x/l/webtv-xtreme.webp?b103" group-title="VARIEDADES",XTREME TV
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1966474387.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="VARIEDADES",ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 ################### RÁDIOS #######################
