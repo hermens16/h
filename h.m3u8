@@ -922,7 +922,7 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91083.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-YU YU HAKUSHO" tvg-logo="https://static.wikia.nocookie.net/liberproeliis/images/1/1e/Hakusho-box-yu-yu.png/revision/latest?cb=20200815173009&path-prefix=pt-br" group-title="ANIMES & TOKUSATSU",YU YU HAKUSHO
 http://lidns.cc:80/4x6cXF/JDqRqj/91295.m3u8
-#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",JASPION
+#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",TOKUSATO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="ANIMES & TOKUSATSU",JASPION 2
 http://lidns.cc:80/4x6cXF/JDqRqj/90778.m3u8
@@ -1284,10 +1284,14 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="RELIGIOSOS",REDE SUPER
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1553191580.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/13119/logo_256_1684135583.png" group-title="RELIGIOSOS",SEMEAR TV
+https://alanza.iptv2022.com/semear_tv/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="RELIGIOSOS",SBN GLOBAL
 https://acesso.ecast.site:3500/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="RELIGIOSOS",TENDA TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/15289/thumb_TV_BR_GLOBAL.jpeg" group-title="RELIGIOSOS",TV BR GLOBAL STATION
+https://alanza.iptv2022.com/TV_BR_GLOBAL/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ976XhVK4L_bDrK1_oabCsQZaScJlxQEVpPA&s" group-title="RELIGIOSOS",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1966658526.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS",TV GIDEÕES
@@ -1431,6 +1435,8 @@ https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/91388.m3u8
 #EXTINF:-1 tvg-id="SOLTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gSSGWXx.png" group-title="VARIEDADES",SOL BRASIL
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="SOLTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11467/thumb_Group_4.png" group-title="VARIEDADES",SOU TV
+https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://w7.pngwing.com/pngs/596/939/png-transparent-tastemade-logo-company-marketing-media-avocado-miscellaneous-text-public-relations.png" group-title="VARIEDADES",TASTEMADE BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/fSnOawT.png" group-title="VARIEDADES",TERRA VIVA
@@ -1487,6 +1493,8 @@ https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_21b8LdXV_
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1263689930.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="VARIEDADES",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11705/logo_256_1729668456.jpg" group-title="VARIEDADES",TV LIFE AMÉRICA
+https://cdn.g2gsistemas.com.br/matopiba/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV LONDRES
 https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="VARIEDADES",TV LUZILÂNDIA - PI
