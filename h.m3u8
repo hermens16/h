@@ -1134,6 +1134,10 @@ https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/89858.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="KPOP TV PLAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest/scale-to-width-down/250?cb=20230625152624" group-title="MÚSICA",KPOP TV PLAY
 https://alanza.iptv2022.com/Kpo_TV_Play/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12051/logo_256_1684135647.png" group-title="MÚSICA",MASTER SHOW TV
+https://mastershowtv.tvr.ovh/master6123/master6123/chunklist_w1420098948.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.mastershowtv.com/public/30116-2023-11-08.png" group-title="MÚSICA",MASTER SHOW ATRAÇÕES
+https://s1.tvr.ovh/master1667/master1667/chunklist_w699788384.m3u8
 #EXTINF:-1 tvg-id="MTV Brasil.br" tvg-name="MTV '00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MÚSICA",MTV '00 
 http://metv.fun:80/4x6cXF/JDqRqj/90161.m3u8
 #EXTINF:-1 tvg-id="MTV.br" tvg-name="MTV" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="MÚSICA",MTV 
@@ -1445,6 +1449,10 @@ http://lidns.cc:80/4x6cXF/JDqRqj/90385.m3u8
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="VARIEDADES",TV A FOLHA
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/13819/logo_256_1684133923.png" group-title="VARIEDADES",TV ALTERNATIVA - GAZETA MA
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1669128465.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12790/logo_256_1683891711.png" group-title="VARIEDADES",TV ONDAS PLAY 
+https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/chunklist_w1210243314.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="VARIEDADES",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w328778514.m3u8
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="VARIEDADES",TV ART HD 
@@ -1455,6 +1463,8 @@ https://srv6.zcast.com.br/redelivre/redelivre/chunklist_w1124510958.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_w1698196213.m3u8
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="VARIEDADES",TV BOQUEIRÃO - PR
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.canaldez.com.br/res/site/images/icons/logoCanalDezMod.png" group-title="VARIEDADES",TV CANAL DEZ
+https://canaldez.acessaradios.com.br/canaldez/canaldez/chunklist_w1649768698.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="VARIEDADES",TV BRASIL CENTRAL - GO
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="VARIEDADES",TV BRASIL OESTE - MT
@@ -1489,6 +1499,8 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w60889945.m3u8
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="VARIEDADES",TV GRANDE NATAL
 https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_21b8LdXV_llhls.m3u8?session=33_
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11922/logo_256_1684131815.png" group-title="VARIEDADES",TV GUARULHOS
+https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/chunklist_w1676600778.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-pequena.png" group-title="VARIEDADES",TV BRASIL HITS
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1263689930.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvjsid.com.br/wp-content/uploads/2021/11/Simbolo-tv-Jsid-sem-fundo-2-144x144-1.png" group-title="VARIEDADES",TV J.SID
