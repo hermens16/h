@@ -1407,7 +1407,9 @@ https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w741816
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2edfc8015ab176b68f0c4585aeda3569.webp" group-title="VARIEDADES",O DIA TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://spaceks.net/sites/tvagrotour.com.br/images/logo/logo_650668991.png" group-title="VARIEDADES",NOVA TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w69938868.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2edfc8015ab176b68f0c4585aeda3569.webp" group-title="VARIEDADES",O DIA TV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w39098346.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV 
 https://stream.ichibantv.com:3522/stream/play.m3u8
@@ -1551,6 +1553,8 @@ https://stmv1.srvif.com/tvaep/tvaep/chunklist_w1127135171.m3u8
 https://stmv1.srvstm.com/canal5110/canal5110/chunklist_w313248891.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="VARIEDADES",TV SANTA CECÍLIA
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12059/logo_256_1683877015.png" group-title="VARIEDADES",TV SOL
+https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w702936774.m3u8
 #EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="VARIEDADES",TV SULBA - BA
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="VARIEDADES",TV UNIÃO BRASÍLIA - DF
