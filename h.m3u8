@@ -1152,6 +1152,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/95462.m3u8
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/15394/thumb_TV_ROCK.png" group-title="MÚSICA",TV ROCK
+https://alanza.iptv2022.com/TV_Rock/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS FORRÓ" tvg-logo="https://e7.pngegg.com/pngimages/376/272/png-clipart-musica-sertaneja-forro-singer-thailand-forro-angle-rectangle-thumbnail.png" group-title="MÚSICA",SHOWS FORRÓ
 http://lidns.cc:80/4x6cXF/JDqRqj/90896.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pop_logo_2021.png/768px-Pop_logo_2021.png" group-title="MÚSICA",SHOWS POP
@@ -1325,6 +1327,8 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES
 https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunklist_w1746633627_b1000000_slen.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/14617/logo_256_1683870976.png" group-title="VARIEDADES",ABBA RTV
+https://alanza.iptv2022.com/ABBA_RTV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/7lrPkhk.png" group-title="VARIEDADES",ABC BRASIL
 https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w293543699.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png" group-title="VARIEDADES",ADESSO TV
@@ -1365,6 +1369,8 @@ https://edge-es-01.eduplay.rnp.br/media/ocp(r(sGRMUQ)t(GBjPBY0te3E)p(d(iNo)k(LpA
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/chunklist_w1201715811.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="VARIEDADES",CATVE - PR
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.caravanaplay.com.br/admin/assets/img/users/87425-2023-10-07.png" group-title="VARIEDADES",CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist_w2049189350.m3u8
 #EXTINF:-1 tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="VARIEDADES",CENTRAL TV - PR
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="VARIEDADES",CBTV NOW
