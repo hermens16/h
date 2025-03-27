@@ -851,6 +851,8 @@ http://metv.fun:80/4x6cXF/JDqRqj/91369.m3u8
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="5f32d432d612e50007e56133" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",VIAGENS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://reisenclubetv.com.br/wp-content/uploads/2024/10/Logo-Reisen-TV-2.png" group-title="DOCUMENTÁRIOS",REISEN CLUBE TV - SC
+https://pop.uniquetv.com.br/reisenclubetv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://s3.amazonaws.com/assets.apoia.se/campaigns/586307ae77f42b040088470b%7C586b232c9e965e040085cb29/user-campaign-about-photo%7Cmarca-dagua-spacetoday-20210225_01203572.png" group-title="DOCUMENTÁRIOS",SPACE TODAY TV
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CIENCIA TODO DIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRcZlQUFuRNd8lucnLHS0rI3pz-vFsGFs9DQ&s" group-title="DOCUMENTÁRIOS",CIÊNCIA TODO DIA
@@ -922,6 +924,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/91083.m3u8
 http://metv.fun:80/4x6cXF/JDqRqj/90404.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-YU YU HAKUSHO" tvg-logo="https://static.wikia.nocookie.net/liberproeliis/images/1/1e/Hakusho-box-yu-yu.png/revision/latest?cb=20200815173009&path-prefix=pt-br" group-title="ANIMES & TOKUSATSU",YU YU HAKUSHO
 http://lidns.cc:80/4x6cXF/JDqRqj/91295.m3u8
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ8e7Yk5vkkdNXXSOfPVBgsxZudjzCZBBPw&s" group-title="ANIMES & TOKUSATSU",GEEKDOT  
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",TOKUSATO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="ANIMES & TOKUSATSU",JASPION 2
@@ -1347,6 +1351,8 @@ https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_outp
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="VARIEDADES",ASTRAL TV  
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/25831/logo_256_1717073831.jpg" group-title="VARIEDADES",BDCTV
+https://alanza.iptv2022.com/sh/BDCTV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="VARIEDADES",BEM MELHOR
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV
@@ -1407,6 +1413,8 @@ https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="VARIEDADES",UMISS TV 
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+#EXTINF:-1 vg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/29212/logo_256_1731608875.jpg" group-title="VARIEDADES",MASTER TV 
+https://alanza.iptv2022.com/Master_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14372/thumb_image_2022-06-27_15-13-34.png" group-title="VARIEDADES",MJR TV 
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w741816191.m3u8
 #EXTINF:-1 tvg-id="645a99282858cb0008ea8378" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="VARIEDADES",NEW BRASIL
@@ -1487,8 +1495,12 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://video01.logicahost.com.br/tvbrusque/tvbrusque/chunklist_w345107382.m3u8
 #EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/O1WAn2z.png" group-title="VARIEDADES",TV CARIOCA INTERNACIONAL
 https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w1439968602.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="VARIEDADES",TV CNB
+#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRwY6MrCFDnQBvoGfzwnLwA1q2Bosvkqz5w&s" group-title="VARIEDADES",TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1063983608.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="VARIEDADES",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/29912/logo_256.png" group-title="VARIEDADES",TV CULTURAL HD
+https://cdn.technettv.com/channel/29912/logo_256.png
 #EXTINF:-1 tvg-id="TVDescalvado.br" tvg-logo="https://i.imgur.com/wkjxdRg.png" group-title="VARIEDADES",TV DESCALVADO 
 https://utvsite.acessaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/chunklist_w606511689_b1596000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYKZr34.png" group-title="VARIEDADES",TV GRAMADO - RS
