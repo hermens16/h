@@ -1136,6 +1136,8 @@ https://video01.logicahost.com.br/blast/blast/chunklist_w684507465.m3u8
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="CANAL WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="MÚSICA",CANAL WOOHOO 
 http://metv.fun:80/4x6cXF/JDqRqj/89858.m3u8
+#EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="CANAL WOOHOO" tvg-logo="https://cdn.technettv.com/channel/29254/logo_256_1733511593.png" group-title="MÚSICA",CANAL TV! 
+https://alanza.iptv2022.com/TVI_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="Like.br" tvg-name="KPOP TV PLAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest/scale-to-width-down/250?cb=20230625152624" group-title="MÚSICA",KPOP TV PLAY
 https://alanza.iptv2022.com/Kpo_TV_Play/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12051/logo_256_1684135647.png" group-title="MÚSICA",MASTER SHOW TV
