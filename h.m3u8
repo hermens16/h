@@ -252,6 +252,8 @@ http://lidns.cc:80/4x6cXF/JDqRqj/110233.m3u8
 http://lidns.cc:80/4x6cXF/JDqRqj/110229.m3u8
 #EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="BAND RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RS
 http://lidns.cc:80/4x6cXF/JDqRqj/100660.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV GUARÁ CAXIAS" tvg-logo="https://ugc.production.linktr.ee/ac8b3e63-c6b0-49be-a73d-6818df55ad2a_LOGO-TV-GUARA--1-.png?io=true&size=avatar-v3_0" group-title="TV ABERTA",TV GUARÁ CAXIAS - MA
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolime.cc/lives/WEBPLAYER/PLAY-LOGO.png" group-title="ESPORTES",JOGOS DO DIA
 http://limed.cc:80/4x6cXF/JDqRqj/89806.m3u8
