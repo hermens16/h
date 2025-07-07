@@ -24,14 +24,14 @@ http://limed.cc:80/vhm1jx/k5dkyq/90173.m3u8
 http://limed.cc:80/vhm1jx/k5dkyq/90084.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
 http://limed.cc:80/vhm1jx/k5dkyq/89840.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d9/Logo-futura-horizontal.png/120px-Logo-futura-horizontal.png?20220710212630" group-title="TV ABERTA",FUTURA
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/120px-Canal_Futura.png" group-title="TV ABERTA",FUTURA
 http://limed.cc:80/vhm1jx/k5dkyq/89846.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/120px-TV_Gazeta.svg.png" group-title="TV ABERTA",GAZETA
 http://limed.cc:80/vhm1jx/k5dkyq/90010.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
-#EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV 
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
+#EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiJmNzc5YjQzMC00NDI3LTRiMzAtYmVkZC02Mjg0ODdhNjU0MDciLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MTkxNTM0NSwiaWF0IjoxNzUxOTE1MzQ1LCJleHAiOjE3NTIwMDE3NDUsImp0aSI6ImY3NzliNDMwLTQ0MjctNGIzMC1iZWRkLTYyODQ4N2E2NTQwNyIsImlzcyI6IlNwYWxsYSJ9.mE1XNBHn3qHT-XFhYPHDbAz1HkaF-ftKxUCvUcW07uM&uid=f779b430-4427-4b30-bedd-628487a65407&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV ABERTA",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rede Minas HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="TV ABERTA",REDE MINAS
