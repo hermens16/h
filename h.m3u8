@@ -279,8 +279,8 @@ http://limed.cc:80/vhm1jx/k5dkyq/90324.m3u8
 http://limed.cc:80/vhm1jx/k5dkyq/89828.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",CANAL OFF 
 http://limed.cc:80/vhm1jx/k5dkyq/89850.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",ATITUDE NEW
-https://video03.logicahost.com.br/sumare/sumare/chunklist_w1512252320.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CANAL OFF" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f9944bb95a94d7647e65a9db18322f0.webp" group-title="ESPORTES",ATITUDE NEW
+https://s1.tvr.ovh/video69519/video69519/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
 http://limed.cc:80/vhm1jx/k5dkyq/89877.m3u8
 #EXTINF:-1 tvg-id="64df7ab4dfa32400083c517b" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="ESPORTES",DAZN COMBAT
