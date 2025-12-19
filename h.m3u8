@@ -3,7 +3,7 @@
 ## 👩🏽‍💻 Editor: HeRmEnS RoDrIgUeS
 ##### TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ######
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="GLOBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422" group-title="TV ABERTA",GLOBO
-http://lmdns.online:80/4x6cXF/ehfxdp/95657.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/90059.m3u8
 #EXTINF:-1 tvg-id="RecordTV Sao Paulo HD.br" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90266.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
@@ -93,7 +93,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90017.m3u8
 #EXTINF:-1 tvg-id="TV Anhanguera Palmas HD.br" tvg-name="TV ANHANGUERA PALMAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",TV ANHANGUERA PALMAS - TO
 http://lmdns.online:80/4x6cXF/ehfxdp/120079.m3u8
 #EXTINF:-1 tvg-id="Globo SP.br" tvg-name="TV GLOBO - SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV GLOBO - SP
-http://lmdns.online:80/4x6cXF/ehfxdp/90059.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/95657.m3u8
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV DÁRIO - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/91449.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV FRONTEIRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV FRONTEIRA PAULISTA - SP
