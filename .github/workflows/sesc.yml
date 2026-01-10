@@ -1,0 +1,33 @@
+name: Atualizar Sesc TV (1h)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buscar link atual do Sesc TV
+        run: |
+          PAGE_URL="https://www.sesctv.org.br/ao-vivo/"
+          NOVO_LINK=$(curl -s "$PAGE_URL" | grep -o 'https://[^"]*m3u8[^"]*' | head -n 1)
+
+          if [ -z "$NOVO_LINK" ]; then
+            echo "Link não encontrado"
+            exit 1
+          fi
+
+          sed -i "s|https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiJmNzc5YjQzMC00NDI3LTRiMzAtYmVkZC02Mjg0ODdhNjU0MDciLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2ODA1ODY0MCwiaWF0IjoxNzY4MDU4NjQwLCJleHAiOjE3NjgxNDUwNDAsImp0aSI6ImY3NzliNDMwLTQ0MjctNGIzMC1iZWRkLTYyODQ4N2E2NTQwNyIsImlzcyI6IlNwYWxsYSJ9.dcUE7L2q5UvHu-wU45Ru04OHZwYp0jFaJoUQKJ54P3E&uid=f779b430-4427-4b30-bedd-628487a65407&magica=sim|$NOVO_LINK|g" h.m3u8
+
+      - name: Salvar atualização
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add h.m3u8
+          git commit -m "Atualização automática Sesc TV"
+          git push
