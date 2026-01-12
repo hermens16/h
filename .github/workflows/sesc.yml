@@ -16,10 +16,10 @@ jobs:
 
           sed -i "s|{{SESC_TV_LINK}}|$NOVO_LINK|g" h.m3u8
 
-      - name: Salvar alterações
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add h.m3u8
-          git commit -m "Atualiza link Sesc TV"
-          git push
+    - name: Salvar alterações
+  run: |
+    git config user.name "github-actions"
+    git config user.email "actions@github.com"
+    git add h.m3u8
+    git diff --cached --quiet || git commit -m "Atualiza link Sesc TV"
+    git push
