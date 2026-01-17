@@ -68,23 +68,23 @@ http://lmdns.online:80/4x6cXF/ehfxdp/95677.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/91405.m3u8
 #EXTINF:-1 tvg-id="TV Sergipe HD.br" tvg-name="TV SERGIPE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/Logotipo_da_TV_Sergipe.png?20220420005016" group-title="TV ABERTA",TV SERGIPE - SE
 http://lmdns.online:80/4x6cXF/ehfxdp/95484.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GLOBO BRASÍLIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV GLOBO BRASÍLIA - DF
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GLOBO BRASÍLIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Globo_Bras%C3%ADlia_2021.svg/960px-Globo_Bras%C3%ADlia_2021.svg.png" group-title="TV ABERTA",TV GLOBO BRASÍLIA - DF
 http://lmdns.online:80/4x6cXF/ehfxdp/90019.m3u8
-#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA - GO 
+#EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png?20190707172047" group-title="TV ABERTA",TV ANHANGUERA - GO 
 http://lmdns.online:80/4x6cXF/ehfxdp/90062.m3u8
-#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA CATALÃO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
+#EXTINF:-1 tvg-id="Globo Anhanguera.br" tvg-name="TV ANHANGUERA CATALÃO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png?20190707172047" group-title="TV ABERTA",TV ANHANGUERA CATALÃO - GO
 http://lmdns.online:80/4x6cXF/ehfxdp/117325.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV CENTRO AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png?20181207232449" group-title="TV ABERTA",TV CENTRO AMÉRICA - MT
 http://lmdns.online:80/4x6cXF/ehfxdp/91396.m3u8
-#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV MORENA - MS
+#EXTINF:-1 tvg-id="TV Morena HD.br" tvg-name="TV MORENA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/Logotipo_da_TV_Morena.png" group-title="TV ABERTA",TV MORENA - MS
 http://lmdns.online:80/4x6cXF/ehfxdp/91461.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA RIO BRANCO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA RIO BRANCO - AC 
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA RIO BRANCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logotipo_da_Rede_Amaz%C3%B4nica_2023.png" group-title="TV ABERTA",REDE AMAZÔNICA RIO BRANCO - AC 
 http://lmdns.online:80/4x6cXF/ehfxdp/90013.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA MACAPÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA MACAPÁ - AP  
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA MACAPÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logotipo_da_Rede_Amaz%C3%B4nica_2023.png" group-title="TV ABERTA",REDE AMAZÔNICA MACAPÁ - AP  
 http://lmdns.online:80/4x6cXF/ehfxdp/90015.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PARINTINS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PARINTINS - AM 
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PARINTINS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logotipo_da_Rede_Amaz%C3%B4nica_2023.png" group-title="TV ABERTA",REDE AMAZÔNICA PARINTINS - AM 
 http://lmdns.online:80/4x6cXF/ehfxdp/117332.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="AMAZONICA ARIQUEMES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA ARIQUEMES - RO
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="AMAZONICA ARIQUEMES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/%287%29_Institucional_da_nova_identidade_visual_da_Rede_Amaz%C3%B4nica_%282023%29_00-01-18.png/revision/latest?cb=20231104171101" group-title="TV ABERTA",REDE AMAZÔNICA ARIQUEMES - RO
 http://lmdns.online:80/4x6cXF/ehfxdp/120082.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="REDE AMAZÔNICA PORTO VELHO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/TVGlobo2024_green.png/revision/latest/scale-to-width-down/1000?cb=20241210012724" group-title="TV ABERTA",REDE AMAZÔNICA PORTO VELHO - RO
 http://lmdns.online:80/4x6cXF/ehfxdp/90052.m3u8
