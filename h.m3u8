@@ -581,40 +581,22 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91377.m3u8
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="FILMES",CINE SKY 09 
 http://lmdns.online:80/4x6cXF/ehfxdp/91376.m3u8
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A CASA DA RAVEN" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5A46C12DFB276F950D93E721D6A9533868727D75203F9546640F9EFB0EDF7B59/scale?width=440&aspectRatio=1.78&format=webp" group-title="SÉRIES",A CASA DA RAVEN
-http://lmdns.online:80/4x6cXF/ehfxdp/90454.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS VISOES DE RAVEN" tvg-logo="https://static.wikia.nocookie.net/disney/images/0/0e/Thatssoraven1234.png/revision/latest?cb=20200321202720&path-prefix=pt-br" group-title="SÉRIES",AS VISOES DE RAVEN
-http://lmdns.online:80/4x6cXF/ehfxdp/90495.m3u8
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A FEITICEIRA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="SÉRIES",BEING MARY JANE  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES",BET  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CASTELO RA TI BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Castelo_R%C3%A1-Tim-Bum_logo.png" group-title="SÉRIES",CASTELO RÁ-TIM-BUM
-http://lmdns.online:80/4x6cXF/ehfxdp/90556.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="SÉRIES",CHAPOLIN COLORADO
-http://lmdns.online:80/4x6cXF/ehfxdp/90563.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAPOLIN" tvg-logo="https://e7.pngegg.com/pngimages/725/464/png-clipart-logo-document-text-chapolin-angle-text-thumbnail.png" group-title="SÉRIES",CHAPOLIN COLORADO 2
-http://lmdns.online:80/4x6cXF/ehfxdp/90564.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/120px-Chaves_logo.svg.png" group-title="SÉRIES",CHAVES
-http://lmdns.online:80/4x6cXF/ehfxdp/90566.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CHAVES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="SÉRIES",CLASSIQUE TV SÉRIES
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1762000633.m3u8
 #EXTINF:-1 tvg-id="Comedy Central.br" tvg-name="COMEDY CENTRAL" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="SÉRIES",COMEDY CENTRAL 
 http://lmdns.online:80/4x6cXF/ehfxdp/89881.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="SÉRIES",COMEDY CENTRAL 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="SÉRIES",CSI MIAMI 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="SÉRIES",COMÉDIA 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="SÉRIES",DIFF'RENT STROKES ARNOLD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="SÉRIES",FAILARMY  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FAMILIA DINOSSAURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpse4mvYljOGI2-V_skxN9pata5lM0-Sa50A&s" group-title="SÉRIES",FAMILIA DINOSSAURO
-http://lmdns.online:80/4x6cXF/ehfxdp/90697.m3u8
 #EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="SÉRIES",INFERNO SOBRE RODAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="SÉRIES",KENAM E KEL 
@@ -649,22 +631,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="SÉRIES",ROOKIE BLUE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER CLASSICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/MMPR_Logo.png/revision/latest?cb=20140301211300" group-title="SÉRIES",POWER RANGERS CLASSICO
-http://lmdns.online:80/4x6cXF/ehfxdp/91051.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER CLASSICO S01 AO S04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/MMPR_Logo.png/revision/latest?cb=20140301211300" group-title="SÉRIES",POWER RANGERS CLASSICO 2
-http://lmdns.online:80/4x6cXF/ehfxdp/91052.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER DINO THUNDER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/PR_Dino_Thunder_logo.png" group-title="SÉRIES",POWER RANGERS DINO THUNDER
-http://lmdns.online:80/4x6cXF/ehfxdp/91053.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER GALAXIA PERDIDA" tvg-logo="https://static.wikia.nocookie.net/powerrangers/images/f/f4/Power_Rangers_Lost_Galaxy_logo_1999.png/revision/latest?cb=20210313234055" group-title="SÉRIES",POWER RANGER GALAXIA PERDIDA
-http://lmdns.online:80/4x6cXF/ehfxdp/91054.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER NINJA STORM" tvg-logo="https://static.wikia.nocookie.net/powerrangers/images/9/9f/Power_Rangers_Ninja_Storm_logo.png/revision/latest?cb=20201211045603" group-title="SÉRIES",POWER RANGERS NINJA STORM
-http://lmdns.online:80/4x6cXF/ehfxdp/91055.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER SPD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/SPD_Logo.png/640px-SPD_Logo.png" group-title="SÉRIES",POWER RANGERS SPACE PATROL DELTA
-http://lmdns.online:80/4x6cXF/ehfxdp/91056.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGER ZEO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Zeo_logo.png" group-title="SÉRIES",POWER RANGERS ZEO
-http://lmdns.online:80/4x6cXF/ehfxdp/91057.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POWER RANGERS TURBO" tvg-logo="https://static.wikia.nocookie.net/powerrangers/images/a/ab/Power_Rangers_Turbo_logo.png/revision/latest?cb=20201211060407" group-title="SÉRIES",POWER RANGERS TURBO
-http://lmdns.online:80/4x6cXF/ehfxdp/91058.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brazil.br" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="SÉRIES",PRIME BOX BRAZIL 
 http://lmdns.online:80/4x6cXF/ehfxdp/90239.m3u8
 #EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="SÉRIES",RETRÔ 
