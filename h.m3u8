@@ -257,8 +257,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/100660.m3u8
 #EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV GUARÁ CAXIAS" tvg-logo="https://ugc.production.linktr.ee/ac8b3e63-c6b0-49be-a73d-6818df55ad2a_LOGO-TV-GUARA--1-.png?io=true&size=avatar-v3_0" group-title="TV ABERTA",TV GUARÁ CAXIAS - MA
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
-#EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolime.cc/lives/WEBPLAYER/PLAY-LOGO.png" group-title="ESPORTES",JOGOS DO DIA
-http://limed.cc:80/4x6cXF/JDqRqj/89806.m3u8
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://lmdns.online:80/4x6cXF/ehfxdp/89962.m3u8
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="ESPORTES",ESPN 2 
@@ -1505,98 +1503,134 @@ https://stmv1.video.cloudstream.com.br/yeeaahtv/yeeaahtv/chunklist_w1552254968.m
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="VARIEDADES",ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ###############################
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 01" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 01
-http://lmdns.online:80/4x6cXF/ehfxdp/91215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 02" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 02
-http://lmdns.online:80/4x6cXF/ehfxdp/91216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 03" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 03
-http://lmdns.online:80/4x6cXF/ehfxdp/91217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 04" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 04
-http://lmdns.online:80/4x6cXF/ehfxdp/91218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 05" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 05
-http://lmdns.online:80/4x6cXF/ehfxdp/91219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 06" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 06
-http://lmdns.online:80/4x6cXF/ehfxdp/91220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 07" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 07
-http://lmdns.online:80/4x6cXF/ehfxdp/91221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 08" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 08
-http://lmdns.online:80/4x6cXF/ehfxdp/91222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 09" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 09
-http://lmdns.online:80/4x6cXF/ehfxdp/91223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 10" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 10
-http://lmdns.online:80/4x6cXF/ehfxdp/91224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 11" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 11
-http://lmdns.online:80/4x6cXF/ehfxdp/91225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 12" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 12
-http://lmdns.online:80/4x6cXF/ehfxdp/91226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 13" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 13
-http://lmdns.online:80/4x6cXF/ehfxdp/91227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 14" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 14
-http://lmdns.online:80/4x6cXF/ehfxdp/91228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 15" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 15
-http://lmdns.online:80/4x6cXF/ehfxdp/91229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 16" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 16
-http://lmdns.online:80/4x6cXF/ehfxdp/91230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 17" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 17
-http://lmdns.online:80/4x6cXF/ehfxdp/91231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 18" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 18
-http://lmdns.online:80/4x6cXF/ehfxdp/91232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 19" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 19
-http://lmdns.online:80/4x6cXF/ehfxdp/91233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 20" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 20
-http://lmdns.online:80/4x6cXF/ehfxdp/91234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 21" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 21
-http://lmdns.online:80/4x6cXF/ehfxdp/91235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 22" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 22
-http://lmdns.online:80/4x6cXF/ehfxdp/91236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 23" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 23
-http://lmdns.online:80/4x6cXF/ehfxdp/91237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 24" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 24
-http://lmdns.online:80/4x6cXF/ehfxdp/91238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 25" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 25
-http://lmdns.online:80/4x6cXF/ehfxdp/91239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 26" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 26
-http://lmdns.online:80/4x6cXF/ehfxdp/91240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 27" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 27
-http://lmdns.online:80/4x6cXF/ehfxdp/91241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 28" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 28
-http://lmdns.online:80/4x6cXF/ehfxdp/91242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 29" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 29
-http://lmdns.online:80/4x6cXF/ehfxdp/91243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 30" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 30
-http://lmdns.online:80/4x6cXF/ehfxdp/91244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 31" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 31
-http://lmdns.online:80/4x6cXF/ehfxdp/91245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 32" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 32
-http://lmdns.online:80/4x6cXF/ehfxdp/91246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 33" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 33
-http://lmdns.online:80/4x6cXF/ehfxdp/91247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 34" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 34
-http://lmdns.online:80/4x6cXF/ehfxdp/91248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 35" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 35
-http://lmdns.online:80/4x6cXF/ehfxdp/91249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 36" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 36
-http://lmdns.online:80/4x6cXF/ehfxdp/91250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 37" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 37
-http://lmdns.online:80/4x6cXF/ehfxdp/91251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 38" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 38
-http://lmdns.online:80/4x6cXF/ehfxdp/91252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 39" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 39
-http://lmdns.online:80/4x6cXF/ehfxdp/91253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 40" tvg-logo="http://storlime.cc/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H-XXX ADULTO 40
-http://lmdns.online:80/4x6cXF/ehfxdp/91254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE CAMS [M]" tvg-logo="http://storlime.cc/lives/ADULTO/LIVE_CAMS.png" group-title="ADULTOS",LIVE CAMS
-http://lmdns.online:80/4x6cXF/ehfxdp/95525.m3u8
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY [FHD]" tvg-logo="http://storlime.cc/lives/ADULTO/PLAYBOY.png" group-title="ADULTOS",PLAYBOY
-http://lmdns.online:80/4x6cXF/ehfxdp/90207.m3u8
-#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="SEX PRIVE [FHD] (H265)" tvg-logo="http://storlime.cc/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="ADULTOS",SEX PRIVE
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY [FHD] (H265)" tvg-logo="http://stolm.live/lives/ADULTO/PLAYBOY.png" group-title="ADULTOS",PLAYBOY [FHD] (H265)
+http://lmdns.online:80/4x6cXF/ehfxdp/90206.m3u8
+#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="SEX PRIVE [FHD] (H265)" tvg-logo="http://stolm.live/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="ADULTOS",SEX PRIVE [FHD] (H265)
 http://lmdns.online:80/4x6cXF/ehfxdp/95485.m3u8
-#EXTINF:-1 tvg-id="Sextreme.cl" tvg-name="SEXTREME [FHD]" tvg-logo="http://storlime.cc/lives/ADULTO/SEXTREME.png" group-title="ADULTOS",SEXTREME
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="SEXTREME [FHD]" tvg-logo="http://stolm.live/lives/ADULTO/SEXTREME.png" group-title="ADULTOS",SEXTREME [FHD]
 http://lmdns.online:80/4x6cXF/ehfxdp/100038.m3u8
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT [FHD] (H265)" tvg-logo="http://storlime.cc/lives/ADULTO/SEXY%20HOT.png" group-title="ADULTOS",SEXY HOT
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT [FHD] (H265)" tvg-logo="http://stolm.live/lives/ADULTO/SEXY%20HOT.png" group-title="ADULTOS",SEXY HOT [FHD] (H265)
 http://lmdns.online:80/4x6cXF/ehfxdp/95488.m3u8
-#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS [HD]" tvg-logo="http://storlime.cc/lives/ADULTO/VENUS.png" group-title="ADULTOS",VENUS
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="VENUS [HD]" tvg-logo="http://stolm.live/lives/ADULTO/VENUS.png" group-title="ADULTOS",VENUS [HD]
 http://lmdns.online:80/4x6cXF/ehfxdp/90437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ANYA OLSEN" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ANYA OLSEN
+http://lmdns.online:80/4x6cXF/ehfxdp/91287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX BR ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BR ONLYFANS
+http://lmdns.online:80/4x6cXF/ehfxdp/91294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX BRASILEIRINHAS 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 01
+http://lmdns.online:80/4x6cXF/ehfxdp/95499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX BRASILEIRINHAS 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 02
+http://lmdns.online:80/4x6cXF/ehfxdp/91277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX GIRL CUM" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX GIRL CUM
+http://lmdns.online:80/4x6cXF/ehfxdp/91288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX INT ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX INT ONLYFANS
+http://lmdns.online:80/4x6cXF/ehfxdp/91282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX JAPAN HDV" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JAPAN HDV
+http://lmdns.online:80/4x6cXF/ehfxdp/91286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX JEMMA VALENTINE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JEMMA VALENTINE
+http://lmdns.online:80/4x6cXF/ehfxdp/91280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX LAUREN WALKER" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX LAUREN WALKER
+http://lmdns.online:80/4x6cXF/ehfxdp/91293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MANDY MUSE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MANDY MUSE
+http://lmdns.online:80/4x6cXF/ehfxdp/91279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MIA KHALIFA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MIA KHALIFA
+http://lmdns.online:80/4x6cXF/ehfxdp/91283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MOM XXX" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MOM XXX
+http://lmdns.online:80/4x6cXF/ehfxdp/91292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MULHER MELAO" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MULHER MELAO
+http://lmdns.online:80/4x6cXF/ehfxdp/91285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MYRA MOANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MYRA MOANS
+http://lmdns.online:80/4x6cXF/ehfxdp/91281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX NAUGHTY AMERICA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX NAUGHTY AMERICA
+http://lmdns.online:80/4x6cXF/ehfxdp/91291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX REALITY KINGS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX REALITY KINGS
+http://lmdns.online:80/4x6cXF/ehfxdp/91290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX STEFANIE MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX STEFANIE MOON
+http://lmdns.online:80/4x6cXF/ehfxdp/91284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX VANESSA MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX VANESSA MOON
+http://lmdns.online:80/4x6cXF/ehfxdp/91276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX YENIFER CHACON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX YENIFER CHACON
+http://lmdns.online:80/4x6cXF/ehfxdp/91278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX A CASA DAS BRASILEIRINHAS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX A CASA DAS BRASILEIRINHAS
+http://lmdns.online:80/4x6cXF/ehfxdp/91289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 01
+http://lmdns.online:80/4x6cXF/ehfxdp/91215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 02
+http://lmdns.online:80/4x6cXF/ehfxdp/91216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 04" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 04
+http://lmdns.online:80/4x6cXF/ehfxdp/91218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 05" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 05
+http://lmdns.online:80/4x6cXF/ehfxdp/91219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 06" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 06
+http://lmdns.online:80/4x6cXF/ehfxdp/91220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 07" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 07
+http://lmdns.online:80/4x6cXF/ehfxdp/91221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 08" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 08
+http://lmdns.online:80/4x6cXF/ehfxdp/91222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 09" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 09
+http://lmdns.online:80/4x6cXF/ehfxdp/91223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 10" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 10
+http://lmdns.online:80/4x6cXF/ehfxdp/91224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 11" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 11
+http://lmdns.online:80/4x6cXF/ehfxdp/91225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 12" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 12
+http://lmdns.online:80/4x6cXF/ehfxdp/91226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 13" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 13
+http://lmdns.online:80/4x6cXF/ehfxdp/91227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 14" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 14
+http://lmdns.online:80/4x6cXF/ehfxdp/91228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 15" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 15
+http://lmdns.online:80/4x6cXF/ehfxdp/91229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 16" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 16
+http://lmdns.online:80/4x6cXF/ehfxdp/91230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 17" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 17
+http://lmdns.online:80/4x6cXF/ehfxdp/91231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 18" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 18
+http://lmdns.online:80/4x6cXF/ehfxdp/91232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 19" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 19
+http://lmdns.online:80/4x6cXF/ehfxdp/91233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 20" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 20
+http://lmdns.online:80/4x6cXF/ehfxdp/91234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 21" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 21
+http://lmdns.online:80/4x6cXF/ehfxdp/91235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 22" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 22
+http://lmdns.online:80/4x6cXF/ehfxdp/91236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 23" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 23
+http://lmdns.online:80/4x6cXF/ehfxdp/91237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 24" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 24
+http://lmdns.online:80/4x6cXF/ehfxdp/91238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 25" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 25
+http://lmdns.online:80/4x6cXF/ehfxdp/91239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 26" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 26
+http://lmdns.online:80/4x6cXF/ehfxdp/91240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 27" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 27
+http://lmdns.online:80/4x6cXF/ehfxdp/91241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 28" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 28
+http://lmdns.online:80/4x6cXF/ehfxdp/91242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 29" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 29
+http://lmdns.online:80/4x6cXF/ehfxdp/91243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 30" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 30
+http://lmdns.online:80/4x6cXF/ehfxdp/91244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 31" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 31
+http://lmdns.online:80/4x6cXF/ehfxdp/91245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 32" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 32
+http://lmdns.online:80/4x6cXF/ehfxdp/91246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 33" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 33
+http://lmdns.online:80/4x6cXF/ehfxdp/91247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 34" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 34
+http://lmdns.online:80/4x6cXF/ehfxdp/91248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 35" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 35
+http://lmdns.online:80/4x6cXF/ehfxdp/91249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 36" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 36
+http://lmdns.online:80/4x6cXF/ehfxdp/91250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 37" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 37
+http://lmdns.online:80/4x6cXF/ehfxdp/91251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 38" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 38
+http://lmdns.online:80/4x6cXF/ehfxdp/91252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 39" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 39
+http://lmdns.online:80/4x6cXF/ehfxdp/91253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 40" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 40
+http://lmdns.online:80/4x6cXF/ehfxdp/91254.m3u8
 ################### RÁDIOS #######################
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
