@@ -12,7 +12,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/95666.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/95649.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
 http://lmdns.online:80/4x6cXF/ehfxdp/90409.m3u8
-#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png?20191113234216" group-title="TV ABERTA",REDE TV
+#EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png?20180330131443" group-title="TV ABERTA",REDE TV
 http://lmdns.online:80/4x6cXF/ehfxdp/95470.m3u8
 #EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="CULTURA" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",CULTURA
 http://lmdns.online:80/4x6cXF/ehfxdp/89900.m3u8
@@ -31,16 +31,14 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90010.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV
-{{SESC_TV_LINK}}
-#EXTINF:-1,Sesc TV
-{{SESC_TV_LINK}}
+https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiJmNzc5YjQzMC00NDI3LTRiMzAtYmVkZC02Mjg0ODdhNjU0MDciLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2ODY1NTkzNywiaWF0IjoxNzY4NjU1OTM3LCJleHAiOjE3Njg3NDIzMzcsImp0aSI6ImY3NzliNDMwLTQ0MjctNGIzMC1iZWRkLTYyODQ4N2E2NTQwNyIsImlzcyI6IlNwYWxsYSJ9.UvV7OaJ0ESliecD7_eESZSnm1_bIrPw3iDfzg-Tw8Rg&uid=f779b430-4427-4b30-bedd-628487a65407
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV ABERTA",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rede Minas HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="TV ABERTA",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD.br" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
-#EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="TV ABERTA",COM BRASIL
+#EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_CanalBrasil.png/960px-Logo_CanalBrasil.png" group-title="TV ABERTA",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png/revision/latest/scale-to-width-down/1000?cb=20241209212350" group-title="TV ABERTA",TV BAHIA - BA
 http://lmdns.online:80/4x6cXF/ehfxdp/90064.m3u8
