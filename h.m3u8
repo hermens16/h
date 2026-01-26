@@ -38,7 +38,7 @@ https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD.br" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
-#EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_CanalBrasil.png/960px-Logo_CanalBrasil.png" group-title="TV ABERTA",COM BRASIL
+#EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/assets/LogoMaior-DdI0kjV1.png" group-title="TV ABERTA",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TV_Bahia_Logo_%282025%29.png" group-title="TV ABERTA",TV BAHIA - BA
 http://lmdns.online:80/4x6cXF/ehfxdp/90064.m3u8
@@ -96,15 +96,15 @@ http://lmdns.online:80/4x6cXF/ehfxdp/120079.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90059.m3u8
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_TV_Di%C3%A1rio_2025.png/960px-Logo_TV_Di%C3%A1rio_2025.png" group-title="TV ABERTA",TV DÁRIO - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/91449.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV FRONTEIRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV FRONTEIRA PAULISTA - SP
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV FRONTEIRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logotipo-da-TV-Fronteira-Paulista.png" group-title="TV ABERTA",TV FRONTEIRA PAULISTA - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/97392.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM BAURU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM BAURU - SP 
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM BAURU" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png?20191223023949" group-title="TV ABERTA",TV TEM BAURU - SP 
 http://lmdns.online:80/4x6cXF/ehfxdp/91469.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SOROCABA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SOROCABA - SP
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SOROCABA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png?20191223023949" group-title="TV ABERTA",TV TEM SOROCABA - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/91471.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SJRP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TEM SJRP - SP
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV TEM SJRP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png?20191223023949" group-title="TV ABERTA",TV TEM SJRP - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90068.m3u8
-#EXTINF:-1 tvg-id="Globo TV Tribuna.br" tvg-name="TV TRIBUNA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV TRIBUNA - SP
+#EXTINF:-1 tvg-id="Globo TV Tribuna.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_TV_Tribuna_%28Santos%29.png?20220303181025" group-title="TV ABERTA",TV TRIBUNA - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/91473.m3u8
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV VANG. TAUBATE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TV_Globo_2024_azul.png/revision/latest/scale-to-width-down/1000?cb=20241210012706" group-title="TV ABERTA",TV VANGUARDA TAUBATÉ - SP 
 http://lmdns.online:80/4x6cXF/ehfxdp/91477.m3u8
