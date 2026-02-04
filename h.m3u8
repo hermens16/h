@@ -8,23 +8,23 @@ http://lmdns.online:80/4x6cXF/ehfxdp/95657.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90266.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
 http://lmdns.online:80/4x6cXF/ehfxdp/95666.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1280px-Rede_Bandeirantes_logo_2018.svg.png" group-title="TV ABERTA",BAND
 http://lmdns.online:80/4x6cXF/ehfxdp/95649.m3u8
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvBrasil2023.png" group-title="TV ABERTA",TV BRASIL
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/960px-TV_Brasil_logo_2023.svg.png" group-title="TV ABERTA",TV BRASIL
 http://lmdns.online:80/4x6cXF/ehfxdp/90409.m3u8
 #EXTINF:-1 tvg-id="RedeTV!.br" tvg-name="REDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png?20180330131443" group-title="TV ABERTA",REDE TV
 http://lmdns.online:80/4x6cXF/ehfxdp/95470.m3u8
 #EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="CULTURA" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",CULTURA
 http://lmdns.online:80/4x6cXF/ehfxdp/89900.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20241224170303" group-title="TV ABERTA",VIVA
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="GLOBOPLAY NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/960px-Globoplay_Novelas.svg.png" group-title="TV ABERTA",GLOBOPLAY NOVELAS
 http://lmdns.online:80/4x6cXF/ehfxdp/90440.m3u8
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="TV ABERTA",MULTISHOW 
 http://lmdns.online:80/4x6cXF/ehfxdp/90173.m3u8
 #EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="TV ABERTA",GNT 
 http://lmdns.online:80/4x6cXF/ehfxdp/90084.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png" group-title="TV ABERTA",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="TV ABERTA",CANAL BRASIL
 http://lmdns.online:80/4x6cXF/ehfxdp/89840.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/120px-Canal_Futura.png" group-title="TV ABERTA",FUTURA
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://midia.frm.org.br/drupal/public/styles/imagem_paragraph_foto_webp/public/media/image/2022-07/Futura%20logo%20nova.jpg.webp?VersionId=0Ja1AxppN2kPdyKcOR1HQm8GiaR4xThe&itok=JaUJv4Qg" group-title="TV ABERTA",FUTURA
 http://lmdns.online:80/4x6cXF/ehfxdp/89846.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/120px-TV_Gazeta.svg.png" group-title="TV ABERTA",GAZETA
 http://lmdns.online:80/4x6cXF/ehfxdp/90010.m3u8
