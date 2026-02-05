@@ -112,7 +112,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91397.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90029.m3u8
 #EXTINF:-1 tvg-id="EPTV Sul de Minas HD.br" tvg-name="EPTV RIBEIRÃO PRETO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="TV ABERTA",EPTV RIBEIRÃO PRETO - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/90027.m3u8
-#EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-name="TV GLOBO - RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Globo_Rio_2021.svg/330px-Globo_Rio_2021.svg.png" group-title="TV ABERTA",TV GLOBO - RJ
+#EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-name="TV GLOBO - RJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422" group-title="TV ABERTA",TV GLOBO - RJ
 http://lmdns.online:80/4x6cXF/ehfxdp/91431.m3u8
 #EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV RIO SUL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/TV_Rio_Sul.png" group-title="TV ABERTA",TV RIO SUL - RJ
 http://lmdns.online:80/4x6cXF/ehfxdp/91466.m3u8
@@ -124,7 +124,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91405.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/91409.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="INTERTV DOS VALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/InterTV_Logo_2025.webp/578px-InterTV_Logo_2025.webp.png" group-title="TV ABERTA",INTER TV DOS VALES - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/91408.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Globo_Minas_2021.svg/500px-Globo_Minas_2021.svg.png" group-title="TV ABERTA",TV GLOBO MINAS - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV GLOBO MINAS - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/90034.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Integra%C3%A7%C3%A3o.png" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/91459.m3u8
