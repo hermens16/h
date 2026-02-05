@@ -144,8 +144,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91435.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/91440.m3u8
 #EXTINF:-1 tvg-id="RPC Curitiba HD.br" tvg-name="RPC CURITIBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV ABERTA",RPC CURITIBA - PR
 http://lmdns.online:80/4x6cXF/ehfxdp/91434.m3u8
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS
-http://lmdns.online:80/4x6cXF/ehfxdp/90046.m3u8
 #EXTINF:-1 tvg-id="NSC TV Chapeco HD.br" tvg-name="NSC TV CHAPECÓ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA",NSC TV CHAPECÓ - SC 
 http://lmdns.online:80/4x6cXF/ehfxdp/91413.m3u8
 #EXTINF:-1 tvg-id="NSC TV Florianopolis HD.br" tvg-name="NSC TV FLORIANÓPOLIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA",NSC TV FLORIANÓPOLIS - SC
@@ -156,6 +154,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91415.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/95461.m3u8
 #EXTINF:-1 tvg-id="NSC TV Joinville HD.br" tvg-name="NSC JOINVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA",NSC TV JOINVILLE - SC
 http://lmdns.online:80/4x6cXF/ehfxdp/91418.m3u8
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre HD.br" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="TV ABERTA",RBS TV PORTO ALEGRE - RS
+http://lmdns.online:80/4x6cXF/ehfxdp/90046.m3u8
 #EXTINF:-1 tvg-id="Record TV Bahia.br" tvg-name="RECORD BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Logotipo_da_TV_Record_Bahia.png" group-title="TV ABERTA",RECORD BAHIA - BA
 http://lmdns.online:80/4x6cXF/ehfxdp/90245.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD MANAUS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0b/Logotipo_da_RecordTV_Manaus.png" group-title="TV ABERTA",RECORD MANAUS - AM
