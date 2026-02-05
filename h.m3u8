@@ -168,11 +168,11 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90253.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90252.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD LITORAL E VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="TV ABERTA",RECORD LITORAL E VALE - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/123216.m3u8
-#EXTINF:-1 tvg-id="Record TV Minas HD.br" tvg-name="RECORD MINAS" tvg-logo="https://img.r7.com/images/record-minas-24112023115352237" group-title="TV ABERTA",RECORD MINAS - MG
+#EXTINF:-1 tvg-id="Record TV Minas HD.br" tvg-name="RECORD MINAS" tvg-logo="https://img.r7.com/images/record-minas-24112023115417196" group-title="TV ABERTA",RECORD MINAS - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/90257.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PARANAÍBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/ed/TV_Parana%C3%ADba.jpg/250px-TV_Parana%C3%ADba.jpg" group-title="TV ABERTA",TV PARANAÍBA - MG
+#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PARANAÍBA" tvg-logo="https://img.r7.com/images/tv-paranaiba-19122023185843511" group-title="TV ABERTA",TV PARANAÍBA - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/124836.m3u8
-#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD BELÉM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaySawR8aaFT6c3kJbt_ZmSx_prZ0bugTdDg&s" group-title="TV ABERTA",RECORD BELÉM - PA
+#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD BELÉM" tvg-logo="https://img.r7.com/images/tv-belem-19122023191407435" group-title="TV ABERTA",RECORD BELÉM - PA
 http://lmdns.online:80/4x6cXF/ehfxdp/100400.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV GUARARAPES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d3/Logotipo_da_TV_Guararapes.png" group-title="TV ABERTA",TV GUARARAPES - PE
 http://lmdns.online:80/4x6cXF/ehfxdp/100401.m3u8
@@ -184,11 +184,11 @@ https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklis
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="NDTV JOINVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NDTV_logo_v2.png" group-title="TV ABERTA",NDTV JOINVILLE - SC
 http://lmdns.online:80/4x6cXF/ehfxdp/123212.m3u8
-#EXTINF:-1 tvg-id="Record TV Rio HD.br" tvg-name="RECORD RJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Recordrio.png/revision/latest?cb=20241218122834" group-title="TV ABERTA",RECORD RIO - RJ
+#EXTINF:-1 tvg-id="Record TV Rio HD.br" tvg-name="RECORD RJ" tvg-logo="https://img.r7.com/images/record-rio-24112023134027492" group-title="TV ABERTA",RECORD RIO - RJ
 http://lmdns.online:80/4x6cXF/ehfxdp/90261.m3u8
 #EXTINF:-1 tvg-id="RecordTV Sao Paulo HD.br" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png" group-title="TV ABERTA",RECORD - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90265.m3u8
-#EXTINF:-1 tvg-id="Record TV RS.br" tvg-name="RECORD RS" tvg-logo="http://comercial.recordtv.com.br/files/2015/12/Logo-Record-RS.png" group-title="TV ABERTA",RECORD - RS
+#EXTINF:-1 tvg-id="Record TV RS.br" tvg-name="RECORD RS" tvg-logo="https://img.r7.com/images/record-rs-24112023143000425" group-title="TV ABERTA",RECORD - RS
 http://lmdns.online:80/4x6cXF/ehfxdp/90264.m3u8
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="TV ABERTA",TV ARATU - BA
 http://lmdns.online:80/4x6cXF/ehfxdp/90300.m3u8
