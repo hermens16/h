@@ -162,17 +162,17 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90245.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90255.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV VILA REAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TV_Vila_Real_2022.png/revision/latest?cb=20250618111553" group-title="TV ABERTA",TV VILA REAL - MT
 http://lmdns.online:80/4x6cXF/ehfxdp/100543.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD GOIÁS" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/Record_Goi%C3%A1s_2023.jpg/revision/latest?cb=20231112003343&path-prefix=pt-br" group-title="TV ABERTA",RECORD GOIÁS - GO
+#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD GOIÁS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png?20241104192931" group-title="TV ABERTA",RECORD GOIÁS - GO
 http://lmdns.online:80/4x6cXF/ehfxdp/90253.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD CAMPINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="TV ABERTA",TV THATHI CAMPINAS - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90252.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD LITORAL E VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="TV ABERTA",RECORD LITORAL E VALE - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/123216.m3u8
-#EXTINF:-1 tvg-id="Record TV Minas HD.br" tvg-name="RECORD MINAS" tvg-logo="https://img.r7.com/images/record-minas-24112023115417196" group-title="TV ABERTA",RECORD MINAS - MG
+#EXTINF:-1 tvg-id="Record TV Minas HD.br" tvg-name="RECORD MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png?20241104192931" group-title="TV ABERTA",RECORD MINAS - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/90257.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PARANAÍBA" tvg-logo="https://img.r7.com/images/tv-paranaiba-19122023185843511" group-title="TV ABERTA",TV PARANAÍBA - MG
+#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="TV PARANAÍBA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png?20241104192931" group-title="TV ABERTA",TV PARANAÍBA - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/124836.m3u8
-#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD BELÉM" tvg-logo="https://img.r7.com/images/tv-belem-19122023191407435" group-title="TV ABERTA",RECORD BELÉM - PA
+#EXTINF:-1 tvg-id="Record TV.br" tvg-name="RECORD BELÉM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png?20241104192931" group-title="TV ABERTA",RECORD BELÉM - PA
 http://lmdns.online:80/4x6cXF/ehfxdp/100400.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV GUARARAPES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d3/Logotipo_da_TV_Guararapes.png" group-title="TV ABERTA",TV GUARARAPES - PE
 http://lmdns.online:80/4x6cXF/ehfxdp/100401.m3u8
@@ -184,11 +184,11 @@ https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklis
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="NDTV JOINVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NDTV_logo_v2.png" group-title="TV ABERTA",NDTV JOINVILLE - SC
 http://lmdns.online:80/4x6cXF/ehfxdp/123212.m3u8
-#EXTINF:-1 tvg-id="Record TV Rio HD.br" tvg-name="RECORD RJ" tvg-logo="https://img.r7.com/images/record-rio-24112023134027492" group-title="TV ABERTA",RECORD RIO - RJ
+#EXTINF:-1 tvg-id="Record TV Rio HD.br" tvg-name="RECORD RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png?20241104192931" group-title="TV ABERTA",RECORD RIO - RJ
 http://lmdns.online:80/4x6cXF/ehfxdp/90261.m3u8
 #EXTINF:-1 tvg-id="RecordTV Sao Paulo HD.br" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png" group-title="TV ABERTA",RECORD - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90265.m3u8
-#EXTINF:-1 tvg-id="Record TV RS.br" tvg-name="RECORD RS" tvg-logo="https://img.r7.com/images/record-rs-24112023143000425" group-title="TV ABERTA",RECORD - RS
+#EXTINF:-1 tvg-id="Record TV RS.br" tvg-name="RECORD RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png?20241104192931" group-title="TV ABERTA",RECORD - RS
 http://lmdns.online:80/4x6cXF/ehfxdp/90264.m3u8
 #EXTINF:-1 tvg-id="TV Aratu HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="TV ABERTA",TV ARATU - BA
 http://lmdns.online:80/4x6cXF/ehfxdp/90300.m3u8
@@ -204,53 +204,53 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90302.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/95493.m3u8
 #EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT PARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/SBT_Par%C3%A1.png" group-title="TV ABERTA",SBT PARÁ - PA
 http://lmdns.online:80/4x6cXF/ehfxdp/90288.m3u8
-#EXTINF:-1 tvg-id="SBT Goiania TV Serra Dourada.br" tvg-name="SBT SERRA DOURADA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV SERRA DOURADA - GO
+#EXTINF:-1 tvg-id="SBT Goiania TV Serra Dourada.br" tvg-name="SBT SERRA DOURADA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png" group-title="TV ABERTA",TV SERRA DOURADA - GO
 http://lmdns.online:80/4x6cXF/ehfxdp/90294.m3u8
-#EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV ALTEROSA - MG
+#EXTINF:-1 tvg-id="TV Alterosa HD.br" tvg-name="TV ALTEROSA" tvg-logo="https://img1.gratispng.com/20180709/uop/aaws5bcyf.webp" group-title="TV ABERTA",TV ALTEROSA - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/97414.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="VTV" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",VTV - SP
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_da_VTV.jpg" group-title="TV ABERTA",VTV - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90305.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT BRASÍLIA" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT BRASÍLIA - DF
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT BRASÍLIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/21/Logotipo_do_SBT_Bras%C3%ADlia.png?20160318163259" group-title="TV ABERTA",SBT BRASÍLIA - DF
 http://lmdns.online:80/4x6cXF/ehfxdp/90285.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT INTERIOR" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT INTERIOR - SP
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SBT INTERIOR" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/sbt-interior-logo.png" group-title="TV ABERTA",SBT INTERIOR - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90287.m3u8
-#EXTINF:-1 tvg-id="SBT TV Ponta Verde HD.br" tvg-name="TV PONTA VERDE" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV PONTA VERDE - AL
+#EXTINF:-1 tvg-id="SBT TV Ponta Verde HD.br" tvg-name="TV PONTA VERDE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f3/Logotipo_da_TV_Ponta_Verde.png?20160702205949" group-title="TV ABERTA",TV PONTA VERDE - AL
 http://lmdns.online:80/4x6cXF/ehfxdp/90302.m3u8
-#EXTINF:-1 tvg-id="SBT Rio HD.br" tvg-name="SBT RJ" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT RIO - RJ
+#EXTINF:-1 tvg-id="SBT Rio HD.br" tvg-name="SBT RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logotipo_do_SBT_Rio.png?20150418193057" group-title="TV ABERTA",SBT RIO - RJ
 http://lmdns.online:80/4x6cXF/ehfxdp/90290.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="TV DIFUSORA SÃO LUÍS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",TV DIFUSORA SÃO LUÍS - MA
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="TV DIFUSORA SÃO LUÍS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png?20211111013228" group-title="TV ABERTA",TV DIFUSORA SÃO LUÍS - MA
 http://lmdns.online:80/4x6cXF/ehfxdp/90301.m3u8
-#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - SP
+#EXTINF:-1 tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334" group-title="TV ABERTA",SBT - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90296.m3u8
-#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SCC SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SCC SBT - SC
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-name="SCC SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ad/Logotipo_do_SBT_SC.png" group-title="TV ABERTA",SCC SBT - SC
 http://lmdns.online:80/4x6cXF/ehfxdp/90293.m3u8
-#EXTINF:-1 tvg-id="SBT RS HD.br" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT - RS
+#EXTINF:-1 tvg-id="SBT RS HD.br" tvg-name="SBT RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_RS.png" group-title="TV ABERTA",SBT - RS
 http://lmdns.online:80/4x6cXF/ehfxdp/90291.m3u8
-#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - SP
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="BAND - SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Band-eye.png/revision/latest?cb=20250627132130" group-title="TV ABERTA",BAND - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/89823.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MAIS - SP
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Band_Mais_logo.png" group-title="TV ABERTA",BAND MAIS - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/89817.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND PAULISTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CAMPINAS - SP
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND PAULISTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGrnb6_VJHjK92kcMorrrjUa1kCzuC26EPw&s" group-title="TV ABERTA",BAND CAMPINAS - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/110231.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND VALE - SP
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/TV_Band_Vale_logo.png" group-title="TV ABERTA",BAND VALE - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/110232.m3u8
-#EXTINF:-1 tvg-id="Band RJ HD.br" tvg-name="BAND RIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND RIO - RJ
+#EXTINF:-1 tvg-id="Band RJ HD.br" tvg-name="BAND RIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1280px-Rede_Bandeirantes_logo_2018.svg.png" group-title="TV ABERTA",BAND RIO - RJ
 http://lmdns.online:80/4x6cXF/ehfxdp/101480.m3u8
-#EXTINF:-1 tvg-id="Band Minas.br" tvg-name="BAND MINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND MINAS - MG
+#EXTINF:-1 tvg-id="Band Minas.br" tvg-name="BAND MINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Band-eye.png/revision/latest?cb=20250627132130" group-title="TV ABERTA",BAND MINAS - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/110234.m3u8
-#EXTINF:-1 tvg-id="Band Bahia HD.br" tvg-name="BAND BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND BAHIA - BA
+#EXTINF:-1 tvg-id="Band Bahia HD.br" tvg-name="BAND BAHIA" tvg-logo="https://sinaprobahia.com.br/wp-content/uploads/2019/09/Band-Bahia-1.png" group-title="TV ABERTA",BAND BAHIA - BA
 http://lmdns.online:80/4x6cXF/ehfxdp/110228.m3u8
-#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND CEARÁ - CE
+#EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Band_Cear%C3%A1_logo.png" group-title="TV ABERTA",BAND CEARÁ - CE
 http://lmdns.online:80/4x6cXF/ehfxdp/101479.m3u8
-#EXTINF:-1 tvg-id="Band Belem.br" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",RBA TV - PA
+#EXTINF:-1 tvg-id="Band Belem.br" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="TV ABERTA",RBA TV - PA
 http://lmdns.online:80/4x6cXF/ehfxdp/101482.m3u8
-#EXTINF:-1 tvg-id="TV Tribuna HD.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",TV TRIBUNA - PE
+#EXTINF:-1 tvg-id="TV Tribuna HD.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png" group-title="TV ABERTA",TV TRIBUNA - PE
 http://lmdns.online:80/4x6cXF/ehfxdp/116878.m3u8
-#EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BAND AMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND AMAZONAS - AM
+#EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BAND AMAZONAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Band-eye.png/revision/latest?cb=20250627132130" group-title="TV ABERTA",BAND AMAZONAS - AM
 http://lmdns.online:80/4x6cXF/ehfxdp/110233.m3u8
-#EXTINF:-1 tvg-id="Band Curitiba HD.br" tvg-name="BAND PARANÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND PARANÁ - PR
+#EXTINF:-1 tvg-id="Band Curitiba HD.br" tvg-name="BAND PARANÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Band-eye.png/revision/latest?cb=20250627132130" group-title="TV ABERTA",BAND PARANÁ - PR
 http://lmdns.online:80/4x6cXF/ehfxdp/110229.m3u8
-#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="BAND RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Band_Marca.png/120px-Band_Marca.png" group-title="TV ABERTA",BAND - RS
+#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="BAND RS" tvg-logo="https://seeklogo.com/images/B/band-rs-2018-logo-2B4D05BD30-seeklogo.com.png" group-title="TV ABERTA",BAND - RS
 http://lmdns.online:80/4x6cXF/ehfxdp/100660.m3u8
 #EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV GUARÁ CAXIAS" tvg-logo="https://ugc.production.linktr.ee/ac8b3e63-c6b0-49be-a73d-6818df55ad2a_LOGO-TV-GUARA--1-.png?io=true&size=avatar-v3_0" group-title="TV ABERTA",TV GUARÁ CAXIAS - MA
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
