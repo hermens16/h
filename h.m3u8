@@ -40,7 +40,7 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
 #EXTINF:-1 tvg-id="combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/assets/LogoMaior-DdI0kjV1.png" group-title="TV ABERTA",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/TV_Di%C3%A1rio_logo_2023.png" group-title="TV ABERTA",TV DÁRIO
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/TV_Di%C3%A1rio_logo_2023.png" group-title="TV ABERTA",TV DIÁRIO
 http://lmdns.online:80/4x6cXF/ehfxdp/91449.m3u8
 #EXTINF:-1 tvg-id="Globo TV Bahia.br" tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TV_Bahia_Logo_%282025%29.png" group-title="TV ABERTA",TV BAHIA - BA
 http://lmdns.online:80/4x6cXF/ehfxdp/90064.m3u8
@@ -68,7 +68,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91463.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/95677.m3u8
 #EXTINF:-1 tvg-id="TV Sergipe HD.br" tvg-name="TV SERGIPE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/Logotipo_da_TV_Sergipe.png?20220420005016" group-title="TV ABERTA",TV SERGIPE - SE
 http://lmdns.online:80/4x6cXF/ehfxdp/95484.m3u8
-#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GLOBO BRASÍLIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8B5dftQHbTRNvEMvm8-IpCq7Mf7zOY5suw&s" group-title="TV ABERTA",TV GLOBO BRASÍLIA - DF
+#EXTINF:-1 tvg-id="Globo HD.br" tvg-name="TV GLOBO BRASÍLIA" tvg-logo="https://static.wikia.nocookie.net/programacao/images/4/43/Globo_-DF.jpg/revision/latest/scale-to-width-down/1000?cb=20250629214457&path-prefix=pt-br" group-title="TV ABERTA",TV GLOBO BRASÍLIA - DF
 http://lmdns.online:80/4x6cXF/ehfxdp/90019.m3u8
 #EXTINF:-1 tvg-id="TV Anhanguera HD.br" tvg-name="TV ANHANGUERA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png?20190707172047" group-title="TV ABERTA",TV ANHANGUERA - GO 
 http://lmdns.online:80/4x6cXF/ehfxdp/90062.m3u8
