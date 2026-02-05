@@ -126,9 +126,9 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91409.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/91408.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV GLOBO MINAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TVGlobo2021_orange.png/revision/latest?cb=20220506203649" group-title="TV ABERTA",TV GLOBO MINAS - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/90034.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7968db4b-08a8-4a7e-8a7d-7e8e2debd061/dez9e2b-4df27a81-33d3-4dfc-9743-2fb79b9369a3.png/v1/fill/w_1192,h_670,q_70,strp/tv_integracao_logo_2021_globo_concept_cinema_4d_by_cinematronico_dez9e2b-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzc5NjhkYjRiLTA4YTgtNGE3ZS04YTdkLTdlOGUyZGViZDA2MS9kZXo5ZTJiLTRkZjI3YTgxLTMzZDMtNGRmYy05NzQzLTJmYjc5YjkzNjlhMy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hxmVeD7Pd3PeJGB9AuBkyEFQrz0FKE7RyuANHQ1Y29Q" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/TVIntegracao2015.png/revision/latest/scale-to-width-down/1000?cb=20250123010007" group-title="TV ABERTA",TV INTEGRAÇÃO JUIZ DE FORA - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/91459.m3u8
-#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/TV_Integra%C3%A7ao_50_anos_logo.png/revision/latest?cb=20240911101515" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO UBERLÂNDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/TVIntegracao2015.png/revision/latest/scale-to-width-down/1000?cb=20250123010007" group-title="TV ABERTA",TV INTEGRAÇÃO UBERLÂNDIA - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/119725.m3u8
 #EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="TV INTEGRAÇÃO ARAXÁ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/TVIntegracao2015.png/revision/latest/scale-to-width-down/1000?cb=20250123010007" group-title="TV ABERTA",TV INTEGRAÇÃO ARAXÁ - MG
 http://lmdns.online:80/4x6cXF/ehfxdp/91456.m3u8
@@ -162,7 +162,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90245.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90255.m3u8
 #EXTINF:-1 tvg-id="Record TV.br" tvg-name="TV VILA REAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TV_Vila_Real_2022.png/revision/latest?cb=20250618111553" group-title="TV ABERTA",TV VILA REAL - MT
 http://lmdns.online:80/4x6cXF/ehfxdp/100543.m3u8
-#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD GOIÁS" tvg-logo="http://comercial.recordtv.com.br/files/2015/12/Logo-Record-Goi%C3%A1s.png" group-title="TV ABERTA",RECORD GOIÁS - GO
+#EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD GOIÁS" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/Record_Goi%C3%A1s_2023.jpg/revision/latest?cb=20231112003343&path-prefix=pt-br" group-title="TV ABERTA",RECORD GOIÁS - GO
 http://lmdns.online:80/4x6cXF/ehfxdp/90253.m3u8
 #EXTINF:-1 tvg-id="Record TV HD.br" tvg-name="RECORD CAMPINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="TV ABERTA",TV THATHI CAMPINAS - SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90252.m3u8
