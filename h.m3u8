@@ -257,6 +257,24 @@ http://lmdns.online:80/4x6cXF/ehfxdp/100660.m3u8
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV CELINAUTA - PR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/TV_Celinauta_2025.png/revision/latest?cb=20250815190331" group-title="TV ABERTA",TV CELINAUTA - PR
 https://usher.ttvnw.net/api/channel/hls/tvcelinauta.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiM2I4YzFjOGEtYmQxNi00YTRiLTkwNmUtNjM2NmNhYjM3NTQzIn0%3D&allow_source=true&browser_family=chrome&browser_version=144.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&multigroup_video=false&os_name=Windows&os_version=NT%2010.0&p=1024291&parent_domains=twitchplayer&platform=web&play_session_id=856306548567465b879121e88643dcc9&player_backend=mediaplayer&player_version=1.49.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=6384a4a8699c7c5d0bea11c7af3928140bc66dcf&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvcelinauta%22%2C%22channel_id%22%3A848354525%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a9c83f4162f9a163%22%2C%22expires%22%3A1770400716%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.190.35.31%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="IMPERIAL TV - MA" tvg-logo="https://ps-str.srvsite.com/arquivos/8415/cabecalho-8415-20250323181739.png" group-title="TV ABERTA",IMPERIAL TV - MA
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="O DIA TV - PI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="TV ABERTA",O DIA TV - PI
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O DIA TV - PI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2edfc8015ab176b68f0c4585aeda3569.webp" group-title="TV ABERTA",O DIA TV - PI
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV PAMPA - RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="TV ABERTA",TV PAMPA - RS
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV PANTANAL - MT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logotipo_TV_Pantanal.png" group-title="TV ABERTA",TV PANTANAL - MT
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="REDE TV - TO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_RedeTV%21_TO.png" group-title="TV ABERTA",REDE TV - TO
+https://video10.logicahost.com.br/redetvto/redetvto/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="SGC TV - RO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33e89f38ff6e8d852ccdc0302ecf0a6e.webp" group-title="TV ABERTA",SGC TV - RO
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="REDE TV MAIS - PR" tvg-logo="https://portalredetvmais.com.br/wp-content/uploads/2023/09/LOGO-RED.png" group-title="TV ABERTA",REDE TV MAIS - PR
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GuarÃ¡ HD.br" tvg-name="TV SÃO LUIS - MA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/TV_Sao_Luis_2024.png/revision/latest?cb=20240906040649" group-title="TV ABERTA",TV SÃO LUIS - MA
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://lmdns.online:80/4x6cXF/ehfxdp/89962.m3u8
@@ -1311,8 +1329,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://spaceks.net/sites/tvagrotour.com.br/images/logo/logo_650668991.png" group-title="VARIEDADES",NOVA TV AGROTOUR - RS
 https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w69938868.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2edfc8015ab176b68f0c4585aeda3569.webp" group-title="VARIEDADES",O DIA TV - PI
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w39098346.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV - SC
 https://stream.ichibantv.com:3522/stream/play.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11383/logo_256_1684136346.png" group-title="VARIEDADES",POLIDORO TV - SP
