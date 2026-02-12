@@ -808,51 +808,35 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bd
 #EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",DEATH NOTE 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL
-http://lmdns.online:80/4x6cXF/ehfxdp/303967.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/508054.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL GT" tvg-logo="https://e1.pngegg.com/pngimages/890/287/png-clipart-logo-dragon-ball-gt-anime-original-06-dragon-ball-gt-logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL GT
-http://lmdns.online:80/4x6cXF/ehfxdp/303968.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/508055.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL SUPER" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL SUPER
-http://lmdns.online:80/4x6cXF/ehfxdp/303969.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA DE MAJIN BOO" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z SAGA DE MAJIN BOO
-http://lmdns.online:80/4x6cXF/ehfxdp/304022.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA DE CELL" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z SAGA DE CELL
-http://lmdns.online:80/4x6cXF/ehfxdp/304019.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z SAGA FREEZA" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z SAGA FREEZA
-http://lmdns.online:80/4x6cXF/ehfxdp/304016.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z TORNEIO DE OUTRO MUNDO
-http://lmdns.online:80/4x6cXF/ehfxdp/304020.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/508056.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z
+http://lmdns.online:80/4x6cXF/ehfxdp/508057.m3u8
 #EXTINF:-1 tvg-id="65d9167818036500080e8780" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",HUNTER X HUNTER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",NARUTO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="ANIMES & TOKUSATSU",NARUTO 2
-http://lmdns.online:80/4x6cXF/ehfxdp/90909.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/508047.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/61/Naruto-logo-shippuuden.png?20160628170414" group-title="ANIMES & TOKUSATSU",NARUTO SHIPPUDEN
+http://lmdns.online:80/4x6cXF/ehfxdp/508166.m3u8
 #EXTINF:-1 tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",NARUTO SHIPPUDEN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",ONE PIECE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIMES & TOKUSATSU",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SAMURAI CHAMPLOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Samurai-Champloo-Logo-Red.png/640px-Samurai-Champloo-Logo-Red.png" group-title="ANIMES & TOKUSATSU",SAMURAI CHAMPLOO
-http://lmdns.online:80/4x6cXF/ehfxdp/91083.m3u8
 #EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIMES & TOKUSATSU",TRUTV  
 http://lmdns.online:80/4x6cXF/ehfxdp/90404.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-YU YU HAKUSHO" tvg-logo="https://static.wikia.nocookie.net/liberproeliis/images/1/1e/Hakusho-box-yu-yu.png/revision/latest?cb=20200815173009&path-prefix=pt-br" group-title="ANIMES & TOKUSATSU",YU YU HAKUSHO
-http://lmdns.online:80/4x6cXF/ehfxdp/91295.m3u8
 #EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ8e7Yk5vkkdNXXSOfPVBgsxZudjzCZBBPw&s" group-title="ANIMES & TOKUSATSU",GEEKDOT  
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",TOKUSATO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="JASPION" tvg-logo="https://pa1.aminoapps.com/6880/20b5289be0df9230beb54a44d66aaeee9b6c934br1-1000-340_00.gif" group-title="ANIMES & TOKUSATSU",JASPION 2
-http://lmdns.online:80/4x6cXF/ehfxdp/90778.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-KAMEN RIDER BLACK" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/Kamen_Rider_Black_Logo.png/revision/latest?cb=20200613192441" group-title="ANIMES & TOKUSATSU",KAMEN RIDER BLACK
-http://lmdns.online:80/4x6cXF/ehfxdp/90786.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ULTRAMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Ultraman_English_logo.png" group-title="ANIMES & TOKUSATSU",ULTRAMAN
-http://lmdns.online:80/4x6cXF/ehfxdp/91197.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="ANIMES & TOKUSATSU",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-WINSPECTOR" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6bfa91a-e0f6-450e-a91f-62138f13b80f/de6yzjk-2e0ce547-9af1-4130-880c-6fba15d83dcb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2YmZhOTFhLWUwZjYtNDUwZS1hOTFmLTYyMTM4ZjEzYjgwZlwvZGU2eXpqay0yZTBjZTU0Ny05YWYxLTQxMzAtODgwYy02ZmJhMTVkODNkY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2lq-4NR_NroVl4gsXMQiK9zyioPTikFk2peqFkuRdG0" group-title="ANIMES & TOKUSATSU",WINSPECTOR
-http://lmdns.online:80/4x6cXF/ehfxdp/91212.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
 #EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://lmdns.online:80/4x6cXF/ehfxdp/90425.m3u8
@@ -936,16 +920,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="TV KIDMAIS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIS",TV KIDMAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1992511762.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A TURMA DO CHARLIE BROWN E SNOOPY" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/ae/A_Turma_do_Charlie_Brown.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230417022127&path-prefix=pt-br" group-title="INFANTIS",A TURMA DO CHARLIE BROWN E SNOOPY
-http://lmdns.online:80/4x6cXF/ehfxdp/90472.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A VACA E O FRANGO" tvg-logo="https://image.tmdb.org/t/p/original/tRgWFuXp2XcNk3sg8QUOh6wbnpv.png" group-title="INFANTIS",A VACA E O FRANGO
-http://lmdns.online:80/4x6cXF/ehfxdp/90474.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ALADDIN" tvg-logo="https://w7.pngwing.com/pngs/347/145/png-transparent-aladdin-princess-jasmine-jafar-genie-the-walt-disney-company-aladdin-genie-purple-violet-text.png" group-title="INFANTIS",ALADDIN
-http://lmdns.online:80/4x6cXF/ehfxdp/90480.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/508068.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIS",AS AVENTURAS DE BOB ESPONJA
-http://lmdns.online:80/4x6cXF/ehfxdp/90486.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/508131.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://w7.pngwing.com/pngs/447/831/png-transparent-television-show-animated-series-animated-film-jackie-chan-adventures-television-cartoon-fictional-character-thumbnail.png" group-title="INFANTIS",AS AVENTURAS DE JACKIE CHAN
-http://lmdns.online:80/4x6cXF/ehfxdp/90487.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/508075.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BOB ZOOM" tvg-logo="https://e7.pngegg.com/pngimages/920/364/png-clipart-bob-zoom-vol-4-music-al-jeep-del-padre-spotify-bob-s-watches-zoom-vol-4-thumbnail.png" group-title="INFANTIS",BOB ZOOM
 http://lmdns.online:80/4x6cXF/ehfxdp/90532.m3u8  
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="INFANTIS",CAVERNA DO DRAGÃO
