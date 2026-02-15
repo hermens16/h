@@ -276,6 +276,61 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Sao Luis HD.br" tvg-name="TV SÃO LUIS - MA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/TV_Sao_Luis_2024.png/revision/latest?cb=20240906040649" group-title="TV ABERTA",TV SÃO LUIS - MA
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+############## JOGOS ############## ############## JOGOS ############## JOGOS ############## ############## JOGOS ############## JOGOS ############## ############## JOGOS ############## JOGOS ############## ############## JOGOS
+#EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="JOGOS",JOGOS DO DIA
+http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[09:15] Albion x West Ham FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[09:15] Albion x West Ham FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[11:30] Werder Bremen x Bayern Munique FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[11:30] Werder Bremen x Bayern Munique FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[12:00] Manchester City x Salford FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[12:00] Manchester City x Salford FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[12:00] Southampton x Leicester FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[12:00] Southampton x Leicester FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[14:00] Lazio x Atalanta FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[14:00] Lazio x Atalanta FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[14:30] Al-Fateh x Al-Nassr FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[14:30] Al-Fateh x Al-Nassr FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[14:45] Aston Villa x Newcastle FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[14:45] Aston Villa x Newcastle FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Bahia x Jacuipense FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:00] Bahia x Jacuipense FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Operário x Coritiba FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:00] Operário x Coritiba FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[16:30] Brusque x Chapecoense FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:30] Brusque x Chapecoense FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[16:30] Ferroviário x Fortaleza FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:30] Ferroviário x Fortaleza FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[16:45] Inter de Milão x Juventus FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:45] Inter de Milão x Juventus FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[17:00] Real Madrid x Real Sociedad FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[17:00] Real Madrid x Real Sociedad FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[17:00] Liverpool x Brighton FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[17:00] Liverpool x Brighton FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[18:00] Santa Catarina x Avaí FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[18:00] Santa Catarina x Avaí FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] América-MG x North FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[19:00] América-MG x North FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] Itabirito x Atlético-MG FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[19:00] Itabirito x Atlético-MG FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Vasco x Volta Redonda FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[21:30] Vasco x Volta Redonda FHD
+http://lmdns.online:80/4x6cXF/ehfxdp/506939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
+http://lmdns.online:80/4x6cXF/ehfxdp/506947.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://lmdns.online:80/4x6cXF/ehfxdp/89962.m3u8
@@ -445,20 +500,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 ##### FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ######
 #EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILMES",HBO
-http://lmdns.online:80/4x6cXF/ehfxdp/90100.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/90101.m3u8
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/800px-HBO2_logo.svg.png" group-title="FILMES",HBO 2 
 http://lmdns.online:80/4x6cXF/ehfxdp/90092.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="FILMES",HBO FAMILY
 http://lmdns.online:80/4x6cXF/ehfxdp/90096.m3u8
-#EXTINF:-1 tvg-id="HBO Mundi HD.br" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="FILMES",HBO MUNDI
+#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="FILMES",HBO MUNDI
 http://lmdns.online:80/4x6cXF/ehfxdp/90110.m3u8
 #EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES",HBO PLUS
 http://lmdns.online:80/4x6cXF/ehfxdp/95501.m3u8
-#EXTINF:-1 tvg-id="HBO Pop HD.br" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="FILMES",HBO POP
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="FILMES",HBO POP
 http://lmdns.online:80/4x6cXF/ehfxdp/90114.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="FILMES",HBO SIGNATURE
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="FILMES",HBO SIGNATURE
 http://lmdns.online:80/4x6cXF/ehfxdp/90119.m3u8
-#EXTINF:-1 tvg-id="HBO Xtreme HD.br" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="FILMES",HBO XTREME 
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="FILMES",HBO XTREME 
 http://lmdns.online:80/4x6cXF/ehfxdp/90123.m3u8
 #EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TelecineAction2021.png/657px-TelecineAction2021.png" group-title="FILMES",TELECINE ACTION 
 http://lmdns.online:80/4x6cXF/ehfxdp/90362.m3u8
@@ -474,22 +529,18 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90378.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90382.m3u8
 #EXTINF:-1 tvg-id="AandE HD.br" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES",A&E
 http://lmdns.online:80/4x6cXF/ehfxdp/89792.m3u8
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="FILMES",AMC 
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="FILMES",AMC 
 http://lmdns.online:80/4x6cXF/ehfxdp/89799.m3u8
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="FILMES",AXN 
 http://lmdns.online:80/4x6cXF/ehfxdp/89812.m3u8
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="FILMES",CANAL SONY 
 http://lmdns.online:80/4x6cXF/ehfxdp/89854.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/800px-CinecanalLA.png" group-title="FILMES",CINECANAL 
-http://lmdns.online:80/4x6cXF/ehfxdp/95433.m3u8
-#EXTINF:-1 tvg-id="CINEMAX HD.br" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="FILMES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="FILMES",CINEMAX
 http://lmdns.online:80/4x6cXF/ehfxdp/89869.m3u8
 #EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="FILMES",EUROCHANNEL 
 http://lmdns.online:80/4x6cXF/ehfxdp/91362.m3u8
-#EXTINF:-1 tvg-id="Film And Arts.br" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="FILMES",FILM & ARTS 
+#EXTINF:-1 tvg-id="Filmarts.br" tvg-name="FILM & ARTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="FILMES",FILM & ARTS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89986.m3u8
-#EXTINF:-1 tvg-id="FX HD.br" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="FILMES",FX 
-http://lmdns.online:80/4x6cXF/ehfxdp/90006.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD.br" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png" group-title="FILMES",LIFETIME 
 http://lmdns.online:80/4x6cXF/ehfxdp/90143.m3u8
 #EXTINF:-1 tvg-id="Megapix HD.br" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/120px-Megapix_fundoclaro_midiaimpressa.png" group-title="FILMES",MEGAPIX 
@@ -498,10 +549,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90157.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90203.m3u8
 #EXTINF:-1 tvg-id="Space HD.br" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="FILMES",SPACE
 http://lmdns.online:80/4x6cXF/ehfxdp/90316.m3u8
-#EXTINF:-1 tvg-id="Star Channel HD.br" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/800px-Star_Channel_2021.png" group-title="FILMES",STAR CHANNEL 
-http://lmdns.online:80/4x6cXF/ehfxdp/90332.m3u8
-#EXTINF:-1 tvg-id="Star Life HD.br" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="FILMES",STAR LIFE 
-http://lmdns.online:80/4x6cXF/ehfxdp/90344.m3u8
 #EXTINF:-1 tvg-id="Studio Universal HD.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES",STUDIO UNIVERSAL 
 http://lmdns.online:80/4x6cXF/ehfxdp/90348.m3u8
 #EXTINF:-1 tvg-id="Syfy HD.br" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="FILMES",SYFY
@@ -714,8 +761,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89958.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/89803.m3u8
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/120px-Fish_TV_logo_2022.svg.png" group-title="DOCUMENTÁRIOS",FISH TV 
 http://lmdns.online:80/4x6cXF/ehfxdp/89990.m3u8
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="DOCUMENTÁRIOS",NATGEO 
-http://lmdns.online:80/4x6cXF/ehfxdp/90180.m3u8
 #EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/120px-DOGTV_logo.svg.png" group-title="DOCUMENTÁRIOS",DOGTV 
 http://lmdns.online:80/4x6cXF/ehfxdp/89951.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="DOCUMENTÁRIOS",PETLOVERS TV
@@ -838,8 +883,6 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
 #EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
 http://lmdns.online:80/4x6cXF/ehfxdp/90425.m3u8
-#EXTINF:-1 tvg-id="BABY TV.br" tvg-name="BABY TV.br " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/800px-Babytvv.png?20121127020616" group-title="INFANTIS",BABYTV  
-http://lmdns.online:80/4x6cXF/ehfxdp/95420.m3u8
 #EXTINF:-1 tvg-id="Boomerang HD.br" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMERANG 
 http://lmdns.online:80/4x6cXF/ehfxdp/89836.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIS",CARTOON NETWORK 
@@ -848,14 +891,14 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89865.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/91357.m3u8
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="https://seeklogo.com/images/D/discovery-kids-logo-FCF71E0B9B-seeklogo.com.png" group-title="INFANTIS",DISCOVERY KIDS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89921.m3u8
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1it7bo7Zpx_A7wFf3aOzTNOLcQSvsJ_olA&s" group-title="INFANTIS",DISNEY CHANNEL 
-http://lmdns.online:80/4x6cXF/ehfxdp/89941.m3u8
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-6.png" group-title="INFANTIS",GLOOB 
 http://lmdns.online:80/4x6cXF/ehfxdp/90076.m3u8
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/512px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO 
 http://lmdns.online:80/4x6cXF/ehfxdp/90080.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HELLO KITTY" tvg-logo="https://e7.pngegg.com/pngimages/816/297/png-clipart-hello-kitty-character-sanrio-hello-kitty-logo-hello-kitty-logo-love-game-thumbnail.png" group-title="INFANTIS",HELLO KITTY
 http://lmdns.online:80/4x6cXF/ehfxdp/90744.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="KIDMAIS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIS",KIDSMAIS
+http://lmdns.online:80/4x6cXF/ehfxdp/95420.m3u8
 #EXTINF:-1 tvg-id="Nick Jr. HD.br" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/642px-Nick_Jr._logo_2023.svg.png" group-title="INFANTIS",NICK JR 
 http://lmdns.online:80/4x6cXF/ehfxdp/90195.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 
@@ -916,8 +959,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="INFANTIS",TURMA DA MÔNICA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="TV KIDMAIS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIS",TV KIDMAIS
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1992511762.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A VACA E O FRANGO" tvg-logo="https://image.tmdb.org/t/p/original/tRgWFuXp2XcNk3sg8QUOh6wbnpv.png" group-title="INFANTIS",A VACA E O FRANGO
 http://lmdns.online:80/4x6cXF/ehfxdp/508068.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIS",AS AVENTURAS DE BOB ESPONJA
