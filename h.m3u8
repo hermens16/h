@@ -1,57 +1,57 @@
 #EXTM3U x-tvg-url="http://lmdns.online/get.xmltv?username=4x6cXF&password=ehfxdp&type=m3u_plus&output=m3u8,https://www.open-epg.com/generate/JErseBRjVK.xml.gz,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/brazil2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/files/portugal.xml.gz,https://www.open-epg.com/files/portugal2.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Singtel/epg.xml"
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[15:15] Al-Hilal x Al-Wahda FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:15] Al-Hilal x Al-Wahda FHD
+#EXTINF:-1 tvg-id="Like.br" tvg-name="[15:15] Al-Hilal x Al-Wahda FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:15] Al-Hilal x Al-Wahda FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:30] Macclesfield x Brentford FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:30] Macclesfield x Brentford FHD
+#EXTINF:-1 tvg-id="Like.br" tvg-name="[16:30] Macclesfield x Brentford FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:30] Macclesfield x Brentford FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:45] Cagliari x Lecce FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:45] Cagliari x Lecce FHD
+#EXTINF:-1 tvg-id="Like.br" tvg-name="[16:45] Cagliari x Lecce FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:45] Cagliari x Lecce FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] Girona x Barcelona FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] Girona x Barcelona FHD
+#EXTINF:-1 tvg-id="Like.br" tvg-name="[17:00] Girona x Barcelona FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] Girona x Barcelona FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Fluminense x Bangu FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:00] Fluminense x Bangu FHD
+#EXTINF:-1 tvg-id="Like.br" tvg-name="[18:00] Fluminense x Bangu FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:00] Fluminense x Bangu FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lmdns.online:80/4x6cXF/ehfxdp/506947.m3u8
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS RoDrIgUeS
@@ -606,7 +606,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="linear/runtime-romance-0" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME ROMANCE 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-id="Like.br""tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME AÇÃO 
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME AÇÃO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RUNTIME CINESPANTO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
@@ -723,233 +723,233 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91208.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ZOEY 101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Zoey101.png" group-title="SÉRIES",ZOEY 101
 http://lmdns.online:80/4x6cXF/ehfxdp/91310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg" group-title="SÉRIES",24 Horas
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24 Horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg" group-title="SÉRIES",24 Horas
 http://lmdns.online:80/4x6cXF/ehfxdp/508006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Beleza Secreta dos Animais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L7YNEVhuiWWl52Smpa6RPbG9d3.jpg" group-title="SÉRIES",A Beleza Secreta dos Animais
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Beleza Secreta dos Animais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L7YNEVhuiWWl52Smpa6RPbG9d3.jpg" group-title="SÉRIES",A Beleza Secreta dos Animais
 http://lmdns.online:80/4x6cXF/ehfxdp/508014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Culpa é do Cabral" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljf1Yx8lDTQqsy8GRmHpIdptjJH.jpg" group-title="SÉRIES",A Culpa é do Cabral
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Culpa é do Cabral" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljf1Yx8lDTQqsy8GRmHpIdptjJH.jpg" group-title="SÉRIES",A Culpa é do Cabral
 http://lmdns.online:80/4x6cXF/ehfxdp/507974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Diarista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7uzLfBI8CVy1W0VxVqC24VaSY0.jpg" group-title="SÉRIES",A Diarista
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Diarista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7uzLfBI8CVy1W0VxVqC24VaSY0.jpg" group-title="SÉRIES",A Diarista
 http://lmdns.online:80/4x6cXF/ehfxdp/508015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg" group-title="SÉRIES",A Grande Família
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Grande Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg" group-title="SÉRIES",A Grande Família
 http://lmdns.online:80/4x6cXF/ehfxdp/507962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Rocha Encantada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yzibcEql49amNSTD8dTvt0KnBW.jpg" group-title="SÉRIES",A Rocha Encantada
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Rocha Encantada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yzibcEql49amNSTD8dTvt0KnBW.jpg" group-title="SÉRIES",A Rocha Encantada
 http://lmdns.online:80/4x6cXF/ehfxdp/507932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Rocha Encantada: De Volta à Caverna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcWlt5kTXbWmVo5s69OkWfVpQ4A.jpg" group-title="SÉRIES",A Rocha Encantada: De Volta à Caverna
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Rocha Encantada: De Volta à Caverna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcWlt5kTXbWmVo5s69OkWfVpQ4A.jpg" group-title="SÉRIES",A Rocha Encantada: De Volta à Caverna
 http://lmdns.online:80/4x6cXF/ehfxdp/508023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aeroporto: Área Restrita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mm8ys7s1XyADCV9mlFtZYJ2Jui.jpg" group-title="SÉRIES",Aeroporto: Área Restrita
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Aeroporto: Área Restrita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mm8ys7s1XyADCV9mlFtZYJ2Jui.jpg" group-title="SÉRIES",Aeroporto: Área Restrita
 http://lmdns.online:80/4x6cXF/ehfxdp/507933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aeroporto: Estados Unidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srltefAUWZsKtEF9dgkg4Ssgjsw.jpg" group-title="SÉRIES",Aeroporto: Estados Unidos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Aeroporto: Estados Unidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srltefAUWZsKtEF9dgkg4Ssgjsw.jpg" group-title="SÉRIES",Aeroporto: Estados Unidos
 http://lmdns.online:80/4x6cXF/ehfxdp/507976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WwFZ5oOirY3JrfmRXlgnlYfanD.jpg" group-title="SÉRIES",Agentes da S.H.I.E.L.D. da Marvel
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Agentes da S.H.I.E.L.D. da Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WwFZ5oOirY3JrfmRXlgnlYfanD.jpg" group-title="SÉRIES",Agentes da S.H.I.E.L.D. da Marvel
 http://lmdns.online:80/4x6cXF/ehfxdp/507982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALF, o ETeimoso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="SÉRIES",ALF, o ETeimoso
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ALF, o ETeimoso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="SÉRIES",ALF, o ETeimoso
 http://lmdns.online:80/4x6cXF/ehfxdp/507934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alienígenas do Passado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlFaRJ3LwVBrZ3KV4OK4QRScY7p.jpg" group-title="SÉRIES",Alienígenas do Passado
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Alienígenas do Passado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlFaRJ3LwVBrZ3KV4OK4QRScY7p.jpg" group-title="SÉRIES",Alienígenas do Passado
 http://lmdns.online:80/4x6cXF/ehfxdp/507973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anos Incríveis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hswvsQo7AWuxoZa7tvemA2ySyHe.jpg" group-title="SÉRIES",Anos Incríveis
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Anos Incríveis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hswvsQo7AWuxoZa7tvemA2ySyHe.jpg" group-title="SÉRIES",Anos Incríveis
 http://lmdns.online:80/4x6cXF/ehfxdp/508016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Visões da Raven" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AYuv6cSBC0Iqb1Ugkfp3z3Pjyw.jpg" group-title="SÉRIES",As Visões da Raven
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Visões da Raven" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AYuv6cSBC0Iqb1Ugkfp3z3Pjyw.jpg" group-title="SÉRIES",As Visões da Raven
 http://lmdns.online:80/4x6cXF/ehfxdp/507935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg" group-title="SÉRIES",Big Bang: A Teoria
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Big Bang: A Teoria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg" group-title="SÉRIES",Big Bang: A Teoria
 http://lmdns.online:80/4x6cXF/ehfxdp/507937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGwm9Cj3CdbJIqQWNExQqiYmCd4.jpg" group-title="SÉRIES",Breaking Bad
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGwm9Cj3CdbJIqQWNExQqiYmCd4.jpg" group-title="SÉRIES",Breaking Bad
 http://lmdns.online:80/4x6cXF/ehfxdp/507977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nine-Nine: Lei e Desordem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgRMSOt7a1b8qyQR68vUixJPang.jpg" group-title="SÉRIES",Brooklyn Nine-Nine: Lei e Desordem
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Brooklyn Nine-Nine: Lei e Desordem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgRMSOt7a1b8qyQR68vUixJPang.jpg" group-title="SÉRIES",Brooklyn Nine-Nine: Lei e Desordem
 http://lmdns.online:80/4x6cXF/ehfxdp/507936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9Yo9plrovUUl8sa3UFt3Q9bxpE.jpg" group-title="SÉRIES",Castelo Rá-Tim-Bum
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Castelo Rá-Tim-Bum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9Yo9plrovUUl8sa3UFt3Q9bxpE.jpg" group-title="SÉRIES",Castelo Rá-Tim-Bum
 http://lmdns.online:80/4x6cXF/ehfxdp/508044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cavaleiro da Lua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg" group-title="SÉRIES",Cavaleiro da Lua
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Cavaleiro da Lua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg" group-title="SÉRIES",Cavaleiro da Lua
 http://lmdns.online:80/4x6cXF/ehfxdp/507983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuOrzFX2UrfCFWDKE6sBdugoKeP.jpg" group-title="SÉRIES",Chapolin Colorado
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Chapolin Colorado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuOrzFX2UrfCFWDKE6sBdugoKeP.jpg" group-title="SÉRIES",Chapolin Colorado
 http://lmdns.online:80/4x6cXF/ehfxdp/507938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="SÉRIES",Chaves
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Chaves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="SÉRIES",Chaves
 http://lmdns.online:80/4x6cXF/ehfxdp/507939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chefs de Alto Nível com Gordon Ramsay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KifXFDsUDnoWdunVP0dfU6Pc7z.jpg" group-title="SÉRIES",Chefs de Alto Nível com Gordon Ramsay
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Chefs de Alto Nível com Gordon Ramsay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KifXFDsUDnoWdunVP0dfU6Pc7z.jpg" group-title="SÉRIES",Chefs de Alto Nível com Gordon Ramsay
 http://lmdns.online:80/4x6cXF/ehfxdp/508031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cocoricó" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeMDzsQrJGJ91Jh0tLJM1vUB3oH.jpg" group-title="SÉRIES",Cocoricó
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Cocoricó" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeMDzsQrJGJ91Jh0tLJM1vUB3oH.jpg" group-title="SÉRIES",Cocoricó
 http://lmdns.online:80/4x6cXF/ehfxdp/508017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Cyber" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg" group-title="SÉRIES",CSI: Cyber
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CSI: Cyber" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg" group-title="SÉRIES",CSI: Cyber
 http://lmdns.online:80/4x6cXF/ehfxdp/508040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Investigação Criminal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OOXYxrLLupCiUP78fDVGwaq0As.jpg" group-title="SÉRIES",CSI: Investigação Criminal
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CSI: Investigação Criminal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OOXYxrLLupCiUP78fDVGwaq0As.jpg" group-title="SÉRIES",CSI: Investigação Criminal
 http://lmdns.online:80/4x6cXF/ehfxdp/508001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMLbHU7a7RWTg1vacCNtHnnzbPU.jpg" group-title="SÉRIES",CSI: Miami
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CSI: Miami" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMLbHU7a7RWTg1vacCNtHnnzbPU.jpg" group-title="SÉRIES",CSI: Miami
 http://lmdns.online:80/4x6cXF/ehfxdp/508002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Nova York" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg" group-title="SÉRIES",CSI: Nova York
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CSI: Nova York" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg" group-title="SÉRIES",CSI: Nova York
 http://lmdns.online:80/4x6cXF/ehfxdp/508003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI: Vegas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg" group-title="SÉRIES",CSI: Vegas
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CSI: Vegas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg" group-title="SÉRIES",CSI: Vegas
 http://lmdns.online:80/4x6cXF/ehfxdp/508030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="De Férias com o Ex Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSYlNoUWagwR1jpftExIVeMm3Kc.jpg" group-title="SÉRIES",De Férias com o Ex Brasil
+#EXTINF:-1 tvg-id="Like.br" tvg-name="De Férias com o Ex Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSYlNoUWagwR1jpftExIVeMm3Kc.jpg" group-title="SÉRIES",De Férias com o Ex Brasil
 http://lmdns.online:80/4x6cXF/ehfxdp/507966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Demolidor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7zUHG5cko4ZXQO2209Qc2aoyrc.jpg" group-title="SÉRIES",Demolidor
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Demolidor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7zUHG5cko4ZXQO2209Qc2aoyrc.jpg" group-title="SÉRIES",Demolidor
 http://lmdns.online:80/4x6cXF/ehfxdp/507984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="SÉRIES",Dois Homens e Meio
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dois Homens e Meio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="SÉRIES",Dois Homens e Meio
 http://lmdns.online:80/4x6cXF/ehfxdp/507940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="SÉRIES",Dr. House
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dr. House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="SÉRIES",Dr. House
 http://lmdns.online:80/4x6cXF/ehfxdp/507941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udCvGctktHvvf8w51XyTPfcmzDa.jpg" group-title="SÉRIES",Drake e Josh
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Drake e Josh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udCvGctktHvvf8w51XyTPfcmzDa.jpg" group-title="SÉRIES",Drake e Josh
 http://lmdns.online:80/4x6cXF/ehfxdp/507942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Groot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MVybYeuZY7HSt3FhYvk4dMmYbD.jpg" group-title="SÉRIES",Eu Sou Groot
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Eu Sou Groot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MVybYeuZY7HSt3FhYvk4dMmYbD.jpg" group-title="SÉRIES",Eu Sou Groot
 http://lmdns.online:80/4x6cXF/ehfxdp/507985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eu, a Patroa e as Crianças" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huMehRjXBkFkO9BWPly1635y0J0.jpg" group-title="SÉRIES",Eu, a Patroa e as Crianças
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Eu, a Patroa e as Crianças" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huMehRjXBkFkO9BWPly1635y0J0.jpg" group-title="SÉRIES",Eu, a Patroa e as Crianças
 http://lmdns.online:80/4x6cXF/ehfxdp/507943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Falcão e o Soldado Invernal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF9njYCN6lBdrsi6wfulcxTggvn.jpg" group-title="SÉRIES",Falcão e o Soldado Invernal
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Falcão e o Soldado Invernal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF9njYCN6lBdrsi6wfulcxTggvn.jpg" group-title="SÉRIES",Falcão e o Soldado Invernal
 http://lmdns.online:80/4x6cXF/ehfxdp/507986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES",Família Dinossauros
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Família Dinossauros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES",Família Dinossauros
 http://lmdns.online:80/4x6cXF/ehfxdp/507944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Febre do Ouro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1OqEWauZnYhzpWYSN5DTV0L9Uj.jpg" group-title="SÉRIES",Febre do Ouro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Febre do Ouro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1OqEWauZnYhzpWYSN5DTV0L9Uj.jpg" group-title="SÉRIES",Febre do Ouro
 http://lmdns.online:80/4x6cXF/ehfxdp/507967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg" group-title="SÉRIES",Friends
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Friends" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg" group-title="SÉRIES",Friends
 http://lmdns.online:80/4x6cXF/ehfxdp/507945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqomTRKjNZkmNEeOZnEmWrFTmKU.jpg" group-title="SÉRIES",Game of Thrones
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqomTRKjNZkmNEeOZnEmWrFTmKU.jpg" group-title="SÉRIES",Game of Thrones
 http://lmdns.online:80/4x6cXF/ehfxdp/507963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hannah Montana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usJAQAA7s9lJGGOGehIZdzKPCke.jpg" group-title="SÉRIES",Hannah Montana
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Hannah Montana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usJAQAA7s9lJGGOGehIZdzKPCke.jpg" group-title="SÉRIES",Hannah Montana
 http://lmdns.online:80/4x6cXF/ehfxdp/508034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="iCarly" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX5q7GqGWJOgR2r0kAyWAtGWfD0.jpg" group-title="SÉRIES",iCarly
+#EXTINF:-1 tvg-id="Like.br" tvg-name="iCarly" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX5q7GqGWJOgR2r0kAyWAtGWfD0.jpg" group-title="SÉRIES",iCarly
 http://lmdns.online:80/4x6cXF/ehfxdp/507975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Invasão Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jTlRJxmulcKSedMx3c9Hp3frDY.jpg" group-title="SÉRIES",Invasão Secreta
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Invasão Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jTlRJxmulcKSedMx3c9Hp3frDY.jpg" group-title="SÉRIES",Invasão Secreta
 http://lmdns.online:80/4x6cXF/ehfxdp/507987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg" group-title="SÉRIES",Kenan e Kel
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Kenan e Kel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg" group-title="SÉRIES",Kenan e Kel
 http://lmdns.online:80/4x6cXF/ehfxdp/507947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lady Night" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tot0vxSAdIajv1OQ0e5KYAYaqQ1.jpg" group-title="SÉRIES",Lady Night
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Lady Night" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tot0vxSAdIajv1OQ0e5KYAYaqQ1.jpg" group-title="SÉRIES",Lady Night
 http://lmdns.online:80/4x6cXF/ehfxdp/508020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SÉRIES",Largados e Pelados
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Largados e Pelados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SÉRIES",Largados e Pelados
 http://lmdns.online:80/4x6cXF/ehfxdp/507948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ism502NLILdPN8NBuNzsbs7THO.jpg" group-title="SÉRIES",Largados e Pelados: A Tribo
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Largados e Pelados: A Tribo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ism502NLILdPN8NBuNzsbs7THO.jpg" group-title="SÉRIES",Largados e Pelados: A Tribo
 http://lmdns.online:80/4x6cXF/ehfxdp/507949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: Latinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" group-title="SÉRIES",Largados e Pelados: Latinos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Largados e Pelados: Latinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haX5JWo1IViABq2hMQ5AiJhFatV.jpg" group-title="SÉRIES",Largados e Pelados: Latinos
 http://lmdns.online:80/4x6cXF/ehfxdp/508035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Linha Direta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FcRnh2wVrFdRoWFDf2P64UgfbR.jpg" group-title="SÉRIES",Linha Direta
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Linha Direta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FcRnh2wVrFdRoWFDf2P64UgfbR.jpg" group-title="SÉRIES",Linha Direta
 http://lmdns.online:80/4x6cXF/ehfxdp/508019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lista Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziy2LUOZOA3Ob5hGZAvKXCmvwe9.jpg" group-title="SÉRIES",Lista Negra
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Lista Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziy2LUOZOA3Ob5hGZAvKXCmvwe9.jpg" group-title="SÉRIES",Lista Negra
 http://lmdns.online:80/4x6cXF/ehfxdp/508004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lista Negra: Redenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlEiTVHLF9lWj7Xj4gTQYt0pAhU.jpg" group-title="SÉRIES",Lista Negra: Redenção
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Lista Negra: Redenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlEiTVHLF9lWj7Xj4gTQYt0pAhU.jpg" group-title="SÉRIES",Lista Negra: Redenção
 http://lmdns.online:80/4x6cXF/ehfxdp/508005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Loki" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES",Loki
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Loki" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg" group-title="SÉRIES",Loki
 http://lmdns.online:80/4x6cXF/ehfxdp/507989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lost" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NVsXuJg8NZZxVghQ90XYugOcfG.jpg" group-title="SÉRIES",Lost
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Lost" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NVsXuJg8NZZxVghQ90XYugOcfG.jpg" group-title="SÉRIES",Lost
 http://lmdns.online:80/4x6cXF/ehfxdp/508041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MacGyver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg" group-title="SÉRIES",MacGyver
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MacGyver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg" group-title="SÉRIES",MacGyver
 http://lmdns.online:80/4x6cXF/ehfxdp/507969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MacGyver - Profissão: Perigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82khlAyEMPQ4Vawb39EU42qJc53.jpg" group-title="SÉRIES",MacGyver - Profissão: Perigo
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MacGyver - Profissão: Perigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82khlAyEMPQ4Vawb39EU42qJc53.jpg" group-title="SÉRIES",MacGyver - Profissão: Perigo
 http://lmdns.online:80/4x6cXF/ehfxdp/507968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel - Agente Carter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpeMeA3b54TuPVSsnk03ZxlYCDF.jpg" group-title="SÉRIES",Marvel - Agente Carter
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Marvel - Agente Carter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpeMeA3b54TuPVSsnk03ZxlYCDF.jpg" group-title="SÉRIES",Marvel - Agente Carter
 http://lmdns.online:80/4x6cXF/ehfxdp/507981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel - Jessica Jones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg" group-title="SÉRIES",Marvel - Jessica Jones
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Marvel - Jessica Jones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg" group-title="SÉRIES",Marvel - Jessica Jones
 http://lmdns.online:80/4x6cXF/ehfxdp/507988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel - Luke Cage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R62oGGufhsf6DiMknCi047N0b7.jpg" group-title="SÉRIES",Marvel - Luke Cage
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Marvel - Luke Cage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R62oGGufhsf6DiMknCi047N0b7.jpg" group-title="SÉRIES",Marvel - Luke Cage
 http://lmdns.online:80/4x6cXF/ehfxdp/507990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel - O Justiceiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKPDE2pDlA7dOwuf05uTFUjDxxX.jpg" group-title="SÉRIES",Marvel - O Justiceiro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Marvel - O Justiceiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKPDE2pDlA7dOwuf05uTFUjDxxX.jpg" group-title="SÉRIES",Marvel - O Justiceiro
 http://lmdns.online:80/4x6cXF/ehfxdp/507992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel - Os Defensores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0dcX4hYQY0yjuXPMA9oWQs1jBh.jpg" group-title="SÉRIES",Marvel - Os Defensores
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Marvel - Os Defensores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0dcX4hYQY0yjuXPMA9oWQs1jBh.jpg" group-title="SÉRIES",Marvel - Os Defensores
 http://lmdns.online:80/4x6cXF/ehfxdp/507993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel - Punho de Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uCpMX3ktMdztlezDBRiMstmapC.jpg" group-title="SÉRIES",Marvel - Punho de Ferro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Marvel - Punho de Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uCpMX3ktMdztlezDBRiMstmapC.jpg" group-title="SÉRIES",Marvel - Punho de Ferro
 http://lmdns.online:80/4x6cXF/ehfxdp/507994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MasterChef" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSHSW39tewDbTH5KnlAth3ou5GX.jpg" group-title="SÉRIES",MasterChef
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MasterChef" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSHSW39tewDbTH5KnlAth3ou5GX.jpg" group-title="SÉRIES",MasterChef
 http://lmdns.online:80/4x6cXF/ehfxdp/507970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MasterChef Confeitaria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycQf6OYW4kbblE1Q3dXH7qRNXr2.jpg" group-title="SÉRIES",MasterChef Confeitaria
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MasterChef Confeitaria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycQf6OYW4kbblE1Q3dXH7qRNXr2.jpg" group-title="SÉRIES",MasterChef Confeitaria
 http://lmdns.online:80/4x6cXF/ehfxdp/508032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MasterChef Júnior" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXUTZbCi182pbUh8ErqF6W2ZPDu.jpg" group-title="SÉRIES",MasterChef Júnior
+#EXTINF:-1 tvg-id="Like.br" tvg-name="MasterChef Júnior" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXUTZbCi182pbUh8ErqF6W2ZPDu.jpg" group-title="SÉRIES",MasterChef Júnior
 http://lmdns.online:80/4x6cXF/ehfxdp/508021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Meu Papai (Ainda) é Noel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5H3R3dCvEbXKNReT0SxU3dWBPhr.jpg" group-title="SÉRIES",Meu Papai (Ainda) é Noel
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Meu Papai (Ainda) é Noel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5H3R3dCvEbXKNReT0SxU3dWBPhr.jpg" group-title="SÉRIES",Meu Papai (Ainda) é Noel
 http://lmdns.online:80/4x6cXF/ehfxdp/508029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monk: Um Detetive Diferente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3mVFigU7u7jSM9iSv4wI1slZky.jpg" group-title="SÉRIES",Monk: Um Detetive Diferente
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Monk: Um Detetive Diferente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3mVFigU7u7jSM9iSv4wI1slZky.jpg" group-title="SÉRIES",Monk: Um Detetive Diferente
 http://lmdns.online:80/4x6cXF/ehfxdp/507964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="SÉRIES",Mr. Bean
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Mr. Bean" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="SÉRIES",Mr. Bean
 http://lmdns.online:80/4x6cXF/ehfxdp/508022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ms. Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Rzkt43GnMyTN0srvn3Z4u7C7VU.jpg" group-title="SÉRIES",Ms. Marvel
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ms. Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Rzkt43GnMyTN0srvn3Z4u7C7VU.jpg" group-title="SÉRIES",Ms. Marvel
 http://lmdns.online:80/4x6cXF/ehfxdp/508025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o8Nw4mBCqyO5dtfpPAZXjv5XJ2.jpg" group-title="SÉRIES",Mulher-Hulk: Defensora de Heróis
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Mulher-Hulk: Defensora de Heróis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o8Nw4mBCqyO5dtfpPAZXjv5XJ2.jpg" group-title="SÉRIES",Mulher-Hulk: Defensora de Heróis
 http://lmdns.online:80/4x6cXF/ehfxdp/507991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mundo da Lua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uf680YlXuab711HE4NZi8bIbbjA.jpg" group-title="SÉRIES",Mundo da Lua
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Mundo da Lua" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uf680YlXuab711HE4NZi8bIbbjA.jpg" group-title="SÉRIES",Mundo da Lua
 http://lmdns.online:80/4x6cXF/ehfxdp/508045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muppet Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4fZBW47VSbPhBAznof9VRfZw6a.jpg" group-title="SÉRIES",Muppet Show
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Muppet Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4fZBW47VSbPhBAznof9VRfZw6a.jpg" group-title="SÉRIES",Muppet Show
 http://lmdns.online:80/4x6cXF/ehfxdp/508018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NCIS Havaí: Investigações Criminais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umQMuK0eWy5lVVOg2COeOJ0rjDf.jpg" group-title="SÉRIES",NCIS Havaí: Investigações Criminais
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NCIS Havaí: Investigações Criminais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umQMuK0eWy5lVVOg2COeOJ0rjDf.jpg" group-title="SÉRIES",NCIS Havaí: Investigações Criminais
 http://lmdns.online:80/4x6cXF/ehfxdp/508011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abjNx4jqvaJn5UvsuLaBVRVndyJ.jpg" group-title="SÉRIES",NCIS: Investigação Naval
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NCIS: Investigação Naval" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abjNx4jqvaJn5UvsuLaBVRVndyJ.jpg" group-title="SÉRIES",NCIS: Investigação Naval
 http://lmdns.online:80/4x6cXF/ehfxdp/508012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Los Angeles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW2W2zJvn6PLgx1Blj1HJag14pJ.jpg" group-title="SÉRIES",NCIS: Los Angeles
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NCIS: Los Angeles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW2W2zJvn6PLgx1Blj1HJag14pJ.jpg" group-title="SÉRIES",NCIS: Los Angeles
 http://lmdns.online:80/4x6cXF/ehfxdp/508013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Nova Orleans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isL8RahlEeAxBsqZm0y2QHBbypK.jpg" group-title="SÉRIES",NCIS: Nova Orleans
+#EXTINF:-1 tvg-id="Like.br" tvg-name="NCIS: Nova Orleans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isL8RahlEeAxBsqZm0y2QHBbypK.jpg" group-title="SÉRIES",NCIS: Nova Orleans
 http://lmdns.online:80/4x6cXF/ehfxdp/508043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Jaspion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mdeUBc5hQX8NrTCerfAUim7XY0.jpg" group-title="SÉRIES",O Fantástico Jaspion
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Fantástico Jaspion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mdeUBc5hQX8NrTCerfAUim7XY0.jpg" group-title="SÉRIES",O Fantástico Jaspion
 http://lmdns.online:80/4x6cXF/ehfxdp/507950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg" group-title="SÉRIES",O Mentalista
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Mentalista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg" group-title="SÉRIES",O Mentalista
 http://lmdns.online:80/4x6cXF/ehfxdp/507998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fnBTqzvpASoHZfFESA6BLDV3qv.jpg" group-title="SÉRIES",Operação Fronteira Brasil
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Operação Fronteira Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fnBTqzvpASoHZfFESA6BLDV3qv.jpg" group-title="SÉRIES",Operação Fronteira Brasil
 http://lmdns.online:80/4x6cXF/ehfxdp/508024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira: América do Sul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K4q7lFzms9Zr2kEZjwdPET80dO.jpg" group-title="SÉRIES",Operação Fronteira: América do Sul
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Operação Fronteira: América do Sul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K4q7lFzms9Zr2kEZjwdPET80dO.jpg" group-title="SÉRIES",Operação Fronteira: América do Sul
 http://lmdns.online:80/4x6cXF/ehfxdp/507978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira: Itália" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7ziaaAvd2ZD8cO4zO7MkHcfg1T.jpg" group-title="SÉRIES",Operação Fronteira: Itália
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Operação Fronteira: Itália" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7ziaaAvd2ZD8cO4zO7MkHcfg1T.jpg" group-title="SÉRIES",Operação Fronteira: Itália
 http://lmdns.online:80/4x6cXF/ehfxdp/508039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira: Suécia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUkxnNVzaH5q5rNqwigX3oDuzRc.jpg" group-title="SÉRIES",Operação Fronteira: Suécia
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Operação Fronteira: Suécia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUkxnNVzaH5q5rNqwigX3oDuzRc.jpg" group-title="SÉRIES",Operação Fronteira: Suécia
 http://lmdns.online:80/4x6cXF/ehfxdp/508042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Normais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ULaMBSsEB3jArOe19jxgJvpW8N.jpg" group-title="SÉRIES",Os Normais
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Normais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ULaMBSsEB3jArOe19jxgJvpW8N.jpg" group-title="SÉRIES",Os Normais
 http://lmdns.online:80/4x6cXF/ehfxdp/507965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Suburbanos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hsq6C2BYFuvPI4Sy0dOxcmatVF.jpg" group-title="SÉRIES",Os Suburbanos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Suburbanos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hsq6C2BYFuvPI4Sy0dOxcmatVF.jpg" group-title="SÉRIES",Os Suburbanos
 http://lmdns.online:80/4x6cXF/ehfxdp/507971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGBVdCeI2hhWGhmlNckjZV3VRdq.jpg" group-title="SÉRIES",Os Trapalhões
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGBVdCeI2hhWGhmlNckjZV3VRdq.jpg" group-title="SÉRIES",Os Trapalhões
 http://lmdns.online:80/4x6cXF/ehfxdp/508036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: Sangue, Apostas e Navalhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIES",Peaky Blinders: Sangue, Apostas e Navalhas
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Peaky Blinders: Sangue, Apostas e Navalhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" group-title="SÉRIES",Peaky Blinders: Sangue, Apostas e Navalhas
 http://lmdns.online:80/4x6cXF/ehfxdp/508007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pesadelo na Cozinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etaBw0YnIFPwPXlW0CbODUGDJld.jpg" group-title="SÉRIES",Pesadelo na Cozinha
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Pesadelo na Cozinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etaBw0YnIFPwPXlW0CbODUGDJld.jpg" group-title="SÉRIES",Pesadelo na Cozinha
 http://lmdns.online:80/4x6cXF/ehfxdp/508008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pessoa de Interesse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5fhbaU1Mk98awGZyALELoqa1Bi.jpg" group-title="SÉRIES",Pessoa de Interesse
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Pessoa de Interesse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5fhbaU1Mk98awGZyALELoqa1Bi.jpg" group-title="SÉRIES",Pessoa de Interesse
 http://lmdns.online:80/4x6cXF/ehfxdp/507946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ponto Cego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYyKZZlb3nd5ASbiuIxva718bp2.jpg" group-title="SÉRIES",Ponto Cego
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ponto Cego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYyKZZlb3nd5ASbiuIxva718bp2.jpg" group-title="SÉRIES",Ponto Cego
 http://lmdns.online:80/4x6cXF/ehfxdp/508009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rio Shore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2umRI7ZKuK3eZy4emSlhaUcK3yB.jpg" group-title="SÉRIES",Rio Shore
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Rio Shore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2umRI7ZKuK3eZy4emSlhaUcK3yB.jpg" group-title="SÉRIES",Rio Shore
 http://lmdns.online:80/4x6cXF/ehfxdp/508026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gcHdboppvplmBWxvROc96NJnmm.jpg" group-title="SÉRIES",Round 6
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gcHdboppvplmBWxvROc96NJnmm.jpg" group-title="SÉRIES",Round 6
 http://lmdns.online:80/4x6cXF/ehfxdp/507999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Round 6: O Desafio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES",Round 6: O Desafio
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Round 6: O Desafio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUolfAUop5JtKkO0fSq33r9KCKW.jpg" group-title="SÉRIES",Round 6: O Desafio
 http://lmdns.online:80/4x6cXF/ehfxdp/508027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg" group-title="SÉRIES",Sai de Baixo
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Sai de Baixo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5ZehoCj2uuHGHn9Xz1lZ3KfkmZ.jpg" group-title="SÉRIES",Sai de Baixo
 http://lmdns.online:80/4x6cXF/ehfxdp/508038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Seinfeld" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" group-title="SÉRIES",Seinfeld
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Seinfeld" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg" group-title="SÉRIES",Seinfeld
 http://lmdns.online:80/4x6cXF/ehfxdp/507997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sexo e a Cidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxpWGbB5UMrlQGGiAR5zEflkMx9.jpg" group-title="SÉRIES",Sexo e a Cidade
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Sexo e a Cidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxpWGbB5UMrlQGGiAR5zEflkMx9.jpg" group-title="SÉRIES",Sexo e a Cidade
 http://lmdns.online:80/4x6cXF/ehfxdp/508033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shark Tank Brasil: Negociando com Tubarões" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gsYrE14w0h20gJbqSgrd81EzW7.jpg" group-title="SÉRIES",Shark Tank Brasil: Negociando com Tubarões
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Shark Tank Brasil: Negociando com Tubarões" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gsYrE14w0h20gJbqSgrd81EzW7.jpg" group-title="SÉRIES",Shark Tank Brasil: Negociando com Tubarões
 http://lmdns.online:80/4x6cXF/ehfxdp/507972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica-Pau Amarelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgbNmPry40eaGN7gksU4GicML7w.jpg" group-title="SÉRIES",Sítio do Pica-Pau Amarelo
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Sítio do Pica-Pau Amarelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgbNmPry40eaGN7gksU4GicML7w.jpg" group-title="SÉRIES",Sítio do Pica-Pau Amarelo
 http://lmdns.online:80/4x6cXF/ehfxdp/507953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sob Pressão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGWf1lqeHOhuKZX9bQPeAKttxnb.jpg" group-title="SÉRIES",Sob Pressão
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Sob Pressão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGWf1lqeHOhuKZX9bQPeAKttxnb.jpg" group-title="SÉRIES",Sob Pressão
 http://lmdns.online:80/4x6cXF/ehfxdp/507951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Soltos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/np53iSd0N83z3tmegLytUPStcV8.jpg" group-title="SÉRIES",Soltos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Soltos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/np53iSd0N83z3tmegLytUPStcV8.jpg" group-title="SÉRIES",Soltos
 http://lmdns.online:80/4x6cXF/ehfxdp/508010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="SÉRIES",Stranger Things
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Stranger Things" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg" group-title="SÉRIES",Stranger Things
 http://lmdns.online:80/4x6cXF/ehfxdp/508028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg" group-title="SÉRIES",Supergirl
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Supergirl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg" group-title="SÉRIES",Supergirl
 http://lmdns.online:80/4x6cXF/ehfxdp/507952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fETLDRm3d7ScIZT3Zu09LOUphw3.jpg" group-title="SÉRIES",Teletubbies
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Teletubbies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fETLDRm3d7ScIZT3Zu09LOUphw3.jpg" group-title="SÉRIES",Teletubbies
 http://lmdns.online:80/4x6cXF/ehfxdp/507954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Boys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg" group-title="SÉRIES",The Boys
+#EXTINF:-1 tvg-id="Like.br" tvg-name="The Boys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg" group-title="SÉRIES",The Boys
 http://lmdns.online:80/4x6cXF/ehfxdp/507931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor: O Bom Doutor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg" group-title="SÉRIES",The Good Doctor: O Bom Doutor
+#EXTINF:-1 tvg-id="Like.br" tvg-name="The Good Doctor: O Bom Doutor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg" group-title="SÉRIES",The Good Doctor: O Bom Doutor
 http://lmdns.online:80/4x6cXF/ehfxdp/507979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Office" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlghlgOvIU9Cyz3S2uib8ldFKJl.jpg" group-title="SÉRIES",The Office
+#EXTINF:-1 tvg-id="Like.br" tvg-name="The Office" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlghlgOvIU9Cyz3S2uib8ldFKJl.jpg" group-title="SÉRIES",The Office
 http://lmdns.online:80/4x6cXF/ehfxdp/508000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg" group-title="SÉRIES",Todo Mundo Odeia o Chris
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg" group-title="SÉRIES",Todo Mundo Odeia o Chris
 http://lmdns.online:80/4x6cXF/ehfxdp/507955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toma Lá, Dá Cá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d00Hpwh70yAapKSmaIhBhTFn3HN.jpg" group-title="SÉRIES",Toma Lá, Dá Cá
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Toma Lá, Dá Cá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d00Hpwh70yAapKSmaIhBhTFn3HN.jpg" group-title="SÉRIES",Toma Lá, Dá Cá
 http://lmdns.online:80/4x6cXF/ehfxdp/507956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Três é Demais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wBKsH43J0ktwc8qWoHtp339NPE.jpg" group-title="SÉRIES",Três é Demais
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Três é Demais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wBKsH43J0ktwc8qWoHtp339NPE.jpg" group-title="SÉRIES",Três é Demais
 http://lmdns.online:80/4x6cXF/ehfxdp/507957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica - A Série" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaD9QWl8lhOdVnMoYQvBNay1aUI.jpg" group-title="SÉRIES",Turma da Mônica - A Série
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Turma da Mônica - A Série" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaD9QWl8lhOdVnMoYQvBNay1aUI.jpg" group-title="SÉRIES",Turma da Mônica - A Série
 http://lmdns.online:80/4x6cXF/ehfxdp/507958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTkkSKPO0O8VOyB9iscBiia2c9.jpg" group-title="SÉRIES",Um Maluco no Pedaço
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Um Maluco no Pedaço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTkkSKPO0O8VOyB9iscBiia2c9.jpg" group-title="SÉRIES",Um Maluco no Pedaço
 http://lmdns.online:80/4x6cXF/ehfxdp/507959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkzMxY964DsFMmS42pL1j4h4KyP.jpg" group-title="SÉRIES",Vai Que Cola
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Vai Que Cola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkzMxY964DsFMmS42pL1j4h4KyP.jpg" group-title="SÉRIES",Vai Que Cola
 http://lmdns.online:80/4x6cXF/ehfxdp/507960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg" group-title="SÉRIES",WandaVision
+#EXTINF:-1 tvg-id="Like.br" tvg-name="WandaVision" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg" group-title="SÉRIES",WandaVision
 http://lmdns.online:80/4x6cXF/ehfxdp/507996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="What If...?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJQWrrwtu0TAsIKq8Adgzeg4bFt.jpg" group-title="SÉRIES",What If...?
+#EXTINF:-1 tvg-id="Like.br" tvg-name="What If...?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJQWrrwtu0TAsIKq8Adgzeg4bFt.jpg" group-title="SÉRIES",What If...?
 http://lmdns.online:80/4x6cXF/ehfxdp/507995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xVr1Cz9trnwCbmBnFYCp89Men4.jpg" group-title="SÉRIES",Xena: A Princesa Guerreira
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Xena: A Princesa Guerreira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xVr1Cz9trnwCbmBnFYCp89Men4.jpg" group-title="SÉRIES",Xena: A Princesa Guerreira
 http://lmdns.online:80/4x6cXF/ehfxdp/507961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zorro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWnuHnjseVStjwz69IFenolGkRK.jpg" group-title="SÉRIES",Zorro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Zorro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWnuHnjseVStjwz69IFenolGkRK.jpg" group-title="SÉRIES",Zorro
 http://lmdns.online:80/4x6cXF/ehfxdp/508037.m3u8
 ######################### DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ############## DOCUMENTÁRIOS ########
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0-1536x1536.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 
@@ -1091,7 +1091,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e87
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="ANIMES & TOKUSATSU",NARUTO 2
 http://lmdns.online:80/4x6cXF/ehfxdp/508047.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/61/Naruto-logo-shippuuden.png?20160628170414" group-title="ANIMES & TOKUSATSU",NARUTO SHIPPUDEN
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/61/Naruto-logo-shippuuden.png?20160628170414" group-title="ANIMES & TOKUSATSU",NARUTO SHIPPUDEN
 http://lmdns.online:80/4x6cXF/ehfxdp/508166.m3u8
 #EXTINF:-1 tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",NARUTO SHIPPUDEN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1105,332 +1105,332 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90404.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="ANIMES & TOKUSATSU",TOKUSATO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="ANIMES & TOKUSATSU",XTREME TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="ANIMES & TOKUSATSU",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
 ####################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H #####################
-#EXTINF:-1 tvg-id="" tvg-name="2 Cachorros Bobos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IyAuqj9bInCzd0fDizxYTK2h3f.jpg" group-title="DESENHOS 24H",2 Cachorros Bobos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="2 Cachorros Bobos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IyAuqj9bInCzd0fDizxYTK2h3f.jpg" group-title="DESENHOS 24H",2 Cachorros Bobos
 http://lmdns.online:80/4x6cXF/ehfxdp/508126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkVKGBpxAAHNBNIsOqUgmtedVPn.jpg" group-title="DESENHOS 24H",3 Palavrinhas
+#EXTINF:-1 tvg-id="Like.br" tvg-name="3 Palavrinhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkVKGBpxAAHNBNIsOqUgmtedVPn.jpg" group-title="DESENHOS 24H",3 Palavrinhas
 http://lmdns.online:80/4x6cXF/ehfxdp/508061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="44 Gatos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGz27tMZsHpaRve3ANfXQR3bnZe.jpg" group-title="DESENHOS 24H",44 Gatos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="44 Gatos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGz27tMZsHpaRve3ANfXQR3bnZe.jpg" group-title="DESENHOS 24H",44 Gatos
 http://lmdns.online:80/4x6cXF/ehfxdp/508062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey Mouse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vNQVFa4icNSphODjw1wFXTfDcJ.jpg" group-title="DESENHOS 24H",A Casa do Mickey Mouse
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Casa do Mickey Mouse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vNQVFa4icNSphODjw1wFXTfDcJ.jpg" group-title="DESENHOS 24H",A Casa do Mickey Mouse
 http://lmdns.online:80/4x6cXF/ehfxdp/508100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Mágica da Gabby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KV0mbZrn197zdQiH7rE65cHvNF.jpg" group-title="DESENHOS 24H",A Casa Mágica da Gabby
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Casa Mágica da Gabby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KV0mbZrn197zdQiH7rE65cHvNF.jpg" group-title="DESENHOS 24H",A Casa Mágica da Gabby
 http://lmdns.online:80/4x6cXF/ehfxdp/508063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Corrida Maluca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ1Qk2rdXLaxDDFVmmxJfLzfZ51.jpg" group-title="DESENHOS 24H",A Corrida Maluca
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Corrida Maluca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ1Qk2rdXLaxDDFVmmxJfLzfZ51.jpg" group-title="DESENHOS 24H",A Corrida Maluca
 http://lmdns.online:80/4x6cXF/ehfxdp/508157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Familia Addams (1964)" tvg-logo="http://44.stolm.live/img-storage/series/6420.jpg" group-title="DESENHOS 24H",A Familia Addams (1964)
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Familia Addams (1964)" tvg-logo="http://44.stolm.live/img-storage/series/6420.jpg" group-title="DESENHOS 24H",A Familia Addams (1964)
 http://lmdns.online:80/4x6cXF/ehfxdp/508173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Formiga Atômica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grzuwiDgYJYg7bUqsTsIYQnWtIV.jpg" group-title="DESENHOS 24H",A Formiga Atômica
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Formiga Atômica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grzuwiDgYJYg7bUqsTsIYQnWtIV.jpg" group-title="DESENHOS 24H",A Formiga Atômica
 http://lmdns.online:80/4x6cXF/ehfxdp/508202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Guarda do Leão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hab4OnSLtgULjai9pHMQoo6Yap.jpg" group-title="DESENHOS 24H",A Guarda do Leão
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Guarda do Leão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hab4OnSLtgULjai9pHMQoo6Yap.jpg" group-title="DESENHOS 24H",A Guarda do Leão
 http://lmdns.online:80/4x6cXF/ehfxdp/508064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Korra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDRskxx7kXoB9ImdXi05Db5EG3L.jpg" group-title="DESENHOS 24H",A Lenda de Korra
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Lenda de Korra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDRskxx7kXoB9ImdXi05Db5EG3L.jpg" group-title="DESENHOS 24H",A Lenda de Korra
 http://lmdns.online:80/4x6cXF/ehfxdp/508052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A nova pantera cor-de-rosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38h0wNR0KSbmSeTclpPG5UJ5XRg.jpg" group-title="DESENHOS 24H",A nova pantera cor-de-rosa
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A nova pantera cor-de-rosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38h0wNR0KSbmSeTclpPG5UJ5XRg.jpg" group-title="DESENHOS 24H",A nova pantera cor-de-rosa
 http://lmdns.online:80/4x6cXF/ehfxdp/508167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Pedra dos Sonhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVObl8fTiECcJbZuAIfytMCchrc.jpg" group-title="DESENHOS 24H",A Pedra dos Sonhos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Pedra dos Sonhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVObl8fTiECcJbZuAIfytMCchrc.jpg" group-title="DESENHOS 24H",A Pedra dos Sonhos
 http://lmdns.online:80/4x6cXF/ehfxdp/508203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrdVQhUeswpZiRmNU2zK1pHP5wH.jpg" group-title="DESENHOS 24H",A Pequena Sereia
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Pequena Sereia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrdVQhUeswpZiRmNU2zK1pHP5wH.jpg" group-title="DESENHOS 24H",A Pequena Sereia
 http://lmdns.online:80/4x6cXF/ehfxdp/508067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Vaca e o Frango" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mbi0VjgMJvGkblSkhed5fOcB69.jpg" group-title="DESENHOS 24H",A Vaca e o Frango
+#EXTINF:-1 tvg-id="Like.br" tvg-name="A Vaca e o Frango" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mbi0VjgMJvGkblSkhed5fOcB69.jpg" group-title="DESENHOS 24H",A Vaca e o Frango
 http://lmdns.online:80/4x6cXF/ehfxdp/508068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="American Dad!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC1q422YhQR7k82GB8gW4KoD91p.jpg" group-title="DESENHOS 24H",American Dad!
+#EXTINF:-1 tvg-id="Like.br" tvg-name="American Dad!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC1q422YhQR7k82GB8gW4KoD91p.jpg" group-title="DESENHOS 24H",American Dad!
 http://lmdns.online:80/4x6cXF/ehfxdp/508069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ana Pimentinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UcKjOziAGzLWuj6GD5z94cshib.jpg" group-title="DESENHOS 24H",Ana Pimentinha
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ana Pimentinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UcKjOziAGzLWuj6GD5z94cshib.jpg" group-title="DESENHOS 24H",Ana Pimentinha
 http://lmdns.online:80/4x6cXF/ehfxdp/508070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Andy Panda (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ujzaEzgds8OHsazIsURH0eUtOn.jpg" group-title="DESENHOS 24H",Andy Panda (1939)
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Andy Panda (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ujzaEzgds8OHsazIsURH0eUtOn.jpg" group-title="DESENHOS 24H",Andy Panda (1939)
 http://lmdns.online:80/4x6cXF/ehfxdp/508071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Angry Birds: A Ilha Misteriosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCAtDMQx8cwwQZK7H7HGZhPu2GO.jpg" group-title="DESENHOS 24H",Angry Birds: A Ilha Misteriosa
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Angry Birds: A Ilha Misteriosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCAtDMQx8cwwQZK7H7HGZhPu2GO.jpg" group-title="DESENHOS 24H",Angry Birds: A Ilha Misteriosa
 http://lmdns.online:80/4x6cXF/ehfxdp/508196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Angry Birds: Loucuras de Verão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvemCfNkx64x2VkRN4VFGWLpNi4.jpg" group-title="DESENHOS 24H",Angry Birds: Loucuras de Verão
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Angry Birds: Loucuras de Verão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvemCfNkx64x2VkRN4VFGWLpNi4.jpg" group-title="DESENHOS 24H",Angry Birds: Loucuras de Verão
 http://lmdns.online:80/4x6cXF/ehfxdp/508072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Iu6stPN3XSCH0sfBliaeAwU2hM.jpg" group-title="DESENHOS 24H",Animaniacs
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Iu6stPN3XSCH0sfBliaeAwU2hM.jpg" group-title="DESENHOS 24H",Animaniacs
 http://lmdns.online:80/4x6cXF/ehfxdp/508073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apenas um Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b56jpir0S12bxD6WyjMZg92c9Zr.jpg" group-title="DESENHOS 24H",Apenas um Show
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Apenas um Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b56jpir0S12bxD6WyjMZg92c9Zr.jpg" group-title="DESENHOS 24H",Apenas um Show
 http://lmdns.online:80/4x6cXF/ehfxdp/508074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Blinky Bill" tvg-logo="http://44.stolm.live/img-storage/series/3142.jpg" group-title="DESENHOS 24H",As Aventuras de Blinky Bill
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Aventuras de Blinky Bill" tvg-logo="http://44.stolm.live/img-storage/series/3142.jpg" group-title="DESENHOS 24H",As Aventuras de Blinky Bill
 http://lmdns.online:80/4x6cXF/ehfxdp/508128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pgXH2URaChoJ1VXz9KFIa9Gmvt.jpg" group-title="DESENHOS 24H",As Aventuras de Jackie Chan
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pgXH2URaChoJ1VXz9KFIa9Gmvt.jpg" group-title="DESENHOS 24H",As Aventuras de Jackie Chan
 http://lmdns.online:80/4x6cXF/ehfxdp/508075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlovDiFIbnR0mkFsDzmiHoxVOH.jpg" group-title="DESENHOS 24H",As Aventuras de Tintim
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Aventuras de Tintim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlovDiFIbnR0mkFsDzmiHoxVOH.jpg" group-title="DESENHOS 24H",As Aventuras de Tintim
 http://lmdns.online:80/4x6cXF/ehfxdp/508174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tom e Jerry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TCOHLsHSr56uScnZuIQofdkSnt.jpg" group-title="DESENHOS 24H",As Aventuras de Tom e Jerry
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Aventuras de Tom e Jerry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TCOHLsHSr56uScnZuIQofdkSnt.jpg" group-title="DESENHOS 24H",As Aventuras de Tom e Jerry
 http://lmdns.online:80/4x6cXF/ehfxdp/508209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras do Batman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipGhCmWeKHMwM5CgXF7mCsspgDV.jpg" group-title="DESENHOS 24H",As Aventuras do Batman
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Aventuras do Batman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipGhCmWeKHMwM5CgXF7mCsspgDV.jpg" group-title="DESENHOS 24H",As Aventuras do Batman
 http://lmdns.online:80/4x6cXF/ehfxdp/508078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVhCscPWvezcGVER5dv3WI3bwe.jpg" group-title="DESENHOS 24H",As Meninas Superpoderosas
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Meninas Superpoderosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVhCscPWvezcGVER5dv3WI3bwe.jpg" group-title="DESENHOS 24H",As Meninas Superpoderosas
 http://lmdns.online:80/4x6cXF/ehfxdp/508198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas (1998)" tvg-logo="http://44.stolm.live/img-storage/series/5387.jpg" group-title="DESENHOS 24H",As Meninas Superpoderosas (1998)
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Meninas Superpoderosas (1998)" tvg-logo="http://44.stolm.live/img-storage/series/5387.jpg" group-title="DESENHOS 24H",As Meninas Superpoderosas (1998)
 http://lmdns.online:80/4x6cXF/ehfxdp/508175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="DESENHOS 24H",As Novas Aventuras de Gasparzinho
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Novas Aventuras de Gasparzinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="DESENHOS 24H",As Novas Aventuras de Gasparzinho
 http://lmdns.online:80/4x6cXF/ehfxdp/508133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg" group-title="DESENHOS 24H",As Tartarugas Ninjas
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Tartarugas Ninjas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg" group-title="DESENHOS 24H",As Tartarugas Ninjas
 http://lmdns.online:80/4x6cXF/ehfxdp/508129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGRMEzgnBQUlhgzE89BNpMIJCkJ.jpg" group-title="DESENHOS 24H",As Terríveis Aventuras de Billy e Mandy
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGRMEzgnBQUlhgzE89BNpMIJCkJ.jpg" group-title="DESENHOS 24H",As Terríveis Aventuras de Billy e Mandy
 http://lmdns.online:80/4x6cXF/ehfxdp/508076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Trapalhadas de Flapjack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXM1bnRBwxOm49PHQRd9q9eMNAc.jpg" group-title="DESENHOS 24H",As Trapalhadas de Flapjack
+#EXTINF:-1 tvg-id="Like.br" tvg-name="As Trapalhadas de Flapjack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXM1bnRBwxOm49PHQRd9q9eMNAc.jpg" group-title="DESENHOS 24H",As Trapalhadas de Flapjack
 http://lmdns.online:80/4x6cXF/ehfxdp/508127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: A Lenda de Aang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IJhby0sfQCN5ZIIseAWCw6j3xm.jpg" group-title="DESENHOS 24H",Avatar: A Lenda de Aang
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Avatar: A Lenda de Aang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IJhby0sfQCN5ZIIseAWCw6j3xm.jpg" group-title="DESENHOS 24H",Avatar: A Lenda de Aang
 http://lmdns.online:80/4x6cXF/ehfxdp/508051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5ImCXYVgcClRaP0YIfEUMI6uFM.jpg" group-title="DESENHOS 24H",Baby
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Baby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5ImCXYVgcClRaP0YIfEUMI6uFM.jpg" group-title="DESENHOS 24H",Baby
 http://lmdns.online:80/4x6cXF/ehfxdp/508098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barbie: Dreamhouse Adventures" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MraV12DdZjQEgQztjTQ2s9t5CK.jpg" group-title="DESENHOS 24H",Barbie: Dreamhouse Adventures
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Barbie: Dreamhouse Adventures" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MraV12DdZjQEgQztjTQ2s9t5CK.jpg" group-title="DESENHOS 24H",Barbie: Dreamhouse Adventures
 http://lmdns.online:80/4x6cXF/ehfxdp/508077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batman do Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u32hBfT6oQldJllf82OOGRs1fPW.jpg" group-title="DESENHOS 24H",Batman do Futuro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Batman do Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u32hBfT6oQldJllf82OOGRs1fPW.jpg" group-title="DESENHOS 24H",Batman do Futuro
 http://lmdns.online:80/4x6cXF/ehfxdp/508204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batman: A Série Animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmL9VZi6eTX1zhhGRUVMOycS7bx.jpg" group-title="DESENHOS 24H",Batman: A Série Animada
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Batman: A Série Animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmL9VZi6eTX1zhhGRUVMOycS7bx.jpg" group-title="DESENHOS 24H",Batman: A Série Animada
 http://lmdns.online:80/4x6cXF/ehfxdp/508130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg" group-title="DESENHOS 24H",Ben 10
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ben 10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg" group-title="DESENHOS 24H",Ben 10
 http://lmdns.online:80/4x6cXF/ehfxdp/508079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10: Força Alienígena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49Jc6onlySVTI2Tb9HFxr0exfV.jpg" group-title="DESENHOS 24H",Ben 10: Força Alienígena
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ben 10: Força Alienígena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49Jc6onlySVTI2Tb9HFxr0exfV.jpg" group-title="DESENHOS 24H",Ben 10: Força Alienígena
 http://lmdns.online:80/4x6cXF/ehfxdp/508190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10: Omniverse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Re9I5tauOspaJxYCIqRqavKT4F.jpg" group-title="DESENHOS 24H",Ben 10: Omniverse
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ben 10: Omniverse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Re9I5tauOspaJxYCIqRqavKT4F.jpg" group-title="DESENHOS 24H",Ben 10: Omniverse
 http://lmdns.online:80/4x6cXF/ehfxdp/508192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10: Supremacia Alienígena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP5ymRF6kFvox4CFJCEBK0NnSLq.jpg" group-title="DESENHOS 24H",Ben 10: Supremacia Alienígena
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ben 10: Supremacia Alienígena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP5ymRF6kFvox4CFJCEBK0NnSLq.jpg" group-title="DESENHOS 24H",Ben 10: Supremacia Alienígena
 http://lmdns.online:80/4x6cXF/ehfxdp/508191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIJC8EUydKMXf0Xy8qd4nCqrQGa.jpg" group-title="DESENHOS 24H",Beyblade
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Beyblade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIJC8EUydKMXf0Xy8qd4nCqrQGa.jpg" group-title="DESENHOS 24H",Beyblade
 http://lmdns.online:80/4x6cXF/ehfxdp/508053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beyblade: Metal Fusion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WWTb5sVADcxar0RXUJRE4XBB5L.jpg" group-title="DESENHOS 24H",Beyblade: Metal Fusion
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Beyblade: Metal Fusion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WWTb5sVADcxar0RXUJRE4XBB5L.jpg" group-title="DESENHOS 24H",Beyblade: Metal Fusion
 http://lmdns.online:80/4x6cXF/ehfxdp/508124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Mouth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wK4wmV6ruhShWcbFzp59JETAjaz.jpg" group-title="DESENHOS 24H",Big Mouth
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Big Mouth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wK4wmV6ruhShWcbFzp59JETAjaz.jpg" group-title="DESENHOS 24H",Big Mouth
 http://lmdns.online:80/4x6cXF/ehfxdp/508080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bluey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg" group-title="DESENHOS 24H",Bluey
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Bluey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg" group-title="DESENHOS 24H",Bluey
 http://lmdns.online:80/4x6cXF/ehfxdp/508163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTTsOyXm49jixiQJ93L97CCvVBk.jpg" group-title="DESENHOS 24H",Bob Esponja Calça Quadrada
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTTsOyXm49jixiQJ93L97CCvVBk.jpg" group-title="DESENHOS 24H",Bob Esponja Calça Quadrada
 http://lmdns.online:80/4x6cXF/ehfxdp/508131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg" group-title="DESENHOS 24H",BoJack Horseman
+#EXTINF:-1 tvg-id="Like.br" tvg-name="BoJack Horseman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg" group-title="DESENHOS 24H",BoJack Horseman
 http://lmdns.online:80/4x6cXF/ehfxdp/508118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="DESENHOS 24H",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="DESENHOS 24H",Boruto: Naruto Next Generations
 http://lmdns.online:80/4x6cXF/ehfxdp/508168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="DESENHOS 24H",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="DESENHOS 24H",Boruto: Naruto Next Generations
 http://lmdns.online:80/4x6cXF/ehfxdp/508200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owEulie4od308GZd2jTVaX1Y0OP.jpg" group-title="DESENHOS 24H",Caillou
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Caillou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owEulie4od308GZd2jTVaX1Y0OP.jpg" group-title="DESENHOS 24H",Caillou
 http://lmdns.online:80/4x6cXF/ehfxdp/508176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Carrossel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="DESENHOS 24H",Carrossel
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Carrossel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="DESENHOS 24H",Carrossel
 http://lmdns.online:80/4x6cXF/ehfxdp/508119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fFRnZwlOwhcZkwLK8DCxtApyYP.jpg" group-title="DESENHOS 24H",Caverna do Dragão
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Caverna do Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fFRnZwlOwhcZkwLK8DCxtApyYP.jpg" group-title="DESENHOS 24H",Caverna do Dragão
 http://lmdns.online:80/4x6cXF/ehfxdp/508081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="DESENHOS 24H",Chaves
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Chaves" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="DESENHOS 24H",Chaves
 http://lmdns.online:80/4x6cXF/ehfxdp/508082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Coragem, o Cão Covarde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLn8nI9Ec3LZ1WflYxo9MjF4BBg.jpg" group-title="DESENHOS 24H",Coragem, o Cão Covarde
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Coragem, o Cão Covarde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLn8nI9Ec3LZ1WflYxo9MjF4BBg.jpg" group-title="DESENHOS 24H",Coragem, o Cão Covarde
 http://lmdns.online:80/4x6cXF/ehfxdp/508179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHOS 24H",Corrida Maluca
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Corrida Maluca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="DESENHOS 24H",Corrida Maluca
 http://lmdns.online:80/4x6cXF/ehfxdp/508201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D.P.A. - Detetives do Prédio Azul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrfp63IFXcQLXdR0xlFRwmt2F3h.jpg" group-title="DESENHOS 24H",D.P.A. - Detetives do Prédio Azul
+#EXTINF:-1 tvg-id="Like.br" tvg-name="D.P.A. - Detetives do Prédio Azul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrfp63IFXcQLXdR0xlFRwmt2F3h.jpg" group-title="DESENHOS 24H",D.P.A. - Detetives do Prédio Azul
 http://lmdns.online:80/4x6cXF/ehfxdp/508160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xYEbqOm7AUF3Y6D8cY0jM2yXE9.jpg" group-title="DESENHOS 24H",Daniel Tigre
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Daniel Tigre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xYEbqOm7AUF3Y6D8cY0jM2yXE9.jpg" group-title="DESENHOS 24H",Daniel Tigre
 http://lmdns.online:80/4x6cXF/ehfxdp/508199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBUOFBmZLaIxzjDjQP7d3QZrd4w.jpg" group-title="DESENHOS 24H",Danny Phantom
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBUOFBmZLaIxzjDjQP7d3QZrd4w.jpg" group-title="DESENHOS 24H",Danny Phantom
 http://lmdns.online:80/4x6cXF/ehfxdp/508189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Darkwing Duck" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AY9vKG4e56HD4szrbJbALMaUAH.jpg" group-title="DESENHOS 24H",Darkwing Duck
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Darkwing Duck" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AY9vKG4e56HD4szrbJbALMaUAH.jpg" group-title="DESENHOS 24H",Darkwing Duck
 http://lmdns.online:80/4x6cXF/ehfxdp/508083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dennis, o Pimentinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Z5NPNEnLeCiDGF5jiBUqRTDxxX.jpg" group-title="DESENHOS 24H",Dennis, o Pimentinha
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dennis, o Pimentinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Z5NPNEnLeCiDGF5jiBUqRTDxxX.jpg" group-title="DESENHOS 24H",Dennis, o Pimentinha
 http://lmdns.online:80/4x6cXF/ehfxdp/508084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Bíblicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HXJPrBLRlfTImDRVRdNsbB8m1a.jpg" group-title="DESENHOS 24H",Desenhos Bíblicos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Desenhos Bíblicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HXJPrBLRlfTImDRVRdNsbB8m1a.jpg" group-title="DESENHOS 24H",Desenhos Bíblicos
 http://lmdns.online:80/4x6cXF/ehfxdp/508180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlPYAJYkSfvVYAXK1a3gZqpWwda.jpg" group-title="DESENHOS 24H",Digimon
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Digimon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlPYAJYkSfvVYAXK1a3gZqpWwda.jpg" group-title="DESENHOS 24H",Digimon
 http://lmdns.online:80/4x6cXF/ehfxdp/508125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dom Pixote" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evOoEGwt2iZhHyqRvNh1U6kAYAb.jpg" group-title="DESENHOS 24H",Dom Pixote
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dom Pixote" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evOoEGwt2iZhHyqRvNh1U6kAYAb.jpg" group-title="DESENHOS 24H",Dom Pixote
 http://lmdns.online:80/4x6cXF/ehfxdp/508208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dora, a Aventureira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP2Wv3y1cBQRLiTqhMvc28d54Tb.jpg" group-title="DESENHOS 24H",Dora, a Aventureira
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dora, a Aventureira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP2Wv3y1cBQRLiTqhMvc28d54Tb.jpg" group-title="DESENHOS 24H",Dora, a Aventureira
 http://lmdns.online:80/4x6cXF/ehfxdp/508181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEzGDVHsUlOhU59EKSePobldyIf.jpg" group-title="DESENHOS 24H",Doug
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Doug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEzGDVHsUlOhU59EKSePobldyIf.jpg" group-title="DESENHOS 24H",Doug
 http://lmdns.online:80/4x6cXF/ehfxdp/508085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="http://stolm.live/series-cover/1626117180735.jpg" group-title="DESENHOS 24H",Dragon Ball Classico
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball Classico" tvg-logo="http://stolm.live/series-cover/1626117180735.jpg" group-title="DESENHOS 24H",Dragon Ball Classico
 http://lmdns.online:80/4x6cXF/ehfxdp/508054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whMOujSNYXRQeeCWf39CfkqguFy.jpg" group-title="DESENHOS 24H",Dragon Ball GT
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball GT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whMOujSNYXRQeeCWf39CfkqguFy.jpg" group-title="DESENHOS 24H",Dragon Ball GT
 http://lmdns.online:80/4x6cXF/ehfxdp/508055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQDCIp92rTzTnd8mjb1syLhrAqy.jpg" group-title="DESENHOS 24H",Dragon Ball Super
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball Super" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQDCIp92rTzTnd8mjb1syLhrAqy.jpg" group-title="DESENHOS 24H",Dragon Ball Super
 http://lmdns.online:80/4x6cXF/ehfxdp/508056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg" group-title="DESENHOS 24H",Dragon Ball Z
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball Z" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg" group-title="DESENHOS 24H",Dragon Ball Z
 http://lmdns.online:80/4x6cXF/ehfxdp/508057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Du, Dudu e Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" group-title="DESENHOS 24H",Du, Dudu e Edu
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Du, Dudu e Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" group-title="DESENHOS 24H",Du, Dudu e Edu
 http://lmdns.online:80/4x6cXF/ehfxdp/508205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DuckTales: Os Caçadores de Aventuras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FsIGJeCS3lCiXU7gICBSgjOPIW.jpg" group-title="DESENHOS 24H",DuckTales: Os Caçadores de Aventuras
+#EXTINF:-1 tvg-id="Like.br" tvg-name="DuckTales: Os Caçadores de Aventuras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FsIGJeCS3lCiXU7gICBSgjOPIW.jpg" group-title="DESENHOS 24H",DuckTales: Os Caçadores de Aventuras
 http://lmdns.online:80/4x6cXF/ehfxdp/508132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ei Arnold!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tFOLWsyZl9jRHauXZ6tBwvwd8C.jpg" group-title="DESENHOS 24H",Ei Arnold!
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ei Arnold!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tFOLWsyZl9jRHauXZ6tBwvwd8C.jpg" group-title="DESENHOS 24H",Ei Arnold!
 http://lmdns.online:80/4x6cXF/ehfxdp/508090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrilha Parafuso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWasJ67ydp6NE7AOgCtjvo84Wpv.jpg" group-title="DESENHOS 24H",Esquadrilha Parafuso
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Esquadrilha Parafuso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWasJ67ydp6NE7AOgCtjvo84Wpv.jpg" group-title="DESENHOS 24H",Esquadrilha Parafuso
 http://lmdns.online:80/4x6cXF/ehfxdp/508086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Freakazoid: Alto Forte e Maluco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg" group-title="DESENHOS 24H",Freakazoid: Alto Forte e Maluco
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Freakazoid: Alto Forte e Maluco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg" group-title="DESENHOS 24H",Freakazoid: Alto Forte e Maluco
 http://lmdns.online:80/4x6cXF/ehfxdp/508156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg" group-title="DESENHOS 24H",Futurama
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Futurama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg" group-title="DESENHOS 24H",Futurama
 http://lmdns.online:80/4x6cXF/ehfxdp/508087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="George, O Curioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgkt9EiauOcYUynGSgProcXqPPQ.jpg" group-title="DESENHOS 24H",George, O Curioso
+#EXTINF:-1 tvg-id="Like.br" tvg-name="George, O Curioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgkt9EiauOcYUynGSgProcXqPPQ.jpg" group-title="DESENHOS 24H",George, O Curioso
 http://lmdns.online:80/4x6cXF/ehfxdp/508182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gravity Falls: Um Verão de Mistérios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21WVSbe9BB3GYnlxr4UF9H4DmO6.jpg" group-title="DESENHOS 24H",Gravity Falls: Um Verão de Mistérios
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Gravity Falls: Um Verão de Mistérios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21WVSbe9BB3GYnlxr4UF9H4DmO6.jpg" group-title="DESENHOS 24H",Gravity Falls: Um Verão de Mistérios
 http://lmdns.online:80/4x6cXF/ehfxdp/508088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gus: O Pequeno Cavaleiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSvl0Woni5Gv4vws6u6ASC6Ehpj.jpg" group-title="DESENHOS 24H",Gus: O Pequeno Cavaleiro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Gus: O Pequeno Cavaleiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSvl0Woni5Gv4vws6u6ASC6Ehpj.jpg" group-title="DESENHOS 24H",Gus: O Pequeno Cavaleiro
 http://lmdns.online:80/4x6cXF/ehfxdp/508134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="He-Man e Os Defensores do Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqwqYAqdFw02kLEbcmfl2KpZ2tc.jpg" group-title="DESENHOS 24H",He-Man e Os Defensores do Universo
+#EXTINF:-1 tvg-id="Like.br" tvg-name="He-Man e Os Defensores do Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqwqYAqdFw02kLEbcmfl2KpZ2tc.jpg" group-title="DESENHOS 24H",He-Man e Os Defensores do Universo
 http://lmdns.online:80/4x6cXF/ehfxdp/508089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro e seus Amigos Incríveis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHKO7ibdu1YEksqkASa2mSLv9vj.jpg" group-title="DESENHOS 24H",Homem de Ferro e seus Amigos Incríveis
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Homem de Ferro e seus Amigos Incríveis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHKO7ibdu1YEksqkASa2mSLv9vj.jpg" group-title="DESENHOS 24H",Homem de Ferro e seus Amigos Incríveis
 http://lmdns.online:80/4x6cXF/ehfxdp/508210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hora de Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1J3IAQIEUf3T56AVlBgSVGEt11.jpg" group-title="DESENHOS 24H",Hora de Aventura
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Hora de Aventura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1J3IAQIEUf3T56AVlBgSVGEt11.jpg" group-title="DESENHOS 24H",Hora de Aventura
 http://lmdns.online:80/4x6cXF/ehfxdp/508091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Recreio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWF1Mr32mgERhT6AVC59rk5Ibig.jpg" group-title="DESENHOS 24H",Hora do Recreio
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Hora do Recreio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWF1Mr32mgERhT6AVC59rk5Ibig.jpg" group-title="DESENHOS 24H",Hora do Recreio
 http://lmdns.online:80/4x6cXF/ehfxdp/508065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Irmão do Jorel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GAzir4x9LBjf79TYqZAsJT7Irp.jpg" group-title="DESENHOS 24H",Irmão do Jorel
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Irmão do Jorel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GAzir4x9LBjf79TYqZAsJT7Irp.jpg" group-title="DESENHOS 24H",Irmão do Jorel
 http://lmdns.online:80/4x6cXF/ehfxdp/508092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Johnny Test" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/822dNUYXDqVRWfTiFnSKvA8fX2x.jpg" group-title="DESENHOS 24H",Johnny Test
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Johnny Test" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/822dNUYXDqVRWfTiFnSKvA8fX2x.jpg" group-title="DESENHOS 24H",Johnny Test
 http://lmdns.online:80/4x6cXF/ehfxdp/508094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Josie e as Gatinhas no Espaço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdoWG0ras2rpDdZkJQvVw21W7PO.jpg" group-title="DESENHOS 24H",Josie e as Gatinhas no Espaço
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Josie e as Gatinhas no Espaço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdoWG0ras2rpDdZkJQvVw21W7PO.jpg" group-title="DESENHOS 24H",Josie e as Gatinhas no Espaço
 http://lmdns.online:80/4x6cXF/ehfxdp/508136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kick Buttowski: Um Projeto de Dublê" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo7ZDSeOVnc9aJW9KrhlaCyGaXD.jpg" group-title="DESENHOS 24H",Kick Buttowski: Um Projeto de Dublê
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Kick Buttowski: Um Projeto de Dublê" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo7ZDSeOVnc9aJW9KrhlaCyGaXD.jpg" group-title="DESENHOS 24H",Kick Buttowski: Um Projeto de Dublê
 http://lmdns.online:80/4x6cXF/ehfxdp/508095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kid vs. Kat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg" group-title="DESENHOS 24H",Kid vs. Kat
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Kid vs. Kat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg" group-title="DESENHOS 24H",Kid vs. Kat
 http://lmdns.online:80/4x6cXF/ehfxdp/508197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda: Lendas do Dragão Guerreiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CkxiPPIQSf0OmOPvEeBAmRz5dd.jpg" group-title="DESENHOS 24H",Kung Fu Panda: Lendas do Dragão Guerreiro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Kung Fu Panda: Lendas do Dragão Guerreiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CkxiPPIQSf0OmOPvEeBAmRz5dd.jpg" group-title="DESENHOS 24H",Kung Fu Panda: Lendas do Dragão Guerreiro
 http://lmdns.online:80/4x6cXF/ehfxdp/508096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda: O Cavaleiro Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13J3kqXccDfDC2NDdLWNZVQXanU.jpg" group-title="DESENHOS 24H",Kung Fu Panda: O Cavaleiro Dragão
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Kung Fu Panda: O Cavaleiro Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13J3kqXccDfDC2NDdLWNZVQXanU.jpg" group-title="DESENHOS 24H",Kung Fu Panda: O Cavaleiro Dragão
 http://lmdns.online:80/4x6cXF/ehfxdp/508159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Larva: Ilhados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlNvnatIn9js6yhwW8DLDSoLEY3.jpg" group-title="DESENHOS 24H",Larva: Ilhados
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Larva: Ilhados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlNvnatIn9js6yhwW8DLDSoLEY3.jpg" group-title="DESENHOS 24H",Larva: Ilhados
 http://lmdns.online:80/4x6cXF/ehfxdp/508066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dqSuJ8zjdtYy3UfCBbTwue2lT0.jpg" group-title="DESENHOS 24H",Liga da Justiça
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Liga da Justiça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dqSuJ8zjdtYy3UfCBbTwue2lT0.jpg" group-title="DESENHOS 24H",Liga da Justiça
 http://lmdns.online:80/4x6cXF/ehfxdp/508137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça Sem Limites" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0UFURPN16gJGCUntLbUFNB0fQ.jpg" group-title="DESENHOS 24H",Liga da Justiça Sem Limites
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Liga da Justiça Sem Limites" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0UFURPN16gJGCUntLbUFNB0fQ.jpg" group-title="DESENHOS 24H",Liga da Justiça Sem Limites
 http://lmdns.online:80/4x6cXF/ehfxdp/508097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lilo e Stitch: A Série" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plwazYXel3bm2h2cSNr2Jhijw4J.jpg" group-title="DESENHOS 24H",Lilo e Stitch: A Série
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Lilo e Stitch: A Série" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plwazYXel3bm2h2cSNr2Jhijw4J.jpg" group-title="DESENHOS 24H",Lilo e Stitch: A Série
 http://lmdns.online:80/4x6cXF/ehfxdp/508183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Loopy de Loop" tvg-logo="http://44.stolm.live/img-storage/series/3207.jpg" group-title="DESENHOS 24H",Loopy de Loop
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Loopy de Loop" tvg-logo="http://44.stolm.live/img-storage/series/3207.jpg" group-title="DESENHOS 24H",Loopy de Loop
 http://lmdns.online:80/4x6cXF/ehfxdp/508138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg" group-title="DESENHOS 24H",Luluzinha
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Luluzinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7rZ1xjS9Ecg4dAngqjzVza3sHV.jpg" group-title="DESENHOS 24H",Luluzinha
 http://lmdns.online:80/4x6cXF/ehfxdp/508177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGjZfrUe4A3T55JAxhZyxymhyGM.jpg" group-title="DESENHOS 24H",Madagascar: Pequenos Selvagens
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Madagascar: Pequenos Selvagens" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGjZfrUe4A3T55JAxhZyxymhyGM.jpg" group-title="DESENHOS 24H",Madagascar: Pequenos Selvagens
 http://lmdns.online:80/4x6cXF/ehfxdp/508161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maguila, o Gorila" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30HVgOr3dSE7zIgiBuY0AMiwjhL.jpg" group-title="DESENHOS 24H",Maguila, o Gorila
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Maguila, o Gorila" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30HVgOr3dSE7zIgiBuY0AMiwjhL.jpg" group-title="DESENHOS 24H",Maguila, o Gorila
 http://lmdns.online:80/4x6cXF/ehfxdp/508139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Manda-Chuva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewGNQ2obyGXNx1dOMXum2FLAAIf.jpg" group-title="DESENHOS 24H",Manda-Chuva
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Manda-Chuva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewGNQ2obyGXNx1dOMXum2FLAAIf.jpg" group-title="DESENHOS 24H",Manda-Chuva
 http://lmdns.online:80/4x6cXF/ehfxdp/508140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel: Homem-Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouka0JpyCsFcYi9pijGR47nVfRK.jpg" group-title="DESENHOS 24H",Marvel: Homem-Aranha
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Marvel: Homem-Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouka0JpyCsFcYi9pijGR47nVfRK.jpg" group-title="DESENHOS 24H",Marvel: Homem-Aranha
 http://lmdns.online:80/4x6cXF/ehfxdp/508135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze2ocNwb3d2R3DLmzdL7kNFrx50.jpg" group-title="DESENHOS 24H",Masha e o Urso
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Masha e o Urso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze2ocNwb3d2R3DLmzdL7kNFrx50.jpg" group-title="DESENHOS 24H",Masha e o Urso
 http://lmdns.online:80/4x6cXF/ehfxdp/508141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bQto8Jsphbd0VxLKcvqDQS0Mj.jpg" group-title="DESENHOS 24H",Medabots
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Medabots" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bQto8Jsphbd0VxLKcvqDQS0Mj.jpg" group-title="DESENHOS 24H",Medabots
 http://lmdns.online:80/4x6cXF/ehfxdp/508169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Miraculous: As Aventuras de Ladybug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24wf3O8SJeUSJJvDowQR5FDgHGO.jpg" group-title="DESENHOS 24H",Miraculous: As Aventuras de Ladybug
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Miraculous: As Aventuras de Ladybug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24wf3O8SJeUSJJvDowQR5FDgHGO.jpg" group-title="DESENHOS 24H",Miraculous: As Aventuras de Ladybug
 http://lmdns.online:80/4x6cXF/ehfxdp/508101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="DESENHOS 24H",Mr. Bean
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Mr. Bean" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="DESENHOS 24H",Mr. Bean
 http://lmdns.online:80/4x6cXF/ehfxdp/508164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mucha Lucha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w12B6di7moo2otX4X4y3y3gKagz.jpg" group-title="DESENHOS 24H",Mucha Lucha
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Mucha Lucha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w12B6di7moo2otX4X4y3y3gKagz.jpg" group-title="DESENHOS 24H",Mucha Lucha
 http://lmdns.online:80/4x6cXF/ehfxdp/508121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ptbVZpKNy5NY9D4zq4KGiYWRQY.jpg" group-title="DESENHOS 24H",Naruto
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ptbVZpKNy5NY9D4zq4KGiYWRQY.jpg" group-title="DESENHOS 24H",Naruto
 http://lmdns.online:80/4x6cXF/ehfxdp/508047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRJmByfK9XdtOY73VArcN8KpKVs.jpg" group-title="DESENHOS 24H",Naruto Shippuden
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Naruto Shippuden" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRJmByfK9XdtOY73VArcN8KpKVs.jpg" group-title="DESENHOS 24H",Naruto Shippuden
 http://lmdns.online:80/4x6cXF/ehfxdp/508166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Mundo de Gumball" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NGCRWnZpsIevwpjBLkoXfnqSgg.jpg" group-title="DESENHOS 24H",O Incrível Mundo de Gumball
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Incrível Mundo de Gumball" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NGCRWnZpsIevwpjBLkoXfnqSgg.jpg" group-title="DESENHOS 24H",O Incrível Mundo de Gumball
 http://lmdns.online:80/4x6cXF/ehfxdp/508116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Laboratório de Dexter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12rxsv2if1i0TudBRFfP7WznJw0.jpg" group-title="DESENHOS 24H",O Laboratório de Dexter
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Laboratório de Dexter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12rxsv2if1i0TudBRFfP7WznJw0.jpg" group-title="DESENHOS 24H",O Laboratório de Dexter
 http://lmdns.online:80/4x6cXF/ehfxdp/508142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Marinheiro Popeye" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg" group-title="DESENHOS 24H",O Marinheiro Popeye
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Marinheiro Popeye" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg" group-title="DESENHOS 24H",O Marinheiro Popeye
 http://lmdns.online:80/4x6cXF/ehfxdp/508143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Novo Pica-Pau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZUS3qTPMVKok4ZPKFX4TPmgbLy.jpg" group-title="DESENHOS 24H",O Novo Pica-Pau
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Novo Pica-Pau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZUS3qTPMVKok4ZPKFX4TPmgbLy.jpg" group-title="DESENHOS 24H",O Novo Pica-Pau
 http://lmdns.online:80/4x6cXF/ehfxdp/508150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egLcU5jHiMqGBEJyTk43ZKmZ23i.jpg" group-title="DESENHOS 24H",O Pequeno Urso
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Pequeno Urso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egLcU5jHiMqGBEJyTk43ZKmZ23i.jpg" group-title="DESENHOS 24H",O Pequeno Urso
 http://lmdns.online:80/4x6cXF/ehfxdp/508144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Scooby-Doo e Bionicão Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihDoHiqfngTG8Bh9dTgqsSOIiAT.jpg" group-title="DESENHOS 24H",O Scooby-Doo e Bionicão Show
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Scooby-Doo e Bionicão Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihDoHiqfngTG8Bh9dTgqsSOIiAT.jpg" group-title="DESENHOS 24H",O Scooby-Doo e Bionicão Show
 http://lmdns.online:80/4x6cXF/ehfxdp/508146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNIjVpeQtuHD8aJ19TQMWLNuABG.jpg" group-title="DESENHOS 24H",O Show da Luna
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Show da Luna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNIjVpeQtuHD8aJ19TQMWLNuABG.jpg" group-title="DESENHOS 24H",O Show da Luna
 http://lmdns.online:80/4x6cXF/ehfxdp/508184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Show de Tom e Jerry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0VTMU4UI8XlaryymvNKjnD1TXc.jpg" group-title="DESENHOS 24H",O Show de Tom e Jerry
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Show de Tom e Jerry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0VTMU4UI8XlaryymvNKjnD1TXc.jpg" group-title="DESENHOS 24H",O Show de Tom e Jerry
 http://lmdns.online:80/4x6cXF/ehfxdp/508145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Show dos Looney Tunes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uov5Y98rJvjCq8TfqNmKHXMVLU3.jpg" group-title="DESENHOS 24H",O Show dos Looney Tunes
+#EXTINF:-1 tvg-id="Like.br" tvg-name="O Show dos Looney Tunes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uov5Y98rJvjCq8TfqNmKHXMVLU3.jpg" group-title="DESENHOS 24H",O Show dos Looney Tunes
 http://lmdns.online:80/4x6cXF/ehfxdp/508099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOrmYBUH7YfMBkSgGKXya13Xmbm.jpg" group-title="DESENHOS 24H",One Piece
+#EXTINF:-1 tvg-id="Like.br" tvg-name="One Piece" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOrmYBUH7YfMBkSgGKXya13Xmbm.jpg" group-title="DESENHOS 24H",One Piece
 http://lmdns.online:80/4x6cXF/ehfxdp/508170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco - Saga do Santuário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="DESENHOS 24H",Os Cavaleiros do Zodíaco - Saga do Santuário
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Cavaleiros do Zodíaco - Saga do Santuário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="DESENHOS 24H",Os Cavaleiros do Zodíaco - Saga do Santuário
 http://lmdns.online:80/4x6cXF/ehfxdp/508122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco: A Saga de Hades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nCfBKaGVftgH65FpKoGFIUNOob.jpg" group-title="DESENHOS 24H",Os Cavaleiros do Zodíaco: A Saga de Hades
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Cavaleiros do Zodíaco: A Saga de Hades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nCfBKaGVftgH65FpKoGFIUNOob.jpg" group-title="DESENHOS 24H",Os Cavaleiros do Zodíaco: A Saga de Hades
 http://lmdns.online:80/4x6cXF/ehfxdp/508060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jT1ZpG1ybQyLmYMfgpvTaJLrS0.jpg" group-title="DESENHOS 24H",Os Flintstones
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Flintstones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jT1ZpG1ybQyLmYMfgpvTaJLrS0.jpg" group-title="DESENHOS 24H",Os Flintstones
 http://lmdns.online:80/4x6cXF/ehfxdp/508147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Jetsons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5HkfARjZV56k56oEdoNGed0ifM.jpg" group-title="DESENHOS 24H",Os Jetsons
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Jetsons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5HkfARjZV56k56oEdoNGed0ifM.jpg" group-title="DESENHOS 24H",Os Jetsons
 http://lmdns.online:80/4x6cXF/ehfxdp/508048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titãs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZS7cQL9cswzg6eqCuFEAlx3be7.jpg" group-title="DESENHOS 24H",Os Jovens Titãs
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Jovens Titãs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZS7cQL9cswzg6eqCuFEAlx3be7.jpg" group-title="DESENHOS 24H",Os Jovens Titãs
 http://lmdns.online:80/4x6cXF/ehfxdp/508206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Mistérios de Frajola e Piu-Piu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fl17M121Vup0nPrYlmBxXbDM32.jpg" group-title="DESENHOS 24H",Os Mistérios de Frajola e Piu-Piu
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Mistérios de Frajola e Piu-Piu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fl17M121Vup0nPrYlmBxXbDM32.jpg" group-title="DESENHOS 24H",Os Mistérios de Frajola e Piu-Piu
 http://lmdns.online:80/4x6cXF/ehfxdp/508148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyChA2gNT2TH76RuKAj0ysNA2Ag.jpg" group-title="DESENHOS 24H",Os Padrinhos Mágicos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Padrinhos Mágicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyChA2gNT2TH76RuKAj0ysNA2Ag.jpg" group-title="DESENHOS 24H",Os Padrinhos Mágicos
 http://lmdns.online:80/4x6cXF/ehfxdp/508117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins de Madagascar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A48Shigo8YLltGphCfOBbvgCOti.jpg" group-title="DESENHOS 24H",Os Pinguins de Madagascar
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Pinguins de Madagascar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A48Shigo8YLltGphCfOBbvgCOti.jpg" group-title="DESENHOS 24H",Os Pinguins de Madagascar
 http://lmdns.online:80/4x6cXF/ehfxdp/508194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg" group-title="DESENHOS 24H",Os Simpsons
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Simpsons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg" group-title="DESENHOS 24H",Os Simpsons
 http://lmdns.online:80/4x6cXF/ehfxdp/508102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leKD311kVljhYLaXqwRUOF317vh.jpg" group-title="DESENHOS 24H",Os Smurfs
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Smurfs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leKD311kVljhYLaXqwRUOF317vh.jpg" group-title="DESENHOS 24H",Os Smurfs
 http://lmdns.online:80/4x6cXF/ehfxdp/508185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQ0bBHR9Q3wurjNMjnqal0gJaYo.jpg" group-title="DESENHOS 24H",Patrulha Canina
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Patrulha Canina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQ0bBHR9Q3wurjNMjnqal0gJaYo.jpg" group-title="DESENHOS 24H",Patrulha Canina
 http://lmdns.online:80/4x6cXF/ehfxdp/508049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peixonauta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy1jxlpJGG74aQ9mM0QDcbK4EFa.jpg" group-title="DESENHOS 24H",Peixonauta
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Peixonauta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy1jxlpJGG74aQ9mM0QDcbK4EFa.jpg" group-title="DESENHOS 24H",Peixonauta
 http://lmdns.online:80/4x6cXF/ehfxdp/508186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVaiv0S34JnRKHnYkEiObOI15k5.jpg" group-title="DESENHOS 24H",Peppa Pig
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Peppa Pig" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVaiv0S34JnRKHnYkEiObOI15k5.jpg" group-title="DESENHOS 24H",Peppa Pig
 http://lmdns.online:80/4x6cXF/ehfxdp/508207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pestinha e Feroz" tvg-logo="http://44.stolm.live/img-storage/series/3214.jpg" group-title="DESENHOS 24H",Pestinha e Feroz
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Pestinha e Feroz" tvg-logo="http://44.stolm.live/img-storage/series/3214.jpg" group-title="DESENHOS 24H",Pestinha e Feroz
 http://lmdns.online:80/4x6cXF/ehfxdp/508149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cu2nJgERq8ZmRUlBFPsamdJb7rh.jpg" group-title="DESENHOS 24H",Phineas e Ferb
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Phineas e Ferb" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cu2nJgERq8ZmRUlBFPsamdJb7rh.jpg" group-title="DESENHOS 24H",Phineas e Ferb
 http://lmdns.online:80/4x6cXF/ehfxdp/508103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pinky e o Cérebro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywO3QKU8IIOyWtVeA88rWlTyuT6.jpg" group-title="DESENHOS 24H",Pinky e o Cérebro
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Pinky e o Cérebro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywO3QKU8IIOyWtVeA88rWlTyuT6.jpg" group-title="DESENHOS 24H",Pinky e o Cérebro
 http://lmdns.online:80/4x6cXF/ehfxdp/508151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pocoyo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="DESENHOS 24H",Pocoyo
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Pocoyo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="DESENHOS 24H",Pocoyo
 http://lmdns.online:80/4x6cXF/ehfxdp/508104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMSci41QfyJ1oUxP5a2IAMr4QUf.jpg" group-title="DESENHOS 24H",Pokémon
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Pokémon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMSci41QfyJ1oUxP5a2IAMr4QUf.jpg" group-title="DESENHOS 24H",Pokémon
 http://lmdns.online:80/4x6cXF/ehfxdp/508058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rick e Morty" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg" group-title="DESENHOS 24H",Rick e Morty
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Rick e Morty" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg" group-title="DESENHOS 24H",Rick e Morty
 http://lmdns.online:80/4x6cXF/ehfxdp/508105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rocket Power" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2As5aMc84mtTurD2DfDLytNLhkh.jpg" group-title="DESENHOS 24H",Rocket Power
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Rocket Power" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2As5aMc84mtTurD2DfDLytNLhkh.jpg" group-title="DESENHOS 24H",Rocket Power
 http://lmdns.online:80/4x6cXF/ehfxdp/508165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Salsicha e Scooby Atrás das Pistas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zlUvWnU0OR3d8ud5sR6aJfHOc1.jpg" group-title="DESENHOS 24H",Salsicha e Scooby Atrás das Pistas
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Salsicha e Scooby Atrás das Pistas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zlUvWnU0OR3d8ud5sR6aJfHOc1.jpg" group-title="DESENHOS 24H",Salsicha e Scooby Atrás das Pistas
 http://lmdns.online:80/4x6cXF/ehfxdp/508195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Samurai Warriors - Sengoku Musou [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny2Lg6afSKMEXbZSZ6Ghj1I84Bb.jpg" group-title="DESENHOS 24H",Samurai Warriors - Sengoku Musou [L]
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Samurai Warriors - Sengoku Musou [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny2Lg6afSKMEXbZSZ6Ghj1I84Bb.jpg" group-title="DESENHOS 24H",Samurai Warriors - Sengoku Musou [L]
 http://lmdns.online:80/4x6cXF/ehfxdp/508171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHAMAN KING" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAOwHV9gwx3leW26Xch5gi16aII.jpg" group-title="DESENHOS 24H",SHAMAN KING
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SHAMAN KING" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAOwHV9gwx3leW26Xch5gi16aII.jpg" group-title="DESENHOS 24H",SHAMAN KING
 http://lmdns.online:80/4x6cXF/ehfxdp/508059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="She-Ra e as Princesas do Poder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg" group-title="DESENHOS 24H",She-Ra e as Princesas do Poder
+#EXTINF:-1 tvg-id="Like.br" tvg-name="She-Ra e as Princesas do Poder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg" group-title="DESENHOS 24H",She-Ra e as Princesas do Poder
 http://lmdns.online:80/4x6cXF/ehfxdp/508152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sonic Boom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8m6CBrCjcLsIH8iGV3sKdLkoAg.jpg" group-title="DESENHOS 24H",Sonic Boom
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Sonic Boom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8m6CBrCjcLsIH8iGV3sKdLkoAg.jpg" group-title="DESENHOS 24H",Sonic Boom
 http://lmdns.online:80/4x6cXF/ehfxdp/508106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg" group-title="DESENHOS 24H",South Park
+#EXTINF:-1 tvg-id="Like.br" tvg-name="South Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg" group-title="DESENHOS 24H",South Park
 http://lmdns.online:80/4x6cXF/ehfxdp/508107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space Ghost de Costa a Costa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktLiFfffKugp9A4pHxBE8KLSkw.jpg" group-title="DESENHOS 24H",Space Ghost de Costa a Costa
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Space Ghost de Costa a Costa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktLiFfffKugp9A4pHxBE8KLSkw.jpg" group-title="DESENHOS 24H",Space Ghost de Costa a Costa
 http://lmdns.online:80/4x6cXF/ehfxdp/508187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: A Guerra dos Clones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opDY35ukPWTGFIxq17BBHJs49LD.jpg" group-title="DESENHOS 24H",Star Wars: A Guerra dos Clones
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Star Wars: A Guerra dos Clones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opDY35ukPWTGFIxq17BBHJs49LD.jpg" group-title="DESENHOS 24H",Star Wars: A Guerra dos Clones
 http://lmdns.online:80/4x6cXF/ehfxdp/508108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Steven Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6O1uHHMhgBBkDpKiJE53wKvnHmv.jpg" group-title="DESENHOS 24H",Steven Universo
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Steven Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6O1uHHMhgBBkDpKiJE53wKvnHmv.jpg" group-title="DESENHOS 24H",Steven Universo
 http://lmdns.online:80/4x6cXF/ehfxdp/508120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Street Fighter II: Victory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhK51roYnFMxpYmFpmEBHYwCHNt.jpg" group-title="DESENHOS 24H",Street Fighter II: Victory
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Street Fighter II: Victory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhK51roYnFMxpYmFpmEBHYwCHNt.jpg" group-title="DESENHOS 24H",Street Fighter II: Victory
 http://lmdns.online:80/4x6cXF/ehfxdp/508050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CAzxjYTUQoq2jeUnn0z6BugdIP.jpg" group-title="DESENHOS 24H",Super Choque
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Super Choque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CAzxjYTUQoq2jeUnn0z6BugdIP.jpg" group-title="DESENHOS 24H",Super Choque
 http://lmdns.online:80/4x6cXF/ehfxdp/508109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Superman: A Série Animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1smIQtxTZBmnSAKyiFsc2eVI2A3.jpg" group-title="DESENHOS 24H",Superman: A Série Animada
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Superman: A Série Animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1smIQtxTZBmnSAKyiFsc2eVI2A3.jpg" group-title="DESENHOS 24H",Superman: A Série Animada
 http://lmdns.online:80/4x6cXF/ehfxdp/508110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ThunderCats" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DRhh5eRLtg6lNBCahEfLtyE0Sp.jpg" group-title="DESENHOS 24H",ThunderCats
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ThunderCats" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DRhh5eRLtg6lNBCahEfLtyE0Sp.jpg" group-title="DESENHOS 24H",ThunderCats
 http://lmdns.online:80/4x6cXF/ehfxdp/508111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ThunderCats Roar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixXYN0ODQ1NtObDYXVfh6enuxbo.jpg" group-title="DESENHOS 24H",ThunderCats Roar
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ThunderCats Roar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixXYN0ODQ1NtObDYXVfh6enuxbo.jpg" group-title="DESENHOS 24H",ThunderCats Roar
 http://lmdns.online:80/4x6cXF/ehfxdp/508112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tico e Teco: Defensores da Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eZcg9v5bIZ1sc6TxtfOl5fFg89.jpg" group-title="DESENHOS 24H",Tico e Teco: Defensores da Lei
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Tico e Teco: Defensores da Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eZcg9v5bIZ1sc6TxtfOl5fFg89.jpg" group-title="DESENHOS 24H",Tico e Teco: Defensores da Lei
 http://lmdns.online:80/4x6cXF/ehfxdp/508113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Timão e Pumba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A43nWsEklVzFoFIDKkbuH9PO1rY.jpg" group-title="DESENHOS 24H",Timão e Pumba
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Timão e Pumba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A43nWsEklVzFoFIDKkbuH9PO1rY.jpg" group-title="DESENHOS 24H",Timão e Pumba
 http://lmdns.online:80/4x6cXF/ehfxdp/508114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Três Espiãs Demais!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg" group-title="DESENHOS 24H",Três Espiãs Demais!
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Três Espiãs Demais!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg" group-title="DESENHOS 24H",Três Espiãs Demais!
 http://lmdns.online:80/4x6cXF/ehfxdp/508172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica Jovem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vI4ElBHJvwX7PmtvHbczMLaFg2t.jpg" group-title="DESENHOS 24H",Turma da Mônica Jovem
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Turma da Mônica Jovem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vI4ElBHJvwX7PmtvHbczMLaFg2t.jpg" group-title="DESENHOS 24H",Turma da Mônica Jovem
 http://lmdns.online:80/4x6cXF/ehfxdp/508162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Quack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1crrCKgUNTWjKN9k8LUvlaQIZWo.jpg" group-title="DESENHOS 24H",TV Quack
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TV Quack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1crrCKgUNTWjKN9k8LUvlaQIZWo.jpg" group-title="DESENHOS 24H",TV Quack
 http://lmdns.online:80/4x6cXF/ehfxdp/508188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultimate Homem-Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoZxQsP5qbWYM5ziXDK5bNpuhyi.jpg" group-title="DESENHOS 24H",Ultimate Homem-Aranha
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ultimate Homem-Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoZxQsP5qbWYM5ziXDK5bNpuhyi.jpg" group-title="DESENHOS 24H",Ultimate Homem-Aranha
 http://lmdns.online:80/4x6cXF/ehfxdp/508193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="DESENHOS 24H",Uma Família da Pesada
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Uma Família da Pesada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="DESENHOS 24H",Uma Família da Pesada
 http://lmdns.online:80/4x6cXF/ehfxdp/508115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhosos e Seus Primos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42rLDq7mHH7DyWWWklSTQy7y2ze.jpg" group-title="DESENHOS 24H",Ursinhos Carinhosos e Seus Primos
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Ursinhos Carinhosos e Seus Primos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42rLDq7mHH7DyWWWklSTQy7y2ze.jpg" group-title="DESENHOS 24H",Ursinhos Carinhosos e Seus Primos
 http://lmdns.online:80/4x6cXF/ehfxdp/508153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTHQXfzwl0JlTpMsgOtJqvadjiL.jpg" group-title="DESENHOS 24H",X-Men
+#EXTINF:-1 tvg-id="Like.br" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTHQXfzwl0JlTpMsgOtJqvadjiL.jpg" group-title="DESENHOS 24H",X-Men
 http://lmdns.online:80/4x6cXF/ehfxdp/508155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-Men '97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg" group-title="DESENHOS 24H",X-Men '97
+#EXTINF:-1 tvg-id="Like.br" tvg-name="X-Men '97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvqC5hw3rkW9vputtZ8PlwYhJRp.jpg" group-title="DESENHOS 24H",X-Men '97
 http://lmdns.online:80/4x6cXF/ehfxdp/508158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Evolution" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg" group-title="DESENHOS 24H",X-Men: Evolution
+#EXTINF:-1 tvg-id="Like.br" tvg-name="X-Men: Evolution" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg" group-title="DESENHOS 24H",X-Men: Evolution
 http://lmdns.online:80/4x6cXF/ehfxdp/508154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg" group-title="DESENHOS 24H",Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Yu-Gi-Oh!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg" group-title="DESENHOS 24H",Yu-Gi-Oh!
 http://lmdns.online:80/4x6cXF/ehfxdp/508123.m3u8
 ####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
 #EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM 
@@ -2104,123 +2104,123 @@ http://lmdns.online:80/4x6cXF/ehfxdp/100038.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/95488.m3u8
 #EXTINF:-1 tvg-id="Bandce.br" tvg-name="VENUS [HD]" tvg-logo="http://stolm.live/lives/ADULTO/VENUS.png" group-title="ADULTOS",VENUS [HD]
 http://lmdns.online:80/4x6cXF/ehfxdp/90437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ANYA OLSEN" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ANYA OLSEN
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ANYA OLSEN" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ANYA OLSEN
 http://lmdns.online:80/4x6cXF/ehfxdp/91287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX BR ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BR ONLYFANS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BR ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BR ONLYFANS
 http://lmdns.online:80/4x6cXF/ehfxdp/91294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX BRASILEIRINHAS 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 01
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BRASILEIRINHAS 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 01
 http://lmdns.online:80/4x6cXF/ehfxdp/95499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX BRASILEIRINHAS 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 02
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BRASILEIRINHAS 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 02
 http://lmdns.online:80/4x6cXF/ehfxdp/91277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX GIRL CUM" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX GIRL CUM
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX GIRL CUM" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX GIRL CUM
 http://lmdns.online:80/4x6cXF/ehfxdp/91288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX INT ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX INT ONLYFANS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX INT ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX INT ONLYFANS
 http://lmdns.online:80/4x6cXF/ehfxdp/91282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX JAPAN HDV" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JAPAN HDV
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX JAPAN HDV" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JAPAN HDV
 http://lmdns.online:80/4x6cXF/ehfxdp/91286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX JEMMA VALENTINE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JEMMA VALENTINE
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX JEMMA VALENTINE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JEMMA VALENTINE
 http://lmdns.online:80/4x6cXF/ehfxdp/91280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX LAUREN WALKER" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX LAUREN WALKER
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX LAUREN WALKER" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX LAUREN WALKER
 http://lmdns.online:80/4x6cXF/ehfxdp/91293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MANDY MUSE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MANDY MUSE
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MANDY MUSE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MANDY MUSE
 http://lmdns.online:80/4x6cXF/ehfxdp/91279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MIA KHALIFA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MIA KHALIFA
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MIA KHALIFA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MIA KHALIFA
 http://lmdns.online:80/4x6cXF/ehfxdp/91283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MOM XXX" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MOM XXX
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MOM XXX" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MOM XXX
 http://lmdns.online:80/4x6cXF/ehfxdp/91292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MULHER MELAO" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MULHER MELAO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MULHER MELAO" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MULHER MELAO
 http://lmdns.online:80/4x6cXF/ehfxdp/91285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX MYRA MOANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MYRA MOANS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MYRA MOANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MYRA MOANS
 http://lmdns.online:80/4x6cXF/ehfxdp/91281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX NAUGHTY AMERICA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX NAUGHTY AMERICA
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX NAUGHTY AMERICA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX NAUGHTY AMERICA
 http://lmdns.online:80/4x6cXF/ehfxdp/91291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX REALITY KINGS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX REALITY KINGS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX REALITY KINGS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX REALITY KINGS
 http://lmdns.online:80/4x6cXF/ehfxdp/91290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX STEFANIE MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX STEFANIE MOON
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX STEFANIE MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX STEFANIE MOON
 http://lmdns.online:80/4x6cXF/ehfxdp/91284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX VANESSA MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX VANESSA MOON
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX VANESSA MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX VANESSA MOON
 http://lmdns.online:80/4x6cXF/ehfxdp/91276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX YENIFER CHACON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX YENIFER CHACON
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX YENIFER CHACON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX YENIFER CHACON
 http://lmdns.online:80/4x6cXF/ehfxdp/91278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX A CASA DAS BRASILEIRINHAS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX A CASA DAS BRASILEIRINHAS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX A CASA DAS BRASILEIRINHAS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX A CASA DAS BRASILEIRINHAS
 http://lmdns.online:80/4x6cXF/ehfxdp/91289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 01
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 01
 http://lmdns.online:80/4x6cXF/ehfxdp/91215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 02
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 02
 http://lmdns.online:80/4x6cXF/ehfxdp/91216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 04" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 04
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 04" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 04
 http://lmdns.online:80/4x6cXF/ehfxdp/91218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 05" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 05
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 05" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 05
 http://lmdns.online:80/4x6cXF/ehfxdp/91219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 06" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 06
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 06" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 06
 http://lmdns.online:80/4x6cXF/ehfxdp/91220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 07" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 07
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 07" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 07
 http://lmdns.online:80/4x6cXF/ehfxdp/91221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 08" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 08
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 08" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 08
 http://lmdns.online:80/4x6cXF/ehfxdp/91222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 09" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 09
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 09" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 09
 http://lmdns.online:80/4x6cXF/ehfxdp/91223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 10" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 10
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 10" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 10
 http://lmdns.online:80/4x6cXF/ehfxdp/91224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 11" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 11
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 11" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 11
 http://lmdns.online:80/4x6cXF/ehfxdp/91225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 12" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 12
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 12" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 12
 http://lmdns.online:80/4x6cXF/ehfxdp/91226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 13" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 13
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 13" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 13
 http://lmdns.online:80/4x6cXF/ehfxdp/91227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 14" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 14
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 14" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 14
 http://lmdns.online:80/4x6cXF/ehfxdp/91228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 15" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 15
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 15" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 15
 http://lmdns.online:80/4x6cXF/ehfxdp/91229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 16" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 16
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 16" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 16
 http://lmdns.online:80/4x6cXF/ehfxdp/91230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 17" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 17
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 17" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 17
 http://lmdns.online:80/4x6cXF/ehfxdp/91231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 18" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 18
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 18" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 18
 http://lmdns.online:80/4x6cXF/ehfxdp/91232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 19" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 19
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 19" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 19
 http://lmdns.online:80/4x6cXF/ehfxdp/91233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 20" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 20
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 20" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 20
 http://lmdns.online:80/4x6cXF/ehfxdp/91234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 21" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 21
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 21" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 21
 http://lmdns.online:80/4x6cXF/ehfxdp/91235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 22" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 22
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 22" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 22
 http://lmdns.online:80/4x6cXF/ehfxdp/91236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 23" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 23
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 23" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 23
 http://lmdns.online:80/4x6cXF/ehfxdp/91237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 24" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 24
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 24" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 24
 http://lmdns.online:80/4x6cXF/ehfxdp/91238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 25" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 25
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 25" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 25
 http://lmdns.online:80/4x6cXF/ehfxdp/91239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 26" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 26
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 26" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 26
 http://lmdns.online:80/4x6cXF/ehfxdp/91240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 27" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 27
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 27" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 27
 http://lmdns.online:80/4x6cXF/ehfxdp/91241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 28" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 28
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 28" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 28
 http://lmdns.online:80/4x6cXF/ehfxdp/91242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 29" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 29
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 29" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 29
 http://lmdns.online:80/4x6cXF/ehfxdp/91243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 30" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 30
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 30" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 30
 http://lmdns.online:80/4x6cXF/ehfxdp/91244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 31" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 31
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 31" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 31
 http://lmdns.online:80/4x6cXF/ehfxdp/91245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 32" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 32
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 32" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 32
 http://lmdns.online:80/4x6cXF/ehfxdp/91246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 33" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 33
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 33" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 33
 http://lmdns.online:80/4x6cXF/ehfxdp/91247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 34" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 34
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 34" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 34
 http://lmdns.online:80/4x6cXF/ehfxdp/91248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 35" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 35
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 35" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 35
 http://lmdns.online:80/4x6cXF/ehfxdp/91249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 36" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 36
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 36" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 36
 http://lmdns.online:80/4x6cXF/ehfxdp/91250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 37" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 37
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 37" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 37
 http://lmdns.online:80/4x6cXF/ehfxdp/91251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 38" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 38
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 38" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 38
 http://lmdns.online:80/4x6cXF/ehfxdp/91252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 39" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 39
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 39" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 39
 http://lmdns.online:80/4x6cXF/ehfxdp/91253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H - XXX ADULTO 40" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 40
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 40" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 40
 http://lmdns.online:80/4x6cXF/ehfxdp/91254.m3u8
 ################### RÁDIOS #######################
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS", JEQUIÉ 89.7 FM | JEQUIÉ - BA
