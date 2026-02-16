@@ -83,7 +83,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89846.m3u8
 #EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="TV ABERTA",GAZETA
 http://lmdns.online:80/4x6cXF/ehfxdp/90010.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
-http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
+https://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 #EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV
 https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiJmNzc5YjQzMC00NDI3LTRiMzAtYmVkZC02Mjg0ODdhNjU0MDciLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2ODY1NTkzNywiaWF0IjoxNzY4NjU1OTM3LCJleHAiOjE3Njg3NDIzMzcsImp0aSI6ImY3NzliNDMwLTQ0MjctNGIzMC1iZWRkLTYyODQ4N2E2NTQwNyIsImlzcyI6IlNwYWxsYSJ9.UvV7OaJ0ESliecD7_eESZSnm1_bIrPw3iDfzg-Tw8Rg&uid=f779b430-4427-4b30-bedd-628487a65407
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV ABERTA",NGT
