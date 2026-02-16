@@ -330,61 +330,6 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Sao Luis HD.br" tvg-name="TV SÃO LUIS - MA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/TV_Sao_Luis_2024.png/revision/latest?cb=20240906040649" group-title="TV ABERTA",TV SÃO LUIS - MA
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
-############## JOGOS ############## ############## JOGOS ############## JOGOS ############## ############## JOGOS ############## JOGOS ############## ############## JOGOS ############## JOGOS ############## ############## JOGOS
-#EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="JOGOS",JOGOS DO DIA
-http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[09:15] Albion x West Ham FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[09:15] Albion x West Ham FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[11:30] Werder Bremen x Bayern Munique FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[11:30] Werder Bremen x Bayern Munique FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Manchester City x Salford FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[12:00] Manchester City x Salford FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[12:00] Southampton x Leicester FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[12:00] Southampton x Leicester FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[14:00] Lazio x Atalanta FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[14:00] Lazio x Atalanta FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[14:30] Al-Fateh x Al-Nassr FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[14:30] Al-Fateh x Al-Nassr FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Aston Villa x Newcastle FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[14:45] Aston Villa x Newcastle FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Bahia x Jacuipense FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:00] Bahia x Jacuipense FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Operário x Coritiba FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:00] Operário x Coritiba FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:30] Brusque x Chapecoense FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:30] Brusque x Chapecoense FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:30] Ferroviário x Fortaleza FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:30] Ferroviário x Fortaleza FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:45] Inter de Milão x Juventus FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[16:45] Inter de Milão x Juventus FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] Real Madrid x Real Sociedad FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[17:00] Real Madrid x Real Sociedad FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] Liverpool x Brighton FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[17:00] Liverpool x Brighton FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[18:00] Santa Catarina x Avaí FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[18:00] Santa Catarina x Avaí FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] América-MG x North FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[19:00] América-MG x North FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Itabirito x Atlético-MG FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[19:00] Itabirito x Atlético-MG FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Vasco x Volta Redonda FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",[21:30] Vasco x Volta Redonda FHD
-http://lmdns.online:80/4x6cXF/ehfxdp/506939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="JOGOS",Informações em Breve
-http://lmdns.online:80/4x6cXF/ehfxdp/506947.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN  
 http://lmdns.online:80/4x6cXF/ehfxdp/89962.m3u8
