@@ -1,55 +1,62 @@
 import requests
-from collections import defaultdict
 
 URL_ORIGINAL = "http://lmdns.online/get.php?username=4x6cXF&password=ehfxdp&type=m3u_plus&output=m3u8"
 
+GROUP_EVENTOS = 'group-title="EVENTOS"'
+GROUP_TV_ABERTA = 'group-title="TV ABERTA"'
+
+# Pega apenas EVENTOS da lista externa
 response = requests.get(URL_ORIGINAL)
-linhas = response.text.splitlines()
+origem = response.text.splitlines()
 
-grupos = defaultdict(list)
-
+eventos = []
 i = 0
-while i < len(linhas):
-    linha = linhas[i]
-
-    if linha.startswith("#EXTINF"):
-        # Extrai nome do grupo
-        inicio = linha.find('group-title="')
-        if inicio != -1:
-            inicio += len('group-title="')
-            fim = linha.find('"', inicio)
-            grupo = linha[inicio:fim]
-        else:
-            grupo = "OUTROS"
-
-        grupos[grupo].append(linha)
-
-        if i + 1 < len(linhas):
-            grupos[grupo].append(linhas[i + 1])
-
+while i < len(origem):
+    if origem[i].startswith("#EXTINF") and GROUP_EVENTOS in origem[i]:
+        eventos.append(origem[i])
+        if i + 1 < len(origem):
+            eventos.append(origem[i + 1])
         i += 2
     else:
         i += 1
 
-# Ordem desejada
-ordem_final = []
+# Lê sua lista principal
+with open("h.m3u8", "r", encoding="utf-8") as f:
+    lista = f.read().splitlines()
 
-# Cabeçalho
-ordem_final.append("#EXTM3U")
+# Remove EVENTOS antigos da sua lista
+lista_limpa = []
+pular = False
 
-# 1️⃣ TV ABERTA
-if "TV ABERTA" in grupos:
-    ordem_final.extend(grupos["TV ABERTA"])
+for linha in lista:
+    if GROUP_EVENTOS in linha:
+        pular = True
+        continue
+    if pular:
+        pular = False
+        continue
+    lista_limpa.append(linha)
 
-# 2️⃣ EVENTOS
-if "EVENTOS" in grupos:
-    ordem_final.extend(grupos["EVENTOS"])
+# Agora vamos inserir EVENTOS após o ÚLTIMO canal de TV ABERTA
+nova_lista = []
+i = 0
 
-# 3️⃣ Restante dos grupos
-for grupo in grupos:
-    if grupo not in ["TV ABERTA", "EVENTOS"]:
-        ordem_final.extend(grupos[grupo])
+while i < len(lista_limpa):
+    nova_lista.append(lista_limpa[i])
+
+    # Detecta último canal TV ABERTA
+    if (
+        lista_limpa[i].startswith("#EXTINF")
+        and GROUP_TV_ABERTA in lista_limpa[i]
+        and (
+            i + 2 >= len(lista_limpa)
+            or GROUP_TV_ABERTA not in lista_limpa[i + 2]
+        )
+    ):
+        nova_lista.extend(eventos)
+
+    i += 1
 
 # Salva
 with open("h.m3u8", "w", encoding="utf-8") as f:
-    f.write("\n".join(ordem_final))
+    f.write("\n".join(nova_lista))
