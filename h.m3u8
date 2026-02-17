@@ -92,7 +92,7 @@ https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD.br" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
-#EXTINF:-1 tvg-id="Combrasil.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/assets/LogoMaior-DdI0kjV1.png" group-title="TV ABERTA",COM BRASIL
+#EXTINF:-1 tvg-id="Like.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/assets/LogoMaior-DdI0kjV1.png" group-title="TV ABERTA",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 tvg-id="TV Diário HD.br" tvg-name="TV DIARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/TV_Di%C3%A1rio_logo_2023.png" group-title="TV ABERTA",TV DIÁRIO
 http://lmdns.online:80/4x6cXF/ehfxdp/91449.m3u8
@@ -1696,7 +1696,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-id="TV Aparecida HD.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="RELIGIOSOS",TV APARECIDA 
 http://lmdns.online:80/4x6cXF/ehfxdp/90406.m3u8
-#EXTINF:-1 tvg-id="TV Evangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",TV EVANGELIZAR
+#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="RELIGIOSOS",TV IMACULADA 
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
