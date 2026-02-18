@@ -84,8 +84,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89846.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90010.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
 https://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
-#EXTINF:-1 tvg-id="Sesctv.br" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="TV ABERTA",SESC TV
-https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiJlMjg4MGExMS04MWZkLTQ0NmUtODg0MS0wYmU5OThmNGJhNjEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc3MTM1MDU5MSwiaWF0IjoxNzcxMzUwNTkxLCJleHAiOjE3NzE0MzY5OTEsImp0aSI6ImUyODgwYTExLTgxZmQtNDQ2ZS04ODQxLTBiZTk5OGY0YmE2MSIsImlzcyI6IlNwYWxsYSJ9.kMP184h6hu6wGOIsLfN7MZ_14XkZH5z1VZpYRxH3RnY&uid=e2880a11-81fd-446e-8841-0be998f4ba61
 #EXTINF:-1 tvg-id="Rede NGT.br" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV ABERTA",NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rede Minas HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="TV ABERTA",REDE MINAS
@@ -444,6 +442,18 @@ http://lmdns.online:80/4x6cXF/ehfxdp/101244.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
 https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w1126966857.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 5
+https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
 https://video03.logicahost.com.br/rssports/rssports/chunklist_w301348720.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 2
 https://video03.logicahost.com.br/rssports2/rssports2/chunklist_w313090725.m3u8
@@ -453,6 +463,7 @@ https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1739680423.m3u8
 https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w161300766.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 5
 https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w571289972.m3u8
+
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89907.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 2 
