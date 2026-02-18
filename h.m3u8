@@ -440,7 +440,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/101245.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="NOSSO FUTEBOL 4" tvg-logo="http://stolime.cc/lives/ESPORTES/NOSSO%20FUTEBOL.png" group-title="ESPORTES",NOSSO FUTEBOL 4 
 http://lmdns.online:80/4x6cXF/ehfxdp/101244.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
-https://video05.logicahost.com.br/rsnews/rsnews/chunklist_w1126966857.m3u8
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 2
@@ -451,19 +451,18 @@ https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 5
 https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS NEWS
-https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS
-https://video03.logicahost.com.br/rssports/rssports/chunklist_w301348720.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 2
-https://video03.logicahost.com.br/rssports2/rssports2/chunklist_w313090725.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 3
-https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1739680423.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 4
-https://video03.logicahost.com.br/rssports4/rssports4/chunklist_w161300766.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SPORTS 5
-https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w571289972.m3u8
-
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS PLAY +
+https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS PREMIERE
+https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS PREMIERE 2
+https://video03.logicahost.com.br/rspremiere2/rspremiere2/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS PREMIERE 3
+https://video03.logicahost.com.br/rspremiere3/rspremiere3/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RSSP PREMIERE 4
+https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SÉRIES
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89907.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 2 
@@ -1941,7 +1940,7 @@ https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="VARIEDADES",REVRY BRASIL
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="VARIEDADES",RS TV - RS
-https://video03.logicahost.com.br/rstv/rstv/chunklist_w1194207943.m3u8
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 #EXTINF:-1 tvg-id="SaboreArte.br" tvg-name="SABOR & ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Saborearte.png/120px-Saborearte.png?20210703164655" group-title="VARIEDADES",SABOR & ARTE 
 http://lmdns.online:80/4x6cXF/ehfxdp/91388.m3u8
 #EXTINF:-1 tvg-id="SOLTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gSSGWXx.png" group-title="VARIEDADES",SOL BRASIL
