@@ -468,29 +468,31 @@ https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/m25TK0O.png" group-title="ESPORTES",RS SÉRIES
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 
-http://lmdns.online:80/4x6cXF/ehfxdp/89907.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303824.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 2 
-http://lmdns.online:80/4x6cXF/ehfxdp/89908.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303823.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 3 
-http://lmdns.online:80/4x6cXF/ehfxdp/89909.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303822.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 4 
-http://lmdns.online:80/4x6cXF/ehfxdp/89910.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303821.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 5 
-http://lmdns.online:80/4x6cXF/ehfxdp/89911.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303820.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://stolime.cc/lives/ESPORTES/ELEVEN_SPORTS_PT.png" group-title="ESPORTES",ELEVEN SPORTS 6 
-http://lmdns.online:80/4x6cXF/ehfxdp/101056.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303819.m3u8
+#EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-name="SPORT TV +" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV
+http://lmdns.online:80/4x6cXF/ehfxdp/303945.m3u8
 #EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-name="SPORT TV +" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV + 
-http://lmdns.online:80/4x6cXF/ehfxdp/101057.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303891.m3u8
 #EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="SPORT TV 1" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 1 
 http://lmdns.online:80/4x6cXF/ehfxdp/101058.m3u8
 #EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-name="SPORT TV 2" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 2 
-http://lmdns.online:80/4x6cXF/ehfxdp/101059.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303890.m3u8
 #EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-name="SPORT TV 3" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 3 
-http://lmdns.online:80/4x6cXF/ehfxdp/101060.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303889.m3u8
 #EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="SPORT TV 4" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 4 
-http://lmdns.online:80/4x6cXF/ehfxdp/101061.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303888.m3u8
 #EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="SPORT TV 5" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 5 
-http://lmdns.online:80/4x6cXF/ehfxdp/101062.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/303944.m3u8
 #EXTINF:-1 tvg-id="SPORT TV6 HD.pt" tvg-name="SPORT TV 6" tvg-logo="http://stolime.cc/lives/ESPORTES/SPORTTV_PT.png" group-title="ESPORTES",SPORT TV 6 
 http://lmdns.online:80/4x6cXF/ehfxdp/101063.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DUBAI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027" group-title="ESPORTES",DUBAI SPORTS 1 
