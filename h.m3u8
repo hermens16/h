@@ -502,12 +502,10 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89955.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="USA: ALTITUDE SPORTS" tvg-logo="http://stolime.cc/lives/INTERNACIONAIS/ALTITUDE_SPORTS.png" group-title="ESPORTES",USA: ALTITUDE SPORTS 
 http://lmdns.online:80/4x6cXF/ehfxdp/119492.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 1
-https://stream.ads.ottera.tv/cl/241226ctmn1feqv9lvrme0j0lg/1920x1080_4787201_4_f.m3u8?i=475_758
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 3
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 4
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 ##### FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ######
 #EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILMES",HBO
