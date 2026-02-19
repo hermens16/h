@@ -629,7 +629,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="FILMES",CINEMONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="FILMES",CLASSIQUE TV 
-https://stmv1.srvif.com/classique/classique/chunklist_w96348289.m3u8
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="FILMES",DARKFLIX
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="FILMES",SOUL CINE CLUBE  
@@ -657,8 +657,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91376.m3u8
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A FEITICEIRA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="SÉRIES",BEING MARY JANE  
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="SÉRIES",BET  
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Comedy Central.br" tvg-name="COMEDY CENTRAL" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="SÉRIES",COMEDY CENTRAL 
