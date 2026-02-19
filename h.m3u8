@@ -554,8 +554,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89986.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90143.m3u8
 #EXTINF:-1 tvg-id="Megapix HD.br" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/120px-Megapix_fundoclaro_midiaimpressa.png" group-title="FILMES",MEGAPIX 
 http://lmdns.online:80/4x6cXF/ehfxdp/90157.m3u8
-#EXTINF:-1 tvg-id="Paramount Channel HD.br" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/250px-Paramount_Network.svg.png" group-title="FILMES",PARAMOUNT CHANNEL
-http://lmdns.online:80/4x6cXF/ehfxdp/90203.m3u8
 #EXTINF:-1 tvg-id="Space HD.br" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="FILMES",SPACE
 http://lmdns.online:80/4x6cXF/ehfxdp/90316.m3u8
 #EXTINF:-1 tvg-id="Studio Universal HD.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES",STUDIO UNIVERSAL 
@@ -1457,8 +1455,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90080.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90744.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="KIDMAIS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIS",KIDSMAIS
 http://lmdns.online:80/4x6cXF/ehfxdp/95420.m3u8
-#EXTINF:-1 tvg-id="Nick Jr. HD.br" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/642px-Nick_Jr._logo_2023.svg.png" group-title="INFANTIS",NICK JR 
-http://lmdns.online:80/4x6cXF/ehfxdp/90195.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 
 http://lmdns.online:80/4x6cXF/ehfxdp/90198.m3u8
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/643px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="INFANTIS",ZOOMOO 
