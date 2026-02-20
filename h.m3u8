@@ -1431,8 +1431,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89921.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90076.m3u8
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/512px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO 
 http://lmdns.online:80/4x6cXF/ehfxdp/90080.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HELLO KITTY" tvg-logo="https://e7.pngegg.com/pngimages/816/297/png-clipart-hello-kitty-character-sanrio-hello-kitty-logo-hello-kitty-logo-love-game-thumbnail.png" group-title="INFANTIS",HELLO KITTY
-http://lmdns.online:80/4x6cXF/ehfxdp/90744.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="KIDMAIS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIS",KIDSMAIS
 http://lmdns.online:80/4x6cXF/ehfxdp/95420.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 
@@ -1499,10 +1497,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508068.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508131.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://w7.pngwing.com/pngs/447/831/png-transparent-television-show-animated-series-animated-film-jackie-chan-adventures-television-cartoon-fictional-character-thumbnail.png" group-title="INFANTIS",AS AVENTURAS DE JACKIE CHAN
 http://lmdns.online:80/4x6cXF/ehfxdp/508075.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BOB ZOOM" tvg-logo="https://e7.pngegg.com/pngimages/920/364/png-clipart-bob-zoom-vol-4-music-al-jeep-del-padre-spotify-bob-s-watches-zoom-vol-4-thumbnail.png" group-title="INFANTIS",BOB ZOOM
-http://lmdns.online:80/4x6cXF/ehfxdp/90532.m3u8  
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/01/Caverna_do_Drag%C3%A3o_Logo.jpg" group-title="INFANTIS",CAVERNA DO DRAGÃO
-http://lmdns.online:80/4x6cXF/ehfxdp/90562.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="https://static.wikia.nocookie.net/clarencio/images/0/09/ClarenceTitle.png/revision/latest?cb=20140825022812&path-prefix=pt-br" group-title="INFANTIS",CLARÊNCIO, O OTIMISTA
 http://lmdns.online:80/4x6cXF/ehfxdp/90580.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY81z48pa9bgdoJUmmLR-i3MwtVt4TRDrXrQ&s" group-title="INFANTIS",DESENHOS BÍBLICOS
