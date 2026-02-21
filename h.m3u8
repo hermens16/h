@@ -1460,20 +1460,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89831.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://image.roku.com/developer_channels/prod/a913de755d4cd09adbf2ebd7a1e627578f701106bf80e1af4f18679335da410c.png" group-title="MÚSICA",BLAST CHANNEL TV
-https://video01.logicahost.com.br/blast/blast/chunklist_w684507465.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="MÚSICA",BLITS TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="CANAL WOOHOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="MÚSICA",CANAL WOOHOO 
 http://lmdns.online:80/4x6cXF/ehfxdp/89858.m3u8
-#EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="CANAL WOOHOO" tvg-logo="https://cdn.technettv.com/channel/29254/logo_256_1733511593.png" group-title="MÚSICA",CANAL TV! 
-https://alanza.iptv2022.com/TVI_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="Like.br" tvg-name="KPOP TV PLAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest/scale-to-width-down/250?cb=20230625152624" group-title="MÚSICA",KPOP TV PLAY
-https://alanza.iptv2022.com/Kpo_TV_Play/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12051/logo_256_1684135647.png" group-title="MÚSICA",MASTER SHOW TV
-https://mastershowtv.tvr.ovh/master6123/master6123/chunklist_w1420098948.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.mastershowtv.com/public/30116-2023-11-08.png" group-title="MÚSICA",MASTER SHOW ATRAÇÕES
-https://s1.tvr.ovh/master1667/master1667/chunklist_w699788384.m3u8
+https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV Brasil.br" tvg-name="MTV '00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MÚSICA",MTV '00 
 http://lmdns.online:80/4x6cXF/ehfxdp/90161.m3u8
 #EXTINF:-1 tvg-id="MTV.br" tvg-name="MTV" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="MÚSICA",MTV 
@@ -1489,13 +1481,7 @@ https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="MÚSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/15394/thumb_TV_ROCK.png" group-title="MÚSICA",TV ROCK
-https://alanza.iptv2022.com/TV_Rock/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS FORRÓ" tvg-logo="https://e7.pngegg.com/pngimages/376/272/png-clipart-musica-sertaneja-forro-singer-thailand-forro-angle-rectangle-thumbnail.png" group-title="MÚSICA",SHOWS FORRÓ
-http://lmdns.online:80/4x6cXF/ehfxdp/90896.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pop_logo_2021.png/768px-Pop_logo_2021.png" group-title="MÚSICA",SHOWS POP
-http://lmdns.online:80/4x6cXF/ehfxdp/90900.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SHOWS SERTANEJO" tvg-logo="https://showsertanejo.com.br/wp-content/uploads/2021/11/logo-show-sertanejo.svg" group-title="MÚSICA",SHOWS SERTANEJO
-http://lmdns.online:80/4x6cXF/ehfxdp/90903.m3u8
+https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8
 ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ############## NOTÍCIAS ##############
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/120px-Logotipo_da_GloboNews.png" group-title="NOTÍCIAS",GLOBO NEWS 
 http://lmdns.online:80/4x6cXF/ehfxdp/90039.m3u8
