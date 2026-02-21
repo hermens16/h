@@ -1524,7 +1524,7 @@ https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w349642608.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i0.wp.com/www.sjbcampinas.com.br/wp-content/uploads/2017/07/13_batista-e1501001181461.png?fit=90%2C91&ssl=1" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
-#EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-logo="https://cdn-bfcdi.nitrocdn.com/EigTJDFelgEHSfQJBwMExYqAYVGcYUcb/assets/static/optimized/wp-content/uploads/2022/06/5524e2d317318033e30d6726b100e711.tv.png" group-title="RELIGIOSOS",TV SANTA CRUZ
+#EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a4b15c06f51dbc362a2cf204a7ce042.webp" group-title="RELIGIOSOS",TV SANTA CRUZ
 https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",TV NOVO MILÊNIO
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
@@ -1533,7 +1533,7 @@ https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-id="Horizonte TV.br" tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="RELIGIOSOS",TV HORIZONTE
 https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/9cb298376f242f143ceeb33a31ec443a.jpg" group-title="RELIGIOSOS",TV JAMPA JOVENS
-https://srv1.zcast.com.br/anderson7754/anderson7754/chunklist_w1052739511.m3u8
+https://srv1.zcast.com.br/anderson7754/anderson7754/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Aparecida HD.br" tvg-logo="https://pbs.twimg.com/profile_images/1285539252995072000/MftGCZSY_400x400.jpg" group-title="RELIGIOSOS",SANTUÁRIO DE APARECIDA
 https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cançao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
@@ -1564,10 +1564,10 @@ https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1820360697_b3048000_sleng.m3
 https://cdn.live.br1.jmvstream.com/w/LVW-10893/ngrp:LVW10893_gYHYD18Dqy_all/chunklist_b4259840.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="RELIGIOSOS",FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="RELIGIOSOS",GOSPEL MOVIES 
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="RELIGIOSOS",GOSPEL MUSIC 
-https://stmv1.srvif.com/gmusic/gmusic/chunklist_w98623764.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="RELIGIOSOS",GOSPEL MOVIE
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="RELIGIOSOS",GOSPEL MUSIC 
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="RELIGIOSOS",IGREJA ONLINE | PORTUGAL 
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/chunklist_w1438491982_b3048000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="RELIGIOSOS",KKTV | ANGOLA
@@ -1593,19 +1593,17 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="RELIGIOSOS",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="RELIGIOSOS",REDE MUNDIAL
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="RELIGIOSOS",REDE SUPER
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1553191580.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/13119/logo_256_1684135583.png" group-title="RELIGIOSOS",SEMEAR TV
-https://alanza.iptv2022.com/semear_tv/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://5c483b9d1019c.streamlock.net/semeartv/semeartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="RELIGIOSOS",SBN GLOBAL
 https://acesso.ecast.site:3500/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="RELIGIOSOS",TENDA TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11859/logo_256_1685931006.png" group-title="RELIGIOSOS",TV AVIVANDO NAÇÕES
-https://alanza.iptv2022.com/AVIVANDO_NAGOES/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
-#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/15289/thumb_TV_BR_GLOBAL.jpeg" group-title="RELIGIOSOS",TV BR GLOBAL STATION
-https://alanza.iptv2022.com/TV_BR_GLOBAL/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ976XhVK4L_bDrK1_oabCsQZaScJlxQEVpPA&s" group-title="RELIGIOSOS",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1966658526.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS",TV GIDEÕES
@@ -1618,8 +1616,6 @@ https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/chunklist_w540439499.m
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="RELIGIOSOS",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/13749/logo_256_1683876721.png" group-title="RELIGIOSOS",TV VIDA NOVA
-https://alanza.iptv2022.com/TV_VIDA_NOVA/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="RELIGIOSOS",LOADING
 http://lmdns.online:80/4x6cXF/ehfxdp/90149.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
