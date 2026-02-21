@@ -1493,28 +1493,18 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90259.m3u8
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Band_News_TV_2021_Logo.png/800px-Band_News_TV_2021_Logo.png" group-title="NOTÍCIAS",BAND NEWS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89820.m3u8
-#EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BM&C NEWS" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26762/logo_256_1718721922.png" group-title="NOTÍCIAS",BM&C NEWS 
-https://alanza.iptv2022.com/BM_C_News/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NOTÍCIAS",BLOOMBERG 
 http://lmdns.online:80/4x6cXF/ehfxdp/97746.m3u8
 #EXTINF:-1 tvg-id="Fox News Channel.br" tvg-name="FOX NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NOTÍCIAS",FOX NEWS  
 http://lmdns.online:80/4x6cXF/ehfxdp/95430.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="NOTÍCIAS",EURONEWS
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="NOTÍCIAS",CANAL UOL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="Agromais HD.br" tvg-name="AGRO MAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Agromais-band-logo.png/800px-Agromais-band-logo.png" group-title="NOTÍCIAS",AGRO MAIS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89795.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCIIg6U_RtV8u1ojfXTZjmhmBlE510XOHug&s" group-title="NOTÍCIAS",011 NEWS
-https://011news.akamaized.net/011news/011news/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_REDONDO_100X100_FUNDO_PRETO_54DyE4h.png" group-title="NOTÍCIAS",DESAPARECIDOS RS
-https://video01.soultv.com.br/desaparecidosrs/desaparecidosrs/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Assembleia de Minas Gerais.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="NOTÍCIAS",TV ASSEMBLEIA
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="NOTÍCIAS",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/JroCDcO.png" group-title="NOTÍCIAS",TV JUSTIÇA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706391973/ei/RSW1ZfeQI42SobIPzNOEoAI/ip/181.217.118.230/id/uPV_CYACs_E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/siu/1/spc/UWF9f9gz-SCL3UmYIQAQSanck6hFqr-rrm5rzvkl6Hzg6f7T_MW9Y7Ri4XWM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUQHCYkZSBLzlF13dG-8xXzysMI-Nt63k_3Ki59Jf8ScCIHpXfJ4b5ZLYGOQuqBPFNEmL_Gr58lUFvv4CnGDbY0fk/file/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="NOTÍCIAS",TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
 #### RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ####
