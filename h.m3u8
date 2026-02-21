@@ -1522,10 +1522,10 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="RELIGIOSOS",TV PAI ETERNO
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w349642608.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://obatistaitaborai.com/wp-content/uploads/2020/01/BRAS%C3%83O-PNG.png" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i0.wp.com/www.sjbcampinas.com.br/wp-content/uploads/2017/07/13_batista-e1501001181461.png?fit=90%2C91&ssl=1" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
 #EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-logo="https://cdn-bfcdi.nitrocdn.com/EigTJDFelgEHSfQJBwMExYqAYVGcYUcb/assets/static/optimized/wp-content/uploads/2022/06/5524e2d317318033e30d6726b100e711.tv.png" group-title="RELIGIOSOS",TV SANTA CRUZ
-https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/chunklist_w583040319.m3u8
+https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",TV NOVO MILÊNIO
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tvmacoi-min.png" group-title="RELIGIOSOS",TV MACEIÓ
