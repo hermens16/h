@@ -568,7 +568,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90392.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90434.m3u8
 #EXTINF:-1 tvg-id="Warner Channel HD.br" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="FILMES",WARNER CHANNEL 
 http://lmdns.online:80/4x6cXF/ehfxdp/90444.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="FILMES",CINDIE LITE
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="FILMES",CINDIE LITE
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="FILMES",MOVIESPHERE 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
