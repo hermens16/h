@@ -1457,104 +1457,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="INFANTIS",TURMA DA MÔNICA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-A VACA E O FRANGO" tvg-logo="https://image.tmdb.org/t/p/original/tRgWFuXp2XcNk3sg8QUOh6wbnpv.png" group-title="INFANTIS",A VACA E O FRANGO
-http://lmdns.online:80/4x6cXF/ehfxdp/508068.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIS",AS AVENTURAS DE BOB ESPONJA
-http://lmdns.online:80/4x6cXF/ehfxdp/508131.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://w7.pngwing.com/pngs/447/831/png-transparent-television-show-animated-series-animated-film-jackie-chan-adventures-television-cartoon-fictional-character-thumbnail.png" group-title="INFANTIS",AS AVENTURAS DE JACKIE CHAN
-http://lmdns.online:80/4x6cXF/ehfxdp/508075.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="https://static.wikia.nocookie.net/clarencio/images/0/09/ClarenceTitle.png/revision/latest?cb=20140825022812&path-prefix=pt-br" group-title="INFANTIS",CLARÊNCIO, O OTIMISTA
-http://lmdns.online:80/4x6cXF/ehfxdp/90580.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY81z48pa9bgdoJUmmLR-i3MwtVt4TRDrXrQ&s" group-title="INFANTIS",DESENHOS BÍBLICOS
-http://lmdns.online:80/4x6cXF/ehfxdp/90629.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="DESENHOS BIBLICOS - O NOVO TESTAMENTO" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a3/Desenhos_B%C3%ADblicos.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230611124122&path-prefix=pt-br" group-title="INFANTIS",DESENHOS BÍBLICOS - NOVO TESTAMENTO
-http://lmdns.online:80/4x6cXF/ehfxdp/90931.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-ANTIGO TESTAMENTO" tvg-logo="https://w7.pngwing.com/pngs/935/1015/png-transparent-noah-s-ark-bible-drawing-child-noah-s-ark-bible-drawing.png" group-title="INFANTIS",DESENHOS BÍBLICOS - ANTIGO TESTAMENTO
-http://lmdns.online:80/4x6cXF/ehfxdp/90484.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DOUG" tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png" group-title="INFANTIS",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1439214426.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DOUG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Doug-72210-2.png" group-title="INFANTIS",DOUG
-http://lmdns.online:80/4x6cXF/ehfxdp/90651.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-FUTURAMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglAwzqrEGEG2ikxMntLW4iUatoqnU6nVyxw&s" group-title="INFANTIS",FUTURAMA
-http://lmdns.online:80/4x6cXF/ehfxdp/90718.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GALINHA PINTADINHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuqtKujFOd8Yzk3defhx_11RgDQL9mFjkD6w&s" group-title="INFANTIS",GALINHA PINTADINHA
-http://lmdns.online:80/4x6cXF/ehfxdp/90721.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-GATO DE BOTAS" tvg-logo="https://w7.pngwing.com/pngs/476/457/png-transparent-puss-in-boots-shrek-film-series-cat-puss-in-boots-mammal-hat-cat-like-mammal-thumbnail.png" group-title="INFANTIS",GATO DE BOTAS
-http://lmdns.online:80/4x6cXF/ehfxdp/90733.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HERCULES" tvg-logo="https://w7.pngwing.com/pngs/1011/170/png-transparent-disney-039-s-hercules-hd-logo.png" group-title="INFANTIS",HERCULES
-http://lmdns.online:80/4x6cXF/ehfxdp/90745.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="LIGEIRINHO" tvg-logo="https://w7.pngwing.com/pngs/210/704/png-transparent-speedy-gonzales-sylvester-looney-tunes-cartoon-animation-looney-tunes-mammal-vertebrate-cartoon-thumbnail.png" group-title="INFANTIS",LIGEIRINHO
-http://lmdns.online:80/4x6cXF/ehfxdp/90806.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MUNDO BITA E OS ANIMAIS" tvg-logo="https://liviabrazil.files.wordpress.com/2016/03/bita.jpg?w=640&h=480&crop=1" group-title="INFANTIS",MUNDO BITA E OS ANIMAIS
-http://lmdns.online:80/4x6cXF/ehfxdp/90893.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O MASKARA" tvg-logo="https://absolutamentelendarios.wordpress.com/wp-content/uploads/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="INFANTIS",O MASKARA
-http://lmdns.online:80/4x6cXF/ehfxdp/90929.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O MASKARA SERIE ANIMADA" tvg-logo="https://absolutamentelendarios.wordpress.com/wp-content/uploads/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="INFANTIS",O MASKARA 2
-http://lmdns.online:80/4x6cXF/ehfxdp/90930.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="INFANTIS",OS FLINTSTONES
-http://lmdns.online:80/4x6cXF/ehfxdp/90949.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="INFANTIS",OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg" group-title="INFANTIS",OS JETSONS 2
-http://lmdns.online:80/4x6cXF/ehfxdp/90958.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS PINGUINS DE MADAGASCAR" tvg-logo="https://w7.pngwing.com/pngs/621/463/png-transparent-penguin-madagascar-brand-penguin-animals-text-logo.png" group-title="INFANTIS",OS PINGUINS DE MADAGASCAR
-http://lmdns.online:80/4x6cXF/ehfxdp/90963.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SHOW DA LUNA" tvg-logo="https://i.pinimg.com/originals/af/d5/17/afd5176c70b216b33d90d166015ba32f.png" group-title="INFANTIS",O SHOW DA LUNA
-http://lmdns.online:80/4x6cXF/ehfxdp/91089.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/Care-Bears.png" group-title="INFANTIS",OS URSINHOS CARINHOSOS
-http://lmdns.online:80/4x6cXF/ehfxdp/91205.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="https://w7.pngwing.com/pngs/671/393/png-transparent-coyote-and-road-runner-illustration-wile-e-coyote-and-the-road-runner-looney-tunes-marvin-the-martian-cartoon-beep-beep-runner-fauna-wildlife-tail-thumbnail.png" group-title="INFANTIS",PAPALEGUAS E COIOTE
-http://lmdns.online:80/4x6cXF/ehfxdp/91005.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PEPPA PIG" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Peppa_Pig_logo.png" group-title="INFANTIS",PEPPA PIG
-http://lmdns.online:80/4x6cXF/ehfxdp/91019.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdt-VdJIOshukpxfEdNd8LDEecgeCuB2Rtg&s" group-title="INFANTIS",PERNALONGA E SUA TURMA
-http://lmdns.online:80/4x6cXF/ehfxdp/91022.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-PICA-PAU" tvg-logo="https://e7.pngegg.com/pngimages/665/187/png-clipart-woody-woodpecker-drawing-andy-panda-pica-pau-cartoon-fictional-character-thumbnail.png" group-title="INFANTIS",PICA-PAU
-http://lmdns.online:80/4x6cXF/ehfxdp/91025.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-POPEYE" tvg-logo="https://w7.pngwing.com/pngs/422/7/png-transparent-popeye-the-sailor-man-popeye-rush-for-spinach-popeye-village-t-shirt-popeye-comics-child-hand-thumbnail.png" group-title="INFANTIS",POPEYE
-http://lmdns.online:80/4x6cXF/ehfxdp/91049.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="INFANTIS",RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O PEQUENO SCOOBY DOO" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/2/2c/Pequeno_Scooby.jpeg/revision/latest?cb=20230826220455&path-prefix=pt-br" group-title="INFANTIS",O PEQUENO SCOOBY DOO
-http://lmdns.online:80/4x6cXF/ehfxdp/90934.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-O QUE HA DE NOVO SCOOBYDOO" tvg-logo="https://image.tmdb.org/t/p/original/lQ0biSV9HrfK1DEu9BekYAP2XH1.jpg" group-title="INFANTIS",O QUE HÁ DE NOVO SCOOBYDOO
-http://lmdns.online:80/4x6cXF/ehfxdp/90937.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-REI DO PEDACO" tvg-logo="https://animeserie.com/product_images/c/155/O_Rei_do_Peda%E7o__71972_std.png" group-title="INFANTIS",REI DO PEDAÇO
-http://lmdns.online:80/4x6cXF/ehfxdp/91067.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TG TOON GOOGLES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TIMAO E PUMBA" tvg-logo="https://e7.pngegg.com/pngimages/875/738/png-clipart-pumba-and-timon-illustration-youtube-timon-and-pumbaa-simba-zazu-the-lion-king-mammal-cat-like-mammal-thumbnail.png" group-title="INFANTIS",TIMÃO E PUMBA
-http://lmdns.online:80/4x6cXF/ehfxdp/91175.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-TOM E JERRY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWMNBOB2vYrP65QZZ7S6TDUE30Mlq0TOF5g&s" group-title="INFANTIS",TOM E JERRY
-http://lmdns.online:80/4x6cXF/ehfxdp/91181.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HE-MAN 24H" tvg-logo="https://banner2.cleanpng.com/20180620/jwy/aa6a1xrex.webp" group-title="INFANTIS",HE-MAN
-http://lmdns.online:80/4x6cXF/ehfxdp/90743.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Men_In_Black_logo.png" group-title="INFANTIS",MIB HOMENS DE PRETO
-http://lmdns.online:80/4x6cXF/ehfxdp/90876.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-MORTAL KOMBAT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/Mortal_kombat_logo.png" group-title="INFANTIS",MORTAL KOMBAT
-http://lmdns.online:80/4x6cXF/ehfxdp/90888.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SILVERHAWKS" tvg-logo="https://w7.pngwing.com/pngs/867/520/png-transparent-logo-television-show-cartoon-others-miscellaneous-television-text-thumbnail.png" group-title="INFANTIS",SILVERHAWKS
-http://lmdns.online:80/4x6cXF/ehfxdp/91092.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-THUNDERCATS" tvg-logo="https://w7.pngwing.com/pngs/373/290/png-transparent-logo-lion-o-thundercats-animated-series-logos-miscellaneous-comics-logo-thumbnail.png" group-title="INFANTIS",THUNDERCATS
-http://lmdns.online:80/4x6cXF/ehfxdp/91174.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-BATMAN" tvg-logo="https://w7.pngwing.com/pngs/509/584/png-transparent-batman-logo-sticker-batman-logo-comics-emblem-superhero-thumbnail.png" group-title="INFANTIS",BATMAN
-http://lmdns.online:80/4x6cXF/ehfxdp/90508.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPER CHOQUE" tvg-logo="https://i.pinimg.com/originals/ad/f5/4f/adf54ffb830f5a9fa5a301b0d5d50abd.jpg" group-title="INFANTIS",SUPER CHOQUE
-http://lmdns.online:80/4x6cXF/ehfxdp/91149.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-SUPERMAN DESENHO" tvg-logo="https://e7.pngegg.com/pngimages/298/628/png-transparent-superman-flat-logo.png" group-title="INFANTIS",SUPERMAN
-http://lmdns.online:80/4x6cXF/ehfxdp/91152.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-LIGA DA JUSTI" tvg-logo="https://i.pinimg.com/originals/b2/9c/ee/b29ceea873de1770e55c48d20a64ba16.png" group-title="INFANTIS",LIGA DA JUSTIÇA
-http://lmdns.online:80/4x6cXF/ehfxdp/90805.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEM ARANHA" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/ab/Homemaranha1.jpg/revision/latest?cb=20220406031013&path-prefix=pt-br" group-title="INFANTIS",HOMEM-ARANHA
-http://lmdns.online:80/4x6cXF/ehfxdp/90757.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="https://image.tmdb.org/t/p/original/rxandEoW2PKOKwWtOenAsZ5lClg.jpg" group-title="INFANTIS",HOMEM-ARANHA: AÇÃO SEM LIMITES
-http://lmdns.online:80/4x6cXF/ehfxdp/90760.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-INCRIVEL HULK" tvg-logo="https://w7.pngwing.com/pngs/398/127/png-transparent-hulk-spider-man-logo-marvel-comics-others-comics-marvel-avengers-assemble-superhero.png" group-title="INFANTIS",INCRIVEL HULK
-http://lmdns.online:80/4x6cXF/ehfxdp/90772.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-X MEN" tvg-logo="https://i.pinimg.com/originals/59/fc/67/59fc671e1fd73d00d76e58c6c1839b7e.png" group-title="INFANTIS",X MEN
-http://lmdns.online:80/4x6cXF/ehfxdp/91213.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-OS VINGADORES" tvg-logo="https://e7.pngegg.com/pngimages/861/252/png-clipart-carol-danvers-iron-man-ultron-hulk-marvel-comics-avengers-logo-marvel-avengers-logo-marvel-avengers-assemble-avengers-thumbnail.png" group-title="INFANTIS",OS VINGADORES
-http://lmdns.online:80/4x6cXF/ehfxdp/90999.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS 
 http://lmdns.online:80/4x6cXF/ehfxdp/89831.m3u8
