@@ -1,5 +1,8 @@
 name: Update YouTube Live
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "15 * * * *"   # roda 15 minutos após a hora cheia
