@@ -9,7 +9,7 @@ os.makedirs("live", exist_ok=True)
 
 for name, url in channels.items():
     result = subprocess.run(
-        ["yt-dlp", "-g", url],
+        ["yt-dlp", "-f", "best[ext=m3u8]", "-g", url],
         capture_output=True,
         text=True
     )
