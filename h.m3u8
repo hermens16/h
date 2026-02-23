@@ -1371,7 +1371,7 @@ https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cançao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
 https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w2078242036.m3u8
 #EXTINF:-1 tvg-id="livro24h" group-title="RELIGIOSOS",Livro 24h
-https://hermens16.github.io/h.m3u8/live/livro24h.m3u8
+https://raw.githubusercontent.com/hermens16/h/main/lives/livro24h.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="RELIGIOSOS",CANAL ORBE 21 | ARGENTINA
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b2211840.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="RELIGIOSOS",CATHOLIC TV | EUA
