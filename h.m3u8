@@ -1564,6 +1564,8 @@ https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
 https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w2078242036.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSOS",SANTUÁRIO DE FÁTIMA | PORTUGAL
 https://raw.githubusercontent.com/hermens16/h/main/lives/livro24h.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSOS",SANTUÁRIO DE FÁTIMA | PORTUGAL
+https://raw.githubusercontent.com/hermens16/h/main/lives/vaticanonews.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="RELIGIOSOS",CANAL ORBE 21 | ARGENTINA
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b2211840.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="RELIGIOSOS",CATHOLIC TV | EUA
