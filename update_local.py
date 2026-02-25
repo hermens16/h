@@ -16,7 +16,7 @@ for linha in linhas:
     print(f"Atualizando {nome}...")
 
     result = subprocess.run(
-        ["yt-dlp.exe", "-g", url],
+        ["yt-dlp.exe", "-f", "best[ext=m3u8][vcodec*=avc1]", "-g", url],
         capture_output=True,
         text=True
     )
