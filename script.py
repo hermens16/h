@@ -13,9 +13,20 @@ while i < len(linhas):
     linha = linhas[i]
 
     if linha.startswith("#EXTINF") and GROUP_NAME in linha:
+        # Separa antes e depois da vírgula
+        partes = linha.rsplit(",", 1)
+
+        if len(partes) == 2:
+            antes, nome = partes
+            nome = nome.strip().upper()  # CONVERTE PARA MAIÚSCULO
+            linha = f"{antes},{nome}"
+
         eventos.append(linha)
+
+        # adiciona o link da linha seguinte
         if i + 1 < len(linhas):
             eventos.append(linhas[i + 1])
+
         i += 2
     else:
         i += 1
@@ -38,7 +49,7 @@ for linha in lista_principal:
     nova_lista_limpa.append(linha)
 
 # Garante cabeçalho
-if not nova_lista_limpa[0].startswith("#EXTM3U"):
+if not nova_lista_limpa or not nova_lista_limpa[0].startswith("#EXTM3U"):
     nova_lista_limpa.insert(0, "#EXTM3U")
 
 cabecalho = [nova_lista_limpa[0]]
@@ -49,3 +60,5 @@ lista_final = cabecalho + eventos + resto
 
 with open("h.m3u8", "w", encoding="utf-8") as f:
     f.write("\n".join(lista_final))
+
+print("EVENTOS atualizados e convertidos para MAIÚSCULO com sucesso!")
