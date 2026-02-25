@@ -1519,6 +1519,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90259.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/89820.m3u8
 #EXTINF:-1 tvg-id="Bloomberg HD.br" tvg-name="BLOOMBERG" tvg-logo="https://logospng.org/wp-content/uploads/bloomberg.png" group-title="NOTÍCIAS",BLOOMBERG 
 http://lmdns.online:80/4x6cXF/ehfxdp/97746.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="FOLHA POLÍTICA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lsGOic20sDP0-rRTAk7vfPYvk0_obP4LwwOt7RX1RXE6k=s900-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS",FOLHA POLITICA 
+https://raw.githubusercontent.com/hermens16/h/main/lives/folhapolitica.m3u8
 #EXTINF:-1 tvg-id="Fox News Channel.br" tvg-name="FOX NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="NOTÍCIAS",FOX NEWS  
 http://lmdns.online:80/4x6cXF/ehfxdp/95430.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="NOTÍCIAS",CANAL UOL 
