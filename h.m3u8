@@ -347,8 +347,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90324.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/89828.m3u8
 #EXTINF:-1 tvg-id="OFF HD.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",CANAL OFF
 http://lmdns.online:80/4x6cXF/ehfxdp/89850.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="ATITUDE NEW" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f9944bb95a94d7647e65a9db18322f0.webp" group-title="ESPORTES",ATITUDE NEW
-https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/chunklist_w1602126404.m3u8
 #EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="http://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="ESPORTES",FUEL TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ffc5cfa6cad6f2991745c2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BmvCVAecRNdxqbz4wnbc
 #EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/32/NSports.jpg?20250901034356" group-title="ESPORTES",NSPORTS
@@ -371,8 +369,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-id="63dac28760bc8f0008a7654b" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="ESPORTES",REAL MADRID TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="UniqueSports.br" tvg-logo="https://uniquetv.com.br/logo.png" group-title="VARIEDADES",UNIQUE TV
-https://video08.logicahost.com.br/uniquetv/uniquetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ATITUDE NEW" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f9944bb95a94d7647e65a9db18322f0.webp" group-title="ESPORTES",ATITUDE NEW
+https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/chunklist_w1602126404.m3u8
 #EXTINF:-1 tvg-id="64c815e8a1c6130008fef928" tvg-logo="http://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="ESPORTES",GAMING UBISOFT
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",WORLD POKER TOUR
@@ -1893,6 +1891,8 @@ https://tv02.zas.media:1936/panorama/panorama/chunklist_w1485483103.m3u8
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1525695506.m3u8
 #EXTINF:-1 tvg-id="TVSPE.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zTaRKN7.png" group-title="VARIEDADES",TVS SURUBIM - PE
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-id="UniqueTv" tvg-logo="https://uniquetv.com.br/logo.png" group-title="VARIEDADES",UNIQUE TV
+https://video08.logicahost.com.br/uniquetv/uniquetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="VARIEDADES",UNIVERSIDADE DA PESSOA
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/13063/thumb_VIAMORENA_new.png" group-title="VARIEDADES",VIAMORENA
