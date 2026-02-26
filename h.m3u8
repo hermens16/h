@@ -1754,6 +1754,8 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="RELIGIOSOS",TV PAI ETERNO
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w349642608.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://katholika.com/wp-content/uploads/2020/08/katholika-favicon.png" group-title="RELIGIOSOS",KATHOLIKA
+https://acesso.ecast.site:3743/live/katholikalive.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i0.wp.com/www.sjbcampinas.com.br/wp-content/uploads/2017/07/13_batista-e1501001181461.png?fit=90%2C91&ssl=1" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
 #EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a4b15c06f51dbc362a2cf204a7ce042.webp" group-title="RELIGIOSOS",TV SANTA CRUZ
