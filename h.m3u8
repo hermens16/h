@@ -669,57 +669,57 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f
 #EXTINF:-1 tvg-id="66aa67493a4ad2000806d91b" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="FILMES",TERROR TRASH
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ###### SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES ############# SÉRIES #### SÉRIES ######### SÉRIES ######### SÉRIES #######
-#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A Feiticeira | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A FEITICEIRA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="SÉRIES",Arnold - Diff'rent Strokes | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="SÉRIES",ARNOLD - DIFF'RENT STROKES | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="SÉRIES",Being Mary Jane | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="SÉRIES",BEING MARY JANE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="67e59a6557487a8b7fe73e23" tvg-logo="https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG.png" group-title="SÉRIES",Caçadora de Relíquias | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="67e59a6557487a8b7fe73e23" tvg-logo="https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG.png" group-title="SÉRIES",CAÇADORA DE RELÍQUIAS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67e59a6557487a8b7fe73e23/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="67f9602ee173fa5664fafae8" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG.png" group-title="SÉRIES",Charmed: Jovens Bruxas | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="67f9602ee173fa5664fafae8" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG.png" group-title="SÉRIES",CHARMED: JOVENS BRUXAS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67f9602ee173fa5664fafae8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="SÉRIES",Clube do Terror | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="SÉRIES",CLUBE DO TERROR | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="SÉRIES",CSI Miami | Pluto TV Brasil
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="SÉRIES",CSI MIAMI | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="SÉRIES",Inferno Sobre Rodas | Pluto TV Brasil
+#EXTINF:-1 tvg-id="64ff2c773efb5100082efb73" tvg-logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/colorLogoPNG.png" group-title="SÉRIES",INFERNO SOBRE RODAS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="SÉRIES",Kenan e Kel | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="SÉRIES",KENAN E KEL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="SÉRIES",MacGyver | Pluto TV Brasil
+#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="SÉRIES",MACGYVER | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="SÉRIES",NCIS | Pluto TV Brasil
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="SÉRIES",NCIS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="67f960c5441853fe50e7afc1" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG.png" group-title="SÉRIES",NUMB3RS | Pluto TV Brasil
+#EXTINF:-1 tvg-id="67f960c5441853fe50e7afc1" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG.png" group-title="SÉRIES",NUMB3RS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67f960c5441853fe50e7afc1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES",O homem que veio do céu | Pluto TV Brasil
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="SÉRIES",O HOMEM QUE VEIO DO CÉU | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="SÉRIES",Rookie Blue | Pluto TV Brasil
+#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="SÉRIES",ROOKIE BLUE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="SÉRIES",South Park | Pluto TV Brasil
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="SÉRIES",SOUTH PARK | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="SÉRIES",South Park Coleção Cartman | Pluto TV Brasil
+#EXTINF:-1 tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="SÉRIES",SOUTH PARK COLEÇÃO CARTMAN | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="SÉRIES",South Park Coleção Kenny | Pluto TV Brasil
+#EXTINF:-1 tvg-id="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="SÉRIES",SOUTH PARK COLEÇÃO KENNY | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="SÉRIES",South Park Coleção Kyle | Pluto TV Brasil
+#EXTINF:-1 tvg-id="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="SÉRIES",SOUTH PARK COLEÇÃO KYLE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="SÉRIES",South Park Coleção Stan | Pluto TV Brasil
+#EXTINF:-1 tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="SÉRIES",SOUTH PARK COLEÇÃO STAN | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="SÉRIES",Star Trek | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="SÉRIES",STAR TREK | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="69162af591700f4c4c135c95" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG.png" group-title="SÉRIES",Star Trek: Deep Space Nine | Pluto TV Brasil
+#EXTINF:-1 tvg-id="69162af591700f4c4c135c95" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG.png" group-title="SÉRIES",STAR TREK: DEEP SPACE NINE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/69162af591700f4c4c135c95/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="69162ad79505d0f3b1ebf07d" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG.png" group-title="SÉRIES",Star Trek: The Next Generation | Pluto TV Brasil
+#EXTINF:-1 tvg-id="69162ad79505d0f3b1ebf07d" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG.png" group-title="SÉRIES",STAR TREK: THE NEXT GENERATION | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/69162ad79505d0f3b1ebf07d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="69162b1ef189e235142b17ab" tvg-logo="https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG.png" group-title="SÉRIES",Star Trek: Voyager | Pluto TV Brasil
+#EXTINF:-1 tvg-id="69162b1ef189e235142b17ab" tvg-logo="https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG.png" group-title="SÉRIES",STAR TREK: VOYAGER | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/69162b1ef189e235142b17ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="678aa104680721c77c506746" tvg-logo="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png" group-title="SÉRIES",The Walking Dead | Pluto TV Brasil
+#EXTINF:-1 tvg-id="678aa104680721c77c506746" tvg-logo="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png" group-title="SÉRIES",THE WALKING DEAD | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/678aa104680721c77c506746/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",Younger | Pluto TV Brasil
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="SÉRIES",YOUNGER | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="66b3af48d2d50d00083d6936" tvg-logo="https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG.png" group-title="SÉRIES",Z Nation | Pluto TV Brasil
+#EXTINF:-1 tvg-id="66b3af48d2d50d00083d6936" tvg-logo="https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG.png" group-title="SÉRIES",Z NATION | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66b3af48d2d50d00083d6936/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="SÉRIES",A FEITICEIRA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1028,153 +1028,153 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a06
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/681ba2ad93d3d19bcab47433/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",NATUREZA ~ LINK 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6806d65e84f24b70109485fa" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Aliens | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6806d65e84f24b70109485fa" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ALIENS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6806d65e84f24b70109485fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Assombrações | Pluto TV Brasil
+#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ASSOMBRAÇÕES | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",BET | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",BET | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-logo="http://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",BM&C News | Pluto TV Brasil
+#EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-logo="http://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",BM&C NEWS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="656e2a10954b020008ed167c" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Estado Paranormal | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="656e2a10954b020008ed167c" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ESTADO PARANORMAL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="DOCUMENTÁRIOS",Canal 29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="DOCUMENTÁRIOS",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Acumuladores Obsessivos | Pluto TV Brasil
+#EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ACUMULADORES OBSESSIVOS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="DOCUMENTÁRIOS",Assim é Portugal | Brasil
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="DOCUMENTÁRIOS",ASSIM É PORTUGAL | BRASIL
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="DOCUMENTÁRIOS",Astral TV | Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="DOCUMENTÁRIOS",ASTRAL TV | BRASIL
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="DOCUMENTÁRIOS",Bem Melhor | Soul TV
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="DOCUMENTÁRIOS",BEM MELHOR | SOUL TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-id="656e2a10954b020008ed167c" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Caçadores de OVNIs | Pluto TV Brasil
+#EXTINF:-1 tvg-id="656e2a10954b020008ed167c" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",CAÇADORES DE OVNIS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Cozinha | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",COZINHA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Curiosidade | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",CURIOSIDADE | PLUTO TV BRASIL ~ LINK 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="638df93ae2f2a3000737c168" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Detetives Médicos | Pluto TV Brasil
+#EXTINF:-1 tvg-id="638df93ae2f2a3000737c168" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",DETETIVES MÉDICOS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",DiaTV | Pluto TV Brasil
+#EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",DIATV | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Estado Paranormal | Pluto TV Brasil
+#EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ESTADO PARANORMAL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="67603668f433320008760af1" tvg-logo="https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Homeful | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="67603668f433320008760af1" tvg-logo="https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",HOMEFUL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67603668f433320008760af1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Investigação | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="633ee9ba83c08f00076b60a6" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",KFood | Pluto TV Brasil
+#EXTINF:-1 tvg-id="633ee9ba83c08f00076b60a6" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",KFOOD | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MasterChef | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MASTERCHEF | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MasterChef Brasil | RunTime TV
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MASTERCHEF BRASIL | RUNTIME TV
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-id="681111be5e0764e297fb200e" tvg-logo="https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MasterChef Mais Brasil | Pluto TV Brasil
+#EXTINF:-1 tvg-id="681111be5e0764e297fb200e" tvg-logo="https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MASTERCHEF MAIS BRASIL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/681111be5e0764e297fb200e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="681110afc188aa63faa147e0" tvg-logo="https://images.pluto.tv/channels/681110afc188aa63faa147e0/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MasterChef Profissionais | Pluto TV Brasil
+#EXTINF:-1 tvg-id="681110afc188aa63faa147e0" tvg-logo="https://images.pluto.tv/channels/681110afc188aa63faa147e0/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MASTERCHEF PROFISSIONAIS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/681110afc188aa63faa147e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Minha Obsessão Favorita | Pluto TV Brasil
+#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MINHA OBSESSÃO FAVORITA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Mistérios | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MISTÉRIOS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Mistérios sem Solução | Pluto TV Brasil
+#EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MISTÉRIOS SEM SOLUÇÃO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f6108d8cc331900075e98e4" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Are you the One? | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f6108d8cc331900075e98e4" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV ARE YOU THE ONE? | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="645111f1d8436e00081bb2bd" tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Drag | Pluto TV Brasil
+#EXTINF:-1 tvg-id="645111f1d8436e00081bb2bd" tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV DRAG | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="626c2a3502d84a0007cec817" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Catfish | Pluto TV Brasil    
+#EXTINF:-1 tvg-id="626c2a3502d84a0007cec817" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV CATFISH | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61a528267e1b8b0007357920" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Com o Ex | Pluto TV Brasil
+#EXTINF:-1 tvg-id="61a528267e1b8b0007357920" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV COM O EX | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6851bb3426beced4f2f67ee6" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Dating | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6851bb3426beced4f2f67ee6" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV DATING | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6851bb3426beced4f2f67ee6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="645111f1d8436e00081bb2bd" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Drag | Pluto TV Brasil
+#EXTINF:-1 tvg-id="645111f1d8436e00081bb2bd" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV DRAG | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="620fdc7d8a36fc000710e3ba" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Jovens e Mães | Teen Mom | Pluto TV Brasil
+#EXTINF:-1 tvg-id="620fdc7d8a36fc000710e3ba" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV JOVENS E MÃES | TEEN MOM | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63988b61c8d285000798a22a" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Just Tattoo of Us | Pluto TV Brasil
+#EXTINF:-1 tvg-id="63988b61c8d285000798a22a" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV JUST TATTOO OF US | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988b61c8d285000798a22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Reality | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV REALITY | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="68641eb4852dfe78698c3390" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Ridiculousness | Pluto TV Brasil
+#EXTINF:-1 tvg-id="68641eb4852dfe78698c3390" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV RIDICULOUSNESS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/68641eb4852dfe78698c3390/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV Shore | Pluto TV Brasil
+#EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",MTV SHORE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64ad7394798def00087b2bfe" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Negócio Fechado | Pluto TV Brasil
+#EXTINF:-1 tvg-id="64ad7394798def00087b2bfe" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",NEGÓCIO FECHADO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Nosey Escândalos | Samsung
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",NOSEY ESCÂNDALOS | SAMSUNG
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",O encantador de cães | Pluto TV Brasil
+#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",O ENCANTADOR DE CÃES | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="DOCUMENTÁRIOS",Oportunidades TV | full HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="DOCUMENTÁRIOS",OPORTUNIDADES TV | FULL HD
 http://maistop.net:80/live/meutedio/meutedio/1.m3u8
-#EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Os arquivos do FBI | Pluto TV Brasil
+#EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",OS ARQUIVOS DO FBI | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="DOCUMENTÁRIOS",Pet Lovers | Brasil
+#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="DOCUMENTÁRIOS",PET LOVERS | BRASIL
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-id="678fdf9e3de7c8cf948e8824" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Policial | Pluto TV Brasil
+#EXTINF:-1 tvg-id="678fdf9e3de7c8cf948e8824" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",POLICIAL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/678fdf9e3de7c8cf948e8824/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Pronto-Socorro: histórias de emergência | Pluto TV Brasil
+#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",PRONTO-SOCORRO: HISTÓRIAS DE EMERGÊNCIA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="DOCUMENTÁRIOS",Revry Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="DOCUMENTÁRIOS",REVRY BRASIL
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="66a7d0e0cd0d310008448610" tvg-logo="https://images.pluto.tv/channels/66a7d0e0cd0d310008448610/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Salon Line | Pluto TV Brasil
+#EXTINF:-1 tvg-id="66a7d0e0cd0d310008448610" tvg-logo="https://images.pluto.tv/channels/66a7d0e0cd0d310008448610/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SALON LINE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Shark Tank | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SHARK TANK | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6647c0b91050b60008390de4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Tastemade | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",TASTEMADE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="68b88821e542386ab0bf5bef" tvg-logo="https://images.pluto.tv/channels/68b88821e542386ab0bf5bef/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Tastemade Casa | Pluto TV Brasil
+#EXTINF:-1 tvg-id="68b88821e542386ab0bf5bef" tvg-logo="https://images.pluto.tv/channels/68b88821e542386ab0bf5bef/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",TASTEMADE CASA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/68b88821e542386ab0bf5beflivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="68b8875777201ec428d9eaa5" tvg-logo="https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Tastemade Viagem | Pluto TV Brasil
+#EXTINF:-1 tvg-id="68b8875777201ec428d9eaa5" tvg-logo="https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",TASTEMADE VIAGEM | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/68b8875777201ec428d9eaa5livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="DOCUMENTÁRIOS",Trace Brazuca | Xiaomi
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="DOCUMENTÁRIOS",TRACE BRAZUCA | XIAOMI
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="DOCUMENTÁRIOS",U Miss TV | Soul TV Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="DOCUMENTÁRIOS",U MISS TV | SOUL TV BRASIL
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="DOCUMENTÁRIOS",Viajando pelo Brasil | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="DOCUMENTÁRIOS",VIAJANDO PELO BRASIL | SOUL TV BRASIL
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="5f32d432d612e50007e56133" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Viagens | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f32d432d612e50007e56133" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",VIAGENS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Vida Real | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",VIDA REAL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Comédia | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",COMÉDIA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Comedy Central | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",COMEDY CENTRAL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Estado Paranormal | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",ESTADO PARANORMAL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",FailArmy | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",FAILARMY | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Investigação | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6317ba014d4d040007227f72" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Jovem Pan News | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6317ba014d4d040007227f72" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",JOVEM PAN NEWS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Novelas | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",NOVELAS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="67802a22a5d8215f99dcee30" tvg-logo="https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Pegadinhas GAG | Pluto TV Brasil
+#EXTINF:-1 tvg-id="67802a22a5d8215f99dcee30" tvg-logo="https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",PEGADINHAS GAG | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67802a22a5d8215f99dcee30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Porta dos Fundos | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",PORTA DOS FUNDOS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Retrô | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",RETRÔ | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6474ab1da51cb80008bfb5f4" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Séries Ação | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6474ab1da51cb80008bfb5f4" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SÉRIES AÇÃO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6474ab5cdc7a760008745008" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Séries Criminais | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6474ab5cdc7a760008745008" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SÉRIES CRIMINAIS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="655e5bc94261ca000810cb17" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Séries de Comédia | Pluto TV Brasil
+#EXTINF:-1 tvg-id="655e5bc94261ca000810cb17" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SÉRIES DE COMÉDIA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="65f060d84e01740008d7421f" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Séries Drama | Pluto TV Brasil
+#EXTINF:-1 tvg-id="65f060d84e01740008d7421f" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SÉRIES DRAMA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="691627e4a29a6123e400b3e0" tvg-logo="https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Séries Novelescas | Pluto TV Brasil
+#EXTINF:-1 tvg-id="691627e4a29a6123e400b3e0" tvg-logo="https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SÉRIES NOVELESCAS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/691627e4a29a6123e400b3e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63d2ba2f60bc8f0008981a0e" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",Séries Sci-Fi | Pluto TV Brasil
+#EXTINF:-1 tvg-id="63d2ba2f60bc8f0008981a0e" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SÉRIES SCI-FI | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",The Pet Collective | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",THE PET COLLECTIVE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL | LEGENDADO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1192,9 +1192,9 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="DOCUMENTÁRIOS",TV BRASIL WEB
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="DOCUMENTÁRIOS",TVI Ficção | Portugal
+#EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="DOCUMENTÁRIOS",TVI FICÇÃO | PORTUGAL
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="DOCUMENTÁRIOS",Xtreme TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="DOCUMENTÁRIOS",XTREME TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="DOCUMENTÁRIOS",RBA TV | RIO DO SUL | SC
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
@@ -1631,61 +1631,61 @@ channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&de
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="INFANTIS",SUPER ONZE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="INFANTIS",A vida moderna de Rocko | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="INFANTIS",A VIDA MODERNA DE ROCKO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="http://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="INFANTIS",As Pistas de Blue | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="http://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="INFANTIS",AS PISTAS DE BLUE | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="INFANTIS",As Tartarugas Ninja | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="INFANTIS",AS TARTARUGAS NINJA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6759eeb1bd523200083b4f29" tvg-logo="http://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="INFANTIS",Avatar: a lenda de Aang | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="6759eeb1bd523200083b4f29" tvg-logo="http://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="INFANTIS",AVATAR: A LENDA DE AANG | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6759eeb1bd523200083b4f29/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63da6bcd60bc8f0008a5d364" tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="INFANTIS",Baby Shark | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="63da6bcd60bc8f0008a5d364" tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="INFANTIS",BABY SHARK | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="INFANTIS",Babyfirst | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="INFANTIS",BABYFIRST | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="INFANTIS",Bob Esponja | Pluto TV Brasil
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="INFANTIS",BOB ESPONJA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="INFANTIS",Clube do Terror | Pluto TV Brasil
+#EXTINF:-1 tvg-id="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="INFANTIS",CLUBE DO TERROR | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="INFANTIS",Cocoricó | Pluto TV Brasil
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="INFANTIS",COCORICÓ | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="INFANTIS",iCarly | Pluto TV Brasil
+#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="INFANTIS",ICARLY | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="INFANTIS",Junior | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="INFANTIS",JUNIOR | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="INFANTIS",Kenan & Kel | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="INFANTIS",KENAN & KEL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="INFANTIS",Kids | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="INFANTIS",KIDS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="66c8cae7fed35b0008580ec0" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png" group-title="INFANTIS",Kids Club | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="66c8cae7fed35b0008580ec0" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png" group-title="INFANTIS",KIDS CLUB | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="INFANTIS",Moranguinho | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="INFANTIS",MORANGUINHO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6824ce95f09106f4b18f4114" tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG.png" group-title="INFANTIS",Nick Jr. Club | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="6824ce95f09106f4b18f4114" tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG.png" group-title="INFANTIS",NICK JR. CLUB | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6824ce95f09106f4b18f4114/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="INFANTIS",Nickelodeon | Pluto TV Brasil
+#EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="INFANTIS",NICKELODEON | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6824ce10c5d53e1351ceb8d1" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG.png" group-title="INFANTIS",Nickelodeon Clássico | Pluto TV Brasil
+#EXTINF:-1 tvg-id="6824ce10c5d53e1351ceb8d1" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG.png" group-title="INFANTIS",NICKELODEON CLÁSSICO | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6824ce10c5d53e1351ceb8d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="INFANTIS",Nickelodeon Teen | Pluto TV Brasil
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="INFANTIS",NICKELODEON TEEN | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="INFANTIS",O Reino Infantil | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="INFANTIS",O REINO INFANTIL | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="INFANTIS",Oggy e as Baratas Tontas | Pluto TV Brasil
+#EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="INFANTIS",OGGY E AS BARATAS TONTAS | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64e50055286f6b000838c067" tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="INFANTIS",Teletubbies | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="64e50055286f6b000838c067" tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="INFANTIS",TELETUBBIES | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",Toon Googles TG Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",Toon Googles TG Brasil 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",Toon Googles TG Brasil 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",Toon Googles TG Brasil | RunTime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL | RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
-#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="INFANTIS",Turma da Mônica | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="INFANTIS",TURMA DA MÔNICA | PLUTO TV BRASIL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="INFANTIS",TV R | Brasil
+#EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="INFANTIS",TV R | BRASIL
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS
