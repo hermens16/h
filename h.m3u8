@@ -56,19 +56,19 @@ http://lmdns.online:80/4x6cXF/ehfxdp/506947.m3u8
 ## 📺 TV WEB BRASIL
 ## 👩🏽‍💻 Editor: HeRmEnS RoDrIgUeS
 ##### TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ############# TV ABERTA ######
-#EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",GLOBO
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV ABERTA",GLOBO
 http://lmdns.online:80/4x6cXF/ehfxdp/95657.m3u8
-#EXTINF:-1 tvg-id="RecordTV Sao Paulo HD.br" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png?20190726203014" group-title="TV ABERTA",RECORD SP
 http://lmdns.online:80/4x6cXF/ehfxdp/90266.m3u8
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
+#EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="TV ABERTA",SBT
 http://lmdns.online:80/4x6cXF/ehfxdp/95666.m3u8
-#EXTINF:-1 tvg-id="Band Brasília HD.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1280px-Rede_Bandeirantes_logo_2018.svg.png" group-title="TV ABERTA",BAND
+#EXTINF:-1 tvg-id="Bandpaulista.br" tvg-name="BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1280px-Rede_Bandeirantes_logo_2018.svg.png" group-title="TV ABERTA",BAND
 http://lmdns.online:80/4x6cXF/ehfxdp/95649.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/960px-TV_Brasil_logo_2023.svg.png" group-title="TV ABERTA",TV BRASIL
 http://lmdns.online:80/4x6cXF/ehfxdp/90409.m3u8
-#EXTINF:-1 tvg-id="Rede TV.br" tvg-name="REDE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" group-title="TV ABERTA",REDE TV
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" group-title="TV ABERTA",REDE TV
 http://lmdns.online:80/4x6cXF/ehfxdp/95470.m3u8
-#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/960px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",CULTURA
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/960px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",CULTURA
 http://lmdns.online:80/4x6cXF/ehfxdp/89900.m3u8
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="GLOBOPLAY NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/960px-Globoplay_Novelas.svg.png" group-title="TV ABERTA",GLOBOPLAY NOVELAS
 http://lmdns.online:80/4x6cXF/ehfxdp/90440.m3u8
@@ -80,7 +80,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90084.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/89840.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://logodownload.org/wp-content/uploads/2023/03/futura-logo.png" group-title="TV ABERTA",FUTURA
 http://lmdns.online:80/4x6cXF/ehfxdp/89846.m3u8
-#EXTINF:-1 tvg-id="TV Gazeta.br" tvg-name="GAZETA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="TV ABERTA",GAZETA
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="TV ABERTA",GAZETA
 http://lmdns.online:80/4x6cXF/ehfxdp/90010.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia.br" tvg-name="TVE BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/120px-TVE_Bahia_logo_%282022%29.svg.png" group-title="TV ABERTA",TVE BAHIA
 https://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
@@ -88,7 +88,7 @@ https://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rede Minas HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="TV ABERTA",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1642350627_b2771072.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil HD.br" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png/113px-Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w466484883.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="COM BRASIL" tvg-logo="https://combrasiltv.com.br/assets/LogoMaior-DdI0kjV1.png" group-title="TV ABERTA",COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
