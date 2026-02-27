@@ -325,27 +325,27 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Sao Luis HD.br" tvg-name="TV SÃO LUIS - MA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/TV_Sao_Luis_2024.png/revision/latest?cb=20240906040649" group-title="TV ABERTA",TV SÃO LUIS - MA
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES ############## ESPORTES ############## ############## ESPORTES
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png" group-title="ESPORTES",ESPN
 http://lmdns.online:80/4x6cXF/ehfxdp/89962.m3u8
-#EXTINF:-1 tvg-id="ESPN 2.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="ESPORTES",ESPN 2
 http://lmdns.online:80/4x6cXF/ehfxdp/89970.m3u8
 #EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTES",ESPN 3
 http://lmdns.online:80/4x6cXF/ehfxdp/89974.m3u8
 #EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="ESPORTES",ESPN 4
 http://lmdns.online:80/4x6cXF/ehfxdp/95437.m3u8
-#EXTINF:-1 tvg-id="ESPN 5.br" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="ESPORTES",ESPN 5
 http://lmdns.online:80/4x6cXF/ehfxdp/89998.m3u8
 #EXTINF:-1 tvg-id="ESPN 6.br" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/120px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6
 http://lmdns.online:80/4x6cXF/ehfxdp/89966.m3u8
-#EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="ESPORTES",SPORTV
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="ESPORTES",SPORTV
 http://lmdns.online:80/4x6cXF/ehfxdp/90328.m3u8
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="ESPORTES",SPORTV 2
 http://lmdns.online:80/4x6cXF/ehfxdp/90320.m3u8
-#EXTINF:-1 tvg-id="SporTV3 HD.br" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="ESPORTES",SPORTV 3
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="ESPORTES",SPORTV 3
 http://lmdns.online:80/4x6cXF/ehfxdp/90324.m3u8
-#EXTINF:-1 tvg-id="Band Sports.br" tvg-name="BAND SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/BandSports_logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240220013218" group-title="ESPORTES",BAND SPORTS
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/BandSports_logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240220013218" group-title="ESPORTES",BAND SPORTS
 http://lmdns.online:80/4x6cXF/ehfxdp/89828.m3u8
-#EXTINF:-1 tvg-id="OFF HD.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",CANAL OFF
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",CANAL OFF
 http://lmdns.online:80/4x6cXF/ehfxdp/89850.m3u8
 #EXTINF:-1 tvg-id="Nsports.br" tvg-name="NSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/32/NSports.jpg?20250901034356" group-title="ESPORTES",NSPORTS
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
@@ -371,7 +371,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac2876
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="ESPORTES",WORLD POKER TOUR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="Premiere Clubes.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE CLUBES
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE CLUBES
 http://lmdns.online:80/4x6cXF/ehfxdp/90236.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 2
 http://lmdns.online:80/4x6cXF/ehfxdp/90212.m3u8
@@ -385,7 +385,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90224.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90228.m3u8
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 7
 http://lmdns.online:80/4x6cXF/ehfxdp/90232.m3u8
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 8" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 8
 http://limed.cc:80/4x6cXF/JDqRqj/120085.m3u8
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 1" tvg-logo="http://stolime.cc/lives/ESPORTES/DAZN.png" group-title="ESPORTES",DAZN 1
 http://lmdns.online:80/4x6cXF/ehfxdp/89907.m3u8
