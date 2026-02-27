@@ -518,15 +518,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES",MOTORVISION 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 ##### FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ############# FILMES ######
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILMES",HBO
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILMES",HBO
 http://lmdns.online:80/4x6cXF/ehfxdp/90101.m3u8
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/800px-HBO2_logo.svg.png" group-title="FILMES",HBO 2
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/800px-HBO2_logo.svg.png" group-title="FILMES",HBO 2
 http://lmdns.online:80/4x6cXF/ehfxdp/90092.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="FILMES",HBO FAMILY
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="FILMES",HBO FAMILY
 http://lmdns.online:80/4x6cXF/ehfxdp/90096.m3u8
 #EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="FILMES",HBO MUNDI
 http://lmdns.online:80/4x6cXF/ehfxdp/90110.m3u8
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES",HBO PLUS
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES",HBO PLUS
 http://lmdns.online:80/4x6cXF/ehfxdp/95501.m3u8
 #EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="FILMES",HBO POP
 http://lmdns.online:80/4x6cXF/ehfxdp/90114.m3u8
@@ -534,23 +534,23 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90114.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/90119.m3u8
 #EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="FILMES",HBO XTREME
 http://lmdns.online:80/4x6cXF/ehfxdp/90123.m3u8
-#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TelecineAction2021.png/657px-TelecineAction2021.png" group-title="FILMES",TELECINE ACTION
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TelecineAction2021.png/657px-TelecineAction2021.png" group-title="FILMES",TELECINE ACTION
 http://lmdns.online:80/4x6cXF/ehfxdp/90362.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/200px-Rede_Telecine_vertical_logo.svg.png" group-title="FILMES",TELECINE CULT
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/200px-Rede_Telecine_vertical_logo.svg.png" group-title="FILMES",TELECINE CULT
 http://lmdns.online:80/4x6cXF/ehfxdp/90366.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine_Fun_%282021%29.png/657px-Telecine_Fun_%282021%29.png" group-title="FILMES",TELECINE FUN
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine_Fun_%282021%29.png/657px-Telecine_Fun_%282021%29.png" group-title="FILMES",TELECINE FUN
 http://lmdns.online:80/4x6cXF/ehfxdp/90370.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telecine_Pipoca_%282021%29.png/657px-Telecine_Pipoca_%282021%29.png" group-title="FILMES",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telecine_Pipoca_%282021%29.png/657px-Telecine_Pipoca_%282021%29.png" group-title="FILMES",TELECINE PIPOCA
 http://lmdns.online:80/4x6cXF/ehfxdp/90374.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/657px-Telecine_Premium_%282021%29.png" group-title="FILMES",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/657px-Telecine_Premium_%282021%29.png" group-title="FILMES",TELECINE PREMIUM
 http://lmdns.online:80/4x6cXF/ehfxdp/90378.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Touch_%282021%29.png/657px-Telecine_Touch_%282021%29.png" group-title="FILMES",TELECINE TOUCH
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Touch_%282021%29.png/657px-Telecine_Touch_%282021%29.png" group-title="FILMES",TELECINE TOUCH
 http://lmdns.online:80/4x6cXF/ehfxdp/90382.m3u8
-#EXTINF:-1 tvg-id="AandE HD.br" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES",A&E
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="FILMES",A&E
 http://lmdns.online:80/4x6cXF/ehfxdp/89792.m3u8
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="FILMES",AMC
 http://lmdns.online:80/4x6cXF/ehfxdp/89799.m3u8
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="FILMES",AXN
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="FILMES",AXN
 http://lmdns.online:80/4x6cXF/ehfxdp/89812.m3u8
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="FILMES",CANAL SONY
 http://lmdns.online:80/4x6cXF/ehfxdp/89854.m3u8
@@ -562,11 +562,11 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91362.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/89986.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD.br" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/120px-Logo_Lifetime_2020.svg.png" group-title="FILMES",LIFETIME
 http://lmdns.online:80/4x6cXF/ehfxdp/90143.m3u8
-#EXTINF:-1 tvg-id="Megapix HD.br" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/120px-Megapix_fundoclaro_midiaimpressa.png" group-title="FILMES",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/120px-Megapix_fundoclaro_midiaimpressa.png" group-title="FILMES",MEGAPIX
 http://lmdns.online:80/4x6cXF/ehfxdp/90157.m3u8
-#EXTINF:-1 tvg-id="Space HD.br" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="FILMES",SPACE
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="FILMES",SPACE
 http://lmdns.online:80/4x6cXF/ehfxdp/90316.m3u8
-#EXTINF:-1 tvg-id="Studio Universal HD.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES",STUDIO UNIVERSAL
 http://lmdns.online:80/4x6cXF/ehfxdp/90348.m3u8
 #EXTINF:-1 tvg-id="Syfy HD.br" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="FILMES",SYFY
 http://lmdns.online:80/4x6cXF/ehfxdp/90352.m3u8
