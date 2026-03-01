@@ -1742,7 +1742,7 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
 #### RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ####
 #EXTINF:-1 tvg-id="Cançao Nova HD.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA
 http://lmdns.online:80/4x6cXF/ehfxdp/89861.m3u8
-#EXTINF:-1 tvg-id="Rede Seculo 21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="RELIGIOSOS",REDE SÉCULO 21
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="RELIGIOSOS",REDE SÉCULO 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 #EXTINF:-1 tvg-id="Rede Vida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",REDE VIDA
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
@@ -1758,7 +1758,7 @@ https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w349642608.m3u8
 https://acesso.ecast.site:3743/live/katholikalive.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i0.wp.com/www.sjbcampinas.com.br/wp-content/uploads/2017/07/13_batista-e1501001181461.png?fit=90%2C91&ssl=1" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
-#EXTINF:-1 tvg-id="TV Santa Cruz HD.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a4b15c06f51dbc362a2cf204a7ce042.webp" group-title="RELIGIOSOS",TV SANTA CRUZ
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a4b15c06f51dbc362a2cf204a7ce042.webp" group-title="RELIGIOSOS",TV SANTA CRUZ
 https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",TV NOVO MILÊNIO
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
