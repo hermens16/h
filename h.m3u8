@@ -66,7 +66,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/95666.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/95649.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/960px-TV_Brasil_logo_2023.svg.png" group-title="TV ABERTA",TV BRASIL
 http://lmdns.online:80/4x6cXF/ehfxdp/90409.m3u8
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" group-title="TV ABERTA",REDE TV
+#EXTINF:-1 tvg-id="Rede TV.br" tvg-name="REDE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" group-title="TV ABERTA",REDE TV
 http://lmdns.online:80/4x6cXF/ehfxdp/95470.m3u8
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/960px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",CULTURA
 http://lmdns.online:80/4x6cXF/ehfxdp/89900.m3u8
