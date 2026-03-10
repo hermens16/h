@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] West Ham x Brentford FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] WEST HAM X BRENTFORD FHD
+#EXTINF:-1 tvg-id="" tvg-name="[14:45] Galatasaray x Liverpool FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[14:45] GALATASARAY X LIVERPOOL FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[16:45] Lazio x Sassuolo FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:45] LAZIO X SASSUOLO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
