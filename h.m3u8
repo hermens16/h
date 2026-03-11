@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] Galatasaray x Liverpool FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[14:45] GALATASARAY X LIVERPOOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="[14:45] Bayer Leverkusen x Arsenal FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[14:45] BAYER LEVERKUSEN X ARSENAL FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] Newcastle x Barcelona FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] NEWCASTLE X BARCELONA FHD
+#EXTINF:-1 tvg-id="" tvg-name="[17:00] Bodo/Glimt x Arsenal FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] BODO/GLIMT X ARSENAL FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] Atlético Madrid x Tottenham FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] ATLÉTICO MADRID X TOTTENHAM FHD
+#EXTINF:-1 tvg-id="" tvg-name="[17:00] PSG x Chelsea FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] PSG X CHELSEA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] Atalanta x Bayern Munich FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] ATALANTA X BAYERN MUNICH FHD
+#EXTINF:-1 tvg-id="" tvg-name="[17:00] Real Madrid x Manchester City FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] REAL MADRID X MANCHESTER CITY FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Portuguesa x Avaí FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] PORTUGUESA X AVAÍ FHD
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] Atlético-MG x Internacional FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] ATLÉTICO-MG X INTERNACIONAL FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Joinville x São Bernardo FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] JOINVILLE X SÃO BERNARDO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[19:30] Manaura x Fortaleza FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] MANAURA X FORTALEZA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Botafogo x Barcelona-EQU FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] BOTAFOGO X BARCELONA-EQU FHD
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Bahia x Vitória FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] BAHIA X VITÓRIA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Ponte Preta x Guarany de Bagé FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] PONTE PRETA X GUARANY DE BAGÉ FHD
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Corinthians x Coritiba FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] CORINTHIANS X CORITIBA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Mirassol x Santos FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] MIRASSOL X SANTOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Flamengo x Cruzeiro FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] FLAMENGO X CRUZEIRO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Paysandu x Portuguesa-RJ FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] PAYSANDU X PORTUGUESA-RJ FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506931.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506932.m3u8
