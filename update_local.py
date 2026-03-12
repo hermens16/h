@@ -1,3 +1,4 @@
+
 import subprocess
 import os
 
@@ -18,12 +19,15 @@ for linha in linhas:
     result = subprocess.run(
         ["yt-dlp.exe", "-f", "best[ext=m3u8]/best", "-g", url],
         capture_output=True,
-        text=True
+        text=True,
+        creationflags=subprocess.CREATE_NO_WINDOW
     )
 
     hls_url = result.stdout.strip()
 
     if hls_url:
+        os.makedirs("lives", exist_ok=True)
+
         with open(f"lives/{nome}.m3u8", "w", encoding="utf-8") as f:
             f.write(hls_url)
 
@@ -32,8 +36,19 @@ for linha in linhas:
         print(f"Erro ao atualizar {nome}")
 
 # Commit automático
-subprocess.run(["git", "add", "."])
-subprocess.run(["git", "commit", "-m", "auto update lives"])
-subprocess.run(["git", "push"])
+subprocess.run(
+    ["git", "add", "."],
+    creationflags=subprocess.CREATE_NO_WINDOW
+)
+
+subprocess.run(
+    ["git", "commit", "-m", "auto update lives"],
+    creationflags=subprocess.CREATE_NO_WINDOW
+)
+
+subprocess.run(
+    ["git", "push"],
+    creationflags=subprocess.CREATE_NO_WINDOW
+)
 
 print("Processo finalizado.")
