@@ -1,3 +1,5 @@
 Set WshShell = CreateObject("WScript.Shell")
 
-WshShell.Run """C:\Users\User\AppData\Local\Programs\Python\Python313\pythonw.exe"" ""C:\Users\User\Dev\h\update_local.py""", 0, True
+WshShell.CurrentDirectory = "C:\Users\User\Dev\h"
+
+WshShell.Run """C:\Users\User\AppData\Local\Programs\Python\Python313\pythonw.exe"" update_local.py", 0, True
