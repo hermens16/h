@@ -940,28 +940,28 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTÁRIOS",TV PARANÁ TURISMO | BRASIL
 http://200.189.113.201/hls/tve.m3u8
-####################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU ##################### ANIMES & TOKUSATSU #####################
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="ANIMES & TOKUSATSU",ANIME TV
+####################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU #####################
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" group-title="ANIME & TOKUSATSU",ANIME TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="ANIME & TOKUSATSU",DRAGON BALL
 http://lmdns.online:80/4x6cXF/ehfxdp/508054.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL GT" tvg-logo="https://e1.pngegg.com/pngimages/890/287/png-clipart-logo-dragon-ball-gt-anime-original-06-dragon-ball-gt-logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL GT
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL GT" tvg-logo="https://e1.pngegg.com/pngimages/890/287/png-clipart-logo-dragon-ball-gt-anime-original-06-dragon-ball-gt-logo.png" group-title="ANIME & TOKUSATSU",DRAGON BALL GT
 http://lmdns.online:80/4x6cXF/ehfxdp/508055.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL SUPER" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="ANIMES & TOKUSATSU",DRAGON BALL SUPER
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL SUPER" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png" group-title="ANIME & TOKUSATSU",DRAGON BALL SUPER
 http://lmdns.online:80/4x6cXF/ehfxdp/508056.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIMES & TOKUSATSU",DRAGON BALL Z
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-DRAGON BALL Z" tvg-logo="https://i.pinimg.com/736x/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="ANIME & TOKUSATSU",DRAGON BALL Z
 http://lmdns.online:80/4x6cXF/ehfxdp/508057.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="ANIMES & TOKUSATSU",NARUTO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png" group-title="ANIME & TOKUSATSU",NARUTO
 http://lmdns.online:80/4x6cXF/ehfxdp/508047.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/61/Naruto-logo-shippuuden.png?20160628170414" group-title="ANIMES & TOKUSATSU",NARUTO SHIPPUDEN
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/61/Naruto-logo-shippuuden.png?20160628170414" group-title="ANIME & TOKUSATSU",NARUTO SHIPPUDEN
 http://lmdns.online:80/4x6cXF/ehfxdp/508166.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIMES & TOKUSATSU",OTAKU SIGN TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIME & TOKUSATSU",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
-#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIMES & TOKUSATSU",TRUTV
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIME & TOKUSATSU",TRUTV
 http://lmdns.online:80/4x6cXF/ehfxdp/90404.m3u8
-#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ8e7Yk5vkkdNXXSOfPVBgsxZudjzCZBBPw&s" group-title="ANIMES & TOKUSATSU",GEEKDOT
+#EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ8e7Yk5vkkdNXXSOfPVBgsxZudjzCZBBPw&s" group-title="ANIME & TOKUSATSU",GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="ANIMES & TOKUSATSU",XTREME TV
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="ANIME & TOKUSATSU",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
 ####################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H ##################### DESENHOS 24H #####################
 #EXTINF:-1 tvg-id="Like.br" tvg-name="2 Cachorros Bobos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IyAuqj9bInCzd0fDizxYTK2h3f.jpg" group-title="DESENHOS 24H",2 CACHORROS BOBOS
@@ -1288,36 +1288,36 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508158.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508154.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Yu-Gi-Oh!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg" group-title="DESENHOS 24H",YU-GI-OH!
 http://lmdns.online:80/4x6cXF/ehfxdp/508123.m3u8
-####################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS ##################### INFANTIS #####################
-#EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIS",TV RA-TIM-BUM
+	####################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL #####################
+#EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",TV RA-TIM-BUM
 http://lmdns.online:80/4x6cXF/ehfxdp/90425.m3u8
-#EXTINF:-1 tvg-id="Boomerang HD.br" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMERANG
+#EXTINF:-1 tvg-id="Boomerang HD.br" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIL",BOOMERANG
 http://lmdns.online:80/4x6cXF/ehfxdp/89836.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIS",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIL",CARTOON NETWORK
 http://lmdns.online:80/4x6cXF/ehfxdp/89865.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL",CARTOONITO
 http://lmdns.online:80/4x6cXF/ehfxdp/91357.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="https://seeklogo.com/images/D/discovery-kids-logo-FCF71E0B9B-seeklogo.com.png" group-title="INFANTIS",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="https://seeklogo.com/images/D/discovery-kids-logo-FCF71E0B9B-seeklogo.com.png" group-title="INFANTIL",DISCOVERY KIDS
 http://lmdns.online:80/4x6cXF/ehfxdp/89921.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-6.png" group-title="INFANTIS",GLOOB
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-6.png" group-title="INFANTIL",GLOOB
 http://lmdns.online:80/4x6cXF/ehfxdp/90076.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/512px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/512px-Gloobinho_logo.svg.png" group-title="INFANTIL",GLOOBINHO
 http://lmdns.online:80/4x6cXF/ehfxdp/90080.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="KIDMAIS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIS",KIDSMAIS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="KIDMAIS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIL",KIDSMAIS
 http://lmdns.online:80/4x6cXF/ehfxdp/95420.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIL",NICKELODEON
 http://lmdns.online:80/4x6cXF/ehfxdp/90198.m3u8
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/643px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="INFANTIS",ZOOMOO
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/643px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="INFANTIL",ZOOMOO
 http://lmdns.online:80/4x6cXF/ehfxdp/90448.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIL",TOON GOOGLES TG BRASIL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIL",TOON GOOGLES TG BRASIL 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIL",TOON GOOGLES TG BRASIL 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES TG BRASIL | RUNTIME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIL",TOON GOOGLES TG BRASIL | RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
-#EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="INFANTIS",TV R | BRASIL
+#EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="INFANTIL",TV R | BRASIL
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 ###### MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA ############# MÚSICA #### MÚSICA ######### MÚSICA ######### MÚSICA #######
 #EXTINF:-1 tvg-id="BIS HD.br" tvg-name="BIS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="MÚSICA",BIS
@@ -1768,15 +1768,15 @@ https://stmv1.video.cloudstream.com.br/yeeaahtv/yeeaahtv/chunklist_w1552254968.m
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="VARIEDADES",ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ###############################
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY [FHD] (H265)" tvg-logo="http://stolm.live/lives/ADULTO/PLAYBOY.png" group-title="ADULTOS",PLAYBOY [FHD] (H265)
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY" tvg-logo="http://stolm.live/lives/ADULTO/PLAYBOY.png" group-title="ADULTOS",PLAYBOY
 http://lmdns.online:80/4x6cXF/ehfxdp/90206.m3u8
-#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="SEX PRIVE [FHD] (H265)" tvg-logo="http://stolm.live/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="ADULTOS",SEX PRIVE [FHD] (H265)
+#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="SEX PRIVE" tvg-logo="http://stolm.live/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="ADULTOS",SEX PRIVE
 http://lmdns.online:80/4x6cXF/ehfxdp/95485.m3u8
-#EXTINF:-1 tvg-id="Bandce.br" tvg-name="SEXTREME [FHD]" tvg-logo="http://stolm.live/lives/ADULTO/SEXTREME.png" group-title="ADULTOS",SEXTREME [FHD]
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="SEXTREME" tvg-logo="http://stolm.live/lives/ADULTO/SEXTREME.png" group-title="ADULTOS",SEXTREME
 http://lmdns.online:80/4x6cXF/ehfxdp/100038.m3u8
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT [FHD] (H265)" tvg-logo="http://stolm.live/lives/ADULTO/SEXY%20HOT.png" group-title="ADULTOS",SEXY HOT [FHD] (H265)
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT" tvg-logo="http://stolm.live/lives/ADULTO/SEXY%20HOT.png" group-title="ADULTOS",SEXY HOT
 http://lmdns.online:80/4x6cXF/ehfxdp/95488.m3u8
-#EXTINF:-1 tvg-id="Bandce.br" tvg-name="VENUS [HD]" tvg-logo="http://stolm.live/lives/ADULTO/VENUS.png" group-title="ADULTOS",VENUS [HD]
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="VENUS" tvg-logo="http://stolm.live/lives/ADULTO/VENUS.png" group-title="ADULTOS",VENUS
 http://lmdns.online:80/4x6cXF/ehfxdp/90437.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ANYA OLSEN" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ANYA OLSEN
 http://lmdns.online:80/4x6cXF/ehfxdp/91287.m3u8
