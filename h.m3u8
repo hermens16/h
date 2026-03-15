@@ -1369,122 +1369,122 @@ https://streaming.almg.gov.br/live/tvalmg.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="NOTÍCIAS",TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
-#### RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ######## RELIGIOSOS ####
-#EXTINF:-1 tvg-id="Cançao Nova HD.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA
+#### RELIGIOSO ######## RELIGIOSO ######## RELIGIOSO ######## RELIGIOSO ######## RELIGIOSO ######## RELIGIOSO ######## RELIGIOSO ######## RELIGIOSO ####
+#EXTINF:-1 tvg-id="Cançao Nova HD.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSO",CANÇÃO NOVA
 http://lmdns.online:80/4x6cXF/ehfxdp/89861.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="RELIGIOSOS",REDE SÉCULO 21
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="RELIGIOSO",REDE SÉCULO 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
-#EXTINF:-1 tvg-id="Rede Vida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSOS",REDE VIDA
+#EXTINF:-1 tvg-id="Rede Vida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSO",REDE VIDA
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida HD.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="RELIGIOSOS",TV APARECIDA
+#EXTINF:-1 tvg-id="TV Aparecida HD.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="RELIGIOSO",TV APARECIDA
 http://lmdns.online:80/4x6cXF/ehfxdp/90406.m3u8
-#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",TV EVANGELIZAR
+#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSO",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="RELIGIOSOS",TV IMACULADA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/800px-LOGO_TV_2019.png" group-title="RELIGIOSO",TV IMACULADA
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="RELIGIOSOS",TV PAI ETERNO
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="RELIGIOSO",TV PAI ETERNO
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w349642608.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://katholika.com/wp-content/uploads/2020/08/katholika-favicon.png" group-title="RELIGIOSOS",KATHOLIKA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://katholika.com/wp-content/uploads/2020/08/katholika-favicon.png" group-title="RELIGIOSO",KATHOLIKA
 https://acesso.ecast.site:3743/live/katholikalive.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i0.wp.com/www.sjbcampinas.com.br/wp-content/uploads/2017/07/13_batista-e1501001181461.png?fit=90%2C91&ssl=1" group-title="RELIGIOSOS",TV PAROQUIA SÃO JOÃO BATISTA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i0.wp.com/www.sjbcampinas.com.br/wp-content/uploads/2017/07/13_batista-e1501001181461.png?fit=90%2C91&ssl=1" group-title="RELIGIOSO",TV PAROQUIA SÃO JOÃO BATISTA
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w121239225.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a4b15c06f51dbc362a2cf204a7ce042.webp" group-title="RELIGIOSOS",TV SANTA CRUZ
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a4b15c06f51dbc362a2cf204a7ce042.webp" group-title="RELIGIOSO",TV SANTA CRUZ
 https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="RELIGIOSOS",TV NOVO MILÊNIO
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.novomileniotv.com.br/admin/assets/img/logo.png" group-title="RELIGIOSO",TV NOVO MILÊNIO
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/chunklist_w1116428569.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tvmacoi-min.png" group-title="RELIGIOSOS",TV MACEIÓ
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tvmacoi-min.png" group-title="RELIGIOSO",TV MACEIÓ
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-#EXTINF:-1 tvg-id="Horizonte TV.br" tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="RELIGIOSOS",TV HORIZONTE
+#EXTINF:-1 tvg-id="Horizonte TV.br" tvg-logo="https://d1ri0d36xvumy2.cloudfront.net/resources/testimonials/tv-horizonte_logo.png" group-title="RELIGIOSO",TV HORIZONTE
 https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/9cb298376f242f143ceeb33a31ec443a.jpg" group-title="RELIGIOSOS",TV JAMPA JOVENS
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/9cb298376f242f143ceeb33a31ec443a.jpg" group-title="RELIGIOSO",TV JAMPA JOVENS
 https://srv1.zcast.com.br/anderson7754/anderson7754/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida HD.br" tvg-logo="https://www.a12.com/source/files/originals/Santuario_nacional_logo-777273.png" group-title="RELIGIOSOS",SANTUÁRIO DE APARECIDA
+#EXTINF:-1 tvg-id="TV Aparecida HD.br" tvg-logo="https://www.a12.com/source/files/originals/Santuario_nacional_logo-777273.png" group-title="RELIGIOSO",SANTUÁRIO DE APARECIDA
 https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
-#EXTINF:-1 tvg-id="Cançao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSOS",CANÇÃO NOVA | PORTUGAL
+#EXTINF:-1 tvg-id="Cançao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSO",CANÇÃO NOVA | PORTUGAL
 https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w2078242036.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSOS",SANTUÁRIO DE FÁTIMA | PORTUGAL
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSO",SANTUÁRIO DE FÁTIMA | PORTUGAL
 https://raw.githubusercontent.com/hermens16/h/main/lives/santuariodefatima.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_jCNbceti3SBZ8HNcQSPucbBHrrIXd42uw&s" group-title="RELIGIOSOS",VATICANO NEWS | ITÁLIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_jCNbceti3SBZ8HNcQSPucbBHrrIXd42uw&s" group-title="RELIGIOSO",VATICANO NEWS | ITÁLIA
 https://raw.githubusercontent.com/hermens16/h/main/lives/vaticanonews.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="RELIGIOSOS",CANAL ORBE 21 | ARGENTINA
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="RELIGIOSO",CANAL ORBE 21 | ARGENTINA
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w414405230_b2211840.m3u8
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="RELIGIOSOS",CATHOLIC TV | EUA
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg" group-title="RELIGIOSO",CATHOLIC TV | EUA
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSOS",EWTN | ESPANHA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="RELIGIOSO",EWTN | ESPANHA
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="RELIGIOSOS",CANAL DIOCESANO | ESPANHA
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="RELIGIOSO",CANAL DIOCESANO | ESPANHA
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIOSOS",TV PADRE PIO | ITÁLIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIOSO",TV PADRE PIO | ITÁLIA
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1247999103.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="RELIGIOSOS",VISIÓN TV | GUATEMALA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1432120702057033731/i2aYFPZ3_400x400.jpg" group-title="RELIGIOSO",VISIÓN TV | GUATEMALA
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://tvfamilia.com/wp-content/uploads/2020/07/New-LOGO-TVF-1-300x300.png" group-title="RELIGIOSOS",TV FAMÍLIA | COLÔMBIA
+#EXTINF:-1 tvg-logo="https://tvfamilia.com/wp-content/uploads/2020/07/New-LOGO-TVF-1-300x300.png" group-title="RELIGIOSO",TV FAMÍLIA | COLÔMBIA
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="RELIGIOSOS",KURIAKOS CINE | PORTUGAL
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="RELIGIOSO",KURIAKOS CINE | PORTUGAL
 https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1266159905_b1548000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png/revision/latest?cb=20180801205146" group-title="RELIGIOSOS",KURIAKOS KIDS | PORTUGAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png/revision/latest?cb=20180801205146" group-title="RELIGIOSO",KURIAKOS KIDS | PORTUGAL
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w377226658_b1548000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="RELIGIOSOS",KURIAKOS MUSIC | PORTUGAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="RELIGIOSO",KURIAKOS MUSIC | PORTUGAL
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1643191012_b1548000_sleng.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Wr_7VrqiMseRekEEu9Rbit6mFJABjNfPKA&s" group-title="RELIGIOSOS",KURIAKOS TV | PORTUGAL
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Wr_7VrqiMseRekEEu9Rbit6mFJABjNfPKA&s" group-title="RELIGIOSO",KURIAKOS TV | PORTUGAL
 https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1820360697_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://cdn.technettv.com/channel/12937/logo_256_1684130878.png" group-title="RELIGIOSOS",CRISTO VIVE
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://cdn.technettv.com/channel/12937/logo_256_1684130878.png" group-title="RELIGIOSO",CRISTO VIVE
 https://cdn.live.br1.jmvstream.com/w/LVW-10893/ngrp:LVW10893_gYHYD18Dqy_all/chunklist_b4259840.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="RELIGIOSOS",FONTE TV
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="RELIGIOSO",FONTE TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="RELIGIOSOS",GOSPEL MOVIE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="RELIGIOSO",GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="RELIGIOSOS",GOSPEL MUSIC
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="RELIGIOSO",GOSPEL MUSIC
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="RELIGIOSOS",IGREJA ONLINE | PORTUGAL
+#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="RELIGIOSO",IGREJA ONLINE | PORTUGAL
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/chunklist_w1438491982_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="RELIGIOSOS",KKTV | ANGOLA
+#EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="RELIGIOSO",KKTV | ANGOLA
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w811133022_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRO-rV350TpkvqkINMWIfuN0ISXzTVuYrww&s" group-title="RELIGIOSOS",MANÁ PORTUGAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRO-rV350TpkvqkINMWIfuN0ISXzTVuYrww&s" group-title="RELIGIOSO",MANÁ PORTUGAL
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w1526344606_b1548000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/Untitled-1.jpg" group-title="RELIGIOSOS",MANÁ ARGENTINA
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/Untitled-1.jpg" group-title="RELIGIOSO",MANÁ ARGENTINA
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w598934698_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="RELIGIOSOS",MANÁ BRASIL
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="RELIGIOSO",MANÁ BRASIL
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w92536611_b3048000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/logo-eng.png" group-title="RELIGIOSOS",MANÁ ENGLISH
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/logo-eng.png" group-title="RELIGIOSO",MANÁ ENGLISH
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w1068783311_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcNoAMV_hb_shoG1xH4GKTTy5Iy9rN0qt2w&s" group-title="RELIGIOSOS",MANÁ HINDI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcNoAMV_hb_shoG1xH4GKTTy5Iy9rN0qt2w&s" group-title="RELIGIOSO",MANÁ HINDI
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w273981128_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2sJZUjDNWV-ykt72GM6nYrOCD6ZEnzbO-w&s" group-title="RELIGIOSOS",MANÁ MOÇAMBIQUE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2sJZUjDNWV-ykt72GM6nYrOCD6ZEnzbO-w&s" group-title="RELIGIOSO",MANÁ MOÇAMBIQUE
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1738924686_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2024/07/LOGO_TV_RUSSO_V7.png" group-title="RELIGIOSOS",MANÁ RÚSSIA
+#EXTINF:-1 tvg-logo="https://kktv.co.ao/wp-content/uploads/2024/07/LOGO_TV_RUSSO_V7.png" group-title="RELIGIOSO",MANÁ RÚSSIA
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/chunklist_w2108884996_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",NOVO TEMPO
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSO",NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="RELIGIOSOS",REDE FAMÍLIA
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="RELIGIOSO",REDE FAMÍLIA
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1301797576.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="RELIGIOSOS",REDE GOSPEL
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="RELIGIOSO",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="RELIGIOSOS",REDE MUNDIAL
+#EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="RELIGIOSO",REDE MUNDIAL
 https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="RELIGIOSOS",REDE SUPER
+#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="RELIGIOSO",REDE SUPER
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1553191580.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/13119/logo_256_1684135583.png" group-title="RELIGIOSOS",SEMEAR TV
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/13119/logo_256_1684135583.png" group-title="RELIGIOSO",SEMEAR TV
 https://5c483b9d1019c.streamlock.net/semeartv/semeartv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="RELIGIOSOS",SBN GLOBAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="RELIGIOSO",SBN GLOBAL
 https://acesso.ecast.site:3500/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="RELIGIOSOS",TENDA TV
+#EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="RELIGIOSO",TENDA TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11859/logo_256_1685931006.png" group-title="RELIGIOSOS",TV AVIVANDO NAÇÕES
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11859/logo_256_1685931006.png" group-title="RELIGIOSO",TV AVIVANDO NAÇÕES
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
-#EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ976XhVK4L_bDrK1_oabCsQZaScJlxQEVpPA&s" group-title="RELIGIOSOS",TV FELIZ
+#EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ976XhVK4L_bDrK1_oabCsQZaScJlxQEVpPA&s" group-title="RELIGIOSO",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1966658526.m3u8
-#EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS",TV GIDEÕES
+#EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSO",TV GIDEÕES
 https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w829200045.m3u8
-#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSOS",TV MÃO AMIGA
+#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSO",TV MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://cdn.technettv.com/channel/17452/logo_256_1686046966.png" group-title="RELIGIOSOS",TV RECONCAVO
+#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://cdn.technettv.com/channel/17452/logo_256_1686046966.png" group-title="RELIGIOSO",TV RECONCAVO
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/chunklist_w540439499.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title="RELIGIOSO",TV TERCEIRO ANJO
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="RELIGIOSOS",TV VERDADE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="RELIGIOSO",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="RELIGIOSOS",LOADING
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="RELIGIOSO",LOADING
 http://lmdns.online:80/4x6cXF/ehfxdp/90149.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PB
@@ -1767,157 +1767,157 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 https://stmv1.video.cloudstream.com.br/yeeaahtv/yeeaahtv/chunklist_w1552254968.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="VARIEDADES",ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ############################### ADULTOS ###############################
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY" tvg-logo="http://stolm.live/lives/ADULTO/PLAYBOY.png" group-title="ADULTOS",PLAYBOY
+############################### ADULTO ############################### ADULTO ############################### ADULTO ############################### ADULTO ############################### ADULTO ############################### ADULTO ############################### ADULTO ###############################
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY" tvg-logo="http://stolm.live/lives/ADULTO/PLAYBOY.png" group-title="ADULTO",PLAYBOY
 http://lmdns.online:80/4x6cXF/ehfxdp/90206.m3u8
-#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="SEX PRIVE" tvg-logo="http://stolm.live/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="ADULTOS",SEX PRIVE
+#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="SEX PRIVE" tvg-logo="http://stolm.live/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="ADULTO",SEX PRIVE
 http://lmdns.online:80/4x6cXF/ehfxdp/95485.m3u8
-#EXTINF:-1 tvg-id="Bandce.br" tvg-name="SEXTREME" tvg-logo="http://stolm.live/lives/ADULTO/SEXTREME.png" group-title="ADULTOS",SEXTREME
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="SEXTREME" tvg-logo="http://stolm.live/lives/ADULTO/SEXTREME.png" group-title="ADULTO",SEXTREME
 http://lmdns.online:80/4x6cXF/ehfxdp/100038.m3u8
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT" tvg-logo="http://stolm.live/lives/ADULTO/SEXY%20HOT.png" group-title="ADULTOS",SEXY HOT
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT" tvg-logo="http://stolm.live/lives/ADULTO/SEXY%20HOT.png" group-title="ADULTO",SEXY HOT
 http://lmdns.online:80/4x6cXF/ehfxdp/95488.m3u8
-#EXTINF:-1 tvg-id="Bandce.br" tvg-name="VENUS" tvg-logo="http://stolm.live/lives/ADULTO/VENUS.png" group-title="ADULTOS",VENUS
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="VENUS" tvg-logo="http://stolm.live/lives/ADULTO/VENUS.png" group-title="ADULTO",VENUS
 http://lmdns.online:80/4x6cXF/ehfxdp/90437.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ANYA OLSEN" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ANYA OLSEN
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ANYA OLSEN" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ANYA OLSEN
 http://lmdns.online:80/4x6cXF/ehfxdp/91287.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BR ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BR ONLYFANS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BR ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX BR ONLYFANS
 http://lmdns.online:80/4x6cXF/ehfxdp/91294.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BRASILEIRINHAS 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 01
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BRASILEIRINHAS 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX BRASILEIRINHAS 01
 http://lmdns.online:80/4x6cXF/ehfxdp/95499.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BRASILEIRINHAS 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX BRASILEIRINHAS 02
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX BRASILEIRINHAS 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX BRASILEIRINHAS 02
 http://lmdns.online:80/4x6cXF/ehfxdp/91277.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX GIRL CUM" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX GIRL CUM
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX GIRL CUM" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX GIRL CUM
 http://lmdns.online:80/4x6cXF/ehfxdp/91288.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX INT ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX INT ONLYFANS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX INT ONLYFANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX INT ONLYFANS
 http://lmdns.online:80/4x6cXF/ehfxdp/91282.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX JAPAN HDV" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JAPAN HDV
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX JAPAN HDV" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX JAPAN HDV
 http://lmdns.online:80/4x6cXF/ehfxdp/91286.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX JEMMA VALENTINE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX JEMMA VALENTINE
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX JEMMA VALENTINE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX JEMMA VALENTINE
 http://lmdns.online:80/4x6cXF/ehfxdp/91280.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX LAUREN WALKER" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX LAUREN WALKER
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX LAUREN WALKER" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX LAUREN WALKER
 http://lmdns.online:80/4x6cXF/ehfxdp/91293.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MANDY MUSE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MANDY MUSE
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MANDY MUSE" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX MANDY MUSE
 http://lmdns.online:80/4x6cXF/ehfxdp/91279.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MIA KHALIFA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MIA KHALIFA
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MIA KHALIFA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX MIA KHALIFA
 http://lmdns.online:80/4x6cXF/ehfxdp/91283.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MOM XXX" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MOM XXX
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MOM XXX" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX MOM XXX
 http://lmdns.online:80/4x6cXF/ehfxdp/91292.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MULHER MELAO" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MULHER MELAO
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MULHER MELAO" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX MULHER MELAO
 http://lmdns.online:80/4x6cXF/ehfxdp/91285.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MYRA MOANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX MYRA MOANS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX MYRA MOANS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX MYRA MOANS
 http://lmdns.online:80/4x6cXF/ehfxdp/91281.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX NAUGHTY AMERICA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX NAUGHTY AMERICA
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX NAUGHTY AMERICA" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX NAUGHTY AMERICA
 http://lmdns.online:80/4x6cXF/ehfxdp/91291.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX REALITY KINGS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX REALITY KINGS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX REALITY KINGS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX REALITY KINGS
 http://lmdns.online:80/4x6cXF/ehfxdp/91290.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX STEFANIE MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX STEFANIE MOON
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX STEFANIE MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX STEFANIE MOON
 http://lmdns.online:80/4x6cXF/ehfxdp/91284.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX VANESSA MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX VANESSA MOON
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX VANESSA MOON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX VANESSA MOON
 http://lmdns.online:80/4x6cXF/ehfxdp/91276.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX YENIFER CHACON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX YENIFER CHACON
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX YENIFER CHACON" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX YENIFER CHACON
 http://lmdns.online:80/4x6cXF/ehfxdp/91278.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX A CASA DAS BRASILEIRINHAS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX A CASA DAS BRASILEIRINHAS
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX A CASA DAS BRASILEIRINHAS" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX A CASA DAS BRASILEIRINHAS
 http://lmdns.online:80/4x6cXF/ehfxdp/91289.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 01
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 01" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 01
 http://lmdns.online:80/4x6cXF/ehfxdp/91215.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 02
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 02" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 02
 http://lmdns.online:80/4x6cXF/ehfxdp/91216.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 04" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 04
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 04" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 04
 http://lmdns.online:80/4x6cXF/ehfxdp/91218.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 05" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 05
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 05" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 05
 http://lmdns.online:80/4x6cXF/ehfxdp/91219.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 06" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 06
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 06" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 06
 http://lmdns.online:80/4x6cXF/ehfxdp/91220.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 07" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 07
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 07" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 07
 http://lmdns.online:80/4x6cXF/ehfxdp/91221.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 08" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 08
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 08" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 08
 http://lmdns.online:80/4x6cXF/ehfxdp/91222.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 09" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 09
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 09" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 09
 http://lmdns.online:80/4x6cXF/ehfxdp/91223.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 10" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 10
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 10" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 10
 http://lmdns.online:80/4x6cXF/ehfxdp/91224.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 11" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 11
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 11" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 11
 http://lmdns.online:80/4x6cXF/ehfxdp/91225.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 12" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 12
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 12" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 12
 http://lmdns.online:80/4x6cXF/ehfxdp/91226.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 13" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 13
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 13" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 13
 http://lmdns.online:80/4x6cXF/ehfxdp/91227.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 14" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 14
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 14" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 14
 http://lmdns.online:80/4x6cXF/ehfxdp/91228.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 15" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 15
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 15" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 15
 http://lmdns.online:80/4x6cXF/ehfxdp/91229.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 16" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 16
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 16" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 16
 http://lmdns.online:80/4x6cXF/ehfxdp/91230.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 17" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 17
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 17" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 17
 http://lmdns.online:80/4x6cXF/ehfxdp/91231.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 18" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 18
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 18" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 18
 http://lmdns.online:80/4x6cXF/ehfxdp/91232.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 19" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 19
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 19" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 19
 http://lmdns.online:80/4x6cXF/ehfxdp/91233.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 20" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 20
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 20" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 20
 http://lmdns.online:80/4x6cXF/ehfxdp/91234.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 21" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 21
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 21" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 21
 http://lmdns.online:80/4x6cXF/ehfxdp/91235.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 22" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 22
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 22" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 22
 http://lmdns.online:80/4x6cXF/ehfxdp/91236.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 23" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 23
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 23" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 23
 http://lmdns.online:80/4x6cXF/ehfxdp/91237.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 24" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 24
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 24" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 24
 http://lmdns.online:80/4x6cXF/ehfxdp/91238.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 25" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 25
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 25" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 25
 http://lmdns.online:80/4x6cXF/ehfxdp/91239.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 26" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 26
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 26" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 26
 http://lmdns.online:80/4x6cXF/ehfxdp/91240.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 27" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 27
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 27" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 27
 http://lmdns.online:80/4x6cXF/ehfxdp/91241.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 28" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 28
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 28" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 28
 http://lmdns.online:80/4x6cXF/ehfxdp/91242.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 29" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 29
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 29" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 29
 http://lmdns.online:80/4x6cXF/ehfxdp/91243.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 30" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 30
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 30" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 30
 http://lmdns.online:80/4x6cXF/ehfxdp/91244.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 31" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 31
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 31" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 31
 http://lmdns.online:80/4x6cXF/ehfxdp/91245.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 32" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 32
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 32" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 32
 http://lmdns.online:80/4x6cXF/ehfxdp/91246.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 33" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 33
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 33" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 33
 http://lmdns.online:80/4x6cXF/ehfxdp/91247.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 34" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 34
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 34" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 34
 http://lmdns.online:80/4x6cXF/ehfxdp/91248.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 35" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 35
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 35" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 35
 http://lmdns.online:80/4x6cXF/ehfxdp/91249.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 36" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 36
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 36" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 36
 http://lmdns.online:80/4x6cXF/ehfxdp/91250.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 37" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 37
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 37" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 37
 http://lmdns.online:80/4x6cXF/ehfxdp/91251.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 38" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 38
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 38" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 38
 http://lmdns.online:80/4x6cXF/ehfxdp/91252.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 39" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 39
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 39" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 39
 http://lmdns.online:80/4x6cXF/ehfxdp/91253.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 40" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTOS",24H - XXX ADULTO 40
+#EXTINF:-1 tvg-id="Like.br" tvg-name="24H - XXX ADULTO 40" tvg-logo="http://stolm.live/lives/VARIEDADES/24H.png" group-title="ADULTO",24H - XXX ADULTO 40
 http://lmdns.online:80/4x6cXF/ehfxdp/91254.m3u8
-################### RÁDIOS #######################
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIOS",JEQUIÉ 89.7 FM | JEQUIÉ - BA
+################### RÁDIO #######################
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio13524_1519046300.jpg" group-title="RÁDIO",JEQUIÉ 89.7 FM | JEQUIÉ - BA
 https://jequiefm.streams.com.br/stream?1705506586806
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="RÁDIOS",93 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/md/radio104_1686678245.jpg" group-title="RÁDIO",93 FM | JEQUIÉ - BA
 http://stm3.streaminghd.net.br:7056/stream?1705507034790
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="RÁDIOS",95 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio121_1692363784.jpeg" group-title="RÁDIO",95 FM | JEQUIÉ - BA
 https://9270.brasilstream.com.br/stream?1772139097548
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="RÁDIOS",POVO 96,3 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio14057_1506362508.png" group-title="RÁDIO",POVO 96,3 FM | JEQUIÉ - BA
 http://s02.transmissaodigital.com:7320/stream?1705515824537
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="RÁDIOS",CIDADE 104.9 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio18766_1679945722.png" group-title="RÁDIO",CIDADE 104.9 FM | JEQUIÉ - BA
 http://stm19.oficinadoradio.com.br:8532/stream?1705516706077
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="RÁDIOS",UESB 106.1 FM | JEQUIÉ - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio149523_1603794181.jpg" group-title="RÁDIO",UESB 106.1 FM | JEQUIÉ - BA
 http://200.128.67.125:8001/stream?1705516960157
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="RÁDIOS",APARECIDA 104.3 FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio9571_1614260489.png" group-title="RÁDIO",APARECIDA 104.3 FM | SP
 https://aparecida.jmvstream.com/stream?1705520098895
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RÁDIOS",CANÇÃO NOVA 89.1 FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RÁDIO",CANÇÃO NOVA 89.1 FM | SP
 https://cloud1.cdnseguro.com:20038/stream?1705519584684
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="RÁDIOS",ITAPOAN 97.5 FM | SALVADOR - BA
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://img.radios.com.br/radio/lg/radio13493_1683819867.jpg" group-title="RÁDIO",ITAPOAN 97.5 FM | SALVADOR - BA
 https://cast.radiu.live:9300/stream?1705523628515
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIOS",BAND FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="RÁDIO",BAND FM | SP
 https://19803.live.streamtheworld.com/BANDFM_SPAAC.aac?dist=radios.com.br&1735919808989
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS",BANDNEWS FM | SP
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIO",BANDNEWS FM | SP
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac?dist=radios.com.br&1735919872327
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS",CULTURA DO PARÁ
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIO",CULTURA DO PARÁ
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
