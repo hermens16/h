@@ -889,6 +889,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89951.m3u8
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TravelBoxBrazillogoatualizado.png/120px-TravelBoxBrazillogoatualizado.png" group-title="DOCUMENTÁRIOS",TRAVEL BOX BRAZIL
 http://lmdns.online:80/4x6cXF/ehfxdp/90401.m3u8
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="URBAN TRAVEL" tvg-logo="http://stolm.live/lives/URBAN/URBAN_TRAVEL.png" group-title="DOCUMENTÁRIOS",URBAN TRAVEL
+http://lmdns.online:80/4x6cXF/ehfxdp/90331.m3u8
 #EXTINF:-1 tvg-id="Globosat.br" tvg-name="MODO VIAGEM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Modo_Viagem_2021_pre-lanzamiento.png/revision/latest?cb=20220117123751&path-prefix=es" group-title="DOCUMENTÁRIOS",MODO VIAGEM
 http://lmdns.online:80/4x6cXF/ehfxdp/91369.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="DOCUMENTÁRIOS",VIAJANDO PELO BRASIL
