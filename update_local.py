@@ -1,12 +1,19 @@
 import subprocess
 import os
 
-print("🚀 ATUALIZADOR DE LIVES (YT-DLP MODO NAVEGADOR)")
+print("🚀 ATUALIZADOR DE LIVES (YT-DLP MODO ANDROID + COOKIES.TXT)")
+
+# Verifica cookies.txt
+if not os.path.exists("cookies.txt"):
+    print("❌ cookies.txt não encontrado na pasta!")
+    input("Coloque o arquivo cookies.txt e pressione ENTER...")
+    exit()
 
 # Lê lista de canais
 with open("canais.txt", "r", encoding="utf-8") as file:
     linhas = file.readlines()
 
+# Cria pasta
 os.makedirs("lives", exist_ok=True)
 
 for linha in linhas:
@@ -23,9 +30,9 @@ for linha in linhas:
         result = subprocess.run(
             [
                 "yt-dlp.exe",
-                "--cookies-from-browser", "edge",
-                "--add-header", "User-Agent: Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Mobile Safari/537.36",
-                "--add-header", f"Referer: {url}",
+                "--cookies", "cookies.txt",
+                "--js-runtimes", "node",
+                "--extractor-args", "youtube:player_client=android",
                 "-g",
                 url
             ],
@@ -34,18 +41,27 @@ for linha in linhas:
             creationflags=subprocess.CREATE_NO_WINDOW
         )
 
-        hls_url = result.stdout.strip().split("\n")[0]  # pega só a primeira linha
+        # pega apenas a primeira URL retornada
+        output = result.stdout.strip()
 
-        if hls_url and "m3u8" in hls_url:
-
-            with open(f"lives/{nome}.m3u8", "w", encoding="utf-8") as f:
-                f.write(hls_url)
-
-            print(f"✅ {nome} atualizado com sucesso.")
-
-        else:
-            print(f"❌ Falha ao extrair URL válida de {nome}")
+        if not output:
+            print(f"❌ Nenhuma saída para {nome}")
             print(result.stderr)
+            continue
+
+        hls_url = output.split("\n")[0]
+
+        # valida se é link correto
+        if "manifest.googlevideo.com" not in hls_url:
+            print(f"❌ Link inválido para {nome}")
+            print(hls_url)
+            continue
+
+        # salva arquivo
+        with open(f"lives/{nome}.m3u8", "w", encoding="utf-8") as f:
+            f.write(hls_url)
+
+        print(f"✅ {nome} atualizado com sucesso.")
 
     except Exception as e:
         print(f"❌ Erro em {nome}: {e}")
@@ -59,7 +75,7 @@ subprocess.run(
 )
 
 subprocess.run(
-    ["git", "commit", "-m", "update lives com cookies + headers"],
+    ["git", "commit", "-m", "update lives (yt-dlp android + cookies.txt)"],
     creationflags=subprocess.CREATE_NO_WINDOW
 )
 
