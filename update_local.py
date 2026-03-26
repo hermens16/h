@@ -3,6 +3,10 @@ import os
 
 print("🚀 ATUALIZADOR DE LIVES (YT-DLP MODO ANDROID + COOKIES.TXT)")
 
+# Garante que está sincronizado com o GitHub antes de tudo
+print("🔄 Sincronizando com repositório remoto...")
+subprocess.run(["git", "pull"], creationflags=subprocess.CREATE_NO_WINDOW)
+
 # Verifica cookies.txt
 if not os.path.exists("cookies.txt"):
     print("❌ cookies.txt não encontrado na pasta!")
@@ -41,7 +45,6 @@ for linha in linhas:
             creationflags=subprocess.CREATE_NO_WINDOW
         )
 
-        # pega apenas a primeira URL retornada
         output = result.stdout.strip()
 
         if not output:
@@ -66,16 +69,30 @@ for linha in linhas:
     except Exception as e:
         print(f"❌ Erro em {nome}: {e}")
 
-# Commit automático
+# Commit automático (SOMENTE arquivos necessários)
 print("📤 Enviando para Git...")
 
+# adiciona apenas o que interessa
 subprocess.run(
-    ["git", "add", "."],
+    ["git", "add", "lives/"],
     creationflags=subprocess.CREATE_NO_WINDOW
 )
 
 subprocess.run(
-    ["git", "commit", "-m", "update lives (yt-dlp android + cookies.txt)"],
+    ["git", "add", "canais.txt"],
+    creationflags=subprocess.CREATE_NO_WINDOW
+)
+
+# (opcional) adiciona o próprio script
+subprocess.run(
+    ["git", "add", "*.py"],
+    shell=True,
+    creationflags=subprocess.CREATE_NO_WINDOW
+)
+
+# commit (só se houver mudança)
+subprocess.run(
+    ["git", "commit", "-m", "update lives (auto yt-dlp)"],
     creationflags=subprocess.CREATE_NO_WINDOW
 )
 
@@ -84,4 +101,4 @@ subprocess.run(
     creationflags=subprocess.CREATE_NO_WINDOW
 )
 
-print("✅ Processo finalizado.")
+print("✅ Processo finalizado com segurança.")
