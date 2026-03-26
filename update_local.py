@@ -23,7 +23,7 @@ for linha in linhas:
         result = subprocess.run(
             [
                 "yt-dlp.exe",
-                "--cookies-from-browser", "chrome",
+                "--cookies-from-browser", "edge",
                 "--add-header", "User-Agent: Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Mobile Safari/537.36",
                 "--add-header", f"Referer: {url}",
                 "-g",
