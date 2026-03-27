@@ -1410,11 +1410,11 @@ https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cançao Nova.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="RELIGIOSO",CANÇÃO NOVA | PORTUGAL
 https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w2078242036.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSO",SANTUÁRIO DE FÁTIMA | PORTUGAL
-https://raw.githubusercontent.com/hermens16/h/main/lives/santuariodefatima.m3u
+https://raw.githubusercontent.com/hermens16/h/main/lives/santuariodefatima.master.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="RELIGIOSO",CAPELINHA DAS APARIÇÕES | PORTUGAL
-https://raw.githubusercontent.com/hermens16/h/main/lives/capelinhadefatima.m3u
+https://raw.githubusercontent.com/hermens16/h/main/lives/capelinhadefatima.master.m3u8
 #EXTINF:-1 tvg-logo="https://santuariodelourdes.com.br/wp-content/uploads/2024/09/logo_.svg" group-title="RELIGIOSO",SANTUÁRIO DE LOURDES | FRANÇA
-https://raw.githubusercontent.com/hermens16/h/main/lives/santuariodelourdes.m3u
+https://raw.githubusercontent.com/hermens16/h/main/lives/santuariodelourdes.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_jCNbceti3SBZ8HNcQSPucbBHrrIXd42uw&s" group-title="RELIGIOSO",VATICANO NEWS | ITÁLIA
 https://raw.githubusercontent.com/hermens16/h/main/lives/vaticanonews.m3u
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_dd2iUWnC5g/VInYEyE7vxI/AAAAAAAApf0/_PqOXtc3Pss/s1600/ORBE21-nuevo.png" group-title="RELIGIOSO",CANAL ORBE 21 | ARGENTINA
