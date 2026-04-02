@@ -1572,8 +1572,8 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="VARIEDADES",ISTV - SP
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 vg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/29212/logo_256_1731608875.jpg" group-title="VARIEDADES",MASTER TV
-https://alanza.iptv2022.com/Master_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+#EXTINF:-1 vg-id="Like.br" tvg-logo="https://play-lh.googleusercontent.com/yCTnW-JF4Q1BDklisUZpnbrYpeiTmO0xA82OloEiiY7rQfxlT12Sq5Rq-cTJFpBFrY-Sn3fHBsk4zwTNt3lq=w600-h300-pc0xffffff-pd" group-title="VARIEDADES",MASPER TV
+https://stream.castr.com/62572b254fcac2c0e67c3ac5/live_3815ed7055fe11ef95f9a97142a4bd4f/index.fmp4.m3u8
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14372/thumb_image_2022-06-27_15-13-34.png" group-title="VARIEDADES",MJR TV - PB
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w741816191.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV - SC
