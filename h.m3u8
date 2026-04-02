@@ -1575,9 +1575,7 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="hollywire.com" https://hollywire.com/tvg-logo="https://i.imgur.com/LPyQKCi.png" group-title="VARIEDADES",HOLLYWIRE
 https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="VARIEDADES",ISTV - SP
-https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w418077018.m3u8
-#EXTINF:-1 vg-id="Like.br" tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="VARIEDADES",UMISS TV
-https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/29212/logo_256_1731608875.jpg" group-title="VARIEDADES",MASTER TV
 https://alanza.iptv2022.com/Master_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14372/thumb_image_2022-06-27_15-13-34.png" group-title="VARIEDADES",MJR TV - PB
