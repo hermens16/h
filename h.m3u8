@@ -1081,14 +1081,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508208.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508181.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Doug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEzGDVHsUlOhU59EKSePobldyIf.jpg" group-title="DESENHOS 24H",DOUG
 http://lmdns.online:80/4x6cXF/ehfxdp/508085.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball Classico" tvg-logo="http://stolm.live/series-cover/1626117180735.jpg" group-title="DESENHOS 24H",DRAGON BALL CLASSICO
-http://lmdns.online:80/4x6cXF/ehfxdp/508054.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball GT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whMOujSNYXRQeeCWf39CfkqguFy.jpg" group-title="DESENHOS 24H",DRAGON BALL GT
-http://lmdns.online:80/4x6cXF/ehfxdp/508055.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball Super" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQDCIp92rTzTnd8mjb1syLhrAqy.jpg" group-title="DESENHOS 24H",DRAGON BALL SUPER
-http://lmdns.online:80/4x6cXF/ehfxdp/508056.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Dragon Ball Z" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg" group-title="DESENHOS 24H",DRAGON BALL Z
-http://lmdns.online:80/4x6cXF/ehfxdp/508057.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Du, Dudu e Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" group-title="DESENHOS 24H",Du,DUDU E EDU
 http://lmdns.online:80/4x6cXF/ehfxdp/508205.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="DuckTales: Os Caçadores de Aventuras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FsIGJeCS3lCiXU7gICBSgjOPIW.jpg" group-title="DESENHOS 24H",DUCKTALES: OS CAÇADORES DE AVENTURAS
@@ -1159,10 +1151,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508101.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508164.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Mucha Lucha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w12B6di7moo2otX4X4y3y3gKagz.jpg" group-title="DESENHOS 24H",MUCHA LUCHA
 http://lmdns.online:80/4x6cXF/ehfxdp/508121.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ptbVZpKNy5NY9D4zq4KGiYWRQY.jpg" group-title="DESENHOS 24H",NARUTO
-http://lmdns.online:80/4x6cXF/ehfxdp/508047.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Naruto Shippuden" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRJmByfK9XdtOY73VArcN8KpKVs.jpg" group-title="DESENHOS 24H",NARUTO SHIPPUDEN
-http://lmdns.online:80/4x6cXF/ehfxdp/508166.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="O Incrível Mundo de Gumball" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NGCRWnZpsIevwpjBLkoXfnqSgg.jpg" group-title="DESENHOS 24H",O INCRÍVEL MUNDO DE GUMBALL
 http://lmdns.online:80/4x6cXF/ehfxdp/508116.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="O Laboratório de Dexter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12rxsv2if1i0TudBRFfP7WznJw0.jpg" group-title="DESENHOS 24H",O LABORATÓRIO DE DEXTER
