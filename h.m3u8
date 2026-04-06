@@ -942,6 +942,22 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508057.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508047.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/61/Naruto-logo-shippuuden.png?20160628170414" group-title="ANIME & TOKUSATSU",NARUTO SHIPPUDEN
 http://lmdns.online:80/4x6cXF/ehfxdp/508166.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="ANIME & TOKUSATSU",BORUTO: NARUTO NEXT GENERATIONS
+http://lmdns.online:80/4x6cXF/ehfxdp/508168.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="ANIME & TOKUSATSU",BORUTO: NARUTO NEXT GENERATIONS
+http://lmdns.online:80/4x6cXF/ehfxdp/508200.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Cavaleiros do Zodíaco - Saga do Santuário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="ANIME & TOKUSATSU",OS CAVALEIROS DO ZODÍACO - SAGA DO SANTUÁRIO
+http://lmdns.online:80/4x6cXF/ehfxdp/508122.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Cavaleiros do Zodíaco: A Saga de Hades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nCfBKaGVftgH65FpKoGFIUNOob.jpg" group-title="ANIME & TOKUSATSU",OS CAVALEIROS DO ZODÍACO: A SAGA DE HADES
+http://lmdns.online:80/4x6cXF/ehfxdp/508060.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Samurai Warriors - Sengoku Musou [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny2Lg6afSKMEXbZSZ6Ghj1I84Bb.jpg" group-title="ANIME & TOKUSATSU",SAMURAI WARRIORS - SENGOKU MUSOU [L]
+http://lmdns.online:80/4x6cXF/ehfxdp/508171.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="SHAMAN KING" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAOwHV9gwx3leW26Xch5gi16aII.jpg" group-title="ANIME & TOKUSATSU",SHAMAN KING
+http://lmdns.online:80/4x6cXF/ehfxdp/508059.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Street Fighter II: Victory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhK51roYnFMxpYmFpmEBHYwCHNt.jpg" group-title="ANIME & TOKUSATSU",STREET FIGHTER II: VICTORY
+http://lmdns.online:80/4x6cXF/ehfxdp/508050.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-name="Yu-Gi-Oh!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg" group-title="ANIME & TOKUSATSU",YU-GI-OH!
+http://lmdns.online:80/4x6cXF/ehfxdp/508123.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="ANIME & TOKUSATSU",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
 #EXTINF:-1 tvg-id="truTV HD.br" tvg-name="TRUTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="ANIME & TOKUSATSU",TRUTV
@@ -1045,10 +1061,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508163.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508131.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="BoJack Horseman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg" group-title="DESENHOS 24H",BOJACK HORSEMAN
 http://lmdns.online:80/4x6cXF/ehfxdp/508118.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="DESENHOS 24H",BORUTO: NARUTO NEXT GENERATIONS
-http://lmdns.online:80/4x6cXF/ehfxdp/508168.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg" group-title="DESENHOS 24H",BORUTO: NARUTO NEXT GENERATIONS
-http://lmdns.online:80/4x6cXF/ehfxdp/508200.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Caillou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owEulie4od308GZd2jTVaX1Y0OP.jpg" group-title="DESENHOS 24H",CAILLOU
 http://lmdns.online:80/4x6cXF/ehfxdp/508176.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Carrossel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="DESENHOS 24H",CARROSSEL
@@ -1171,10 +1183,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508145.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508099.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="One Piece" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOrmYBUH7YfMBkSgGKXya13Xmbm.jpg" group-title="DESENHOS 24H",ONE PIECE
 http://lmdns.online:80/4x6cXF/ehfxdp/508170.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Cavaleiros do Zodíaco - Saga do Santuário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="DESENHOS 24H",OS CAVALEIROS DO ZODÍACO - SAGA DO SANTUÁRIO
-http://lmdns.online:80/4x6cXF/ehfxdp/508122.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Os Cavaleiros do Zodíaco: A Saga de Hades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nCfBKaGVftgH65FpKoGFIUNOob.jpg" group-title="DESENHOS 24H",OS CAVALEIROS DO ZODÍACO: A SAGA DE HADES
-http://lmdns.online:80/4x6cXF/ehfxdp/508060.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Os Flintstones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jT1ZpG1ybQyLmYMfgpvTaJLrS0.jpg" group-title="DESENHOS 24H",OS FLINTSTONES
 http://lmdns.online:80/4x6cXF/ehfxdp/508147.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Os Jetsons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5HkfARjZV56k56oEdoNGed0ifM.jpg" group-title="DESENHOS 24H",OS JETSONS
@@ -1213,10 +1221,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508105.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508165.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Salsicha e Scooby Atrás das Pistas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zlUvWnU0OR3d8ud5sR6aJfHOc1.jpg" group-title="DESENHOS 24H",SALSICHA E SCOOBY ATRÁS DAS PISTAS
 http://lmdns.online:80/4x6cXF/ehfxdp/508195.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Samurai Warriors - Sengoku Musou [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny2Lg6afSKMEXbZSZ6Ghj1I84Bb.jpg" group-title="DESENHOS 24H",SAMURAI WARRIORS - SENGOKU MUSOU [L]
-http://lmdns.online:80/4x6cXF/ehfxdp/508171.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="SHAMAN KING" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAOwHV9gwx3leW26Xch5gi16aII.jpg" group-title="DESENHOS 24H",SHAMAN KING
-http://lmdns.online:80/4x6cXF/ehfxdp/508059.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="She-Ra e as Princesas do Poder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg" group-title="DESENHOS 24H",SHE-RA E AS PRINCESAS DO PODER
 http://lmdns.online:80/4x6cXF/ehfxdp/508152.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Sonic Boom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8m6CBrCjcLsIH8iGV3sKdLkoAg.jpg" group-title="DESENHOS 24H",SONIC BOOM
@@ -1229,8 +1233,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508187.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508108.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Steven Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6O1uHHMhgBBkDpKiJE53wKvnHmv.jpg" group-title="DESENHOS 24H",STEVEN UNIVERSO
 http://lmdns.online:80/4x6cXF/ehfxdp/508120.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Street Fighter II: Victory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhK51roYnFMxpYmFpmEBHYwCHNt.jpg" group-title="DESENHOS 24H",STREET FIGHTER II: VICTORY
-http://lmdns.online:80/4x6cXF/ehfxdp/508050.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Super Choque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CAzxjYTUQoq2jeUnn0z6BugdIP.jpg" group-title="DESENHOS 24H",SUPER CHOQUE
 http://lmdns.online:80/4x6cXF/ehfxdp/508109.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Superman: A Série Animada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1smIQtxTZBmnSAKyiFsc2eVI2A3.jpg" group-title="DESENHOS 24H",SUPERMAN: A SÉRIE ANIMADA
@@ -1261,9 +1263,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/508155.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/508158.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="X-Men: Evolution" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg" group-title="DESENHOS 24H",X-MEN: EVOLUTION
 http://lmdns.online:80/4x6cXF/ehfxdp/508154.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Yu-Gi-Oh!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg" group-title="DESENHOS 24H",YU-GI-OH!
-http://lmdns.online:80/4x6cXF/ehfxdp/508123.m3u8
-	####################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL #####################
+####################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL ##################### INFANTIL #####################
 #EXTINF:-1 tvg-id="RA TIM BUM.br" tvg-name="TV RA-TIM-BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",TV RA-TIM-BUM
 http://lmdns.online:80/4x6cXF/ehfxdp/90425.m3u8
 #EXTINF:-1 tvg-id="Boomerang HD.br" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIL",BOOMERANG
