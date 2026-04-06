@@ -891,6 +891,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/90388.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/89808.m3u8
 #EXTINF:-1 tvg-id="Canal Educacao.br" tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="DOCUMENTÁRIOS",CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="DOCUMENTÁRIOS",TV ESCOLA
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA!" tvg-logo="https://logowik.com/content/uploads/images/canal-curta9116.logowik.com.webp" group-title="DOCUMENTÁRIOS",CURTA!
 http://lmdns.online:80/4x6cXF/ehfxdp/89904.m3u8
 #EXTINF:-1 tvg-id="E! HD.br" tvg-name="E!" tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="DOCUMENTÁRIOS",E!
@@ -901,7 +903,7 @@ http://lmdns.online:80/4x6cXF/ehfxdp/89803.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/89990.m3u8
 #EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/120px-DOGTV_logo.svg.png" group-title="DOCUMENTÁRIOS",DOGTV
 http://lmdns.online:80/4x6cXF/ehfxdp/89951.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="DOCUMENTÁRIOS",PETLOVERS TV
+#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="DOCUMENTÁRIOS",PETLOVERS TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel Box Brazil.br" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TravelBoxBrazillogoatualizado.png/120px-TravelBoxBrazillogoatualizado.png" group-title="DOCUMENTÁRIOS",TRAVEL BOX BRAZIL
 http://lmdns.online:80/4x6cXF/ehfxdp/90401.m3u8
@@ -919,16 +921,10 @@ https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5da
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="DOCUMENTÁRIOS",ASSIM É PORTUGAL
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="DOCUMENTÁRIOS",PET LOVERS
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="DOCUMENTÁRIOS",TV ESCOLA
-https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="DOCUMENTÁRIOS",TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="DOCUMENTÁRIOS",RBA TV - RS
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTÁRIOS",SPACE TODAY TV
-https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTÁRIOS",TV PARANÁ TURISMO
 http://200.189.113.201/hls/tve.m3u8
 ####################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU #####################
