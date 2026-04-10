@@ -1462,8 +1462,6 @@ https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="RELIGIOSO",LOADING
 http://lmdns.online:80/4x6cXF/ehfxdp/90149.m3u8
 ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ############################### VARIEDADES ###############################
-#EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://cdn.technettv.com/channel/13091/logo_256_1683890039.png" group-title="VARIEDADES",TV NORDESTINA - PB
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775330428/ei/HBDRaaqiK9aKwrcP35me6Q0/ip/45.190.35.31/id/1StnAj1mHNs.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811605/txs/51811605%2C51811607/hfr/1/bui/AUUZDGKYbTnyVsfwvSywCJC_W2c7uRk8yoLWbXU0V-dul1OBMWQdnKJgXH3d9QsrcY-FW8ZYK-uKsoNf/spc/jlWavdT4M5b2Ls9_TSfZy_QQby6t38F6faE6oSEZND4DrM4YJw/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOdzndyuhLCBKein_lk5pqwtCegpYBhl2WkV-TamSL5sAiBSHhPvtU549rkbicSXhswhPaTKCjUCpUCvm1ACUjYETw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.netlinetelecom.com.br/wp-content/uploads/tv-diario-do-sertao-150x150.png" group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PB
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w2127823782.m3u8
 #EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="VARIEDADES",TV NOVA NORDESTE - PE
@@ -1475,7 +1473,7 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="VARIEDADES",SERTÃO TV - CE
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES - PR
-https://cdn.live.br1.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+https://cpbr.appflux.com.br:2000/hls/1001noiteslive/1001noiteslive.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png" group-title="VARIEDADES",ADESSO TV - RS
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://websitenoar.net/contents/773/cover/logo_1621772608.png" group-title="VARIEDADES",AG TV - RS
