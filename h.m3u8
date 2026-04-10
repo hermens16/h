@@ -1537,7 +1537,7 @@ https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://play-lh.googleusercontent.com/yCTnW-JF4Q1BDklisUZpnbrYpeiTmO0xA82OloEiiY7rQfxlT12Sq5Rq-cTJFpBFrY-Sn3fHBsk4zwTNt3lq=w600-h300-pc0xffffff-pd" group-title="VARIEDADES",MASPER TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 #EXTINF:-1 vg-id="Like.br" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14372/thumb_image_2022-06-27_15-13-34.png" group-title="VARIEDADES",MJR TV - PB
-https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w741816191.m3u8
+https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VARIEDADES",NOVA ERA TV - SC
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="VARIEDADES",PRIMER TV - SC
