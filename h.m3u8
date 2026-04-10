@@ -295,10 +295,10 @@ http://lmdns.online:80/4x6cXF/ehfxdp/110234.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/110228.m3u8
 #EXTINF:-1 tvg-id="Band HD.br" tvg-name="BAND CEARÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Band_Cear%C3%A1_logo.png" group-title="TV ABERTA",BAND CEARÁ - CE
 http://lmdns.online:80/4x6cXF/ehfxdp/101479.m3u8
-#EXTINF:-1 tvg-id="Band Belem.br" tvg-name="Band Belem.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="TV ABERTA",RBA TV - PA
-http://lmdns.online:80/4x6cXF/ehfxdp/101482.m3u8
+#EXTINF:-1 tvg-id="RBATV.br" tvg-id="Band Belem.br" tvg-name="Band Belem.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="TV ABERTA",RBA TV - PA
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Tribuna HD.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png" group-title="TV ABERTA",TV TRIBUNA - PE
-http://lmdns.online:80/4x6cXF/ehfxdp/116878.m3u8
+http://lmdns.online:80/4x6cXF/ehfxdp/101477.m3u8
 #EXTINF:-1 tvg-id="Band Brasília HD.br" tvg-name="BAND BRASÍLIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png" group-title="TV ABERTA",BAND BRASÍLIA - DF
 https://hqf6tcxuhk.singularcdn.net.br/live/0195ed65-6002-7fe1-9037-745645406075/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZDY1LTYwMDItN2ZlMS05MDM3LTc0NTY0NTQwNjA3NS8iLCJ1aWQiOiJmNzc5YjQzMC00NDI3LTRiMzAtYmVkZC02Mjg0ODdhNjU0MDciLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc3MDY0NTI4MCwiaWF0IjoxNzcwNjQ1MjgwLCJleHAiOjE4MDIxODEyODAsImp0aSI6ImY3NzliNDMwLTQ0MjctNGIzMC1iZWRkLTYyODQ4N2E2NTQwNyIsImlzcyI6IlNwYWxsYSJ9.0o8GwKDSSUhObgXMRCeZZWKO5JF_OopbJbRY7JXWyPI&uid=f779b430-4427-4b30-bedd-628487a65407&magica=sim
 #EXTINF:-1 tvg-id="Band Amazonas HD.br" tvg-name="BAND AMAZONAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Band-eye.png/revision/latest?cb=20250627132130" group-title="TV ABERTA",BAND AMAZONAS - AM
@@ -923,8 +923,6 @@ https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5da
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="DOCUMENTÁRIOS",TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="DOCUMENTÁRIOS",RBA TV - RS
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTÁRIOS",TV PARANÁ TURISMO
 http://200.189.113.201/hls/tve.m3u8
 ####################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU ##################### ANIME & TOKUSATSU #####################
