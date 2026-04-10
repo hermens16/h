@@ -858,6 +858,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/507995.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/507961.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-name="Zorro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWnuHnjseVStjwz69IFenolGkRK.jpg" group-title="SÉRIES",ZORRO
 http://lmdns.online:80/4x6cXF/ehfxdp/508037.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="SÉRIES",CANAL 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.br" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/120px-Food_Network_New_Logo.png?20181129223131" group-title="SÉRIES",FOOD NETWORK
 http://lmdns.online:80/4x6cXF/ehfxdp/89994.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brazil.br" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://www.boxbrazil.tv.br/assets/images/pages/prime/images/642abb4424a76.png" group-title="SÉRIES",PRIME BOX BRAZIL
@@ -917,8 +919,6 @@ http://lmdns.online:80/4x6cXF/ehfxdp/91369.m3u8
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://s3.amazonaws.com/assets.apoia.se/campaigns/586307ae77f42b040088470b%7C586b232c9e965e040085cb29/user-campaign-about-photo%7Cmarca-dagua-spacetoday-20210225_01203572.png" group-title="DOCUMENTÁRIOS",SPACE TODAY TV
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="DOCUMENTÁRIOS",CANAL 29
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="DOCUMENTÁRIOS",ASSIM É PORTUGAL
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="DOCUMENTÁRIOS",TVI FICÇÃO
