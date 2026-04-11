@@ -1621,7 +1621,7 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJB8-c4CpGnztmOxok4_etk1Lyw0_-AiLr24c2GYzzJVmllJKu" group-title="VARIEDADES",TV ITAPÊ
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11705/logo_256_1729668456.jpg" group-title="VARIEDADES",TV LIFE AMÉRICA
-https://cdn.g2gsistemas.com.br/matopiba/tracks-v1a1/mono.ts.m3u8
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV LONDRES
 https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="VARIEDADES",TV LUZILÂNDIA - PI
