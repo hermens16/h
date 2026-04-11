@@ -1641,7 +1641,7 @@ https://srv2.zcast.com.br/tvprecabura/tvprecabura/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.tvcomunitaria.rio/storage/138/config/A9OMPwktZ8kmBDrZeMtlfAmnqJXDJjW1llKlOeDl.png" group-title="VARIEDADES",TVC RIO
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="VARIEDADES",TV SANTA CECÍLIA
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12059/logo_256_1683877015.png" group-title="VARIEDADES",TV SOL
 https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w702936774.m3u8
 #EXTINF:-1 tvg-id="tv-vale-do-uruar" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TV_Vale_do_Uruar%C3%A1_Logo.png" group-title="VARIEDADES",TV VALE DO ARUARÁ - PA
