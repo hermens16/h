@@ -1602,8 +1602,6 @@ https://stmv1.srvif.com/grupoergaomnes/grupoergaomnes/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.tvestilo.tv/public/65181-2025-03-12.png" group-title="VARIEDADES",TV ESTILO
 https://stmv8.samcast.com.br/tvestilo/tvestilo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c3mh10E.png" group-title="VARIEDADES",TV MACKENZIE
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sNgDx7c.png" group-title="VARIEDADES",TV MAIS BRASIL
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11866/thumb_TV_METROPOLITANA_RIO_new.png" group-title="VARIEDADES",TV METROPOLITANA
