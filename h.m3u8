@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Al-Nassr x Al-Ettifaq FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:00] AL-NASSR X AL-ETTIFAQ FHD
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] Palmeiras x Sporting Cristal FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] PALMEIRAS X SPORTING CRISTAL FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Bayern Munique x Real Madrid FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] BAYERN MUNIQUE X REAL MADRID FHD
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] Atlético-MG x Juventud-URU FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] ATLÉTICO-MG X JUVENTUD-URU FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Arsenal x Sporting FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] ARSENAL X SPORTING FHD
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] América-RN x Fortaleza FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] AMÉRICA-RN X FORTALEZA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Cruzeiro x Universidad Católica FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] CRUZEIRO X UNIVERSIDAD CATÓLICA FHD
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] Imperatriz x ABC FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] IMPERATRIZ X ABC FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Racing x Botafogo FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] RACING X BOTAFOGO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Flamengo x Ind. Medellin FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] FLAMENGO X IND. MEDELLIN FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Fluminense-PI x CRB FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] FLUMINENSE-PI X CRB FHD
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] RB Bragantino x Blooming FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] RB BRAGANTINO X BLOOMING FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506928.m3u8
