@@ -323,19 +323,19 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Sao Luis HD.br" tvg-name="TV SÃO LUIS - MA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/TV_Sao_Luis_2024.png/revision/latest?cb=20240906040649" group-title="TV ABERTA",TV SÃO LUIS - MA
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",TV CULTURA - SP
+#EXTINF:-1 tvg-id="TV BRASIL SÃO PAULO.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",TV CULTURA - SP
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="TV ABERTA",CATVE - PR
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="TV ABERTA",TV FUTURO - RN
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="TV ABERTA",CULTURA DO PARÁ - PA
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="TV ABERTA",CULTURA DO PARÁ - PA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/15/2021/11/open-graph.jpg" group-title="TV ABERTA",TVC PANORAMA - SC
+#EXTINF:-1 tvg-id="TV Brasil.br" tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/15/2021/11/open-graph.jpg" group-title="TV ABERTA",TVC PANORAMA - SC
 https://tv02.zas.media:1936/panorama/panorama/chunklist_w1485483103.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="TV ABERTA",TV BRASIL CENTRAL - GO
+#EXTINF:-1 tvg-id="TV BRASIL.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="TV ABERTA",TV BRASIL CENTRAL - GO
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="TV ABERTA",TV BRASIL OESTE - MT
+#EXTINF:-1 tvg-id="TV Brasil HD.br" tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="TV ABERTA",TV BRASIL OESTE - MT
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="TV ABERTA",TV BRASIL | TVE - RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
