@@ -337,6 +337,8 @@ https://tv02.zas.media:1936/panorama/panorama/chunklist_w1485483103.m3u8
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 tvg-id="TV Brasil HD.br" tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="TV ABERTA",TV BRASIL OESTE - MT
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Brasil.br" tvg-logo="https://cdn.technettv.com/channel/12972/logo_256_1684133882.png" group-title="TV ABERTA",TV BELTRÃO - PR
+https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="TV ABERTA",TV BRASIL | TVE - RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE RS" tvg-logo="http://stolm.live/lives/CANAIS%20ABERTOS/TVE.png" group-title="TV ABERTA",TVE RS
@@ -1574,8 +1576,6 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="VARIEDADES",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w328778514.m3u8
-#EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://cdn.technettv.com/channel/12972/logo_256_1684133882.png" group-title="VARIEDADES",TV BELTRÃO
-https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="VARIEDADES",TV BOQUEIRÃO - PR
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.canaldez.com.br/res/site/images/icons/logoCanalDezMod.png" group-title="VARIEDADES",TV CANAL DEZ
