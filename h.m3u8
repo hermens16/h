@@ -1490,8 +1490,6 @@ https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="VARIEDADES",BEM MELHOR - SC
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="VARIEDADES",BR SUPER TV - MG
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES",BRAZITV - EUA
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:-1 tvg-id="Canal do Boi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/752px-Logo_Canal_do_Boi_-_PNG.png" group-title="VARIEDADES",CANAL DO BOI - MS
