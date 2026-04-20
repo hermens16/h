@@ -1471,7 +1471,7 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="VARIEDADES",SERTÃO TV - CE
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="VARIEDADES",1001 NOITES - PR
-https://cpbr.appflux.com.br:2000/hls/1001noiteslive/1001noiteslive.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png" group-title="VARIEDADES",ADESSO TV - RS
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-language="Portuguese" tvg-logo="https://websitenoar.net/contents/773/cover/logo_1621772608.png" group-title="VARIEDADES",AG TV - RS
