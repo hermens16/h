@@ -293,6 +293,8 @@ http://lmdns.online:80/4x6cXF/ehfxdp/110228.m3u8
 http://lmdns.online:80/4x6cXF/ehfxdp/101479.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-id="Band Belem.br" tvg-name="Band Belem.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="TV ABERTA",RBA TV - PA
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="BAND VALE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TV_Vale_do_Uruar%C3%A1_Logo.png" group-title="TV ABERTA",TV VALE DO ARUARÁ - PA
+https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Tribuna HD.br" tvg-name="TV TRIBUNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png" group-title="TV ABERTA",TV TRIBUNA - PE
 http://lmdns.online:80/4x6cXF/ehfxdp/101477.m3u8
 #EXTINF:-1 tvg-id="Band Brasília HD.br" tvg-name="BAND BRASÍLIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png" group-title="TV ABERTA",BAND BRASÍLIA - DF
@@ -1640,8 +1642,6 @@ https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12059/logo_256_1683877015.png" group-title="VARIEDADES",TV SOL
 https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w702936774.m3u8
-#EXTINF:-1 tvg-id="tv-vale-do-uruar" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TV_Vale_do_Uruar%C3%A1_Logo.png" group-title="VARIEDADES",TV VALE DO ARUARÁ - PA
-https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/12286/logo_256_1683876549.png" group-title="VARIEDADES",TV VIDEONEWS - SP
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGAAYPoZ7noW-3w85A2XRT5sT_JgVIgUvbA&s" group-title="VARIEDADES",TV WTJ - MG
