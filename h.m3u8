@@ -1451,6 +1451,8 @@ https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1966658526.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSO",TV GIDEÕES
 https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w829200045.m3u8
+#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11705/logo_256_1729668456.jpg" group-title="RELIGIOSO",TV LIFE AMÉRICA
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="RELIGIOSO",TV MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://cdn.technettv.com/channel/17452/logo_256_1686046966.png" group-title="RELIGIOSO",TV RECONCAVO
@@ -1607,7 +1609,7 @@ https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6629476fb91a6975d4cc2f6f6955223.webp" group-title="VARIEDADES",TV GALEGA - RS
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://m.media-amazon.com/images/I/71yAai5R9WL.png" group-title="VARIEDADES",TV GRANDE NATAL
-https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_21b8LdXV_llhls.m3u8?session=33_
+https://canalteste.duckdns.org/app/tvgrandenatalhdtv/llhls.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11922/logo_256_1684131815.png" group-title="VARIEDADES",TV GUARULHOS
 https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/chunklist_w1676600778.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-pequena.png" group-title="VARIEDADES",TV BRASIL HITS
@@ -1616,8 +1618,6 @@ https://video04.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1649396603.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJB8-c4CpGnztmOxok4_etk1Lyw0_-AiLr24c2GYzzJVmllJKu" group-title="VARIEDADES",TV ITAPÊ
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-logo="https://cdn.technettv.com/channel/11705/logo_256_1729668456.jpg" group-title="VARIEDADES",TV LIFE AMÉRICA
-https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVLondres.br" tvg-logo="https://i.imgur.com/pTe8pbr.png" group-title="VARIEDADES",TV LONDRES
 https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
 #EXTINF:-1 tvg-id="Like.br" tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="VARIEDADES",TV LUZILÂNDIA - PI
