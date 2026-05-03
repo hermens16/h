@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Bayern Munich x Heidenheim FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:30] BAYERN MUNICH X HEIDENHEIM FHD
+#EXTINF:-1 tvg-id="" tvg-name="[10:00] Bournemouth x Crystal Palace FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:00] BOURNEMOUTH X CRYSTAL PALACE FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Newcastle x Brighton FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] NEWCASTLE X BRIGHTON FHD
+#EXTINF:-1 tvg-id="" tvg-name="[10:00] Sassuolo x Milan FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:00] SASSUOLO X MILAN FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Wolverhampton x Sunderland FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] WOLVERHAMPTON X SUNDERLAND FHD
+#EXTINF:-1 tvg-id="" tvg-name="[11:30] Manchester United x Liverpool FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:30] MANCHESTER UNITED X LIVERPOOL FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Brentford x West Ham FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] BRENTFORD X WEST HAM FHD
+#EXTINF:-1 tvg-id="" tvg-name="[13:00] Juventus x Verona FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:00] JUVENTUS X VERONA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[13:00] Como x Napoli FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:00] COMO X NAPOLI FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
