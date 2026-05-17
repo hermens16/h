@@ -1,51 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Bayern Munich x Koln FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:30] BAYERN MUNICH X KOLN FHD
+#EXTINF:-1 tvg-id="" tvg-name="[07:00] Roma x Lazio FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[07:00] ROMA X LAZIO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Werder Bremen x Borussia Dortmund FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:30] WERDER BREMEN X BORUSSIA DORTMUND FHD
+#EXTINF:-1 tvg-id="" tvg-name="[07:00] Genoa x Milan FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[07:00] GENOA X MILAN FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Bayer Leverkusen x Hamburger FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:30] BAYER LEVERKUSEN X HAMBURGER FHD
+#EXTINF:-1 tvg-id="" tvg-name="[07:00] Pisa x Napoli FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[07:00] PISA X NAPOLI FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Chelsea x Manchester City FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] CHELSEA X MANCHESTER CITY FHD
+#EXTINF:-1 tvg-id="" tvg-name="[08:30] Manchester United x Nottingham Forest FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[08:30] MANCHESTER UNITED X NOTTINGHAM FOREST FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[11:30] Porto x Santa Clara FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:30] PORTO X SANTA CLARA FHD
+#EXTINF:-1 tvg-id="" tvg-name="[10:00] Inter de Milão x Verona FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:00] INTER DE MILÃO X VERONA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[13:05] Al-Hilal x Neom FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:05] AL-HILAL X NEOM FHD
+#EXTINF:-1 tvg-id="" tvg-name="[11:00] Santos x Coritiba FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] SANTOS X CORITIBA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Operário x Náutico FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] OPERÁRIO X NÁUTICO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[11:00] Leeds x Brighton FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] LEEDS X BRIGHTON FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] São Bernardo x América-MG FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] SÃO BERNARDO X AMÉRICA-MG FHD
+#EXTINF:-1 tvg-id="" tvg-name="[11:00] Everton x Sunderland FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] EVERTON X SUNDERLAND FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[17:00] Santa Cruz x Volta Redonda FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] SANTA CRUZ X VOLTA REDONDA FHD
+#EXTINF:-1 tvg-id="" tvg-name="[11:00] Brentford x Crystal Palace FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] BRENTFORD X CRYSTAL PALACE FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[18:30] Internacional x Vasco FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] INTERNACIONAL X VASCO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[11:00] Wolverhampton x Fulham FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] WOLVERHAMPTON X FULHAM FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[18:30] Atlético-MG x Mirassol FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] ATLÉTICO-MG X MIRASSOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="[13:30] Newcastle x West Ham FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:30] NEWCASTLE X WEST HAM FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[18:30] Goiás x Botafogo FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] GOIÁS X BOTAFOGO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Bahia x Grêmio FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] BAHIA X GRÊMIO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Fluminense x São Paulo FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] FLUMINENSE X SÃO PAULO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Botafogo x Corinthians FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] BOTAFOGO X CORINTHIANS FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Figueirense x Itabaiana FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] FIGUEIRENSE X ITABAIANA FHD
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Athletic Club x Juventude FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] ATHLETIC CLUB X JUVENTUDE FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] Cuiabá x Novorizontino FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:30] CUIABÁ X NOVORIZONTINO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Caxias x Paysandu FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] CAXIAS X PAYSANDU FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Palmeiras x Cruzeiro FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:00] PALMEIRAS X CRUZEIRO FHD
+#EXTINF:-1 tvg-id="" tvg-name="[18:00] Vila Nova x Avaí FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:00] VILA NOVA X AVAÍ FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[18:30] RB Bragantino x Vitória FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] RB BRAGANTINO X VITÓRIA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[18:30] Chapecoense x Remo FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] CHAPECOENSE X REMO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[18:30] Criciúma x Atlético-GO FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] CRICIÚMA X ATLÉTICO-GO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[18:30] Ceará x Fortaleza FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] CEARÁ X FORTALEZA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[18:30] Guarani x Ituano FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[18:30] GUARANI X ITUANO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[19:30] Athletico-PR x Flamengo FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] ATHLETICO-PR X FLAMENGO FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Sport x CRB FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:30] SPORT X CRB FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506945.m3u8
