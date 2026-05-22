@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Al-Nassr x Damac FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:00] AL-NASSR X DAMAC FHD
+#EXTINF:-1 tvg-id="" tvg-name="[15:45] Fiorentina x Atalanta FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:45] FIORENTINA X ATALANTA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Al-Fayha x Al-Hilal FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:00] AL-FAYHA X AL-HILAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] Náutico x Cuiabá FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] NÁUTICO X CUIABÁ FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Atlético-MG x Cienciano FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] ATLÉTICO-MG X CIENCIANO FHD
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Peñarol x Corinthians FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] PEÑAROL X CORINTHIANS FHD
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
