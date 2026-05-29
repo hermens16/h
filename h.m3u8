@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[15:45] Irlanda x Catar FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:45] IRLANDA X CATAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="[15:30] Bósnia x Macedônia do Norte FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:30] BÓSNIA X MACEDÔNIA DO NORTE FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:00] Palmeiras x Junior FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] PALMEIRAS X JUNIOR FHD
+#EXTINF:-1 tvg-id="" tvg-name="[21:00] Juventude x América-MG FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:00] JUVENTUDE X AMÉRICA-MG FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:00] Nacional-AM x Paysandu FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:00] NACIONAL-AM X PAYSANDU FHD
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Cruzeiro x Barcelona-EQU FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] CRUZEIRO X BARCELONA-EQU FHD
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
