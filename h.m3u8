@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] México x África do Sul FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] MÉXICO X ÁFRICA DO SUL FHD
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Canadá x Bósnia e Herzegovina FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] CANADÁ X BÓSNIA E HERZEGOVINA FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[23:00] Coreia do Sul x Rep. Tchéquia FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[23:00] COREIA DO SUL X REP. TCHÉQUIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="[22:00] Estados Unidos x Paraguai FHD" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[22:00] ESTADOS UNIDOS X PARAGUAI FHD
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
