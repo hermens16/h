@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://69.67.151.137:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] CRB x Vila Nova" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] CRB X VILA NOVA
+#EXTINF:-1 tvg-id="" tvg-name="[19:30] Juventude x Avaí" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] JUVENTUDE X AVAÍ
 http://69.67.151.137:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="(21:30) Santos x Universidad Central" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",(21:30) SANTOS X UNIVERSIDAD CENTRAL
 http://69.67.151.137:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="(21:35) Fortaleza x Botafogo-SP" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",(21:35) FORTALEZA X BOTAFOGO-SP
 http://69.67.151.137:80/4x6cXF/ehfxdp/506924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506925.m3u8
