@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://69.67.151.137:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[14:45] PAOK x Anderlecht" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[14:45] PAOK X ANDERLECHT
+#EXTINF:-1 tvg-id="" tvg-name="[15:45] Wolverhampton x Port Vale" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:45] WOLVERHAMPTON X PORT VALE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Corinthians x Internacional" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] CORINTHIANS X INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Middlesbrough x Wrexham" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] MIDDLESBROUGH X WREXHAM
 http://69.67.151.137:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Vitória x Athletico-PR" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] VITÓRIA X ATHLETICO-PR
+#EXTINF:-1 tvg-id="" tvg-name="[19:30] Operário-PR x São Bernardo" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] OPERÁRIO-PR X SÃO BERNARDO
 http://69.67.151.137:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
+#EXTINF:-1 tvg-id="" tvg-name="[20:30] Ceará x Ponte Preta" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:30] CEARÁ X PONTE PRETA
 http://69.67.151.137:80/4x6cXF/ehfxdp/506925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506926.m3u8
