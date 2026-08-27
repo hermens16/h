@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://69.67.151.137:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[15:00] Tottenham x Charlton Athletic" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:00] TOTTENHAM X CHARLTON ATHLETIC
+#EXTINF:-1 tvg-id="" tvg-name="[14:00] Copenhagen x Inter Turku" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[14:00] COPENHAGEN X INTER TURKU
 http://69.67.151.137:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Lyon x Fenerbahce" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] LYON X FENERBAHCE
+#EXTINF:-1 tvg-id="" tvg-name="[14:00] Pafos x Dinamo City" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[14:00] PAFOS X DINAMO CITY
 http://69.67.151.137:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Viking x Dinamo Zagreb" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] VIKING X DINAMO ZAGREB
+#EXTINF:-1 tvg-id="" tvg-name="[15:00] Ajax x Sion" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:00] AJAX X SION
 http://69.67.151.137:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] AEK x Levski" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] AEK X LEVSKI
+#EXTINF:-1 tvg-id="" tvg-name="[15:30] Chelsea x Luton Town" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:30] CHELSEA X LUTON TOWN
 http://69.67.151.137:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Celje x Slovan Bratislava" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] CELJE X SLOVAN BRATISLAVA
+#EXTINF:-1 tvg-id="" tvg-name="[15:45] Rijeka x Midtyland" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:45] RIJEKA X MIDTYLAND
 http://69.67.151.137:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] North End x Everton" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] NORTH END X EVERTON
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Internacional x Grêmio" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] INTERNACIONAL X GRÊMIO
 http://69.67.151.137:80/4x6cXF/ehfxdp/506927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Vasco x Vitória" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] VASCO X VITÓRIA
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Palmeiras x Santos" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] PALMEIRAS X SANTOS
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506930.m3u8
