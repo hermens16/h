@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://69.67.151.137:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Internacional x Corinthians" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] INTERNACIONAL X CORINTHIANS
+#EXTINF:-1 tvg-id="" tvg-name="[19:30] Santos x Flamengo" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] SANTOS X FLAMENGO
 http://69.67.151.137:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] RB Bragantino x Mirassol" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] RB BRAGANTINO X MIRASSOL
+#EXTINF:-1 tvg-id="" tvg-name="[19:30] Ceará x Criciúma" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] CEARÁ X CRICIÚMA
 http://69.67.151.137:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Remo x Grêmio" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] REMO X GRÊMIO
+#EXTINF:-1 tvg-id="" tvg-name="[19:30] Náutico x Novorizontino" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] NÁUTICO X NOVORIZONTINO
 http://69.67.151.137:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Operário-PR x Botafogo-SP" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] OPERÁRIO-PR X BOTAFOGO-SP
+#EXTINF:-1 tvg-id="" tvg-name="[20:00] Athletico-PR x Atlético-MG" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] ATHLETICO-PR X ATLÉTICO-MG
 http://69.67.151.137:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Avaí x Londrina" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] AVAÍ X LONDRINA
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Palmeiras x Bahia" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] PALMEIRAS X BAHIA
 http://69.67.151.137:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[20:00] Vitória x Chapecoense" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] VITÓRIA X CHAPECOENSE
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Fluminense x Coritiba" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] FLUMINENSE X CORITIBA
 http://69.67.151.137:80/4x6cXF/ehfxdp/506927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] Botafogo x Vasco" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:30] BOTAFOGO X VASCO
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] CRB x Atlético-GO" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:30] CRB X ATLÉTICO-GO
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[20:30] América-MG x Fortaleza" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:30] AMÉRICA-MG X FORTALEZA
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[20:30] Vila Nova x Cuiabá" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:30] VILA NOVA X CUIABÁ
 http://69.67.151.137:80/4x6cXF/ehfxdp/506931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Cruzeiro x São Paulo" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] CRUZEIRO X SÃO PAULO
+#EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506932.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506933.m3u8
