@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://69.67.151.137:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[13:45] Lens x Sporting" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:45] LENS X SPORTING
+#EXTINF:-1 tvg-id="" tvg-name="[13:45] LASK Linz x Liverpool" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:45] LASK LINZ X LIVERPOOL
 http://69.67.151.137:80/4x6cXF/ehfxdp/506922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[13:45] Sabah Baku x Slavia Praga" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:45] SABAH BAKU X SLAVIA PRAGA
+#EXTINF:-1 tvg-id="" tvg-name="[13:45] Feyenoord x Como" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[13:45] FEYENOORD X COMO
 http://69.67.151.137:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Galatasaray x Barcelona" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] GALATASARAY X BARCELONA
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Roma x Real Madrid" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] ROMA X REAL MADRID
 http://69.67.151.137:80/4x6cXF/ehfxdp/506924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Atlético Madrid x Manchester United" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] ATLÉTICO MADRID X MANCHESTER UNITED
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Manchester City x PSG" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] MANCHESTER CITY X PSG
 http://69.67.151.137:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Arsenal x Lille" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] ARSENAL X LILLE
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Aston Villa x Fenerbahce" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] ASTON VILLA X FENERBAHCE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] RB Leipzig x PSV" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] RB LEIPZIG X PSV
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Bodo/Glimt x Borussia Dortmund" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] BODO/GLIMT X BORUSSIA DORTMUND
 http://69.67.151.137:80/4x6cXF/ehfxdp/506927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Viking x Bayer de Munique" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] VIKING X BAYER DE MUNIQUE
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Betis x Porto" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] BETIS X PORTO
 http://69.67.151.137:80/4x6cXF/ehfxdp/506928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Villareal x Napoli" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] VILLAREAL X NAPOLI
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Shakhtar x AEK" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] SHAKHTAR X AEK
 http://69.67.151.137:80/4x6cXF/ehfxdp/506929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[16:00] Inter de Milão x Club Brugge" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] INTER DE MILÃO X CLUB BRUGGE
+#EXTINF:-1 tvg-id="" tvg-name="[16:00] Slovan Bratislava x Stuttgart" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] SLOVAN BRATISLAVA X STUTTGART
 http://69.67.151.137:80/4x6cXF/ehfxdp/506930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[19:30] Athletic Club x Londrina" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:30] ATHLETIC CLUB X LONDRINA
+#EXTINF:-1 tvg-id="" tvg-name="[19:00] Atlético-MG x City Torque" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] ATLÉTICO-MG X CITY TORQUE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[21:30] Boca Juniors x Vasco" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] BOCA JUNIORS X VASCO
+#EXTINF:-1 tvg-id="" tvg-name="[21:30] Fluminense x Palmeiras" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] FLUMINENSE X PALMEIRAS
 http://69.67.151.137:80/4x6cXF/ehfxdp/506932.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Informações em Breve" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",INFORMAÇÕES EM BREVE
 http://69.67.151.137:80/4x6cXF/ehfxdp/506933.m3u8
