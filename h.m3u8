@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jogos.do.dia" tvg-name="JOGOS DO DIA" tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lmdns.online:80/4x6cXF/ehfxdp/89806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[08:30] Everton x Chelsea" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[08:30] EVERTON X CHELSEA
+#EXTINF:-1 tvg-id="" tvg-name="[10:00] Leeds x Manchester United" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:00] LEEDS X MANCHESTER UNITED
 http://lmdns.online:80/4x6cXF/ehfxdp/506922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[10:00] Venezia x Napoli" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:00] VENEZIA X NAPOLI
 http://lmdns.online:80/4x6cXF/ehfxdp/506923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[10:30] Union Berlin x Borussia Dortmund" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:30] UNION BERLIN X BORUSSIA DORTMUND
+#EXTINF:-1 tvg-id="" tvg-name="[10:00] Bournemouth x Sunderland" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:00] BOURNEMOUTH X SUNDERLAND
 http://lmdns.online:80/4x6cXF/ehfxdp/506924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[11:00] Manchester City x Ipswich Town" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] MANCHESTER CITY X IPSWICH TOWN
 http://lmdns.online:80/4x6cXF/ehfxdp/506925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[11:00] Fulham x Hull City" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] FULHAM X HULL CITY
+#EXTINF:-1 tvg-id="" tvg-name="[10:30] Bayer Leverkusen x Freiburg" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[10:30] BAYER LEVERKUSEN X FREIBURG
 http://lmdns.online:80/4x6cXF/ehfxdp/506926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[11:00] Brentford x Liverpool" tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[11:00] BRENTFORD X LIVERPOOL
 http://lmdns.online:80/4x6cXF/ehfxdp/506927.m3u8
